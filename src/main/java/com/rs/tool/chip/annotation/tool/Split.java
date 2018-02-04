@@ -13,11 +13,13 @@ import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 
 public class Split {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         assure(args.length >= 1, "usage: fileName [targetFolder]");
 
         String fileName = args[0];
@@ -34,7 +36,7 @@ public class Split {
         assure(sourceImage != null, "cannot read image");
 
         ImageConfig imageConfig = split(sourceImage, targetFolder);
-        System.out.println(new Gson().toJson(imageConfig));
+        Files.write(new File(targetFolderName + "/content.json").toPath(), new Gson().toJson(imageConfig).getBytes(), StandardOpenOption.CREATE);
     }
 
     private static ImageConfig split(BufferedImage sourceImage, File targetFolder) {
@@ -101,10 +103,6 @@ public class Split {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    private static int log2(int n) {
-        return (int) (Math.log(n) / Math.log(2));
     }
 
     private static void assure(boolean expression, String orelse) {
