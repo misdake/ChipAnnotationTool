@@ -20,7 +20,7 @@ import java.util.ArrayList;
 public class Split {
 
     public static void main(String[] args) throws IOException {
-        assure(args.length >= 1, "usage: fileName [targetFolder]");
+        assure(args.length >= 1, "usage: fileName [targetFolder] [width(mm) height(mm)]");
 
         String fileName = args[0];
         File sourceFile = new File(fileName);
@@ -30,12 +30,20 @@ public class Split {
         File targetFolder = new File(targetFolderName);
         assure((targetFolder.exists() && targetFolder.isDirectory()) || targetFolder.mkdirs(), "cannot create folder: " + targetFolderName);
 
+        String widthString = args.length >= 4 ? args[2] : "-1";
+        String heightString = args.length >= 4 ? args[3] : "-1";
+        double width = Double.parseDouble(widthString);
+        double height = Double.parseDouble(heightString);
+
         System.out.println("read file: " + fileName);
         BufferedImage sourceImage = null;
         try { sourceImage = ImageIO.read(sourceFile); } catch (IOException ignored) { }
         assure(sourceImage != null, "cannot read image");
 
         ImageConfig imageConfig = split(sourceImage, targetFolder);
+        imageConfig.widthMillimeter = width;
+        imageConfig.heightMillimeter = height;
+
         Files.write(new File(targetFolderName + "/content.json").toPath(), new Gson().toJson(imageConfig).getBytes(), StandardOpenOption.CREATE);
     }
 
@@ -125,7 +133,7 @@ public class Split {
     static {
         jpegParams = new JPEGImageWriteParam(null);
         jpegParams.setCompressionMode(ImageWriteParam.MODE_EXPLICIT);
-        jpegParams.setCompressionQuality(1f);
+        jpegParams.setCompressionQuality(0.9f);
     }
 
     private static void writeImage(BufferedImage image, File file) throws IOException {

@@ -10,6 +10,9 @@ public class ImageConfig {
     public int         maxLevel;
     public List<Level> levels;
 
+    public double widthMillimeter;
+    public double heightMillimeter;
+
     public static class Level {
         public int level;
         public int xMax;
