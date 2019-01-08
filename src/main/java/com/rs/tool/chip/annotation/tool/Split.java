@@ -76,14 +76,16 @@ public class Split {
 
         for (int i = 0; i <= imageConfig.maxLevel; i++) {
             System.gc();
-            System.out.println("writing level: " + i);
 
             File zoomFolder = new File(targetFolder.getAbsolutePath() + "/" + i);
             boolean success = (zoomFolder.exists() && zoomFolder.isDirectory()) || zoomFolder.mkdirs();
             assure(success, "cannot create zoom folder");
 
             ImageConfig.Level level = imageConfig.levels.get(i);
-            BufferedImage cutImage = Scalr.resize(sourceImage, Scalr.Method.QUALITY, imageConfig.tileSize << (imageConfig.maxLevel - i), imageConfig.tileSize << (imageConfig.maxLevel - i));
+            System.out.println("resizing level: " + i);
+            BufferedImage cutImage = i == 0 ? sourceImage : Scalr.resize(sourceImage, Scalr.Method.QUALITY, imageConfig.tileSize << (imageConfig.maxLevel - i), imageConfig.tileSize << (imageConfig.maxLevel - i));
+
+            System.out.println("writing level: " + i);
             for (int x = 0; x < level.xMax; x++) {
                 for (int y = 0; y < level.yMax; y++) {
                     split(cutImage, imageConfig, x, y, zoomFolder);
