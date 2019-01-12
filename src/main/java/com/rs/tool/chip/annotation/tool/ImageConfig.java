@@ -4,6 +4,9 @@ import java.util.List;
 
 public class ImageConfig {
 
+    public String githubRepo;
+    public int    githubIssueId;
+
     public int         width;
     public int         height;
     public int         tileSize;

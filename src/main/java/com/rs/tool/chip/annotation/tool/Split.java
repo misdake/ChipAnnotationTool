@@ -9,7 +9,7 @@ import javax.imageio.ImageWriteParam;
 import javax.imageio.ImageWriter;
 import javax.imageio.plugins.jpeg.JPEGImageWriteParam;
 import javax.imageio.stream.FileImageOutputStream;
-import java.awt.Graphics2D;
+import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import java.util.ArrayList;
 public class Split {
 
     public static void main(String[] args) throws IOException {
-        assure(args.length >= 1, "usage: fileName [targetFolder] [width(mm) height(mm)]");
+        assure(args.length >= 1, "usage: fileName targetFolder width(mm) height(mm)]issueId");
 
         String fileName = args[0];
         File sourceFile = new File(fileName);
@@ -43,6 +43,12 @@ public class Split {
         ImageConfig imageConfig = split(sourceImage, targetFolder);
         imageConfig.widthMillimeter = width;
         imageConfig.heightMillimeter = height;
+
+        int issueId = args.length >= 5 ? Integer.parseInt(args[4]) : -1;
+        if (issueId > 0) {
+            imageConfig.githubRepo = "misdake/ChipAnnotationData";
+            imageConfig.githubIssueId = issueId;
+        }
 
         Files.write(new File(targetFolderName + "/content.json").toPath(), new Gson().toJson(imageConfig).getBytes(), StandardOpenOption.CREATE);
     }
