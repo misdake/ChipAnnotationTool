@@ -1,11 +1,13 @@
-package com.rs.tool.chip.annotation.tool;
+package com.rs.tool.chipannotation;
 
 import java.util.List;
 
-public class ImageConfig {
+public class ImageContent {
 
+    public String name;
     public String githubRepo;
     public int    githubIssueId;
+    public String source;
 
     public int         width;
     public int         height;
@@ -21,4 +23,5 @@ public class ImageConfig {
         public int xMax;
         public int yMax;
     }
+
 }
