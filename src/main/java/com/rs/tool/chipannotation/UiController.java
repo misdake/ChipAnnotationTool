@@ -13,7 +13,7 @@ import javafx.scene.paint.Paint;
 import javafx.stage.FileChooser;
 
 import javax.imageio.ImageIO;
-import javax.swing.*;
+import javax.swing.UIManager;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
@@ -162,13 +162,25 @@ public class UiController implements Initializable {
 
             ImageContent imageContent = Cut.preProcess(sourceImage);
 
-            imageContent.name = textImageName.getText();
+            imageContent.name = textImageName.getText().trim();
             imageContent.widthMillimeter = size[0];
             imageContent.heightMillimeter = size[1];
             imageContent.githubRepo = textGithubRepo.getText();
             imageContent.githubIssueId = issueId[0];
             imageContent.source = textSourceUrl.getText();
 
+            if(imageContent.name.length()==0) {
+                reportError("name cannot be empty");
+                return;
+            }
+            int split = imageContent.githubRepo.indexOf('/');
+            if (split < 0) {
+                reportError("githubRepo should be 'username/reponame'");
+                return;
+            }
+            String username = imageContent.githubRepo.substring(0, split);
+            String reponame = imageContent.githubRepo.substring(split + 1);
+            String githubPagesRoot = String.format("https://%s.github.io/%s/%s", username, reponame, imageContent.name);
 
             int accu = 0;
             for (ImageContent.Level level : imageContent.levels) {
@@ -234,9 +246,10 @@ public class UiController implements Initializable {
             }
 
             try {
-                if (!list.contains(imageContent.name)) {
-                    list.add(imageContent.name);
+                if (!list.contains(githubPagesRoot)) {
+                    list.add(githubPagesRoot);
                 }
+                list.sort(String::compareTo);
                 Files.write(listFile.toPath(), list, StandardCharsets.UTF_8);
                 reportInfo("all done~");
             } catch (IOException e) {
