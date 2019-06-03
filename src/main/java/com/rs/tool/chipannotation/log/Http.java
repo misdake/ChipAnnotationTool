@@ -9,9 +9,11 @@ import java.net.InetSocketAddress;
 import java.net.Proxy;
 
 public class Http {
-    private final static Proxy proxy = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
-    private final static OkHttpClient client = new OkHttpClient.Builder().proxy(proxy).build();
-    public final static Gson gson = new Gson();
+    private final static Proxy        proxy  = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
+    private final static OkHttpClient client = new OkHttpClient.Builder()
+            .proxy(proxy)
+            .build();
+    public final static  Gson         gson   = new Gson();
 
     public static String get(String url) {
         Request request = new Request.Builder()
@@ -28,12 +30,6 @@ public class Http {
     }
 
     public static <T> T get(String url, Class<T> clazz) {
-        try {
-            Thread.sleep(1000 * 7); //sleep 7 seconds. github has a 10req/min limit.
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-
         Request request = new Request.Builder()
                 .url(url)
                 .build();

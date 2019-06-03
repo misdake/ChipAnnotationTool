@@ -764,5 +764,14 @@
     "logType": "COMMENT_INSERT",
     "time": "May 23, 2019 9:38:21 PM",
     "dateString": "2019.05.23"
+  },
+  {
+    "name": "RV350",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 38,
+    "insertTime": "Jun 3, 2019 9:22:07 PM",
+    "logType": "IMAGE_CREATE",
+    "time": "Jun 3, 2019 9:22:07 PM",
+    "dateString": "2019.06.03"
   }
 ]

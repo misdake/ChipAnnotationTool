@@ -306,6 +306,20 @@
       "comments": []
     },
     {
+      "name": "RSX",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 37,
+      "insertTime": "Apr 26, 2019 12:56:19 AM",
+      "comments": []
+    },
+    {
+      "name": "RV350",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 38,
+      "insertTime": "Jun 3, 2019 9:22:07 PM",
+      "comments": []
+    },
+    {
       "name": "RV570",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 28,
@@ -419,14 +433,7 @@
           "updateTime": "Jan 14, 2019 3:24:35 PM"
         }
       ]
-    },
-    {
-      "name": "RSX",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 37,
-      "insertTime": "Apr 26, 2019 12:56:19 AM",
-      "comments": []
     }
   ],
-  "time": "Jun 3, 2019 7:30:58 PM"
+  "time": "Jun 3, 2019 9:53:04 PM"
 }

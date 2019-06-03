@@ -119,7 +119,12 @@ public class Diff {
     private final static int DAY_MAX = 20;
 
     public static void main(String[] args) throws IOException {
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        RuntimeTypeAdapterFactory<Log> adapterFactory = RuntimeTypeAdapterFactory.of(Log.class, "logType")
+                .registerSubtype(Log.ImageCreate.class, "IMAGE_CREATE")
+                .registerSubtype(Log.CommentInsert.class, "COMMENT_INSERT")
+                .registerSubtype(Log.CommentUpdate.class, "COMMENT_UPDATE");
+
+        Gson gson = new GsonBuilder().setPrettyPrinting().registerTypeAdapterFactory(adapterFactory).create();
 
         String statePrevString = new String(Files.readAllBytes(new File("log/state.json").toPath()), StandardCharsets.UTF_8);
         String logPrevString = new String(Files.readAllBytes(new File("log/log.json").toPath()), StandardCharsets.UTF_8);
