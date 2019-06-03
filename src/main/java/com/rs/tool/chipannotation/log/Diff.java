@@ -7,103 +7,19 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.text.SimpleDateFormat;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Diff {
 
-    public enum LogType {
-        IMAGE_CREATE,
-        COMMENT_INSERT,
-        COMMENT_UPDATE,
-    }
 
-    public static class Log {
-        public LogType logType;
-        public Date time;
-        public int year;
-        public int month;
-        public int day;
-        public String dateString;
-
-        private final static SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd");
-
-        public Log(LogType logType, Date time) {
-            this.logType = logType;
-            this.time = time;
-
-            Calendar calendar = new GregorianCalendar();
-            calendar.setTime(time);
-            this.year = calendar.get(Calendar.YEAR);
-            this.month = calendar.get(Calendar.MONTH) + 1;
-            this.day = calendar.get(Calendar.DAY_OF_MONTH);
-
-            dateString = format.format(time);
-        }
-    }
-
-    public static class ImageCreate extends Log {
-        public String name;
-        public String githubRepo;
-        public int githubIssueId;
-        public Date insertTime;
-
-        public ImageCreate(State.ImageEntry image) {
-            super(LogType.IMAGE_CREATE, image.insertTime);
-            this.name = image.name;
-            this.githubRepo = image.githubRepo;
-            this.githubIssueId = image.githubIssueId;
-            this.insertTime = image.insertTime;
-        }
-    }
-
-    public static class CommentInsert extends Log {
-        public String imageName;
-        public String title;
-        public String username;
-        public long commentId;
-        public Date insertTime;
-        public Date updateTime;
-
-        public CommentInsert(State.CommentEntry comment, String imageName) {
-            super(LogType.COMMENT_INSERT, comment.insertTime);
-            this.imageName = imageName;
-            this.title = comment.title;
-            this.username = comment.username;
-            this.commentId = comment.commentId;
-            this.insertTime = comment.insertTime;
-            this.updateTime = comment.updateTime;
-        }
-    }
-
-    public static class CommentUpdate extends Log {
-        public String imageName;
-        public String title;
-        public String username;
-        public long commentId;
-        public Date insertTime;
-        public Date updateTime;
-
-        public CommentUpdate(State.CommentEntry comment, String imageName) {
-            super(LogType.COMMENT_UPDATE, comment.updateTime);
-            this.imageName = imageName;
-            this.title = comment.title;
-            this.username = comment.username;
-            this.commentId = comment.commentId;
-            this.insertTime = comment.insertTime;
-            this.updateTime = comment.updateTime;
-        }
-    }
-
-    public static Log[] diff(State prev, State next) {
+    public static List<Log> diff(State prev, State next) {
         Map<String, State.ImageEntry> images = new HashMap<>();
-        Map<State.CommentEntry, State.ImageEntry> parents = new HashMap<>();
         Map<Long, State.CommentEntry> comments = new HashMap<>();
 
         for (State.ImageEntry image : prev.images) {
             images.put(image.name, image);
             for (State.CommentEntry comment : image.comments) {
-                parents.put(comment, image);
                 comments.put(comment.commentId, comment);
             }
         }
@@ -114,31 +30,113 @@ public class Diff {
             //check image
             State.ImageEntry oldImage = images.get(image.name);
             if (oldImage == null) {
-                logs.add(new ImageCreate(image));
+                logs.add(new Log.ImageCreate(image));
             }
 
             for (State.CommentEntry comment : image.comments) {
                 //check comment
                 State.CommentEntry oldComment = comments.get(comment.commentId);
                 if (oldComment == null) {
-                    logs.add(new CommentInsert(comment, image.name));
+                    logs.add(new Log.CommentInsert(comment, image));
+                    if (comment.insertTime.before(comment.updateTime)) {
+                        logs.add(new Log.CommentUpdate(comment, image));
+                    }
                 } else if (oldComment.updateTime.before(comment.updateTime)) {
-                    logs.add(new CommentUpdate(comment, image.name));
+                    logs.add(new Log.CommentUpdate(comment, image));
                 }
             }
         }
 
-        return logs.toArray(new Log[0]);
+        return logs;
     }
+
+    public static List<Log> run(State prevState, State currState, Log[] prevLog) {
+        List<Log> diff = diff(prevState, currState);
+        List<Log> filtered = diff.stream().filter(log -> log.time.after(prevState.time)).collect(Collectors.toList());
+        List<Log> all = new ArrayList<>(Arrays.asList(prevLog));
+        all.addAll(filtered);
+        all.sort(Comparator.comparing(o -> o.time));
+
+        all.sort(Comparator.comparing(o -> o.time)); //sort here to make sure each sub list is sorted.
+        if (all.size() > LOG_MAX) {
+            all = all.subList(all.size() - LOG_MAX, all.size());
+        }
+        return all;
+    }
+
+    private static Date getBeginOfDay(Date date) {
+        GregorianCalendar calendar = new GregorianCalendar();
+        calendar.setTime(date);
+        int year = calendar.get(Calendar.YEAR);
+        int month = calendar.get(Calendar.MONTH);
+        int day = calendar.get(Calendar.DAY_OF_MONTH);
+        calendar.set(year, month, day);
+        return new GregorianCalendar(year, month, day).getTime();
+    }
+
+    private static TreeMap<String, List<Log>> groupByDay(List<Log> all, Date timeMax) {
+        TreeMap<String, List<Log>> groups = new TreeMap<>();
+        for (Log log : all) {
+            if (log.time.before(timeMax)) {
+                List<Log> list = groups.computeIfAbsent(log.dateString, s -> new ArrayList<>());
+                list.add(log);
+            }
+        }
+
+        if (groups.keySet().size() > DAY_MAX) {
+            List<String> days = new ArrayList<>(groups.keySet());
+            for (int i = 0; i < days.size() - DAY_MAX; i++) {
+                groups.remove(days.get(i));
+            }
+        }
+
+        for (List<Log> list : groups.values()) {
+            Set<Long> addedCommentId = new HashSet<>();
+            for (Iterator<Log> iterator = list.iterator(); iterator.hasNext(); ) {
+                Log log = iterator.next();
+                switch (log.logType) {
+                    case COMMENT_INSERT: {
+                        long commentId = ((Log.CommentInsert) log).commentId;
+                        addedCommentId.add(commentId); //remove update
+                        break;
+                    }
+                    case COMMENT_UPDATE: {
+                        long commentId = ((Log.CommentUpdate) log).commentId;
+                        if (addedCommentId.contains(commentId)) {
+                            iterator.remove();
+                        }
+                        addedCommentId.add(commentId); //remove more update
+                        break;
+                    }
+                    default:
+                }
+            }
+        }
+        return groups;
+    }
+
+    private final static int LOG_MAX = 1000;
+    private final static int DAY_MAX = 20;
 
     public static void main(String[] args) throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String s1 = new String(Files.readAllBytes(new File("log/state_old.json").toPath()), StandardCharsets.UTF_8);
-        String s2 = new String(Files.readAllBytes(new File("log/state_new.json").toPath()), StandardCharsets.UTF_8);
-        State state_old = gson.fromJson(s1, State.class);
-        State state_new = gson.fromJson(s2, State.class);
-        Log[] diff = diff(state_old, state_new);
-        System.out.println(gson.toJson(diff));
+
+        String statePrevString = new String(Files.readAllBytes(new File("log/state.json").toPath()), StandardCharsets.UTF_8);
+        String logPrevString = new String(Files.readAllBytes(new File("log/log.json").toPath()), StandardCharsets.UTF_8);
+        State statePrev = gson.fromJson(statePrevString, State.class);
+        Log[] logPrev = gson.fromJson(logPrevString, Log[].class);
+
+        State stateCurr = State.getState();
+        if (stateCurr == null) return;
+
+        List<Log> logs = run(statePrev, stateCurr, logPrev);
+
+        Date beginOfDay = getBeginOfDay(stateCurr.time);
+        TreeMap<String, List<Log>> days = groupByDay(logs, beginOfDay);
+
+        Files.write(new File("log/state.json").toPath(), gson.toJson(stateCurr).getBytes(StandardCharsets.UTF_8));
+        Files.write(new File("log/log.json").toPath(), gson.toJson(logs).getBytes(StandardCharsets.UTF_8));
+        Files.write(new File("log/log_day.json").toPath(), gson.toJson(days).getBytes(StandardCharsets.UTF_8));
     }
 
 }
