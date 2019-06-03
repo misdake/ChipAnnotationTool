@@ -86,7 +86,7 @@ public class State {
             imageEntry.name = image.name;
             imageEntry.githubRepo = image.githubRepo;
             imageEntry.githubIssueId = image.githubIssueId;
-//            imageEntry.insertTime = image.createTime; //TODO
+            imageEntry.insertTime = image.createTime;
             imageEntry.comments = commentList.toArray(new CommentEntry[0]);
 
             imageList.add(imageEntry);
@@ -94,6 +94,7 @@ public class State {
 
         State state = new State();
         state.images = imageList.toArray(new ImageEntry[0]);
+        state.time = new Date();
 
         return state;
     }
@@ -104,7 +105,7 @@ public class State {
 
         State state = getState();
         if (state != null) {
-            File stateFile = new File("log/state_" + new Date().getTime() + ".json");
+            File stateFile = new File("log/state_" + state.time.getTime() + ".json");
             String json = Http.gson.toJson(state);
             try {
                 Files.write(stateFile.toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);

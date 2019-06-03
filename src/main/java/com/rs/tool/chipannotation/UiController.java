@@ -13,7 +13,6 @@ import javafx.scene.paint.Paint;
 import javafx.stage.FileChooser;
 
 import javax.imageio.ImageIO;
-import javax.swing.UIManager;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
@@ -21,20 +20,13 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
+import java.util.Date;
 import java.util.List;
 import java.util.ResourceBundle;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class UiController implements Initializable {
-
-    static {
-        try {
-            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
-    }
 
     public Button buttonSelectDataFolder;
     public Button buttonSelectImageFile;
@@ -168,8 +160,9 @@ public class UiController implements Initializable {
             imageContent.githubRepo = textGithubRepo.getText();
             imageContent.githubIssueId = issueId[0];
             imageContent.source = textSourceUrl.getText();
+            imageContent.createTime = new Date();
 
-            if(imageContent.name.length()==0) {
+            if (imageContent.name.length() == 0) {
                 reportError("name cannot be empty");
                 return;
             }

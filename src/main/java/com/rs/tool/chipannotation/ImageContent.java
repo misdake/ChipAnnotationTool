@@ -1,18 +1,20 @@
 package com.rs.tool.chipannotation;
 
+import java.util.Date;
 import java.util.List;
 
 public class ImageContent {
 
     public String name;
     public String githubRepo;
-    public int    githubIssueId;
+    public int githubIssueId;
     public String source;
+    public Date createTime;
 
-    public int         width;
-    public int         height;
-    public int         tileSize;
-    public int         maxLevel;
+    public int width;
+    public int height;
+    public int tileSize;
+    public int maxLevel;
     public List<Level> levels;
 
     public double widthMillimeter;
