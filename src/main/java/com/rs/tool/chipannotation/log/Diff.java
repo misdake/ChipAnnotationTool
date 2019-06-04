@@ -50,9 +50,10 @@ public class Diff {
         return logs;
     }
 
-    public static List<Log> run(State prevState, State currState, Log[] prevLog) {
+    public static Log[] run(State prevState, State currState, Log[] prevLog) {
         List<Log> diff = diff(prevState, currState);
         List<Log> filtered = diff.stream().filter(log -> log.time.after(prevState.time)).collect(Collectors.toList());
+        if (filtered.isEmpty()) return null;
         List<Log> all = new ArrayList<>(Arrays.asList(prevLog));
         all.addAll(filtered);
         all.sort(Comparator.comparing(o -> o.time));
@@ -61,7 +62,7 @@ public class Diff {
         if (all.size() > LOG_MAX) {
             all = all.subList(all.size() - LOG_MAX, all.size());
         }
-        return all;
+        return all.toArray(new Log[0]);
     }
 
     private static Date getBeginOfDay(Date date) {
@@ -74,7 +75,7 @@ public class Diff {
         return new GregorianCalendar(year, month, day).getTime();
     }
 
-    private static TreeMap<String, List<Log>> groupByDay(List<Log> all, Date timeMax) {
+    private static TreeMap<String, Log[]> groupByDay(Log[] all, Date timeMax) {
         TreeMap<String, List<Log>> groups = new TreeMap<>();
         for (Log log : all) {
             if (log.time.before(timeMax)) {
@@ -112,14 +113,19 @@ public class Diff {
                 }
             }
         }
-        return groups;
+
+        TreeMap<String, Log[]> r = new TreeMap<>();
+        for (Map.Entry<String, List<Log>> e : groups.entrySet()) {
+            r.put(e.getKey(), e.getValue().toArray(new Log[0]));
+        }
+        return r;
     }
 
     private final static int LOG_MAX = 1000;
     private final static int DAY_MAX = 20;
 
     public static void main(String[] args) throws IOException {
-        RuntimeTypeAdapterFactory<Log> adapterFactory = RuntimeTypeAdapterFactory.of(Log.class, "logType")
+        RuntimeTypeAdapterFactory<Log> adapterFactory = RuntimeTypeAdapterFactory.of(Log.class, "type")
                 .registerSubtype(Log.ImageCreate.class, "IMAGE_CREATE")
                 .registerSubtype(Log.CommentInsert.class, "COMMENT_INSERT")
                 .registerSubtype(Log.CommentUpdate.class, "COMMENT_UPDATE");
@@ -134,10 +140,14 @@ public class Diff {
         State stateCurr = State.getState();
         if (stateCurr == null) return;
 
-        List<Log> logs = run(statePrev, stateCurr, logPrev);
+        Log[] logs = run(statePrev, stateCurr, logPrev);
+        if (logs == null) {
+            System.out.println("no change!");
+            return;
+        }
 
         Date beginOfDay = getBeginOfDay(stateCurr.time);
-        TreeMap<String, List<Log>> days = groupByDay(logs, beginOfDay);
+        TreeMap<String, Log[]> days = groupByDay(logs, beginOfDay);
 
         Files.write(new File("log/state.json").toPath(), gson.toJson(stateCurr).getBytes(StandardCharsets.UTF_8));
         Files.write(new File("log/log.json").toPath(), gson.toJson(logs).getBytes(StandardCharsets.UTF_8));

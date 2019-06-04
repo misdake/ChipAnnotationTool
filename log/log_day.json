@@ -1,6 +1,7 @@
 {
   "2018.02.05": [
     {
+      "type": "IMAGE_CREATE",
       "name": "Fiji",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 1,
@@ -12,6 +13,7 @@
   ],
   "2018.09.17": [
     {
+      "type": "IMAGE_CREATE",
       "name": "Hawaii",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 8,
@@ -23,6 +25,7 @@
   ],
   "2019.01.05": [
     {
+      "type": "IMAGE_CREATE",
       "name": "GM200",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 3,
@@ -32,6 +35,7 @@
       "dateString": "2019.01.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GP102",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 4,
@@ -41,6 +45,7 @@
       "dateString": "2019.01.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GP104",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 5,
@@ -50,6 +55,7 @@
       "dateString": "2019.01.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GP106",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 6,
@@ -61,6 +67,7 @@
   ],
   "2019.01.06": [
     {
+      "type": "IMAGE_CREATE",
       "name": "GK110",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 2,
@@ -70,6 +77,7 @@
       "dateString": "2019.01.06"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GT200",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 7,
@@ -79,6 +87,7 @@
       "dateString": "2019.01.06"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "Polaris10",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 9,
@@ -88,6 +97,7 @@
       "dateString": "2019.01.06"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "Polaris11",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 10,
@@ -97,6 +107,7 @@
       "dateString": "2019.01.06"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "Vega10",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 11,
@@ -108,6 +119,7 @@
   ],
   "2019.01.12": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Fiji",
       "title": "Top level",
       "username": "misdake",
@@ -121,6 +133,7 @@
       "dateString": "2019.01.12"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Fiji",
       "title": "Inside CU",
       "username": "misdake",
@@ -134,6 +147,7 @@
       "dateString": "2019.01.12"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GK110",
       "title": "",
       "username": "misdake",
@@ -147,6 +161,7 @@
       "dateString": "2019.01.12"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Hawaii",
       "title": "area",
       "username": "misdake",
@@ -160,6 +175,7 @@
       "dateString": "2019.01.12"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GK110",
       "title": "GPC",
       "username": "0x22h",
@@ -175,6 +191,7 @@
   ],
   "2019.01.14": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Vega10",
       "title": "area(WIP)",
       "username": "0x22h",
@@ -190,6 +207,7 @@
   ],
   "2019.02.04": [
     {
+      "type": "COMMENT_UPDATE",
       "imageName": "Fiji",
       "title": "Top level",
       "username": "misdake",
@@ -203,6 +221,7 @@
       "dateString": "2019.02.04"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Polaris10",
       "title": "Top Level",
       "username": "misdake",
@@ -218,6 +237,7 @@
   ],
   "2019.02.17": [
     {
+      "type": "IMAGE_CREATE",
       "name": "Polaris22",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 12,
@@ -227,6 +247,7 @@
       "dateString": "2019.02.17"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Polaris22",
       "title": "Top level",
       "username": "misdake",
@@ -242,6 +263,7 @@
   ],
   "2019.03.05": [
     {
+      "type": "IMAGE_CREATE",
       "name": "TU106",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 14,
@@ -251,6 +273,7 @@
       "dateString": "2019.03.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "TU116",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 13,
@@ -262,6 +285,7 @@
   ],
   "2019.03.06": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU116",
       "title": "Top level",
       "username": "misdake",
@@ -275,6 +299,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU116",
       "title": "GPC",
       "username": "misdake",
@@ -288,6 +313,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU116",
       "title": "Backend",
       "username": "misdake",
@@ -301,6 +327,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU106",
       "title": "Top level",
       "username": "misdake",
@@ -314,6 +341,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU106",
       "title": "GPC",
       "username": "misdake",
@@ -327,6 +355,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU106",
       "title": "Backend",
       "username": "misdake",
@@ -340,6 +369,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU106",
       "title": "TPC area",
       "username": "0x22h",
@@ -353,6 +383,7 @@
       "dateString": "2019.03.06"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "TU116",
       "title": "TPC area",
       "username": "0x22h",
@@ -368,6 +399,7 @@
   ],
   "2019.03.07": [
     {
+      "type": "IMAGE_CREATE",
       "name": "TU102",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 15,
@@ -379,6 +411,7 @@
   ],
   "2019.03.24": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GT200",
       "title": "Block diagram",
       "username": "0x22h",
@@ -394,6 +427,7 @@
   ],
   "2019.03.25": [
     {
+      "type": "COMMENT_UPDATE",
       "imageName": "GT200",
       "title": "Block diagram",
       "username": "0x22h",
@@ -409,6 +443,7 @@
   ],
   "2019.03.29": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GM200",
       "title": "SM",
       "username": "0x22h",
@@ -422,6 +457,7 @@
       "dateString": "2019.03.29"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GP104",
       "title": "Block Diagram",
       "username": "0x22h",
@@ -437,6 +473,7 @@
   ],
   "2019.04.05": [
     {
+      "type": "COMMENT_UPDATE",
       "imageName": "GK110",
       "title": "GPC",
       "username": "0x22h",
@@ -450,6 +487,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "G80",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 17,
@@ -459,6 +497,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "G92",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 18,
@@ -468,6 +507,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "G94",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 19,
@@ -477,6 +517,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GK104",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 20,
@@ -486,6 +527,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GF106",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 21,
@@ -495,6 +537,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GF114",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 22,
@@ -504,6 +547,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "GK106",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 23,
@@ -513,6 +557,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "PS4",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 24,
@@ -522,6 +567,7 @@
       "dateString": "2019.04.05"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "PS4Pro",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 25,
@@ -533,6 +579,7 @@
   ],
   "2019.04.06": [
     {
+      "type": "IMAGE_CREATE",
       "name": "Tahiti",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 26,
@@ -544,6 +591,7 @@
   ],
   "2019.04.07": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "GF106",
       "title": "ROPs+MC",
       "username": "misdake",
@@ -557,6 +605,7 @@
       "dateString": "2019.04.07"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "G94",
       "title": "Block diagram",
       "username": "0x22h",
@@ -570,6 +619,7 @@
       "dateString": "2019.04.07"
     },
     {
+      "type": "COMMENT_INSERT",
       "imageName": "G92",
       "title": "Block diagram",
       "username": "0x22h",
@@ -585,6 +635,7 @@
   ],
   "2019.04.26": [
     {
+      "type": "IMAGE_CREATE",
       "name": "R520",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 29,
@@ -594,6 +645,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "R580",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 27,
@@ -603,6 +655,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "RV570",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 28,
@@ -612,6 +665,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "Cayman",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 31,
@@ -621,6 +675,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "Pitcairn",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 30,
@@ -630,6 +685,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "R430",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 33,
@@ -639,6 +695,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "RV670",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 32,
@@ -648,6 +705,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "G70",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 34,
@@ -657,6 +715,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "G71",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 35,
@@ -666,6 +725,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "NV40",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 36,
@@ -675,6 +735,7 @@
       "dateString": "2019.04.26"
     },
     {
+      "type": "IMAGE_CREATE",
       "name": "RSX",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 37,
@@ -686,6 +747,7 @@
   ],
   "2019.05.23": [
     {
+      "type": "COMMENT_INSERT",
       "imageName": "Hawaii",
       "title": "wip",
       "username": "0x22h",
@@ -697,6 +759,18 @@
       "logType": "COMMENT_INSERT",
       "time": "May 23, 2019 9:38:21 PM",
       "dateString": "2019.05.23"
+    }
+  ],
+  "2019.06.03": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "RV350",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 38,
+      "insertTime": "Jun 3, 2019 9:22:07 PM",
+      "logType": "IMAGE_CREATE",
+      "time": "Jun 3, 2019 9:22:07 PM",
+      "dateString": "2019.06.03"
     }
   ]
 }
