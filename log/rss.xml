@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+    <channel>
+        <title>ChipAnnotationData update</title>
+        <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+        <description>Update log of ChipAnnotationData, including new images, new comments and comment updates</description>
+        <generator>ChipAnnotationTool</generator>
+        <webMaster>misdake@gmail.com (misdake)</webMaster>
+
+        <lastBuildDate>Tue, 04 Jun 2019 05:29:19 GMT</lastBuildDate>
+        <ttl>60</ttl>
+
+        <item>
+            <title><![CDATA[New Image: Fiji]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 05 Feb 2018 01:18:00 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji</link>
+            <guid isPermaLink="false">Fiji</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Hawaii]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 17 Sep 2018 09:19:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Hawaii</link>
+            <guid isPermaLink="false">Hawaii</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GM200]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 05 Jan 2019 15:59:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM200</link>
+            <guid isPermaLink="false">GM200</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GP102]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 05 Jan 2019 15:59:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP102</link>
+            <guid isPermaLink="false">GP102</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GP104]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 05 Jan 2019 15:59:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP104</link>
+            <guid isPermaLink="false">GP104</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GP106]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 05 Jan 2019 15:59:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP106</link>
+            <guid isPermaLink="false">GP106</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GK110]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 06 Jan 2019 15:15:31 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK110</link>
+            <guid isPermaLink="false">GK110</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GT200]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 06 Jan 2019 15:15:31 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GT200</link>
+            <guid isPermaLink="false">GT200</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Polaris10]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 06 Jan 2019 15:38:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10</link>
+            <guid isPermaLink="false">Polaris10</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Polaris11]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 06 Jan 2019 15:38:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11</link>
+            <guid isPermaLink="false">Polaris11</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Vega10]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 06 Jan 2019 15:38:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega10</link>
+            <guid isPermaLink="false">Vega10</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 10:42:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453</link>
+            <guid isPermaLink="false">Fiji_1_453737453_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Inside CU for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 11:17:03 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453739448</link>
+            <guid isPermaLink="false">Fiji_1_453739448_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Inside CU for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 11:27:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453739448</link>
+            <guid isPermaLink="false">Fiji_1_453739448_UPDATE_1547292461000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment:  for GK110 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 12:34:11 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK110&amp;commentId=453743988</link>
+            <guid isPermaLink="false">GK110_2_453743988_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: area for Hawaii by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 12:59:47 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Hawaii&amp;commentId=453745612</link>
+            <guid isPermaLink="false">Hawaii_8_453745612_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC for GK110 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jan 2019 13:09:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK110&amp;commentId=453746268</link>
+            <guid isPermaLink="false">GK110_2_453746268_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: area(WIP) for Vega10 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 14 Jan 2019 07:24:35 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega10&amp;commentId=453918586</link>
+            <guid isPermaLink="false">Vega10_11_453918586_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 04 Feb 2019 06:18:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453</link>
+            <guid isPermaLink="false">Fiji_1_453737453_UPDATE_1549261087000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top Level for Polaris10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 04 Feb 2019 06:26:52 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382</link>
+            <guid isPermaLink="false">Polaris10_9_460143382_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top Level for Polaris10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 04 Feb 2019 06:27:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382</link>
+            <guid isPermaLink="false">Polaris10_9_460143382_UPDATE_1549261653000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for Polaris22 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 17 Feb 2019 12:37:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris22&amp;commentId=464451905</link>
+            <guid isPermaLink="false">Polaris22_12_464451905_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Polaris22 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 17 Feb 2019 12:38:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris22&amp;commentId=464451905</link>
+            <guid isPermaLink="false">Polaris22_12_464451905_UPDATE_1550407089000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Polaris22]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 17 Feb 2019 20:12:20 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris22</link>
+            <guid isPermaLink="false">Polaris22</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU106]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 05 Mar 2019 21:26:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106</link>
+            <guid isPermaLink="false">TU106</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU116]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 05 Mar 2019 21:26:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116</link>
+            <guid isPermaLink="false">TU116</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for TU116 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 07:49:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470004164</link>
+            <guid isPermaLink="false">TU116_13_470004164_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC for TU116 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 07:59:20 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470006848</link>
+            <guid isPermaLink="false">TU116_13_470006848_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Backend for TU116 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 08:06:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470008804</link>
+            <guid isPermaLink="false">TU116_13_470008804_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for TU106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 08:13:22 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470010587</link>
+            <guid isPermaLink="false">TU106_14_470010587_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC for TU106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 08:25:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470013866</link>
+            <guid isPermaLink="false">TU106_14_470013866_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Backend for TU106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 08:28:47 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470015092</link>
+            <guid isPermaLink="false">TU106_14_470015092_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TPC area for TU106 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 13:04:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470099401</link>
+            <guid isPermaLink="false">TU106_14_470099401_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TPC area for TU116 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 13:05:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470099814</link>
+            <guid isPermaLink="false">TU116_13_470099814_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TPC area for TU106 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 13:41:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470099401</link>
+            <guid isPermaLink="false">TU106_14_470099401_UPDATE_1551879679000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TPC area for TU116 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 06 Mar 2019 13:53:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470099814</link>
+            <guid isPermaLink="false">TU116_13_470099814_UPDATE_1551880390000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU102]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 07 Mar 2019 14:18:03 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU102</link>
+            <guid isPermaLink="false">TU102</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Block diagram for GT200 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 24 Mar 2019 00:51:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GT200&amp;commentId=475917799</link>
+            <guid isPermaLink="false">GT200_7_475917799_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Block diagram for GT200 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 25 Mar 2019 07:56:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GT200&amp;commentId=475917799</link>
+            <guid isPermaLink="false">GT200_7_475917799_UPDATE_1553500602000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: SM for GM200 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 Mar 2019 02:41:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM200&amp;commentId=477844276</link>
+            <guid isPermaLink="false">GM200_3_477844276_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Block Diagram for GP104 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 Mar 2019 06:00:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP104&amp;commentId=477878931</link>
+            <guid isPermaLink="false">GP104_5_477878931_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Block Diagram for GP104 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 Mar 2019 06:05:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP104&amp;commentId=477878931</link>
+            <guid isPermaLink="false">GP104_5_477878931_UPDATE_1553839556000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: GPC for GK110 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 04:58:29 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK110&amp;commentId=453746268</link>
+            <guid isPermaLink="false">GK110_2_453746268_UPDATE_1554440309000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: G80]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:26:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G80</link>
+            <guid isPermaLink="false">G80</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: G92]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:27:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G92</link>
+            <guid isPermaLink="false">G92</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: G94]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:29:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G94</link>
+            <guid isPermaLink="false">G94</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GK104]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:31:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104</link>
+            <guid isPermaLink="false">GK104</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GF106]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:37:17 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF106</link>
+            <guid isPermaLink="false">GF106</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GF114]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:42:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF114</link>
+            <guid isPermaLink="false">GF114</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GK106]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:42:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK106</link>
+            <guid isPermaLink="false">GK106</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PS4]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:57:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PS4</link>
+            <guid isPermaLink="false">PS4</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PS4Pro]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 05 Apr 2019 23:57:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PS4Pro</link>
+            <guid isPermaLink="false">PS4Pro</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Tahiti]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Apr 2019 00:06:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti</link>
+            <guid isPermaLink="false">Tahiti</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: ROPs+MC for GF106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Apr 2019 16:02:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF106&amp;commentId=480515498</link>
+            <guid isPermaLink="false">GF106_21_480515498_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Block diagram for G94 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Apr 2019 16:33:22 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G94&amp;commentId=480517917</link>
+            <guid isPermaLink="false">G94_19_480517917_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Block diagram for G92 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Apr 2019 16:34:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G92&amp;commentId=480517985</link>
+            <guid isPermaLink="false">G92_18_480517985_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Block diagram for G92 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Apr 2019 23:56:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G92&amp;commentId=480517985</link>
+            <guid isPermaLink="false">G92_18_480517985_UPDATE_1554594998000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Block diagram for G94 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 07 Apr 2019 00:00:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G94&amp;commentId=480517917</link>
+            <guid isPermaLink="false">G94_19_480517917_UPDATE_1554595209000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: R520]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:27:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=R520</link>
+            <guid isPermaLink="false">R520</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: R580]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:27:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=R580</link>
+            <guid isPermaLink="false">R580</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RV570]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:27:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV570</link>
+            <guid isPermaLink="false">RV570</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Cayman]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:31:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Cayman</link>
+            <guid isPermaLink="false">Cayman</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Pitcairn]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:31:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn</link>
+            <guid isPermaLink="false">Pitcairn</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: R430]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:44:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=R430</link>
+            <guid isPermaLink="false">R430</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RV670]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:44:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV670</link>
+            <guid isPermaLink="false">RV670</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: G70]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:56:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G70</link>
+            <guid isPermaLink="false">G70</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: G71]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:56:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=G71</link>
+            <guid isPermaLink="false">G71</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: NV40]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:56:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=NV40</link>
+            <guid isPermaLink="false">NV40</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RSX]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 26 Apr 2019 00:56:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RSX</link>
+            <guid isPermaLink="false">RSX</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: wip for Hawaii by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 23 May 2019 13:38:21 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Hawaii&amp;commentId=495222037</link>
+            <guid isPermaLink="false">Hawaii_8_495222037_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RV350]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 03 Jun 2019 21:22:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV350</link>
+            <guid isPermaLink="false">RV350</guid>
+        </item>
+
+    </channel>
+</rss>

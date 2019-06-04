@@ -1,0 +1,7 @@
+        <item>
+            <title><![CDATA[%s]]></title>
+            <description><![CDATA[%s]]></description>
+            <pubDate>%s</pubDate>
+            <link>%s</link>
+            <guid isPermaLink="false">%s</guid>
+        </item>

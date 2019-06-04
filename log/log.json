@@ -4,9 +4,9 @@
     "name": "Fiji",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 1,
-    "insertTime": "Feb 5, 2018 1:18:00 AM",
+    "insertTime": "Mon, 05 Feb 2018 01:18:00 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Feb 5, 2018 1:18:00 AM",
+    "time": "Mon, 05 Feb 2018 01:18:00 GMT",
     "dateString": "2018.02.05"
   },
   {
@@ -14,9 +14,9 @@
     "name": "Hawaii",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 8,
-    "insertTime": "Sep 17, 2018 9:19:49 AM",
+    "insertTime": "Mon, 17 Sep 2018 09:19:49 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Sep 17, 2018 9:19:49 AM",
+    "time": "Mon, 17 Sep 2018 09:19:49 GMT",
     "dateString": "2018.09.17"
   },
   {
@@ -24,9 +24,9 @@
     "name": "GM200",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 3,
-    "insertTime": "Jan 5, 2019 3:59:16 PM",
+    "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 5, 2019 3:59:16 PM",
+    "time": "Sat, 05 Jan 2019 15:59:16 GMT",
     "dateString": "2019.01.05"
   },
   {
@@ -34,9 +34,9 @@
     "name": "GP102",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 4,
-    "insertTime": "Jan 5, 2019 3:59:16 PM",
+    "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 5, 2019 3:59:16 PM",
+    "time": "Sat, 05 Jan 2019 15:59:16 GMT",
     "dateString": "2019.01.05"
   },
   {
@@ -44,9 +44,9 @@
     "name": "GP104",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 5,
-    "insertTime": "Jan 5, 2019 3:59:16 PM",
+    "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 5, 2019 3:59:16 PM",
+    "time": "Sat, 05 Jan 2019 15:59:16 GMT",
     "dateString": "2019.01.05"
   },
   {
@@ -54,9 +54,9 @@
     "name": "GP106",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 6,
-    "insertTime": "Jan 5, 2019 3:59:16 PM",
+    "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 5, 2019 3:59:16 PM",
+    "time": "Sat, 05 Jan 2019 15:59:16 GMT",
     "dateString": "2019.01.05"
   },
   {
@@ -64,9 +64,9 @@
     "name": "GK110",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 2,
-    "insertTime": "Jan 6, 2019 3:15:31 PM",
+    "insertTime": "Sun, 06 Jan 2019 15:15:31 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 6, 2019 3:15:31 PM",
+    "time": "Sun, 06 Jan 2019 15:15:31 GMT",
     "dateString": "2019.01.06"
   },
   {
@@ -74,9 +74,9 @@
     "name": "GT200",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 7,
-    "insertTime": "Jan 6, 2019 3:15:31 PM",
+    "insertTime": "Sun, 06 Jan 2019 15:15:31 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 6, 2019 3:15:31 PM",
+    "time": "Sun, 06 Jan 2019 15:15:31 GMT",
     "dateString": "2019.01.06"
   },
   {
@@ -84,9 +84,9 @@
     "name": "Polaris10",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 9,
-    "insertTime": "Jan 6, 2019 3:38:32 PM",
+    "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 6, 2019 3:38:32 PM",
+    "time": "Sun, 06 Jan 2019 15:38:32 GMT",
     "dateString": "2019.01.06"
   },
   {
@@ -94,9 +94,9 @@
     "name": "Polaris11",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 10,
-    "insertTime": "Jan 6, 2019 3:38:32 PM",
+    "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 6, 2019 3:38:32 PM",
+    "time": "Sun, 06 Jan 2019 15:38:32 GMT",
     "dateString": "2019.01.06"
   },
   {
@@ -104,9 +104,9 @@
     "name": "Vega10",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 11,
-    "insertTime": "Jan 6, 2019 3:38:32 PM",
+    "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jan 6, 2019 3:38:32 PM",
+    "time": "Sun, 06 Jan 2019 15:38:32 GMT",
     "dateString": "2019.01.06"
   },
   {
@@ -117,10 +117,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 1,
     "commentId": 453737453,
-    "insertTime": "Jan 12, 2019 6:42:33 PM",
-    "updateTime": "Feb 4, 2019 2:18:07 PM",
+    "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
+    "updateTime": "Mon, 04 Feb 2019 06:18:07 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 12, 2019 6:42:33 PM",
+    "time": "Sat, 12 Jan 2019 10:42:33 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -131,10 +131,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 1,
     "commentId": 453739448,
-    "insertTime": "Jan 12, 2019 7:17:03 PM",
-    "updateTime": "Jan 12, 2019 7:27:41 PM",
+    "insertTime": "Sat, 12 Jan 2019 11:17:03 GMT",
+    "updateTime": "Sat, 12 Jan 2019 11:27:41 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 12, 2019 7:17:03 PM",
+    "time": "Sat, 12 Jan 2019 11:17:03 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -145,10 +145,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 1,
     "commentId": 453739448,
-    "insertTime": "Jan 12, 2019 7:17:03 PM",
-    "updateTime": "Jan 12, 2019 7:27:41 PM",
+    "insertTime": "Sat, 12 Jan 2019 11:17:03 GMT",
+    "updateTime": "Sat, 12 Jan 2019 11:27:41 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Jan 12, 2019 7:27:41 PM",
+    "time": "Sat, 12 Jan 2019 11:27:41 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -159,10 +159,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 2,
     "commentId": 453743988,
-    "insertTime": "Jan 12, 2019 8:34:11 PM",
-    "updateTime": "Jan 12, 2019 8:34:11 PM",
+    "insertTime": "Sat, 12 Jan 2019 12:34:11 GMT",
+    "updateTime": "Sat, 12 Jan 2019 12:34:11 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 12, 2019 8:34:11 PM",
+    "time": "Sat, 12 Jan 2019 12:34:11 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -173,10 +173,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 8,
     "commentId": 453745612,
-    "insertTime": "Jan 12, 2019 8:59:47 PM",
-    "updateTime": "Jan 12, 2019 8:59:47 PM",
+    "insertTime": "Sat, 12 Jan 2019 12:59:47 GMT",
+    "updateTime": "Sat, 12 Jan 2019 12:59:47 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 12, 2019 8:59:47 PM",
+    "time": "Sat, 12 Jan 2019 12:59:47 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -187,10 +187,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 2,
     "commentId": 453746268,
-    "insertTime": "Jan 12, 2019 9:09:39 PM",
-    "updateTime": "Apr 5, 2019 12:58:29 PM",
+    "insertTime": "Sat, 12 Jan 2019 13:09:39 GMT",
+    "updateTime": "Fri, 05 Apr 2019 04:58:29 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 12, 2019 9:09:39 PM",
+    "time": "Sat, 12 Jan 2019 13:09:39 GMT",
     "dateString": "2019.01.12"
   },
   {
@@ -201,10 +201,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 11,
     "commentId": 453918586,
-    "insertTime": "Jan 14, 2019 3:24:35 PM",
-    "updateTime": "Jan 14, 2019 3:24:35 PM",
+    "insertTime": "Mon, 14 Jan 2019 07:24:35 GMT",
+    "updateTime": "Mon, 14 Jan 2019 07:24:35 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Jan 14, 2019 3:24:35 PM",
+    "time": "Mon, 14 Jan 2019 07:24:35 GMT",
     "dateString": "2019.01.14"
   },
   {
@@ -215,10 +215,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 1,
     "commentId": 453737453,
-    "insertTime": "Jan 12, 2019 6:42:33 PM",
-    "updateTime": "Feb 4, 2019 2:18:07 PM",
+    "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
+    "updateTime": "Mon, 04 Feb 2019 06:18:07 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Feb 4, 2019 2:18:07 PM",
+    "time": "Mon, 04 Feb 2019 06:18:07 GMT",
     "dateString": "2019.02.04"
   },
   {
@@ -229,10 +229,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 9,
     "commentId": 460143382,
-    "insertTime": "Feb 4, 2019 2:26:52 PM",
-    "updateTime": "Feb 4, 2019 2:27:33 PM",
+    "insertTime": "Mon, 04 Feb 2019 06:26:52 GMT",
+    "updateTime": "Mon, 04 Feb 2019 06:27:33 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Feb 4, 2019 2:26:52 PM",
+    "time": "Mon, 04 Feb 2019 06:26:52 GMT",
     "dateString": "2019.02.04"
   },
   {
@@ -243,48 +243,48 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 9,
     "commentId": 460143382,
-    "insertTime": "Feb 4, 2019 2:26:52 PM",
-    "updateTime": "Feb 4, 2019 2:27:33 PM",
+    "insertTime": "Mon, 04 Feb 2019 06:26:52 GMT",
+    "updateTime": "Mon, 04 Feb 2019 06:27:33 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Feb 4, 2019 2:27:33 PM",
+    "time": "Mon, 04 Feb 2019 06:27:33 GMT",
     "dateString": "2019.02.04"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Polaris22",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 12,
+    "commentId": 464451905,
+    "insertTime": "Sun, 17 Feb 2019 12:37:34 GMT",
+    "updateTime": "Sun, 17 Feb 2019 12:38:09 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sun, 17 Feb 2019 12:37:34 GMT",
+    "dateString": "2019.02.17"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Polaris22",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 12,
+    "commentId": 464451905,
+    "insertTime": "Sun, 17 Feb 2019 12:37:34 GMT",
+    "updateTime": "Sun, 17 Feb 2019 12:38:09 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sun, 17 Feb 2019 12:38:09 GMT",
+    "dateString": "2019.02.17"
   },
   {
     "type": "IMAGE_CREATE",
     "name": "Polaris22",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 12,
-    "insertTime": "Feb 17, 2019 8:12:20 PM",
+    "insertTime": "Sun, 17 Feb 2019 20:12:20 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Feb 17, 2019 8:12:20 PM",
-    "dateString": "2019.02.17"
-  },
-  {
-    "type": "COMMENT_INSERT",
-    "imageName": "Polaris22",
-    "title": "Top level",
-    "username": "misdake",
-    "githubRepo": "misdake/ChipAnnotationData",
-    "githubIssueId": 12,
-    "commentId": 464451905,
-    "insertTime": "Feb 17, 2019 8:37:34 PM",
-    "updateTime": "Feb 17, 2019 8:38:09 PM",
-    "logType": "COMMENT_INSERT",
-    "time": "Feb 17, 2019 8:37:34 PM",
-    "dateString": "2019.02.17"
-  },
-  {
-    "type": "COMMENT_UPDATE",
-    "imageName": "Polaris22",
-    "title": "Top level",
-    "username": "misdake",
-    "githubRepo": "misdake/ChipAnnotationData",
-    "githubIssueId": 12,
-    "commentId": 464451905,
-    "insertTime": "Feb 17, 2019 8:37:34 PM",
-    "updateTime": "Feb 17, 2019 8:38:09 PM",
-    "logType": "COMMENT_UPDATE",
-    "time": "Feb 17, 2019 8:38:09 PM",
+    "time": "Sun, 17 Feb 2019 20:12:20 GMT",
     "dateString": "2019.02.17"
   },
   {
@@ -292,9 +292,9 @@
     "name": "TU106",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
-    "insertTime": "Mar 5, 2019 9:26:54 PM",
+    "insertTime": "Tue, 05 Mar 2019 21:26:54 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Mar 5, 2019 9:26:54 PM",
+    "time": "Tue, 05 Mar 2019 21:26:54 GMT",
     "dateString": "2019.03.05"
   },
   {
@@ -302,9 +302,9 @@
     "name": "TU116",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
-    "insertTime": "Mar 5, 2019 9:26:54 PM",
+    "insertTime": "Tue, 05 Mar 2019 21:26:54 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Mar 5, 2019 9:26:54 PM",
+    "time": "Tue, 05 Mar 2019 21:26:54 GMT",
     "dateString": "2019.03.05"
   },
   {
@@ -315,10 +315,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
     "commentId": 470004164,
-    "insertTime": "Mar 6, 2019 3:49:26 PM",
-    "updateTime": "Mar 6, 2019 3:49:26 PM",
+    "insertTime": "Wed, 06 Mar 2019 07:49:26 GMT",
+    "updateTime": "Wed, 06 Mar 2019 07:49:26 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 3:49:26 PM",
+    "time": "Wed, 06 Mar 2019 07:49:26 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -329,10 +329,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
     "commentId": 470006848,
-    "insertTime": "Mar 6, 2019 3:59:20 PM",
-    "updateTime": "Mar 6, 2019 3:59:20 PM",
+    "insertTime": "Wed, 06 Mar 2019 07:59:20 GMT",
+    "updateTime": "Wed, 06 Mar 2019 07:59:20 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 3:59:20 PM",
+    "time": "Wed, 06 Mar 2019 07:59:20 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -343,10 +343,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
     "commentId": 470008804,
-    "insertTime": "Mar 6, 2019 4:06:41 PM",
-    "updateTime": "Mar 6, 2019 4:06:41 PM",
+    "insertTime": "Wed, 06 Mar 2019 08:06:41 GMT",
+    "updateTime": "Wed, 06 Mar 2019 08:06:41 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 4:06:41 PM",
+    "time": "Wed, 06 Mar 2019 08:06:41 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -357,10 +357,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
     "commentId": 470010587,
-    "insertTime": "Mar 6, 2019 4:13:22 PM",
-    "updateTime": "Mar 6, 2019 4:13:22 PM",
+    "insertTime": "Wed, 06 Mar 2019 08:13:22 GMT",
+    "updateTime": "Wed, 06 Mar 2019 08:13:22 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 4:13:22 PM",
+    "time": "Wed, 06 Mar 2019 08:13:22 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -371,10 +371,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
     "commentId": 470013866,
-    "insertTime": "Mar 6, 2019 4:25:05 PM",
-    "updateTime": "Mar 6, 2019 4:25:05 PM",
+    "insertTime": "Wed, 06 Mar 2019 08:25:05 GMT",
+    "updateTime": "Wed, 06 Mar 2019 08:25:05 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 4:25:05 PM",
+    "time": "Wed, 06 Mar 2019 08:25:05 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -385,10 +385,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
     "commentId": 470015092,
-    "insertTime": "Mar 6, 2019 4:28:47 PM",
-    "updateTime": "Mar 6, 2019 4:28:47 PM",
+    "insertTime": "Wed, 06 Mar 2019 08:28:47 GMT",
+    "updateTime": "Wed, 06 Mar 2019 08:28:47 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 4:28:47 PM",
+    "time": "Wed, 06 Mar 2019 08:28:47 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -399,10 +399,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
     "commentId": 470099401,
-    "insertTime": "Mar 6, 2019 9:04:28 PM",
-    "updateTime": "Mar 6, 2019 9:41:19 PM",
+    "insertTime": "Wed, 06 Mar 2019 13:04:28 GMT",
+    "updateTime": "Wed, 06 Mar 2019 13:41:19 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 9:04:28 PM",
+    "time": "Wed, 06 Mar 2019 13:04:28 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -413,10 +413,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
     "commentId": 470099814,
-    "insertTime": "Mar 6, 2019 9:05:53 PM",
-    "updateTime": "Mar 6, 2019 9:53:10 PM",
+    "insertTime": "Wed, 06 Mar 2019 13:05:53 GMT",
+    "updateTime": "Wed, 06 Mar 2019 13:53:10 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 6, 2019 9:05:53 PM",
+    "time": "Wed, 06 Mar 2019 13:05:53 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -427,10 +427,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 14,
     "commentId": 470099401,
-    "insertTime": "Mar 6, 2019 9:04:28 PM",
-    "updateTime": "Mar 6, 2019 9:41:19 PM",
+    "insertTime": "Wed, 06 Mar 2019 13:04:28 GMT",
+    "updateTime": "Wed, 06 Mar 2019 13:41:19 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Mar 6, 2019 9:41:19 PM",
+    "time": "Wed, 06 Mar 2019 13:41:19 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -441,10 +441,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 13,
     "commentId": 470099814,
-    "insertTime": "Mar 6, 2019 9:05:53 PM",
-    "updateTime": "Mar 6, 2019 9:53:10 PM",
+    "insertTime": "Wed, 06 Mar 2019 13:05:53 GMT",
+    "updateTime": "Wed, 06 Mar 2019 13:53:10 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Mar 6, 2019 9:53:10 PM",
+    "time": "Wed, 06 Mar 2019 13:53:10 GMT",
     "dateString": "2019.03.06"
   },
   {
@@ -452,9 +452,9 @@
     "name": "TU102",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 15,
-    "insertTime": "Mar 7, 2019 2:18:03 PM",
+    "insertTime": "Thu, 07 Mar 2019 14:18:03 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Mar 7, 2019 2:18:03 PM",
+    "time": "Thu, 07 Mar 2019 14:18:03 GMT",
     "dateString": "2019.03.07"
   },
   {
@@ -465,10 +465,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 7,
     "commentId": 475917799,
-    "insertTime": "Mar 24, 2019 8:51:24 AM",
-    "updateTime": "Mar 25, 2019 3:56:42 PM",
+    "insertTime": "Sun, 24 Mar 2019 00:51:24 GMT",
+    "updateTime": "Mon, 25 Mar 2019 07:56:42 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 24, 2019 8:51:24 AM",
+    "time": "Sun, 24 Mar 2019 00:51:24 GMT",
     "dateString": "2019.03.24"
   },
   {
@@ -479,10 +479,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 7,
     "commentId": 475917799,
-    "insertTime": "Mar 24, 2019 8:51:24 AM",
-    "updateTime": "Mar 25, 2019 3:56:42 PM",
+    "insertTime": "Sun, 24 Mar 2019 00:51:24 GMT",
+    "updateTime": "Mon, 25 Mar 2019 07:56:42 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Mar 25, 2019 3:56:42 PM",
+    "time": "Mon, 25 Mar 2019 07:56:42 GMT",
     "dateString": "2019.03.25"
   },
   {
@@ -493,10 +493,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 3,
     "commentId": 477844276,
-    "insertTime": "Mar 29, 2019 10:41:08 AM",
-    "updateTime": "Mar 29, 2019 10:41:08 AM",
+    "insertTime": "Fri, 29 Mar 2019 02:41:08 GMT",
+    "updateTime": "Fri, 29 Mar 2019 02:41:08 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 29, 2019 10:41:08 AM",
+    "time": "Fri, 29 Mar 2019 02:41:08 GMT",
     "dateString": "2019.03.29"
   },
   {
@@ -507,10 +507,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 5,
     "commentId": 477878931,
-    "insertTime": "Mar 29, 2019 2:00:56 PM",
-    "updateTime": "Mar 29, 2019 2:05:56 PM",
+    "insertTime": "Fri, 29 Mar 2019 06:00:56 GMT",
+    "updateTime": "Fri, 29 Mar 2019 06:05:56 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Mar 29, 2019 2:00:56 PM",
+    "time": "Fri, 29 Mar 2019 06:00:56 GMT",
     "dateString": "2019.03.29"
   },
   {
@@ -521,10 +521,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 5,
     "commentId": 477878931,
-    "insertTime": "Mar 29, 2019 2:00:56 PM",
-    "updateTime": "Mar 29, 2019 2:05:56 PM",
+    "insertTime": "Fri, 29 Mar 2019 06:00:56 GMT",
+    "updateTime": "Fri, 29 Mar 2019 06:05:56 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Mar 29, 2019 2:05:56 PM",
+    "time": "Fri, 29 Mar 2019 06:05:56 GMT",
     "dateString": "2019.03.29"
   },
   {
@@ -535,10 +535,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 2,
     "commentId": 453746268,
-    "insertTime": "Jan 12, 2019 9:09:39 PM",
-    "updateTime": "Apr 5, 2019 12:58:29 PM",
+    "insertTime": "Sat, 12 Jan 2019 13:09:39 GMT",
+    "updateTime": "Fri, 05 Apr 2019 04:58:29 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Apr 5, 2019 12:58:29 PM",
+    "time": "Fri, 05 Apr 2019 04:58:29 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -546,9 +546,9 @@
     "name": "G80",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 17,
-    "insertTime": "Apr 5, 2019 11:26:06 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:26:06 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:26:06 PM",
+    "time": "Fri, 05 Apr 2019 23:26:06 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -556,9 +556,9 @@
     "name": "G92",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 18,
-    "insertTime": "Apr 5, 2019 11:27:39 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:27:39 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:27:39 PM",
+    "time": "Fri, 05 Apr 2019 23:27:39 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -566,9 +566,9 @@
     "name": "G94",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 19,
-    "insertTime": "Apr 5, 2019 11:29:30 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:29:30 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:29:30 PM",
+    "time": "Fri, 05 Apr 2019 23:29:30 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -576,9 +576,9 @@
     "name": "GK104",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 20,
-    "insertTime": "Apr 5, 2019 11:31:01 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:31:01 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:31:01 PM",
+    "time": "Fri, 05 Apr 2019 23:31:01 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -586,9 +586,9 @@
     "name": "GF106",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 21,
-    "insertTime": "Apr 5, 2019 11:37:17 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:37:17 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:37:17 PM",
+    "time": "Fri, 05 Apr 2019 23:37:17 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -596,9 +596,9 @@
     "name": "GF114",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 22,
-    "insertTime": "Apr 5, 2019 11:42:37 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:42:37 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:42:37 PM",
+    "time": "Fri, 05 Apr 2019 23:42:37 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -606,9 +606,9 @@
     "name": "GK106",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 23,
-    "insertTime": "Apr 5, 2019 11:42:37 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:42:37 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:42:37 PM",
+    "time": "Fri, 05 Apr 2019 23:42:37 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -616,9 +616,9 @@
     "name": "PS4",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 24,
-    "insertTime": "Apr 5, 2019 11:57:36 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:57:36 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:57:36 PM",
+    "time": "Fri, 05 Apr 2019 23:57:36 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -626,9 +626,9 @@
     "name": "PS4Pro",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 25,
-    "insertTime": "Apr 5, 2019 11:57:36 PM",
+    "insertTime": "Fri, 05 Apr 2019 23:57:36 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 5, 2019 11:57:36 PM",
+    "time": "Fri, 05 Apr 2019 23:57:36 GMT",
     "dateString": "2019.04.05"
   },
   {
@@ -636,9 +636,9 @@
     "name": "Tahiti",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 26,
-    "insertTime": "Apr 6, 2019 12:06:41 AM",
+    "insertTime": "Sat, 06 Apr 2019 00:06:41 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 6, 2019 12:06:41 AM",
+    "time": "Sat, 06 Apr 2019 00:06:41 GMT",
     "dateString": "2019.04.06"
   },
   {
@@ -649,11 +649,11 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 21,
     "commentId": 480515498,
-    "insertTime": "Apr 7, 2019 12:02:26 AM",
-    "updateTime": "Apr 7, 2019 12:02:26 AM",
+    "insertTime": "Sat, 06 Apr 2019 16:02:26 GMT",
+    "updateTime": "Sat, 06 Apr 2019 16:02:26 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Apr 7, 2019 12:02:26 AM",
-    "dateString": "2019.04.07"
+    "time": "Sat, 06 Apr 2019 16:02:26 GMT",
+    "dateString": "2019.04.06"
   },
   {
     "type": "COMMENT_INSERT",
@@ -663,11 +663,11 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 19,
     "commentId": 480517917,
-    "insertTime": "Apr 7, 2019 12:33:22 AM",
-    "updateTime": "Apr 7, 2019 8:00:09 AM",
+    "insertTime": "Sat, 06 Apr 2019 16:33:22 GMT",
+    "updateTime": "Sun, 07 Apr 2019 00:00:09 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Apr 7, 2019 12:33:22 AM",
-    "dateString": "2019.04.07"
+    "time": "Sat, 06 Apr 2019 16:33:22 GMT",
+    "dateString": "2019.04.06"
   },
   {
     "type": "COMMENT_INSERT",
@@ -677,11 +677,11 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 18,
     "commentId": 480517985,
-    "insertTime": "Apr 7, 2019 12:34:26 AM",
-    "updateTime": "Apr 7, 2019 7:56:38 AM",
+    "insertTime": "Sat, 06 Apr 2019 16:34:26 GMT",
+    "updateTime": "Sat, 06 Apr 2019 23:56:38 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "Apr 7, 2019 12:34:26 AM",
-    "dateString": "2019.04.07"
+    "time": "Sat, 06 Apr 2019 16:34:26 GMT",
+    "dateString": "2019.04.06"
   },
   {
     "type": "COMMENT_UPDATE",
@@ -691,11 +691,11 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 18,
     "commentId": 480517985,
-    "insertTime": "Apr 7, 2019 12:34:26 AM",
-    "updateTime": "Apr 7, 2019 7:56:38 AM",
+    "insertTime": "Sat, 06 Apr 2019 16:34:26 GMT",
+    "updateTime": "Sat, 06 Apr 2019 23:56:38 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Apr 7, 2019 7:56:38 AM",
-    "dateString": "2019.04.07"
+    "time": "Sat, 06 Apr 2019 23:56:38 GMT",
+    "dateString": "2019.04.06"
   },
   {
     "type": "COMMENT_UPDATE",
@@ -705,10 +705,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 19,
     "commentId": 480517917,
-    "insertTime": "Apr 7, 2019 12:33:22 AM",
-    "updateTime": "Apr 7, 2019 8:00:09 AM",
+    "insertTime": "Sat, 06 Apr 2019 16:33:22 GMT",
+    "updateTime": "Sun, 07 Apr 2019 00:00:09 GMT",
     "logType": "COMMENT_UPDATE",
-    "time": "Apr 7, 2019 8:00:09 AM",
+    "time": "Sun, 07 Apr 2019 00:00:09 GMT",
     "dateString": "2019.04.07"
   },
   {
@@ -716,9 +716,9 @@
     "name": "R520",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 29,
-    "insertTime": "Apr 26, 2019 12:27:55 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:27:55 AM",
+    "time": "Fri, 26 Apr 2019 00:27:55 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -726,9 +726,9 @@
     "name": "R580",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 27,
-    "insertTime": "Apr 26, 2019 12:27:55 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:27:55 AM",
+    "time": "Fri, 26 Apr 2019 00:27:55 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -736,9 +736,9 @@
     "name": "RV570",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 28,
-    "insertTime": "Apr 26, 2019 12:27:55 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:27:55 AM",
+    "time": "Fri, 26 Apr 2019 00:27:55 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -746,9 +746,9 @@
     "name": "Cayman",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 31,
-    "insertTime": "Apr 26, 2019 12:31:18 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:31:18 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:31:18 AM",
+    "time": "Fri, 26 Apr 2019 00:31:18 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -756,9 +756,9 @@
     "name": "Pitcairn",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 30,
-    "insertTime": "Apr 26, 2019 12:31:18 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:31:18 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:31:18 AM",
+    "time": "Fri, 26 Apr 2019 00:31:18 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -766,9 +766,9 @@
     "name": "R430",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 33,
-    "insertTime": "Apr 26, 2019 12:44:01 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:44:01 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:44:01 AM",
+    "time": "Fri, 26 Apr 2019 00:44:01 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -776,9 +776,9 @@
     "name": "RV670",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 32,
-    "insertTime": "Apr 26, 2019 12:44:01 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:44:01 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:44:01 AM",
+    "time": "Fri, 26 Apr 2019 00:44:01 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -786,9 +786,9 @@
     "name": "G70",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 34,
-    "insertTime": "Apr 26, 2019 12:56:19 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:56:19 AM",
+    "time": "Fri, 26 Apr 2019 00:56:19 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -796,9 +796,9 @@
     "name": "G71",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 35,
-    "insertTime": "Apr 26, 2019 12:56:19 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:56:19 AM",
+    "time": "Fri, 26 Apr 2019 00:56:19 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -806,9 +806,9 @@
     "name": "NV40",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 36,
-    "insertTime": "Apr 26, 2019 12:56:19 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:56:19 AM",
+    "time": "Fri, 26 Apr 2019 00:56:19 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -816,9 +816,9 @@
     "name": "RSX",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 37,
-    "insertTime": "Apr 26, 2019 12:56:19 AM",
+    "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Apr 26, 2019 12:56:19 AM",
+    "time": "Fri, 26 Apr 2019 00:56:19 GMT",
     "dateString": "2019.04.26"
   },
   {
@@ -829,10 +829,10 @@
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 8,
     "commentId": 495222037,
-    "insertTime": "May 23, 2019 9:38:21 PM",
-    "updateTime": "May 23, 2019 9:38:21 PM",
+    "insertTime": "Thu, 23 May 2019 13:38:21 GMT",
+    "updateTime": "Thu, 23 May 2019 13:38:21 GMT",
     "logType": "COMMENT_INSERT",
-    "time": "May 23, 2019 9:38:21 PM",
+    "time": "Thu, 23 May 2019 13:38:21 GMT",
     "dateString": "2019.05.23"
   },
   {
@@ -840,9 +840,9 @@
     "name": "RV350",
     "githubRepo": "misdake/ChipAnnotationData",
     "githubIssueId": 38,
-    "insertTime": "Jun 3, 2019 9:22:07 PM",
+    "insertTime": "Mon, 03 Jun 2019 21:22:07 GMT",
     "logType": "IMAGE_CREATE",
-    "time": "Jun 3, 2019 9:22:07 PM",
+    "time": "Mon, 03 Jun 2019 21:22:07 GMT",
     "dateString": "2019.06.03"
   }
 ]

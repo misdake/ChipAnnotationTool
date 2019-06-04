@@ -1,8 +1,5 @@
 package com.rs.tool.chipannotation.log;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -75,7 +72,7 @@ public class Diff {
         return new GregorianCalendar(year, month, day).getTime();
     }
 
-    private static TreeMap<String, Log[]> groupByDay(Log[] all, Date timeMax) {
+    public static TreeMap<String, Log[]> groupByDay(Log[] all, Date timeMax) {
         TreeMap<String, List<Log>> groups = new TreeMap<>();
         for (Log log : all) {
             if (log.time.before(timeMax)) {
@@ -125,17 +122,10 @@ public class Diff {
     private final static int DAY_MAX = 20;
 
     public static void main(String[] args) throws IOException {
-        RuntimeTypeAdapterFactory<Log> adapterFactory = RuntimeTypeAdapterFactory.of(Log.class, "type")
-                .registerSubtype(Log.ImageCreate.class, "IMAGE_CREATE")
-                .registerSubtype(Log.CommentInsert.class, "COMMENT_INSERT")
-                .registerSubtype(Log.CommentUpdate.class, "COMMENT_UPDATE");
-
-        Gson gson = new GsonBuilder().setPrettyPrinting().registerTypeAdapterFactory(adapterFactory).create();
-
         String statePrevString = new String(Files.readAllBytes(new File("log/state.json").toPath()), StandardCharsets.UTF_8);
         String logPrevString = new String(Files.readAllBytes(new File("log/log.json").toPath()), StandardCharsets.UTF_8);
-        State statePrev = gson.fromJson(statePrevString, State.class);
-        Log[] logPrev = gson.fromJson(logPrevString, Log[].class);
+        State statePrev = Log.gson.fromJson(statePrevString, State.class);
+        Log[] logPrev = Log.gson.fromJson(logPrevString, Log[].class);
 
         State stateCurr = State.getState();
         if (stateCurr == null) return;
@@ -149,9 +139,15 @@ public class Diff {
         Date beginOfDay = getBeginOfDay(stateCurr.time);
         TreeMap<String, Log[]> days = groupByDay(logs, beginOfDay);
 
-        Files.write(new File("log/state.json").toPath(), gson.toJson(stateCurr).getBytes(StandardCharsets.UTF_8));
-        Files.write(new File("log/log.json").toPath(), gson.toJson(logs).getBytes(StandardCharsets.UTF_8));
-        Files.write(new File("log/log_day.json").toPath(), gson.toJson(days).getBytes(StandardCharsets.UTF_8));
+        Files.write(new File("log/state.json").toPath(), Log.gson.toJson(stateCurr).getBytes(StandardCharsets.UTF_8));
+        Files.write(new File("log/log.json").toPath(), Log.gson.toJson(logs).getBytes(StandardCharsets.UTF_8));
+        Files.write(new File("log/log_day.json").toPath(), Log.gson.toJson(days).getBytes(StandardCharsets.UTF_8));
+
+        String rss = Rss.rssForLog(statePrev.time, logPrev);
+        Files.write(new File("log/rss.xml").toPath(), rss.getBytes(StandardCharsets.UTF_8));
+
+        String rssday = Rss.rssForDay(statePrev.time, days);
+        Files.write(new File("log/rssday.xml").toPath(), rssday.getBytes(StandardCharsets.UTF_8));
     }
 
 }

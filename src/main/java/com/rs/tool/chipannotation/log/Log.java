@@ -1,9 +1,31 @@
 package com.rs.tool.chipannotation.log;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Locale;
+import java.util.TimeZone;
 
 public class Log {
+
+    public static final DateFormat formatter = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz", Locale.ENGLISH);
+    public static final Gson gson;
+
+    static {
+        formatter.setTimeZone(TimeZone.getTimeZone("GMT+:08:00"));
+        TimeZone.setDefault(TimeZone.getTimeZone("GMT+:08:00"));
+
+        RuntimeTypeAdapterFactory<Log> adapterFactory = RuntimeTypeAdapterFactory.of(Log.class, "type")
+                .registerSubtype(Log.ImageCreate.class, "IMAGE_CREATE")
+                .registerSubtype(Log.CommentInsert.class, "COMMENT_INSERT")
+                .registerSubtype(Log.CommentUpdate.class, "COMMENT_UPDATE");
+
+        gson = new GsonBuilder().setPrettyPrinting().setDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz").registerTypeAdapterFactory(adapterFactory).create();
+    }
+
     public enum LogType {
         IMAGE_CREATE,
         COMMENT_INSERT,
