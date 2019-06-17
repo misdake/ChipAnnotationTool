@@ -844,5 +844,19 @@
     "logType": "IMAGE_CREATE",
     "time": "Mon, 03 Jun 2019 21:22:07 GMT",
     "dateString": "2019.06.03"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Hawaii",
+    "title": "wip",
+    "username": "0x22h",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 8,
+    "commentId": 495222037,
+    "insertTime": "Thu, 23 May 2019 13:38:21 GMT",
+    "updateTime": "Fri, 14 Jun 2019 13:49:35 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Fri, 14 Jun 2019 13:49:35 GMT",
+    "dateString": "2019.06.14"
   }
 ]
