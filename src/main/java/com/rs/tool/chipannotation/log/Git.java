@@ -14,9 +14,13 @@ public class Git {
 
 	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
 		Path directory = new File(".").getAbsoluteFile().toPath();
+		System.out.println("------- git add -------");
 		gitStage(directory);
+		System.out.println("------- git commit -------");
 		gitCommit(directory, commitMessage);
+		System.out.println("------- git push -------");
 		gitPush(directory);
+		System.out.println("------- finish -------");
 	}
 
 	private static void gitInit(Path directory) throws IOException, InterruptedException {
