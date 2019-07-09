@@ -11,6 +11,11 @@ import java.util.TimeZone;
 
 public class Log {
 
+    public static void main(String[] args) {
+        System.out.println(formatter.format(new Date()));
+        System.out.println(gson.toJson(new Date()));
+    }
+
     public static final DateFormat formatter = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz", Locale.ENGLISH);
     public static final Gson gson;
 

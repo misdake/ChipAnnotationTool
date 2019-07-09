@@ -121,7 +121,7 @@ public class Diff {
     private final static int LOG_MAX = 1000;
     private final static int DAY_MAX = 20;
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
         String statePrevString = new String(Files.readAllBytes(new File("log/state.json").toPath()), StandardCharsets.UTF_8);
         String logPrevString = new String(Files.readAllBytes(new File("log/log.json").toPath()), StandardCharsets.UTF_8);
         State statePrev = Log.gson.fromJson(statePrevString, State.class);
@@ -136,18 +136,20 @@ public class Diff {
         //    return;
         //}
 
-        Date beginOfDay = getBeginOfDay(stateCurr.time);
+        Date beginOfDay = getBeginOfDay(new Date());
         TreeMap<String, Log[]> days = groupByDay(logs, beginOfDay);
 
         Files.write(new File("log/state.json").toPath(), Log.gson.toJson(stateCurr).getBytes(StandardCharsets.UTF_8));
         Files.write(new File("log/log.json").toPath(), Log.gson.toJson(logs).getBytes(StandardCharsets.UTF_8));
         Files.write(new File("log/log_day.json").toPath(), Log.gson.toJson(days).getBytes(StandardCharsets.UTF_8));
 
-        String rss = Rss.rssForLog(statePrev.time, logPrev);
+        String rss = Rss.rssForLog(stateCurr.time, logPrev);
         Files.write(new File("log/rss.xml").toPath(), rss.getBytes(StandardCharsets.UTF_8));
 
-        String rssday = Rss.rssForDay(statePrev.time, days);
+        String rssday = Rss.rssForDay(stateCurr.time, days);
         Files.write(new File("log/rssday.xml").toPath(), rssday.getBytes(StandardCharsets.UTF_8));
+
+        Git.uploadToGithub("update log");
     }
 
 }

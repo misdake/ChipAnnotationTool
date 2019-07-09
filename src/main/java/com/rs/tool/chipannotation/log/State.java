@@ -29,12 +29,22 @@ public class State {
         public Date updateTime;
     }
 
+    private static Date lastDate(Date curr, Date input) {
+        if (curr == null) return input;
+        if (curr.before(input)) {
+            return input;
+        } else {
+            return curr;
+        }
+    }
 
     public ImageEntry[] images;
     public Date time;
 
     public static State getState() {
         List<ImageEntry> imageList = new ArrayList<>();
+
+        Date last = null;
 
         System.out.println("get image list");
         String list = Http.get("https://misdake.github.io/ChipAnnotationData/list.txt");
@@ -69,6 +79,9 @@ public class State {
                         commentEntry.insertTime = comment.created_at;
                         commentEntry.updateTime = comment.updated_at;
 
+                        last = lastDate(last, comment.created_at);
+                        last = lastDate(last, comment.updated_at);
+
                         System.out.println("  '" + commentEntry.title + "' by " + commentEntry.username);
                         commentList.add(commentEntry);
                         valid = true;
@@ -89,12 +102,14 @@ public class State {
             imageEntry.insertTime = image.createTime;
             imageEntry.comments = commentList.toArray(new CommentEntry[0]);
 
+            last = lastDate(last, image.createTime);
+
             imageList.add(imageEntry);
         }
 
         State state = new State();
         state.images = imageList.toArray(new ImageEntry[0]);
-        state.time = new Date();
+        state.time = last;
 
         return state;
     }

@@ -51,8 +51,7 @@ public class Rss {
             b.append(s).append("\n");
         }
 
-        String dateString = Log.formatter.format(last);
-        return String.format(rsslogTemplate, dateString, b.toString());
+        return String.format(rsslogTemplate, Log.formatter.format(last), b.toString());
     }
 
     public static String itemForLog(Log log) {
@@ -105,7 +104,7 @@ public class Rss {
             b.append(s).append("\n");
         }
 
-        return String.format(rssdayTemplate, last, b.toString());
+        return String.format(rssdayTemplate, Log.formatter.format(last), b.toString());
     }
 
     public static String itemForDay(String day, Log[] logs) {

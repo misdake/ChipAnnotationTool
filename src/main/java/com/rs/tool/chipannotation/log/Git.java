@@ -8,34 +8,34 @@ import java.util.Objects;
 
 public class Git {
 
-	public static void main(String[] args) throws IOException, InterruptedException {
+	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
 		Path directory = new File(".").getAbsoluteFile().toPath();
 		gitStage(directory);
-		gitCommit(directory, "add git helper");
-//		gitPush(directory);
+		gitCommit(directory, commitMessage);
+		gitPush(directory);
 	}
 
-	public static void gitInit(Path directory) throws IOException, InterruptedException {
+	private static void gitInit(Path directory) throws IOException, InterruptedException {
 		runCommand(directory, "git", "init");
 	}
 
-	public static void gitStage(Path directory) throws IOException, InterruptedException {
+	private static void gitStage(Path directory) throws IOException, InterruptedException {
 		runCommand(directory, "git", "add", "-A");
 	}
 
-	public static void gitCommit(Path directory, String message) throws IOException, InterruptedException {
+	private static void gitCommit(Path directory, String message) throws IOException, InterruptedException {
 		runCommand(directory, "git", "commit", "-m", message);
 	}
 
-	public static void gitPush(Path directory) throws IOException, InterruptedException {
+	private static void gitPush(Path directory) throws IOException, InterruptedException {
 		runCommand(directory, "git", "push");
 	}
 
-	public static void gitClone(Path directory, String originUrl) throws IOException, InterruptedException {
+	private static void gitClone(Path directory, String originUrl) throws IOException, InterruptedException {
 		runCommand(directory.getParent(), "git", "clone", originUrl, directory.getFileName().toString());
 	}
 
-	public static void runCommand(Path directory, String... command) throws IOException, InterruptedException {
+	private static void runCommand(Path directory, String... command) throws IOException, InterruptedException {
 		Objects.requireNonNull(directory, "directory");
 		if (!Files.exists(directory)) {
 			throw new RuntimeException("can't run command in non-existing directory '" + directory + "'");

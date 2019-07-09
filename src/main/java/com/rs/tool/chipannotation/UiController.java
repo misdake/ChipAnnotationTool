@@ -1,6 +1,7 @@
 package com.rs.tool.chipannotation;
 
 import com.google.gson.Gson;
+import com.rs.tool.chipannotation.log.Log;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
@@ -218,7 +219,7 @@ public class UiController implements Initializable {
 
 
             reportInfo("saving content.json");
-            String json = gson.toJson(imageContent);
+            String json = Log.gson.toJson(imageContent);
             try {
                 Files.write(new File(dataFolder.getAbsolutePath() + "/" + imageContent.name + "/content.json").toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
             } catch (IOException e) {
@@ -253,6 +254,5 @@ public class UiController implements Initializable {
     }
 
     private static final ExecutorService es = Executors.newCachedThreadPool();
-    private static final Gson gson = new Gson();
 
 }
