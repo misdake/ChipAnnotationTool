@@ -122,6 +122,8 @@ public class Diff {
     private final static int DAY_MAX = 20;
 
     public static void main(String[] args) throws IOException, InterruptedException {
+        Rss.dummy();
+
         String statePrevString = new String(Files.readAllBytes(new File("log/state.json").toPath()), StandardCharsets.UTF_8);
         String logPrevString = new String(Files.readAllBytes(new File("log/log.json").toPath()), StandardCharsets.UTF_8);
         State statePrev = Log.gson.fromJson(statePrevString, State.class);

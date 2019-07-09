@@ -1,15 +1,13 @@
 package com.rs.tool.chipannotation.log;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URISyntaxException;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.Date;
 import java.util.Map;
 import java.util.SortedMap;
 import java.util.TreeMap;
+import java.util.stream.Collectors;
 
 public class Rss {
 
@@ -31,17 +29,17 @@ public class Rss {
         Files.write(new File("log/rssday.xml").toPath(), rssday.getBytes(StandardCharsets.UTF_8));
     }
 
-    static {
-        try {
-            rsslogTemplate = new String(Files.readAllBytes(Paths.get(Rss.class.getClassLoader().getResource("rss_log_template.xml").toURI())));
-            rssdayTemplate = new String(Files.readAllBytes(Paths.get(Rss.class.getClassLoader().getResource("rss_day_template.xml").toURI())));
-            itemTemplate = new String(Files.readAllBytes(Paths.get(Rss.class.getClassLoader().getResource("rss_item_template.xml").toURI())));
-        } catch (IOException | URISyntaxException e) {
-            e.printStackTrace();
-            System.exit(-1);
-        }
+    public static void dummy() {}
+
+    private static String readResourceString(String path) {
+        return new BufferedReader(new InputStreamReader(Rss.class.getClassLoader().getResourceAsStream(path))).lines().collect(Collectors.joining("\n"));
     }
 
+    static {
+        rsslogTemplate = readResourceString("rss_log_template.xml");
+        rssdayTemplate = readResourceString("rss_day_template.xml");
+        itemTemplate = readResourceString("rss_item_template.xml");
+    }
 
     public static String rssForLog(Date last, Log[] logs) {
         StringBuilder b = new StringBuilder();
