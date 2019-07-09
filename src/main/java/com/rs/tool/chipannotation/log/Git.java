@@ -8,6 +8,10 @@ import java.util.Objects;
 
 public class Git {
 
+	public static void main(String[] args) throws IOException, InterruptedException {
+		uploadToGithub("update log");
+	}
+
 	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
 		Path directory = new File(".").getAbsoluteFile().toPath();
 		gitStage(directory);
