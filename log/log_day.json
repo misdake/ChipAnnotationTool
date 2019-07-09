@@ -1,16 +1,4 @@
 {
-  "2018.09.17": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Hawaii",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 8,
-      "insertTime": "Mon, 17 Sep 2018 09:19:49 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 17 Sep 2018 09:19:49 GMT",
-      "dateString": "2018.09.17"
-    }
-  ],
   "2019.01.05": [
     {
       "type": "IMAGE_CREATE",
@@ -789,6 +777,78 @@
       "logType": "COMMENT_UPDATE",
       "time": "Fri, 14 Jun 2019 13:49:35 GMT",
       "dateString": "2019.06.14"
+    }
+  ],
+  "2019.07.07": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "R420",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 39,
+      "insertTime": "Sun, 07 Jul 2019 09:55:03 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 09:55:03 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TU104",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 40,
+      "insertTime": "Sun, 07 Jul 2019 09:57:06 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 09:57:06 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GM204",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 41,
+      "insertTime": "Sun, 07 Jul 2019 10:08:51 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 10:08:51 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "G72",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 42,
+      "insertTime": "Sun, 07 Jul 2019 10:11:20 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 10:11:20 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "G84",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 43,
+      "insertTime": "Sun, 07 Jul 2019 10:16:00 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 10:16:00 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "G86",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 44,
+      "insertTime": "Sun, 07 Jul 2019 10:16:20 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 10:16:20 GMT",
+      "dateString": "2019.07.07"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GT218",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 45,
+      "insertTime": "Sun, 07 Jul 2019 10:16:34 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 07 Jul 2019 10:16:34 GMT",
+      "dateString": "2019.07.07"
     }
   ]
 }

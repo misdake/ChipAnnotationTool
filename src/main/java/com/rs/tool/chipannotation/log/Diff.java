@@ -50,7 +50,7 @@ public class Diff {
     public static Log[] run(State prevState, State currState, Log[] prevLog) {
         List<Log> diff = diff(prevState, currState);
         List<Log> filtered = diff.stream().filter(log -> log.time.after(prevState.time)).collect(Collectors.toList());
-        if (filtered.isEmpty()) return null;
+        //if (filtered.isEmpty()) return null; //TODO log_day不一定没有新内容就不更新
         List<Log> all = new ArrayList<>(Arrays.asList(prevLog));
         all.addAll(filtered);
         all.sort(Comparator.comparing(o -> o.time));
@@ -131,10 +131,10 @@ public class Diff {
         if (stateCurr == null) return;
 
         Log[] logs = run(statePrev, stateCurr, logPrev);
-        if (logs == null) {
-            System.out.println("no change!");
-            return;
-        }
+        //if (logs == null) {
+        //    System.out.println("no change!");
+        //    return;
+        //}
 
         Date beginOfDay = getBeginOfDay(stateCurr.time);
         TreeMap<String, Log[]> days = groupByDay(logs, beginOfDay);

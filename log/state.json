@@ -44,10 +44,31 @@
       "comments": []
     },
     {
+      "name": "G72",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 42,
+      "insertTime": "Sun, 07 Jul 2019 10:11:20 GMT",
+      "comments": []
+    },
+    {
       "name": "G80",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 17,
       "insertTime": "Fri, 05 Apr 2019 23:26:06 GMT",
+      "comments": []
+    },
+    {
+      "name": "G84",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 43,
+      "insertTime": "Sun, 07 Jul 2019 10:16:00 GMT",
+      "comments": []
+    },
+    {
+      "name": "G86",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 44,
+      "insertTime": "Sun, 07 Jul 2019 10:16:20 GMT",
       "comments": []
     },
     {
@@ -154,6 +175,13 @@
       ]
     },
     {
+      "name": "GM204",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 41,
+      "insertTime": "Sun, 07 Jul 2019 10:08:51 GMT",
+      "comments": []
+    },
+    {
       "name": "GP102",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 4,
@@ -196,6 +224,13 @@
           "updateTime": "Mon, 25 Mar 2019 07:56:42 GMT"
         }
       ]
+    },
+    {
+      "name": "GT218",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 45,
+      "insertTime": "Sun, 07 Jul 2019 10:16:34 GMT",
+      "comments": []
     },
     {
       "name": "Hawaii",
@@ -285,6 +320,13 @@
       ]
     },
     {
+      "name": "R420",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 39,
+      "insertTime": "Sun, 07 Jul 2019 09:55:03 GMT",
+      "comments": []
+    },
+    {
       "name": "R430",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 33,
@@ -338,6 +380,13 @@
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 15,
       "insertTime": "Thu, 07 Mar 2019 14:18:03 GMT",
+      "comments": []
+    },
+    {
+      "name": "TU104",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 40,
+      "insertTime": "Sun, 07 Jul 2019 09:57:06 GMT",
       "comments": []
     },
     {
@@ -435,5 +484,5 @@
       ]
     }
   ],
-  "time": "Mon, 17 Jun 2019 02:32:05 GMT"
+  "time": "Tue, 09 Jul 2019 03:08:35 GMT"
 }
