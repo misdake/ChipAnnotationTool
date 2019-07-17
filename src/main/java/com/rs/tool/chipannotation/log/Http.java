@@ -11,7 +11,7 @@ import java.net.Proxy;
 public class Http {
     private final static Proxy        proxy  = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
     private final static OkHttpClient client = new OkHttpClient.Builder()
-            .proxy(proxy)
+//            .proxy(proxy)
             .build();
     public final static  Gson         gson   = new Gson();
 

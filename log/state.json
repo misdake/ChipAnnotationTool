@@ -482,7 +482,22 @@
           "updateTime": "Mon, 14 Jan 2019 07:24:35 GMT"
         }
       ]
+    },
+    {
+      "name": "Vega20",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "insertTime": "Wed, 10 Jul 2019 12:03:58 GMT",
+      "comments": [
+        {
+          "title": "Top level",
+          "username": "misdake",
+          "commentId": 510073674,
+          "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+          "updateTime": "Wed, 10 Jul 2019 14:00:38 GMT"
+        }
+      ]
     }
   ],
-  "time": "Sun, 07 Jul 2019 10:16:34 GMT"
+  "time": "Wed, 10 Jul 2019 14:00:38 GMT"
 }

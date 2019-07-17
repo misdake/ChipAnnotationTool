@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 07 Jul 2019 10:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2019 14:00:38 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.01.05]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GM200'>GM200</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP102'>GP102</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP104'>GP104</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP106'>GP106</a><br>]]></description>
-            <pubDate>Sat, 05 Jan 2019 15:59:16 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.01.05</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.01.06]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK110'>GK110</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GT200'>GT200</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10'>Polaris10</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11'>Polaris11</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega10'>Vega10</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 07 Jul 2019 10:16:34 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.07.07</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.07.10]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20'>Vega20</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674'>Top level for Vega20 by misdake</a><br>]]></description>
+            <pubDate>Wed, 10 Jul 2019 14:00:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.07.10</guid>
         </item>
 
     </channel>

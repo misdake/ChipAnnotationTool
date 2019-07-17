@@ -219,7 +219,7 @@ public class UiController implements Initializable {
 
 
             reportInfo("saving content.json");
-            String json = Log.gson.toJson(imageContent);
+            String json = gson.toJson(imageContent);
             try {
                 Files.write(new File(dataFolder.getAbsolutePath() + "/" + imageContent.name + "/content.json").toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
             } catch (IOException e) {
@@ -254,5 +254,6 @@ public class UiController implements Initializable {
     }
 
     private static final ExecutorService es = Executors.newCachedThreadPool();
+    private static final Gson gson = new Gson();
 
 }

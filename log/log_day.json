@@ -1,46 +1,4 @@
 {
-  "2019.01.05": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GM200",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 3,
-      "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "dateString": "2019.01.05"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GP102",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 4,
-      "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "dateString": "2019.01.05"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GP104",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 5,
-      "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "dateString": "2019.01.05"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GP106",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 6,
-      "insertTime": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 05 Jan 2019 15:59:16 GMT",
-      "dateString": "2019.01.05"
-    }
-  ],
   "2019.01.06": [
     {
       "type": "IMAGE_CREATE",
@@ -849,6 +807,32 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 07 Jul 2019 10:16:34 GMT",
       "dateString": "2019.07.07"
+    }
+  ],
+  "2019.07.10": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Vega20",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "insertTime": "Wed, 10 Jul 2019 12:03:58 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 10 Jul 2019 12:03:58 GMT",
+      "dateString": "2019.07.10"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Vega20",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "commentId": 510073674,
+      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "updateTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "dateString": "2019.07.10"
     }
   ]
 }
