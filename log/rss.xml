@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 10 Jul 2019 14:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2019 04:29:37 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -564,6 +564,20 @@
             <pubDate>Sun, 07 Jul 2019 10:16:34 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GT218</link>
             <guid isPermaLink="false">GT218</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Vega20]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 10 Jul 2019 12:03:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega20</link>
+            <guid isPermaLink="false">Vega20</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for Vega20 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 10 Jul 2019 14:00:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674</link>
+            <guid isPermaLink="false">Vega20_46_510073674_INSERT</guid>
         </item>
 
     </channel>

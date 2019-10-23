@@ -1,128 +1,4 @@
 {
-  "2019.01.06": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GK110",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 2,
-      "insertTime": "Sun, 06 Jan 2019 15:15:31 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 06 Jan 2019 15:15:31 GMT",
-      "dateString": "2019.01.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GT200",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 7,
-      "insertTime": "Sun, 06 Jan 2019 15:15:31 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 06 Jan 2019 15:15:31 GMT",
-      "dateString": "2019.01.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Polaris10",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 9,
-      "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "dateString": "2019.01.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Polaris11",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 10,
-      "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "dateString": "2019.01.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Vega10",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 11,
-      "insertTime": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 06 Jan 2019 15:38:32 GMT",
-      "dateString": "2019.01.06"
-    }
-  ],
-  "2019.01.12": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Fiji",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453737453,
-      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "updateTime": "Mon, 04 Feb 2019 06:18:07 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "dateString": "2019.01.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Fiji",
-      "title": "Inside CU",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453739448,
-      "insertTime": "Sat, 12 Jan 2019 11:17:03 GMT",
-      "updateTime": "Sat, 12 Jan 2019 11:27:41 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jan 2019 11:17:03 GMT",
-      "dateString": "2019.01.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GK110",
-      "title": "",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 2,
-      "commentId": 453743988,
-      "insertTime": "Sat, 12 Jan 2019 12:34:11 GMT",
-      "updateTime": "Sat, 12 Jan 2019 12:34:11 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jan 2019 12:34:11 GMT",
-      "dateString": "2019.01.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Hawaii",
-      "title": "area",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 8,
-      "commentId": 453745612,
-      "insertTime": "Sat, 12 Jan 2019 12:59:47 GMT",
-      "updateTime": "Sat, 12 Jan 2019 12:59:47 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jan 2019 12:59:47 GMT",
-      "dateString": "2019.01.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GK110",
-      "title": "GPC",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 2,
-      "commentId": 453746268,
-      "insertTime": "Sat, 12 Jan 2019 13:09:39 GMT",
-      "updateTime": "Fri, 05 Apr 2019 04:58:29 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jan 2019 13:09:39 GMT",
-      "dateString": "2019.01.12"
-    }
-  ],
   "2019.01.14": [
     {
       "type": "COMMENT_INSERT",
@@ -833,6 +709,94 @@
       "logType": "COMMENT_INSERT",
       "time": "Wed, 10 Jul 2019 14:00:38 GMT",
       "dateString": "2019.07.10"
+    }
+  ],
+  "2019.10.18": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Vega20",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "commentId": 510073674,
+      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "updateTime": "Fri, 18 Oct 2019 04:03:04 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 18 Oct 2019 04:03:04 GMT",
+      "dateString": "2019.10.18"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Polaris22",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 12,
+      "commentId": 464451905,
+      "insertTime": "Sun, 17 Feb 2019 12:37:34 GMT",
+      "updateTime": "Fri, 18 Oct 2019 04:04:39 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 18 Oct 2019 04:04:39 GMT",
+      "dateString": "2019.10.18"
+    }
+  ],
+  "2019.10.22": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "RV670",
+      "title": "mem",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 32,
+      "commentId": 544975361,
+      "insertTime": "Tue, 22 Oct 2019 13:57:34 GMT",
+      "updateTime": "Tue, 22 Oct 2019 13:57:34 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 22 Oct 2019 13:57:34 GMT",
+      "dateString": "2019.10.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "RV570",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 28,
+      "commentId": 544981315,
+      "insertTime": "Tue, 22 Oct 2019 14:09:23 GMT",
+      "updateTime": "Wed, 23 Oct 2019 04:29:28 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 22 Oct 2019 14:09:23 GMT",
+      "dateString": "2019.10.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Cayman",
+      "title": "mem \u0026 rop",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 31,
+      "commentId": 544994205,
+      "insertTime": "Tue, 22 Oct 2019 14:37:06 GMT",
+      "updateTime": "Wed, 23 Oct 2019 03:22:02 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 22 Oct 2019 14:37:06 GMT",
+      "dateString": "2019.10.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "G70",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 34,
+      "commentId": 545011850,
+      "insertTime": "Tue, 22 Oct 2019 15:14:10 GMT",
+      "updateTime": "Tue, 22 Oct 2019 15:14:10 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 22 Oct 2019 15:14:10 GMT",
+      "dateString": "2019.10.22"
     }
   ]
 }
