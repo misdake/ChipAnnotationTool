@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 23 Oct 2019 04:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2019 08:07:25 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.01.14]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega10&amp;commentId=453918586'>area(WIP) for Vega10 by 0x22h</a><br>]]></description>
-            <pubDate>Mon, 14 Jan 2019 07:24:35 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.01.14</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.02.04]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453'>Top level for Fiji by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382'>Top Level for Polaris10 by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Tue, 22 Oct 2019 15:14:10 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.10.22</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.10.23]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cayman&amp;commentId=544994205'>mem & rop for Cayman by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cayman&amp;commentId=545253909'>SIMD for Cayman by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R580&amp;commentId=545257045'>Top level for R580 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R430&amp;commentId=545259396'>label for R430 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RV570&amp;commentId=544981315'>Top level for RV570 by misdake</a><br>]]></description>
+            <pubDate>Wed, 23 Oct 2019 04:29:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.10.23</guid>
         </item>
 
     </channel>
