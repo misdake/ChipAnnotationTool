@@ -1,6 +1,7 @@
 package com.rs.tool.chipannotation;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.File;
 import java.io.IOException;
@@ -42,7 +43,7 @@ public class ChipList {
     private final String filename;
     private final List<Chip> chips = new ArrayList<>();
 
-    private static final Gson gson = new Gson();
+    private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
     public ChipList(String filename) {
         this.filename = filename;

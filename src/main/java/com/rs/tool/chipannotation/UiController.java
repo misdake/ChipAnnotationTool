@@ -1,6 +1,7 @@
 package com.rs.tool.chipannotation;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
@@ -268,6 +269,6 @@ public class UiController implements Initializable {
     }
 
     private static final ExecutorService es = Executors.newCachedThreadPool();
-    private static final Gson gson = new Gson();
+    private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 }
