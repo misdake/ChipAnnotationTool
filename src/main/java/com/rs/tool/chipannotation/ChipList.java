@@ -21,7 +21,7 @@ public class ChipList {
         public final String name;
         public final String url;
 
-        public final String id;
+        private transient String id;
 
         public Chip(String vendor, String type, String family, String name, String url) {
             this.vendor = vendor;
@@ -29,12 +29,19 @@ public class ChipList {
             this.family = family;
             this.name = name;
             this.url = url;
-            this.id = type + " " + vendor + " " + family + " " + name;
+        }
+
+        private void checkId() {
+            if (id == null) {
+                id = type + " " + vendor + " " + family + " " + name;
+            }
         }
 
         @Override
         public boolean equals(Object obj) {
             if (!(obj instanceof Chip)) return false;
+            this.checkId();
+            ((Chip) obj).checkId();
             return this.id.equals(((Chip) obj).id);
         }
     }

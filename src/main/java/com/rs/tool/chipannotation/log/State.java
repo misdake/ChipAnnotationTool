@@ -1,5 +1,7 @@
 package com.rs.tool.chipannotation.log;
 
+import com.google.gson.Gson;
+import com.rs.tool.chipannotation.ChipList;
 import com.rs.tool.chipannotation.ImageContent;
 
 import java.io.File;
@@ -47,13 +49,14 @@ public class State {
         Date last = null;
 
         System.out.println("get image list");
-        String list = Http.get("https://misdake.github.io/ChipAnnotationData/list.txt");
-        if (list == null) return null;
-        String[] lines = list.split("\\r?\\n");
-        for (int i = 0; i < lines.length; i++) {
-            String line = lines[i];
-            System.out.println("  image: " + line.substring(line.lastIndexOf('/') + 1) + "  " + (i + 1) + "/" + lines.length);
-            String contentUrl = line + "/content.json";
+        String json = Http.get("https://misdake.github.io/ChipAnnotationData/list.json");
+        if (json == null) return null;
+        Gson gson = new Gson();
+        ChipList.Chip[] chipList = gson.fromJson(json, ChipList.Chip[].class);
+        for (int i = 0; i < chipList.length; i++) {
+            ChipList.Chip chip = chipList[i];
+            System.out.println("  image: " + chip.name + "  " + (i + 1) + "/" + chipList.length);
+            String contentUrl = chip.url + "/content.json";
             ImageContent image = Http.get(contentUrl, ImageContent.class);
             if (image == null) return null;
 
