@@ -69,7 +69,7 @@ public class ChipList {
 
     public void add(Chip chip) {
         for (Chip c : chips) {
-            if (c.id.equals(chip.id)) {
+            if (c.equals(chip)) {
                 return;
             }
         }
