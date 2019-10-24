@@ -34,7 +34,7 @@ public class App extends Application {
             Parent root = FXMLLoader.load(resource);
             primaryStage.setResizable(false);
             primaryStage.setTitle("ChipAnnotationTool - Image Processor");
-            Scene scene = new Scene(root, 400, 280);
+            Scene scene = new Scene(root);
             primaryStage.setScene(scene);
 
             InputStream imageInput = getClass().getClassLoader().getResourceAsStream("icon.jpg");

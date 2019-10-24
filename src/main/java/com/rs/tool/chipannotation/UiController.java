@@ -1,7 +1,6 @@
 package com.rs.tool.chipannotation;
 
 import com.google.gson.Gson;
-import com.rs.tool.chipannotation.log.Log;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
@@ -22,7 +21,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
 import java.util.Date;
-import java.util.List;
 import java.util.ResourceBundle;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -36,7 +34,9 @@ public class UiController implements Initializable {
 
     public TextField textDataFolder;
     public TextField textImageFileName;
-    public TextField textImageName;
+    public TextField textName;
+    public TextField textVendor;
+    public TextField textType;
     public TextField textSourceUrl;
     public TextField textGithubRepo;
     public TextField textGithubIssueId;
@@ -96,7 +96,7 @@ public class UiController implements Initializable {
             AppConfig.instance().setImageFolder(imageFile.getParentFile().getAbsolutePath());
             String name = imageFile.getName();
             name = name.substring(0, name.lastIndexOf('.'));
-            textImageName.setText(name);
+            textName.setText(name);
         }
     }
 
@@ -119,7 +119,7 @@ public class UiController implements Initializable {
                 reportError("Image File is not selected");
                 return;
             }
-            if (this.textImageName.getText().trim().isEmpty()) {
+            if (this.textName.getText().trim().isEmpty()) {
                 reportError("Image name is not specified");
                 return;
             }
@@ -155,7 +155,7 @@ public class UiController implements Initializable {
 
             ImageContent imageContent = Cut.preProcess(sourceImage);
 
-            imageContent.name = textImageName.getText().trim();
+            imageContent.name = textName.getText().trim();
             imageContent.widthMillimeter = size[0];
             imageContent.heightMillimeter = size[1];
             imageContent.githubRepo = textGithubRepo.getText();
@@ -228,28 +228,19 @@ public class UiController implements Initializable {
             }
 
 
-            reportInfo("saving data list");
-            File listFile = new File(dataFolder.getAbsolutePath() + "/list.txt");
-            List<String> list;
-            try {
-                list = Files.readAllLines(listFile.toPath(), StandardCharsets.UTF_8);
-            } catch (IOException e) {
-                e.printStackTrace();
-                reportError("cannot read list.txt");
+            reportInfo("saving chip list");
+            ChipList chipList = new ChipList(dataFolder.getAbsolutePath() + "/list.json");
+            if (!chipList.load()) {
+                reportError("cannot read list.json");
+                return;
+            }
+            chipList.add(new ChipList.Chip("", ChipList.ChipType.CPU, "name", githubPagesRoot));
+            if (!chipList.save()) {
+                reportError("cannot write list.json");
                 return;
             }
 
-            try {
-                if (!list.contains(githubPagesRoot)) {
-                    list.add(githubPagesRoot);
-                }
-                list.sort(String::compareTo);
-                Files.write(listFile.toPath(), list, StandardCharsets.UTF_8);
-                reportInfo("all done~");
-            } catch (IOException e) {
-                e.printStackTrace();
-                reportError("cannot write list.txt");
-            }
+            reportInfo("all done");
         });
     }
 
