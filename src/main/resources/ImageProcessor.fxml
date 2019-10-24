@@ -3,13 +3,14 @@
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
-<VBox prefHeight="340.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.rs.tool.chipannotation.UiController">
+<VBox prefHeight="365.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.rs.tool.chipannotation.UiController">
     <GridPane hgap="5.0" prefWidth="400.0" vgap="5.0">
         <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="40.0"/>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="220.0"/>
         </columnConstraints>
         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES"/>
             <RowConstraints minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES"/>
             <RowConstraints minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES"/>
             <RowConstraints minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES"/>
@@ -30,24 +31,26 @@
             <Button fx:id="buttonSelectImageFile" onAction="#onOpenImageEvent" prefWidth="150" text="_Open Image" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
             <TextField fx:id="textImageFileName" style="-fx-background-color: #CCC;" editable="false" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
 
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Name : " GridPane.columnIndex="0" GridPane.rowIndex="2"/>
-            <TextField fx:id="textName" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Vendor : " GridPane.columnIndex="0" GridPane.rowIndex="3"/>
-            <TextField fx:id="textVendor" GridPane.columnIndex="1" GridPane.rowIndex="3"/>
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Type : " GridPane.columnIndex="0" GridPane.rowIndex="4"/>
-            <TextField fx:id="textType" GridPane.columnIndex="1" GridPane.rowIndex="4"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Vendor : " GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+            <TextField fx:id="textVendor" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Type : " GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+            <TextField fx:id="textType" GridPane.columnIndex="1" GridPane.rowIndex="3"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Family : " GridPane.columnIndex="0" GridPane.rowIndex="4"/>
+            <TextField fx:id="textFamily" GridPane.columnIndex="1" GridPane.rowIndex="4"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Chip Name : " GridPane.columnIndex="0" GridPane.rowIndex="5"/>
+            <TextField fx:id="textName" GridPane.columnIndex="1" GridPane.rowIndex="5"/>
 
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Source Url : " GridPane.columnIndex="0" GridPane.rowIndex="5"/>
-            <TextField fx:id="textSourceUrl" GridPane.columnIndex="1" GridPane.rowIndex="5"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Source Url : " GridPane.columnIndex="0" GridPane.rowIndex="6"/>
+            <TextField fx:id="textSourceUrl" GridPane.columnIndex="1" GridPane.rowIndex="6"/>
 
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="GitHub Repo : " GridPane.columnIndex="0" GridPane.rowIndex="6"/>
-            <TextField fx:id="textGithubRepo" text="misdake/ChipAnnotationData" GridPane.columnIndex="1" GridPane.rowIndex="6"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="GitHub Repo : " GridPane.columnIndex="0" GridPane.rowIndex="7"/>
+            <TextField fx:id="textGithubRepo" text="misdake/ChipAnnotationData" GridPane.columnIndex="1" GridPane.rowIndex="7"/>
 
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="GitHub IssueId : " GridPane.columnIndex="0" GridPane.rowIndex="7"/>
-            <TextField fx:id="textGithubIssueId" GridPane.columnIndex="1" GridPane.rowIndex="7"/>
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="GitHub IssueId : " GridPane.columnIndex="0" GridPane.rowIndex="8"/>
+            <TextField fx:id="textGithubIssueId" GridPane.columnIndex="1" GridPane.rowIndex="8"/>
 
-            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Physical Size : " GridPane.columnIndex="0" GridPane.rowIndex="8"/>
-            <HBox GridPane.columnIndex="1" GridPane.rowIndex="8">
+            <Label alignment="CENTER_RIGHT" prefWidth="Infinity" text="Physical Size : " GridPane.columnIndex="0" GridPane.rowIndex="9"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="9">
                 <HBox prefWidth="150">
                     <Label minHeight="10.0" prefHeight="23.0" text="width:"/>
                     <TextField fx:id="textPhysicalWidth" minHeight="10.0" prefHeight="23.0" prefWidth="60"/>
@@ -60,10 +63,10 @@
                 </HBox>
             </HBox>
 
-            <Label fx:id="labelStatus" alignment="CENTER" prefWidth="Infinity" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="9"/>
+            <Label fx:id="labelStatus" alignment="CENTER" prefWidth="Infinity" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="10"/>
 
-            <Button fx:id="buttonStart" onAction="#onStartEvent" prefWidth="150" text="Start!" GridPane.columnIndex="0" GridPane.rowIndex="10"/>
-            <ProgressBar fx:id="progressProcess" prefHeight="23.0" prefWidth="Infinity" progress="0" GridPane.columnIndex="1" GridPane.rowIndex="10">
+            <Button fx:id="buttonStart" onAction="#onStartEvent" prefWidth="150" text="Start!" GridPane.columnIndex="0" GridPane.rowIndex="11"/>
+            <ProgressBar fx:id="progressProcess" prefHeight="23.0" prefWidth="Infinity" progress="0" GridPane.columnIndex="1" GridPane.rowIndex="11">
                 <padding>
                     <Insets top="1.0"/>
                 </padding>

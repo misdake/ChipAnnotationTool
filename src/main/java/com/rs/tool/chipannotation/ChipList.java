@@ -8,28 +8,27 @@ import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 public class ChipList {
 
-    public enum ChipType {
-        CPU, GPU, SOC,
-    }
-
     public static class Chip {
         public final String vendor;
-        public final ChipType type;
+        public final String type;
+        public final String family;
         public final String name;
         public final String url;
 
         public final String id;
 
-        public Chip(String vendor, ChipType type, String name, String url) {
+        public Chip(String vendor, String type, String family, String name, String url) {
             this.vendor = vendor;
             this.type = type;
+            this.family = family;
             this.name = name;
             this.url = url;
-            this.id = type.name() + " " + vendor + " " + name;
+            this.id = type + " " + vendor + " " + family + " " + name;
         }
 
         @Override
@@ -70,6 +69,7 @@ public class ChipList {
     }
 
     public boolean save() {
+        chips.sort(Comparator.comparing(o -> o.id));
         String s = gson.toJson(chips);
         try {
             Files.write(new File(filename).toPath(), s.getBytes(), StandardOpenOption.CREATE);

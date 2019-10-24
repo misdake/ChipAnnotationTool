@@ -5,7 +5,11 @@ import java.util.List;
 
 public class ImageContent {
 
+    public String vendor;
+    public String type;
+    public String family;
     public String name;
+
     public String githubRepo;
     public int githubIssueId;
     public String source;

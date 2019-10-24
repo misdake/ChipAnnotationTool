@@ -34,9 +34,12 @@ public class UiController implements Initializable {
 
     public TextField textDataFolder;
     public TextField textImageFileName;
-    public TextField textName;
+
     public TextField textVendor;
     public TextField textType;
+    public TextField textFamily;
+    public TextField textName;
+
     public TextField textSourceUrl;
     public TextField textGithubRepo;
     public TextField textGithubIssueId;
@@ -72,7 +75,7 @@ public class UiController implements Initializable {
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Select Data List");
         fileChooser.setInitialDirectory(new File(listFolder != null ? listFolder : System.getProperty("user.home")));
-        fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("Data List", "list.txt"));
+        fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("Data List", "list.json"));
         File listFile = fileChooser.showOpenDialog(((Node) actionEvent.getTarget()).getScene().getWindow());
         if (listFile != null) {
             File folder = listFile.getParentFile();
@@ -96,7 +99,24 @@ public class UiController implements Initializable {
             AppConfig.instance().setImageFolder(imageFile.getParentFile().getAbsolutePath());
             String name = imageFile.getName();
             name = name.substring(0, name.lastIndexOf('.'));
+
             textName.setText(name);
+
+            if (name.contains("CPU")) textType.setText("CPU");
+            if (name.contains("GPU")) textType.setText("GPU");
+            if (name.contains("SOC")) textType.setText("SOC");
+
+            if (name.contains("AMD")) textVendor.setText("AMD");
+            if (name.contains("Intel")) textVendor.setText("Intel");
+            if (name.contains("nVIDIA")) textVendor.setText("nVIDIA");
+
+            //reset textfields
+            reportInfo("");
+            setProgress(0, 1);
+            textSourceUrl.setText("");
+            textGithubIssueId.setText("");
+            textPhysicalWidth.setText("");
+            textPhysicalHeight.setText("");
         }
     }
 
@@ -155,7 +175,11 @@ public class UiController implements Initializable {
 
             ImageContent imageContent = Cut.preProcess(sourceImage);
 
+            imageContent.vendor = textVendor.getText().trim();
+            imageContent.type = textType.getText().trim();
+            imageContent.family = textFamily.getText().trim();
             imageContent.name = textName.getText().trim();
+
             imageContent.widthMillimeter = size[0];
             imageContent.heightMillimeter = size[1];
             imageContent.githubRepo = textGithubRepo.getText();
@@ -227,14 +251,13 @@ public class UiController implements Initializable {
                 reportError("cannot write content.json");
             }
 
-
             reportInfo("saving chip list");
             ChipList chipList = new ChipList(dataFolder.getAbsolutePath() + "/list.json");
             if (!chipList.load()) {
                 reportError("cannot read list.json");
                 return;
             }
-            chipList.add(new ChipList.Chip("", ChipList.ChipType.CPU, "name", githubPagesRoot));
+            chipList.add(new ChipList.Chip(imageContent.vendor, imageContent.type, imageContent.family, imageContent.name, githubPagesRoot));
             if (!chipList.save()) {
                 reportError("cannot write list.json");
                 return;
