@@ -554,10 +554,17 @@
       ]
     },
     {
-      "name": "Zen2_Core",
+      "name": "Zeppelin",
       "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 3,
-      "insertTime": "Thu, 24 Oct 2019 08:04:16 GMT",
+      "githubIssueId": 5,
+      "insertTime": "Thu, 24 Oct 2019 14:52:02 GMT",
+      "comments": []
+    },
+    {
+      "name": "Raven_Ridge",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 6,
+      "insertTime": "Thu, 24 Oct 2019 14:59:34 GMT",
       "comments": []
     },
     {
@@ -572,7 +579,15 @@
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 4,
       "insertTime": "Thu, 24 Oct 2019 08:07:25 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "IO",
+          "username": "misdake",
+          "commentId": 546176131,
+          "insertTime": "Fri, 25 Oct 2019 02:38:25 GMT",
+          "updateTime": "Fri, 25 Oct 2019 15:19:05 GMT"
+        }
+      ]
     },
     {
       "name": "Rome_IOD",
@@ -581,14 +596,35 @@
       "insertTime": "Thu, 24 Oct 2019 05:28:29 GMT",
       "comments": [
         {
-          "title": "Top level",
+          "title": "IO",
           "username": "misdake",
           "commentId": 545759647,
           "insertTime": "Thu, 24 Oct 2019 06:04:19 GMT",
-          "updateTime": "Thu, 24 Oct 2019 06:04:19 GMT"
+          "updateTime": "Thu, 24 Oct 2019 10:54:55 GMT"
         }
       ]
+    },
+    {
+      "name": "Zen2_Core",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 3,
+      "insertTime": "Thu, 24 Oct 2019 08:04:16 GMT",
+      "comments": []
+    },
+    {
+      "name": "Kabylake_2+2",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 8,
+      "insertTime": "Fri, 25 Oct 2019 02:25:08 GMT",
+      "comments": []
+    },
+    {
+      "name": "Skylake_LCC",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 7,
+      "insertTime": "Fri, 25 Oct 2019 02:23:26 GMT",
+      "comments": []
     }
   ],
-  "time": "Thu, 24 Oct 2019 08:07:25 GMT"
+  "time": "Fri, 25 Oct 2019 15:19:05 GMT"
 }

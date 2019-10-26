@@ -1,60 +1,4 @@
 {
-  "2019.02.04": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Fiji",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453737453,
-      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "updateTime": "Mon, 04 Feb 2019 06:18:07 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 04 Feb 2019 06:18:07 GMT",
-      "dateString": "2019.02.04"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Polaris10",
-      "title": "Top Level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 9,
-      "commentId": 460143382,
-      "insertTime": "Mon, 04 Feb 2019 06:26:52 GMT",
-      "updateTime": "Mon, 04 Feb 2019 06:27:33 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 04 Feb 2019 06:26:52 GMT",
-      "dateString": "2019.02.04"
-    }
-  ],
-  "2019.02.17": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Polaris22",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 12,
-      "commentId": 464451905,
-      "insertTime": "Sun, 17 Feb 2019 12:37:34 GMT",
-      "updateTime": "Sun, 17 Feb 2019 12:38:09 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 17 Feb 2019 12:37:34 GMT",
-      "dateString": "2019.02.17"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Polaris22",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 12,
-      "insertTime": "Sun, 17 Feb 2019 20:12:20 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 17 Feb 2019 20:12:20 GMT",
-      "dateString": "2019.02.17"
-    }
-  ],
   "2019.03.05": [
     {
       "type": "IMAGE_CREATE",
@@ -853,6 +797,118 @@
       "logType": "COMMENT_UPDATE",
       "time": "Wed, 23 Oct 2019 04:29:28 GMT",
       "dateString": "2019.10.23"
+    }
+  ],
+  "2019.10.24": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Rome_IOD",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 1,
+      "insertTime": "Thu, 24 Oct 2019 05:28:29 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 05:28:29 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Rome_IOD",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 1,
+      "commentId": 545759647,
+      "insertTime": "Thu, 24 Oct 2019 06:04:19 GMT",
+      "updateTime": "Thu, 24 Oct 2019 06:04:19 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 24 Oct 2019 06:04:19 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Matisse_CCD",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 2,
+      "insertTime": "Thu, 24 Oct 2019 08:02:32 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 08:02:32 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zen2_Core",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 3,
+      "insertTime": "Thu, 24 Oct 2019 08:04:16 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 08:04:16 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Matisse_IOD",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 4,
+      "insertTime": "Thu, 24 Oct 2019 08:07:25 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 08:07:25 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zeppelin",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 5,
+      "insertTime": "Thu, 24 Oct 2019 14:52:02 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 14:52:02 GMT",
+      "dateString": "2019.10.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Raven_Ridge",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 6,
+      "insertTime": "Thu, 24 Oct 2019 14:59:34 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 24 Oct 2019 14:59:34 GMT",
+      "dateString": "2019.10.24"
+    }
+  ],
+  "2019.10.25": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Skylake_LCC",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 7,
+      "insertTime": "Fri, 25 Oct 2019 02:23:26 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 25 Oct 2019 02:23:26 GMT",
+      "dateString": "2019.10.25"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Kabylake_2+2",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 8,
+      "insertTime": "Fri, 25 Oct 2019 02:25:08 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 25 Oct 2019 02:25:08 GMT",
+      "dateString": "2019.10.25"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Matisse_IOD",
+      "title": "IO",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 4,
+      "commentId": 546176131,
+      "insertTime": "Fri, 25 Oct 2019 02:38:25 GMT",
+      "updateTime": "Fri, 25 Oct 2019 15:19:05 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Fri, 25 Oct 2019 02:38:25 GMT",
+      "dateString": "2019.10.25"
     }
   ]
 }
