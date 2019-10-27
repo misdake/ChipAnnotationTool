@@ -1256,5 +1256,19 @@
     "logType": "COMMENT_UPDATE",
     "time": "Fri, 25 Oct 2019 15:19:05 GMT",
     "dateString": "2019.10.25"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Matisse_IOD",
+    "title": "IO",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 4,
+    "commentId": 546176131,
+    "insertTime": "Fri, 25 Oct 2019 02:38:25 GMT",
+    "updateTime": "Sat, 26 Oct 2019 02:29:50 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sat, 26 Oct 2019 02:29:50 GMT",
+    "dateString": "2019.10.26"
   }
 ]

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 25 Oct 2019 15:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2019 02:29:50 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -697,6 +697,55 @@
             <pubDate>Thu, 24 Oct 2019 08:07:25 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD</link>
             <guid isPermaLink="false">Matisse_IOD</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: IO for Rome_IOD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 24 Oct 2019 10:54:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=545759647</link>
+            <guid isPermaLink="false">Rome_IOD_1_545759647_UPDATE_1571914495000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zeppelin]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:52:02 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin</link>
+            <guid isPermaLink="false">Zeppelin</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Raven_Ridge]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:59:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raven_Ridge</link>
+            <guid isPermaLink="false">Raven_Ridge</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Skylake_LCC]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 25 Oct 2019 02:23:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_LCC</link>
+            <guid isPermaLink="false">Skylake_LCC</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kabylake_2+2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 25 Oct 2019 02:25:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabylake_2+2</link>
+            <guid isPermaLink="false">Kabylake_2+2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: IO for Matisse_IOD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 25 Oct 2019 02:38:25 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=546176131</link>
+            <guid isPermaLink="false">Matisse_IOD_4_546176131_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: IO for Matisse_IOD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 25 Oct 2019 15:19:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=546176131</link>
+            <guid isPermaLink="false">Matisse_IOD_4_546176131_UPDATE_1572016745000</guid>
         </item>
 
     </channel>
