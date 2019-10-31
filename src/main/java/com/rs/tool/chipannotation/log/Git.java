@@ -14,6 +14,8 @@ public class Git {
 
 	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
 		Path directory = new File(".").getAbsoluteFile().toPath();
+		System.out.println("------- git pull -------");
+		gitPull(directory);
 		System.out.println("------- git add -------");
 		gitStage(directory);
 		System.out.println("------- git commit -------");
@@ -25,6 +27,10 @@ public class Git {
 
 	private static void gitInit(Path directory) throws IOException, InterruptedException {
 		runCommand(directory, "git", "init");
+	}
+
+	private static void gitPull(Path directory) throws IOException, InterruptedException {
+		runCommand(directory, "git", "pull");
 	}
 
 	private static void gitStage(Path directory) throws IOException, InterruptedException {
