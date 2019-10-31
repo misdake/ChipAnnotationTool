@@ -56,7 +56,8 @@ public class Cut {
     }
 
     public static void cutAll(ImageContent imageContent, BufferedImage sourceImage, File targetFolder, ProgressCallback progressCallback) {
-        sourceImage = expand(sourceImage, imageContent.tileSize << imageContent.maxLevel, imageContent.tileSize << imageContent.maxLevel);
+        ImageContent.Level level0 = imageContent.levels.get(0);
+        sourceImage = expand(sourceImage, imageContent.tileSize * level0.xMax, imageContent.tileSize * level0.yMax);
 
         for (int i = 0; i <= imageContent.maxLevel; i++) {
             System.gc();
@@ -72,7 +73,12 @@ public class Cut {
 
             ImageContent.Level level = imageContent.levels.get(i);
             System.out.println("resizing level: " + i);
-            BufferedImage cutImage = i == 0 ? sourceImage : Scalr.resize(sourceImage, Scalr.Method.QUALITY, imageContent.tileSize << (imageContent.maxLevel - i), imageContent.tileSize << (imageContent.maxLevel - i));
+            BufferedImage cutImage = sourceImage;
+            if (i > 0) {
+                //tileSize=512 => i<=9 (will always be true, for up-to 262k-width images)
+                cutImage = Scalr.resize(sourceImage, Scalr.Method.QUALITY, sourceImage.getWidth() >> i, sourceImage.getHeight() >> i);
+                cutImage = expand(cutImage, imageContent.tileSize * level.xMax, imageContent.tileSize * level.yMax);
+            }
             progressCallback.doneResize(i);
 
             System.out.println("writing level: " + i);

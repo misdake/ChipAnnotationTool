@@ -167,7 +167,8 @@ public class UiController implements Initializable {
             BufferedImage sourceImage = null;
             try {
                 sourceImage = ImageIO.read(this.imageFile);
-            } catch (IOException ignored) {
+            } catch (IOException e) {
+                e.printStackTrace();
             }
             if (sourceImage == null) {
                 reportError("cannot read image file");
