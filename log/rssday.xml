@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 26 Oct 2019 02:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2019 03:07:51 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.03.06]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470004164'>Top level for TU116 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470006848'>GPC for TU116 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470008804'>Backend for TU116 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470010587'>Top level for TU106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470013866'>GPC for TU106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470015092'>Backend for TU106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106&amp;commentId=470099401'>TPC area for TU106 by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116&amp;commentId=470099814'>TPC area for TU116 by 0x22h</a><br>]]></description>
-            <pubDate>Wed, 06 Mar 2019 13:05:53 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.03.06</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.03.07]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU102'>TU102</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 26 Oct 2019 02:29:50 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.10.26</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.01]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548651920'>IO for Matisse_IOD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548676036'>what is this? for Matisse_IOD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=548832292'>Compare with Matisse for Rome_IOD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548832366'>Compare with Rome for Matisse_IOD by misdake</a><br>]]></description>
+            <pubDate>Fri, 01 Nov 2019 15:31:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.01</guid>
         </item>
 
     </channel>
