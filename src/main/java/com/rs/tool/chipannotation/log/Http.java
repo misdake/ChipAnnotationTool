@@ -1,14 +1,46 @@
 package com.rs.tool.chipannotation.log;
 
 import com.google.gson.Gson;
+import okhttp3.Credentials;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
+import java.io.File;
+import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.net.Proxy;
+import java.nio.file.Files;
+import java.util.List;
 
 public class Http {
+
+    private static String credential;
+
+    static {
+        try {
+            List<String> list = Files.readAllLines(new File("login.txt").toPath());
+            if (list.size() > 0) {
+                String username = list.get(0);
+                String password = list.get(1);
+                credential = Credentials.basic(username, password);
+                System.out.println("request github api with credential");
+            } else {
+                System.err.println("request github api without credential. api limit will be very low!");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static Request request(String url) {
+        Request.Builder builder = new Request.Builder();
+        if (credential != null) {
+            builder.header("Authorization", credential);
+        }
+        return builder.url(url).build();
+    }
+
     private final static Proxy        proxy  = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
     private final static OkHttpClient client = new OkHttpClient.Builder()
             .proxy(proxy)
@@ -30,9 +62,7 @@ public class Http {
     }
 
     public static <T> T get(String url, Class<T> clazz) {
-        Request request = new Request.Builder()
-                .url(url)
-                .build();
+        Request request = request(url);
 
         int retry = 3;
         while (--retry >= 0) {
@@ -44,7 +74,9 @@ public class Http {
                 }
                 String apiRemaining = response.header("X-RateLimit-Remaining");
                 String apiLimit = response.header("X-RateLimit-Limit");
-                if (apiRemaining != null) System.out.println("    api left: " + apiRemaining + "/" + apiLimit);
+                if (credential == null && apiRemaining != null) {
+                    System.err.println("api left: " + apiRemaining + "/" + apiLimit);
+                }
                 T r = gson.fromJson(string, clazz);
                 return r;
             } catch (Exception e) {
