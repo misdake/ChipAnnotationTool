@@ -11,7 +11,7 @@ import java.net.Proxy;
 public class Http {
     private final static Proxy        proxy  = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
     private final static OkHttpClient client = new OkHttpClient.Builder()
-//            .proxy(proxy)
+            .proxy(proxy)
             .build();
     public final static  Gson         gson   = new Gson();
 
@@ -34,18 +34,26 @@ public class Http {
                 .url(url)
                 .build();
 
-        try (Response response = client.newCall(request).execute()) {
-            String string = response.body() != null ? response.body().string() : null;
-            if (response.code() == 403) {
-                System.out.println("403!");
-                System.out.println(string);
+        int retry = 3;
+        while (--retry >= 0) {
+            try (Response response = client.newCall(request).execute()) {
+                String string = response.body() != null ? response.body().string() : null;
+                if (response.code() == 403) {
+                    System.out.println("403!");
+                    System.out.println(string);
+                }
+                String apiRemaining = response.header("X-RateLimit-Remaining");
+                String apiLimit = response.header("X-RateLimit-Limit");
+                if (apiRemaining != null) System.out.println("    api left: " + apiRemaining + "/" + apiLimit);
+                T r = gson.fromJson(string, clazz);
+                return r;
+            } catch (Exception e) {
+                System.err.println("retry left: " + retry + "url :" + url);
+                //noinspection ThrowablePrintedToSystemOut
+                System.out.println(e);
             }
-            T r = gson.fromJson(string, clazz);
-            return r;
-        } catch (Exception e) {
-            e.printStackTrace();
-            return null;
         }
+        return null;
     }
 
 }
