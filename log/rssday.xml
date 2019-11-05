@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 04 Nov 2019 02:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2019 07:23:20 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.03.25]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GT200&amp;commentId=475917799'>Block diagram for GT200 by 0x22h</a><br>]]></description>
-            <pubDate>Mon, 25 Mar 2019 07:56:42 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.03.25</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.03.29]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GM200&amp;commentId=477844276'>SM for GM200 by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP104&amp;commentId=477878931'>Block Diagram for GP104 by 0x22h</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 03 Nov 2019 09:31:54 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.11.03</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.04]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636'>Top level for Polaris11 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=549238805'>ROPs for Tahiti by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=549243529'>ROPs? for Pitcairn by misdake</a><br>]]></description>
+            <pubDate>Mon, 04 Nov 2019 07:15:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.04</guid>
         </item>
 
     </channel>
