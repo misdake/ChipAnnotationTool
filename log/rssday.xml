@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 05 Nov 2019 05:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2019 07:43:23 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.04.05]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK110&amp;commentId=453746268'>GPC for GK110 by 0x22h</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G80'>G80</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G92'>G92</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G94'>G94</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK104'>GK104</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF106'>GF106</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF114'>GF114</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK106'>GK106</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=PS4'>PS4</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=PS4Pro'>PS4Pro</a><br>]]></description>
-            <pubDate>Fri, 05 Apr 2019 23:57:36 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.04.05</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.04.06]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti'>Tahiti</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF106&amp;commentId=480515498'>ROPs+MC for GF106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G94&amp;commentId=480517917'>Block diagram for G94 by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G92&amp;commentId=480517985'>Block diagram for G92 by 0x22h</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Tue, 05 Nov 2019 05:29:44 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.11.05</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.08]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674'>Top level for Vega20 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=551388511'>Compare with Tahiti for Pitcairn by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=551388615'>Compare with Pitcairn for Tahiti by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=549238805'>ROPs for Tahiti by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=NV40&amp;commentId=551393949'>SLI for NV40 by misdake</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF100'>GF100</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF108'>GF108</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GM107'>GM107</a><br>]]></description>
+            <pubDate>Fri, 08 Nov 2019 07:43:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.08</guid>
         </item>
 
     </channel>

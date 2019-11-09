@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 05 Nov 2019 05:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2019 07:43:23 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -886,6 +886,62 @@
             <pubDate>Tue, 05 Nov 2019 05:29:44 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Hawaii&amp;commentId=549668778</link>
             <guid isPermaLink="false">Hawaii_8_549668778_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Vega20 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 04:50:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674</link>
+            <guid isPermaLink="false">Vega20_46_510073674_UPDATE_1573188630000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with Tahiti for Pitcairn by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 05:18:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=551388511</link>
+            <guid isPermaLink="false">Pitcairn_30_551388511_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with Pitcairn for Tahiti by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 05:18:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=551388615</link>
+            <guid isPermaLink="false">Tahiti_26_551388615_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: ROPs for Tahiti by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 05:27:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=549238805</link>
+            <guid isPermaLink="false">Tahiti_26_549238805_UPDATE_1573190875000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: SLI for NV40 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 05:46:59 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=NV40&amp;commentId=551393949</link>
+            <guid isPermaLink="false">NV40_36_551393949_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GF100]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 07:37:27 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF100</link>
+            <guid isPermaLink="false">GF100</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GF108]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 07:40:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF108</link>
+            <guid isPermaLink="false">GF108</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GM107]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 08 Nov 2019 07:43:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM107</link>
+            <guid isPermaLink="false">GM107</guid>
         </item>
 
     </channel>
