@@ -1,32 +1,77 @@
 package com.rs.tool.chipannotation;
 
-import org.imgscalr.Scalr;
-
-import javax.imageio.IIOImage;
-import javax.imageio.ImageIO;
-import javax.imageio.ImageWriteParam;
-import javax.imageio.ImageWriter;
+import javax.imageio.*;
 import javax.imageio.plugins.jpeg.JPEGImageWriteParam;
 import javax.imageio.stream.FileImageOutputStream;
-import java.awt.*;
+import javax.imageio.stream.ImageInputStream;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Cut {
 
-    public static ImageContent preProcess(BufferedImage sourceImage) {
+    public static final int TILE_SIZE = 512;
+    public static final int BLOCK_LEVEL = 5;
+    public static final int BLOCK_SIZE = TILE_SIZE << BLOCK_LEVEL;
+
+    private static ImageReader getReader(File file) {
+        try {
+            ImageInputStream stream = ImageIO.createImageInputStream(file);
+
+            Iterator<ImageReader> readers = ImageIO.getImageReaders(stream);
+            if (readers.hasNext()) {
+                try {
+                    ImageReader reader = readers.next();
+                    reader.setInput(stream, true, true);
+                    return reader;
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    public static ImageContent readImage(File file) {
+        ImageReader reader = getReader(file);
+        if (reader != null) {
+            try {
+                int width = reader.getWidth(reader.getMinIndex());
+                int height = reader.getHeight(reader.getMinIndex());
+                System.out.println("width: " + width + " height: " + height);
+                return preProcess(width, height);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return null;
+    }
+
+    public static ImageBlock readBlock(ImageReader imageReader, ImageContent imageContent, int blockX, int blockY) {
+        return new ImageBlock(imageReader, imageContent.width, imageContent.height, TILE_SIZE, BLOCK_SIZE, blockX, blockY);
+    }
+
+    public static void processRegion(ImageContent imageContent, ImageBlock imageBlock, String imageFolder, ProgressCallback progressCallback) {
+        for (ImageContent.Level level : imageContent.levels) {
+            imageBlock.process(imageFolder, level, progressCallback);
+        }
+    }
+
+    public static ImageContent preProcess(int width, int height) {
         ImageContent imageContent = new ImageContent();
-        imageContent.tileSize = 512;
-        imageContent.width = sourceImage.getWidth();
-        imageContent.height = sourceImage.getHeight();
+        imageContent.tileSize = TILE_SIZE;
+        imageContent.width = width;
+        imageContent.height = height;
         imageContent.levels = new ArrayList<>();
 
         int currentLevel = 0;
         int currentWidth = imageContent.width;
         int currentHeight = imageContent.height;
-        while (currentWidth > imageContent.tileSize / 2 || currentHeight > imageContent.tileSize / 2) {
+        while ((currentWidth > imageContent.tileSize / 2 || currentHeight > imageContent.tileSize / 2) && currentLevel <= BLOCK_LEVEL) {
             int xCount = (imageContent.width - 1) / (imageContent.tileSize << currentLevel) + 1;
             int yCount = (imageContent.height - 1) / (imageContent.tileSize << currentLevel) + 1;
             ImageContent.Level zoomLevel = new ImageContent.Level();
@@ -44,86 +89,42 @@ public class Cut {
     }
 
     public interface ProgressCallback {
-        void beginLevel(int level);
-
-        void doneResize(int level);
-
         void doneCut(int level, int x, int y);
 
         void alldone();
 
+        void show(String message);
+
         void failed(String reason);
     }
 
-    public static void cutAll(ImageContent imageContent, BufferedImage sourceImage, File targetFolder, ProgressCallback progressCallback) {
-        ImageContent.Level level0 = imageContent.levels.get(0);
-        sourceImage = expand(sourceImage, imageContent.tileSize * level0.xMax, imageContent.tileSize * level0.yMax);
-
+    public static void cutAll(ImageContent imageContent, File file, File targetFolder, ProgressCallback progressCallback) {
         for (int i = 0; i <= imageContent.maxLevel; i++) {
             System.gc();
-
-            progressCallback.beginLevel(i);
-
             File zoomFolder = new File(targetFolder.getAbsolutePath() + "/" + imageContent.name + "/" + i);
             boolean success = (zoomFolder.exists() && zoomFolder.isDirectory()) || zoomFolder.mkdirs();
             if (!success) {
                 progressCallback.failed("cannot create zoom folder");
                 return;
             }
+        }
 
-            ImageContent.Level level = imageContent.levels.get(i);
-            System.out.println("resizing level: " + i);
-            BufferedImage cutImage = sourceImage;
-            if (i > 0) {
-                //tileSize=512 => i<=9 (will always be true, for up-to 262k-width images)
-                cutImage = Scalr.resize(sourceImage, Scalr.Method.QUALITY, sourceImage.getWidth() >> i, sourceImage.getHeight() >> i);
-                cutImage = expand(cutImage, imageContent.tileSize * level.xMax, imageContent.tileSize * level.yMax);
-            }
-            progressCallback.doneResize(i);
-
-            System.out.println("writing level: " + i);
-            for (int x = 0; x < level.xMax; x++) {
-                for (int y = 0; y < level.yMax; y++) {
-                    cut(cutImage, imageContent, x, y, zoomFolder);
-                    progressCallback.doneCut(i, x, y);
-                }
+        int blockCountX = (imageContent.width - 1) / BLOCK_SIZE + 1;
+        int blockCountY = (imageContent.height - 1) / BLOCK_SIZE + 1;
+        int blockCount = blockCountX * blockCountY;
+        int i = 0;
+        ImageReader reader = getReader(file);
+        for (int x = 0; x < blockCountX; x++) {
+            for (int y = 0; y < blockCountY; y++) {
+                i++;
+                progressCallback.show("reading block " + i + "/" + blockCount + ", will take some time");
+                ImageBlock imageBlock = readBlock(reader, imageContent, x, y);
+                progressCallback.show("writing block " + i + "/" + blockCount);
+                processRegion(imageContent, imageBlock, targetFolder.getAbsolutePath() + "/" + imageContent.name, progressCallback);
             }
         }
+
         progressCallback.alldone();
-    }
-
-    private static void cut(BufferedImage image, ImageContent imageContent, int x, int y, File zoomFolder) {
-        int left = x * imageContent.tileSize;
-        int top = y * imageContent.tileSize;
-        int w = imageContent.tileSize;
-        int h = imageContent.tileSize;
-        boolean expand = false;
-        if (left + w > image.getWidth()) {
-            w = image.getWidth() - left;
-            expand = true;
-        }
-        if (top + h > image.getHeight()) {
-            h = image.getHeight() - top;
-            expand = true;
-        }
-        BufferedImage subImage = image.getSubimage(left, top, w, h);
-        if (expand) {
-            subImage = expand(subImage, imageContent.tileSize, imageContent.tileSize);
-        }
-        String name = String.format("%s/%d_%d.jpg", zoomFolder.getAbsolutePath(), x, y);
-        try {
-            writeImage(subImage, new File(name));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    private static BufferedImage expand(BufferedImage image, int width, int height) {
-        BufferedImage resized = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
-        Graphics2D g2d = resized.createGraphics();
-        g2d.drawImage(image, 0, 0, null);
-        g2d.dispose();
-        return resized;
     }
 
     private static JPEGImageWriteParam jpegParams;

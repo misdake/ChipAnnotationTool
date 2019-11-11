@@ -164,18 +164,12 @@ public class UiController implements Initializable {
 
             reportInfo("reading image");
 
-            BufferedImage sourceImage = null;
-            try {
-                sourceImage = ImageIO.read(this.imageFile);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            if (sourceImage == null) {
+            ImageContent imageContent = Cut.readImage(this.imageFile);
+
+            if (imageContent == null) {
                 reportError("cannot read image file");
                 return;
             }
-
-            ImageContent imageContent = Cut.preProcess(sourceImage);
 
             imageContent.vendor = textVendor.getText().trim();
             imageContent.type = textType.getText().trim();
@@ -206,24 +200,10 @@ public class UiController implements Initializable {
             for (ImageContent.Level level : imageContent.levels) {
                 accu += level.xMax * level.yMax;
             }
-            int total = accu * 2;
-            int levelCount = imageContent.maxLevel;
+            int total = accu;
 
-
-            Cut.cutAll(imageContent, sourceImage, dataFolder, new Cut.ProgressCallback() {
+            Cut.cutAll(imageContent, this.imageFile, dataFolder, new Cut.ProgressCallback() {
                 int current = 0;
-
-                @Override
-                public void beginLevel(int level) {
-                    reportInfo(String.format("processing level %d/%d", level + 1, levelCount + 1));
-                }
-
-                @Override
-                public void doneResize(int level) {
-                    ImageContent.Level l = imageContent.levels.get(level);
-                    current += l.xMax * l.yMax;
-                    setProgress(current, total);
-                }
 
                 @Override
                 public void doneCut(int level, int x, int y) {
@@ -237,12 +217,15 @@ public class UiController implements Initializable {
                 }
 
                 @Override
+                public void show(String message) {
+                    reportInfo(message);
+                }
+                @Override
                 public void failed(String reason) {
                     reportError(reason);
                 }
 
             });
-
 
             reportInfo("saving content.json");
             String json = gson.toJson(imageContent);
