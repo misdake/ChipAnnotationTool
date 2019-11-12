@@ -1,74 +1,4 @@
 {
-  "2019.04.06": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Tahiti",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 26,
-      "insertTime": "Sat, 06 Apr 2019 00:06:41 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 06 Apr 2019 00:06:41 GMT",
-      "dateString": "2019.04.06"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GF106",
-      "title": "ROPs+MC",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 21,
-      "commentId": 480515498,
-      "insertTime": "Sat, 06 Apr 2019 16:02:26 GMT",
-      "updateTime": "Sat, 06 Apr 2019 16:02:26 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 06 Apr 2019 16:02:26 GMT",
-      "dateString": "2019.04.06"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "G94",
-      "title": "Block diagram",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 19,
-      "commentId": 480517917,
-      "insertTime": "Sat, 06 Apr 2019 16:33:22 GMT",
-      "updateTime": "Sun, 07 Apr 2019 00:00:09 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 06 Apr 2019 16:33:22 GMT",
-      "dateString": "2019.04.06"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "G92",
-      "title": "Block diagram",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 18,
-      "commentId": 480517985,
-      "insertTime": "Sat, 06 Apr 2019 16:34:26 GMT",
-      "updateTime": "Sat, 06 Apr 2019 23:56:38 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 06 Apr 2019 16:34:26 GMT",
-      "dateString": "2019.04.06"
-    }
-  ],
-  "2019.04.07": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "G94",
-      "title": "Block diagram",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 19,
-      "commentId": 480517917,
-      "insertTime": "Sat, 06 Apr 2019 16:33:22 GMT",
-      "updateTime": "Sun, 07 Apr 2019 00:00:09 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 07 Apr 2019 00:00:09 GMT",
-      "dateString": "2019.04.07"
-    }
-  ],
   "2019.04.26": [
     {
       "type": "IMAGE_CREATE",
@@ -917,6 +847,44 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 08 Nov 2019 07:43:23 GMT",
       "dateString": "2019.11.08"
+    }
+  ],
+  "2019.11.09": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Pitcairn",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 30,
+      "commentId": 552058726,
+      "insertTime": "Sat, 09 Nov 2019 02:51:24 GMT",
+      "updateTime": "Sat, 09 Nov 2019 03:00:38 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 09 Nov 2019 02:51:24 GMT",
+      "dateString": "2019.11.09"
+    }
+  ],
+  "2019.11.11": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zen2_CCD",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 2,
+      "insertTime": "Mon, 11 Nov 2019 06:08:09 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 11 Nov 2019 06:08:09 GMT",
+      "dateString": "2019.11.11"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Xbox_One",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 12,
+      "insertTime": "Mon, 11 Nov 2019 07:36:37 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 11 Nov 2019 07:36:37 GMT",
+      "dateString": "2019.11.11"
     }
   ]
 }

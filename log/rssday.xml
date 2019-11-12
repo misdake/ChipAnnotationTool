@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 08 Nov 2019 07:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2019 07:36:37 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.04.06]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti'>Tahiti</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF106&amp;commentId=480515498'>ROPs+MC for GF106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G94&amp;commentId=480517917'>Block diagram for G94 by 0x22h</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G92&amp;commentId=480517985'>Block diagram for G92 by 0x22h</a><br>]]></description>
-            <pubDate>Sat, 06 Apr 2019 16:34:26 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.04.06</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2019.04.07]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G94&amp;commentId=480517917'>Block diagram for G94 by 0x22h</a><br>]]></description>
-            <pubDate>Sun, 07 Apr 2019 00:00:09 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.04.07</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.04.26]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R520'>R520</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R580'>R580</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RV570'>RV570</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cayman'>Cayman</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn'>Pitcairn</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R430'>R430</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RV670'>RV670</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G70'>G70</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G71'>G71</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=NV40'>NV40</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RSX'>RSX</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Fri, 08 Nov 2019 07:43:23 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.11.08</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.09]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726'>Top level for Pitcairn by misdake</a><br>]]></description>
+            <pubDate>Sat, 09 Nov 2019 02:51:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.09</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.11]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD'>Zen2_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One'>Xbox_One</a><br>]]></description>
+            <pubDate>Mon, 11 Nov 2019 07:36:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.11</guid>
         </item>
 
     </channel>
