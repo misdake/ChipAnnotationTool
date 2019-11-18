@@ -1,116 +1,4 @@
 {
-  "2019.04.26": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "R520",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 29,
-      "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "R580",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 27,
-      "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "RV570",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 28,
-      "insertTime": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:27:55 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Cayman",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 31,
-      "insertTime": "Fri, 26 Apr 2019 00:31:18 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:31:18 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Pitcairn",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 30,
-      "insertTime": "Fri, 26 Apr 2019 00:31:18 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:31:18 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "R430",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 33,
-      "insertTime": "Fri, 26 Apr 2019 00:44:01 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:44:01 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "RV670",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 32,
-      "insertTime": "Fri, 26 Apr 2019 00:44:01 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:44:01 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "G70",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 34,
-      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "G71",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 35,
-      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "NV40",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 36,
-      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "dateString": "2019.04.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "RSX",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 37,
-      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "dateString": "2019.04.26"
-    }
-  ],
   "2019.05.23": [
     {
       "type": "COMMENT_INSERT",
@@ -885,6 +773,100 @@
       "logType": "IMAGE_CREATE",
       "time": "Mon, 11 Nov 2019 07:36:37 GMT",
       "dateString": "2019.11.11"
+    }
+  ],
+  "2019.11.17": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "G73",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 1,
+      "insertTime": "Sun, 17 Nov 2019 13:35:29 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 17 Nov 2019 13:35:29 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "K6",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 2,
+      "insertTime": "Sun, 17 Nov 2019 13:37:32 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 17 Nov 2019 13:37:32 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "NV42",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 3,
+      "insertTime": "Sun, 17 Nov 2019 13:43:00 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 17 Nov 2019 13:43:00 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "NV43",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 4,
+      "insertTime": "Sun, 17 Nov 2019 13:44:03 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 17 Nov 2019 13:44:03 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "R600",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 5,
+      "insertTime": "Sun, 17 Nov 2019 13:49:23 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 17 Nov 2019 13:49:23 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "R600",
+      "title": "RBE \u0026 MC",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 5,
+      "commentId": 554750880,
+      "insertTime": "Sun, 17 Nov 2019 14:27:05 GMT",
+      "updateTime": "Sun, 17 Nov 2019 14:27:05 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 17 Nov 2019 14:27:05 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "K6",
+      "title": "Cache",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 2,
+      "commentId": 554756202,
+      "insertTime": "Sun, 17 Nov 2019 15:23:50 GMT",
+      "updateTime": "Sun, 17 Nov 2019 16:14:16 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 17 Nov 2019 15:23:50 GMT",
+      "dateString": "2019.11.17"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "K6",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 2,
+      "commentId": 554760232,
+      "insertTime": "Sun, 17 Nov 2019 16:02:34 GMT",
+      "updateTime": "Sun, 17 Nov 2019 16:06:51 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 17 Nov 2019 16:02:34 GMT",
+      "dateString": "2019.11.17"
     }
   ]
 }

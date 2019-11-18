@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 11 Nov 2019 07:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2019 04:55:32 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -942,6 +942,34 @@
             <pubDate>Fri, 08 Nov 2019 07:43:23 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM107</link>
             <guid isPermaLink="false">GM107</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for Pitcairn by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 09 Nov 2019 02:51:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726</link>
+            <guid isPermaLink="false">Pitcairn_30_552058726_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Pitcairn by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 09 Nov 2019 03:00:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726</link>
+            <guid isPermaLink="false">Pitcairn_30_552058726_UPDATE_1573268438000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen2_CCD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 11 Nov 2019 06:08:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD</link>
+            <guid isPermaLink="false">Zen2_CCD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xbox_One]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 11 Nov 2019 07:36:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One</link>
+            <guid isPermaLink="false">Xbox_One</guid>
         </item>
 
     </channel>
