@@ -1,20 +1,4 @@
 {
-  "2019.05.23": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Hawaii",
-      "title": "wip",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 8,
-      "commentId": 495222037,
-      "insertTime": "Thu, 23 May 2019 13:38:21 GMT",
-      "updateTime": "Thu, 23 May 2019 13:38:21 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Thu, 23 May 2019 13:38:21 GMT",
-      "dateString": "2019.05.23"
-    }
-  ],
   "2019.06.03": [
     {
       "type": "IMAGE_CREATE",
@@ -867,6 +851,22 @@
       "logType": "COMMENT_INSERT",
       "time": "Sun, 17 Nov 2019 16:02:34 GMT",
       "dateString": "2019.11.17"
+    }
+  ],
+  "2019.11.18": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "G70",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 34,
+      "commentId": 545011850,
+      "insertTime": "Tue, 22 Oct 2019 15:14:10 GMT",
+      "updateTime": "Mon, 18 Nov 2019 04:55:32 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Mon, 18 Nov 2019 04:55:32 GMT",
+      "dateString": "2019.11.18"
     }
   ]
 }
