@@ -1818,5 +1818,47 @@
     "logType": "COMMENT_UPDATE",
     "time": "Mon, 18 Nov 2019 04:55:32 GMT",
     "dateString": "2019.11.18"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Pitcairn",
+    "title": "Compare with Tahiti",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 30,
+    "commentId": 551388511,
+    "insertTime": "Fri, 08 Nov 2019 05:18:04 GMT",
+    "updateTime": "Thu, 21 Nov 2019 13:02:55 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Thu, 21 Nov 2019 13:02:55 GMT",
+    "dateString": "2019.11.21"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Tahiti",
+    "title": "Compare with Pitcairn",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 26,
+    "commentId": 551388615,
+    "insertTime": "Fri, 08 Nov 2019 05:18:32 GMT",
+    "updateTime": "Thu, 21 Nov 2019 13:03:06 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Thu, 21 Nov 2019 13:03:06 GMT",
+    "dateString": "2019.11.21"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Pitcairn",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 30,
+    "commentId": 552058726,
+    "insertTime": "Sat, 09 Nov 2019 02:51:24 GMT",
+    "updateTime": "Thu, 21 Nov 2019 13:08:21 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Thu, 21 Nov 2019 13:08:21 GMT",
+    "dateString": "2019.11.21"
   }
 ]
