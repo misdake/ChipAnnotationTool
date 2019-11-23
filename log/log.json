@@ -1860,5 +1860,61 @@
     "logType": "COMMENT_UPDATE",
     "time": "Thu, 21 Nov 2019 13:08:21 GMT",
     "dateString": "2019.11.21"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Polaris10",
+    "title": "Compare with P11",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 9,
+    "commentId": 557549303,
+    "insertTime": "Fri, 22 Nov 2019 14:20:13 GMT",
+    "updateTime": "Fri, 22 Nov 2019 14:20:13 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Fri, 22 Nov 2019 14:20:13 GMT",
+    "dateString": "2019.11.22"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Polaris11",
+    "title": "Compare with P10",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 10,
+    "commentId": 557549418,
+    "insertTime": "Fri, 22 Nov 2019 14:20:32 GMT",
+    "updateTime": "Fri, 22 Nov 2019 14:20:32 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Fri, 22 Nov 2019 14:20:32 GMT",
+    "dateString": "2019.11.22"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Polaris11",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 10,
+    "commentId": 549098636,
+    "insertTime": "Sun, 03 Nov 2019 02:21:09 GMT",
+    "updateTime": "Fri, 22 Nov 2019 14:26:00 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Fri, 22 Nov 2019 14:26:00 GMT",
+    "dateString": "2019.11.22"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Polaris10",
+    "title": "Top Level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 9,
+    "commentId": 460143382,
+    "insertTime": "Mon, 04 Feb 2019 06:26:52 GMT",
+    "updateTime": "Sat, 23 Nov 2019 01:31:34 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sat, 23 Nov 2019 01:31:34 GMT",
+    "dateString": "2019.11.23"
   }
 ]

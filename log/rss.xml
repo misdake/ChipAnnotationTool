@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 21 Nov 2019 13:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2019 01:31:34 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1047,6 +1047,27 @@
             <pubDate>Mon, 18 Nov 2019 04:55:32 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=G70&amp;commentId=545011850</link>
             <guid isPermaLink="false">G70_34_545011850_UPDATE_1574052932000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Compare with Tahiti for Pitcairn by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 21 Nov 2019 13:02:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=551388511</link>
+            <guid isPermaLink="false">Pitcairn_30_551388511_UPDATE_1574341375000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Compare with Pitcairn for Tahiti by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 21 Nov 2019 13:03:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=551388615</link>
+            <guid isPermaLink="false">Tahiti_26_551388615_UPDATE_1574341386000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Pitcairn by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 21 Nov 2019 13:08:21 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726</link>
+            <guid isPermaLink="false">Pitcairn_30_552058726_UPDATE_1574341701000</guid>
         </item>
 
     </channel>
