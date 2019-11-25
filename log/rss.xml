@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 23 Nov 2019 01:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2019 03:35:17 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1068,6 +1068,34 @@
             <pubDate>Thu, 21 Nov 2019 13:08:21 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726</link>
             <guid isPermaLink="false">Pitcairn_30_552058726_UPDATE_1574341701000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with P11 for Polaris10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 22 Nov 2019 14:20:13 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=557549303</link>
+            <guid isPermaLink="false">Polaris10_9_557549303_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with P10 for Polaris11 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 22 Nov 2019 14:20:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=557549418</link>
+            <guid isPermaLink="false">Polaris11_10_557549418_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Polaris11 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 22 Nov 2019 14:26:00 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636</link>
+            <guid isPermaLink="false">Polaris11_10_549098636_UPDATE_1574432760000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top Level for Polaris10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 Nov 2019 01:31:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382</link>
+            <guid isPermaLink="false">Polaris10_9_460143382_UPDATE_1574472694000</guid>
         </item>
 
     </channel>
