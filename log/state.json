@@ -780,6 +780,20 @@
       ]
     },
     {
+      "name": "P54C",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 7,
+      "insertTime": "Mon, 25 Nov 2019 08:14:38 GMT",
+      "comments": []
+    },
+    {
+      "name": "Coppermine",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "insertTime": "Mon, 25 Nov 2019 08:05:04 GMT",
+      "comments": []
+    },
+    {
       "name": "R600",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 5,
@@ -816,5 +830,5 @@
       "comments": []
     }
   ],
-  "time": "Sat, 23 Nov 2019 03:35:17 GMT"
+  "time": "Mon, 25 Nov 2019 08:14:38 GMT"
 }

@@ -1958,5 +1958,25 @@
     "logType": "COMMENT_UPDATE",
     "time": "Sat, 23 Nov 2019 03:35:17 GMT",
     "dateString": "2019.11.23"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Coppermine",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 6,
+    "insertTime": "Mon, 25 Nov 2019 08:05:04 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Mon, 25 Nov 2019 08:05:04 GMT",
+    "dateString": "2019.11.25"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "P54C",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 7,
+    "insertTime": "Mon, 25 Nov 2019 08:14:38 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Mon, 25 Nov 2019 08:14:38 GMT",
+    "dateString": "2019.11.25"
   }
 ]

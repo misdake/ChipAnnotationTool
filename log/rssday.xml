@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 23 Nov 2019 03:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2019 08:14:38 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.07.10]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20'>Vega20</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674'>Top level for Vega20 by misdake</a><br>]]></description>
-            <pubDate>Wed, 10 Jul 2019 14:00:38 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.07.10</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.10.18]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674'>Top level for Vega20 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris22&amp;commentId=464451905'>Top level for Polaris22 by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 23 Nov 2019 03:35:17 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.11.23</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.11.25]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine'>Coppermine</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=P54C'>P54C</a><br>]]></description>
+            <pubDate>Mon, 25 Nov 2019 08:14:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.11.25</guid>
         </item>
 
     </channel>

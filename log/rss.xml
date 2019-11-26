@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 23 Nov 2019 03:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2019 08:14:38 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1096,6 +1096,27 @@
             <pubDate>Sat, 23 Nov 2019 01:31:34 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382</link>
             <guid isPermaLink="false">Polaris10_9_460143382_UPDATE_1574472694000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Compare with P11 for Polaris10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 Nov 2019 03:34:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=557549303</link>
+            <guid isPermaLink="false">Polaris10_9_557549303_UPDATE_1574480072000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Compare with P10 for Polaris11 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 Nov 2019 03:34:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=557549418</link>
+            <guid isPermaLink="false">Polaris11_10_557549418_UPDATE_1574480085000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Polaris11 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 Nov 2019 03:35:17 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636</link>
+            <guid isPermaLink="false">Polaris11_10_549098636_UPDATE_1574480117000</guid>
         </item>
 
     </channel>
