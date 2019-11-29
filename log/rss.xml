@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 25 Nov 2019 08:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2019 03:14:19 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1117,6 +1117,20 @@
             <pubDate>Sat, 23 Nov 2019 03:35:17 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636</link>
             <guid isPermaLink="false">Polaris11_10_549098636_UPDATE_1574480117000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Coppermine]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 25 Nov 2019 08:05:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine</link>
+            <guid isPermaLink="false">Coppermine</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: P54C]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 25 Nov 2019 08:14:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=P54C</link>
+            <guid isPermaLink="false">P54C</guid>
         </item>
 
     </channel>

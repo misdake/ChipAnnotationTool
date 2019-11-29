@@ -1978,5 +1978,15 @@
     "logType": "IMAGE_CREATE",
     "time": "Mon, 25 Nov 2019 08:14:38 GMT",
     "dateString": "2019.11.25"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "RV770",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 8,
+    "insertTime": "Thu, 28 Nov 2019 03:14:19 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 28 Nov 2019 03:14:19 GMT",
+    "dateString": "2019.11.28"
   }
 ]

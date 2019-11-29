@@ -1,34 +1,4 @@
 {
-  "2019.10.18": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Vega20",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 46,
-      "commentId": 510073674,
-      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
-      "updateTime": "Fri, 18 Oct 2019 04:03:04 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 18 Oct 2019 04:03:04 GMT",
-      "dateString": "2019.10.18"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Polaris22",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 12,
-      "commentId": 464451905,
-      "insertTime": "Sun, 17 Feb 2019 12:37:34 GMT",
-      "updateTime": "Fri, 18 Oct 2019 04:04:39 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 18 Oct 2019 04:04:39 GMT",
-      "dateString": "2019.10.18"
-    }
-  ],
   "2019.10.22": [
     {
       "type": "COMMENT_INSERT",
@@ -909,6 +879,18 @@
       "logType": "IMAGE_CREATE",
       "time": "Mon, 25 Nov 2019 08:14:38 GMT",
       "dateString": "2019.11.25"
+    }
+  ],
+  "2019.11.28": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "RV770",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 8,
+      "insertTime": "Thu, 28 Nov 2019 03:14:19 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 Nov 2019 03:14:19 GMT",
+      "dateString": "2019.11.28"
     }
   ]
 }
