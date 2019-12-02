@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 28 Nov 2019 03:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2019 05:24:27 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1131,6 +1131,13 @@
             <pubDate>Mon, 25 Nov 2019 08:14:38 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=P54C</link>
             <guid isPermaLink="false">P54C</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RV770]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 28 Nov 2019 03:14:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV770</link>
+            <guid isPermaLink="false">RV770</guid>
         </item>
 
     </channel>

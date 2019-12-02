@@ -1988,5 +1988,33 @@
     "logType": "IMAGE_CREATE",
     "time": "Thu, 28 Nov 2019 03:14:19 GMT",
     "dateString": "2019.11.28"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "RV770",
+    "title": "ROPs\u0026MC",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 8,
+    "commentId": 560042231,
+    "insertTime": "Sun, 01 Dec 2019 02:26:07 GMT",
+    "updateTime": "Sun, 01 Dec 2019 02:26:07 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sun, 01 Dec 2019 02:26:07 GMT",
+    "dateString": "2019.12.01"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Fiji",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 1,
+    "commentId": 453737453,
+    "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
+    "updateTime": "Sun, 01 Dec 2019 05:24:27 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sun, 01 Dec 2019 05:24:27 GMT",
+    "dateString": "2019.12.01"
   }
 ]
