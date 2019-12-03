@@ -2016,5 +2016,43 @@
     "logType": "COMMENT_UPDATE",
     "time": "Sun, 01 Dec 2019 05:24:27 GMT",
     "dateString": "2019.12.01"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Barts",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 9,
+    "insertTime": "Mon, 02 Dec 2019 05:23:06 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Mon, 02 Dec 2019 05:23:06 GMT",
+    "dateString": "2019.12.02"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Barts",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 9,
+    "commentId": 560350593,
+    "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
+    "updateTime": "Mon, 02 Dec 2019 15:11:28 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Mon, 02 Dec 2019 11:12:24 GMT",
+    "dateString": "2019.12.02"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Barts",
+    "title": "Top level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 9,
+    "commentId": 560350593,
+    "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
+    "updateTime": "Mon, 02 Dec 2019 15:11:28 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Mon, 02 Dec 2019 15:11:28 GMT",
+    "dateString": "2019.12.02"
   }
 ]

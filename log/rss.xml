@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 01 Dec 2019 05:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2019 15:11:28 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1138,6 +1138,20 @@
             <pubDate>Thu, 28 Nov 2019 03:14:19 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV770</link>
             <guid isPermaLink="false">RV770</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: ROPs&MC for RV770 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 01 Dec 2019 02:26:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RV770&amp;commentId=560042231</link>
+            <guid isPermaLink="false">RV770_8_560042231_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 01 Dec 2019 05:24:27 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453</link>
+            <guid isPermaLink="false">Fiji_1_453737453_UPDATE_1575177867000</guid>
         </item>
 
     </channel>
