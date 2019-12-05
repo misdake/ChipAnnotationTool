@@ -1,80 +1,4 @@
 {
-  "2019.10.24": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Rome_IOD",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "insertTime": "Thu, 24 Oct 2019 05:28:29 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 05:28:29 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Rome_IOD",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 545759647,
-      "insertTime": "Thu, 24 Oct 2019 06:04:19 GMT",
-      "updateTime": "Thu, 24 Oct 2019 06:04:19 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Thu, 24 Oct 2019 06:04:19 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Matisse_CCD",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 2,
-      "insertTime": "Thu, 24 Oct 2019 08:02:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 08:02:32 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen2_Core",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 3,
-      "insertTime": "Thu, 24 Oct 2019 08:04:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 08:04:16 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Matisse_IOD",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "insertTime": "Thu, 24 Oct 2019 08:07:25 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 08:07:25 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zeppelin",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 5,
-      "insertTime": "Thu, 24 Oct 2019 14:52:02 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 14:52:02 GMT",
-      "dateString": "2019.10.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Raven_Ridge",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 6,
-      "insertTime": "Thu, 24 Oct 2019 14:59:34 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Thu, 24 Oct 2019 14:59:34 GMT",
-      "dateString": "2019.10.24"
-    }
-  ],
   "2019.10.25": [
     {
       "type": "IMAGE_CREATE",
@@ -817,6 +741,50 @@
       "logType": "COMMENT_INSERT",
       "time": "Mon, 02 Dec 2019 11:12:24 GMT",
       "dateString": "2019.12.02"
+    }
+  ],
+  "2019.12.04": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Cayman",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 31,
+      "commentId": 544994205,
+      "insertTime": "Tue, 22 Oct 2019 14:37:06 GMT",
+      "updateTime": "Wed, 04 Dec 2019 14:30:04 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 04 Dec 2019 14:30:04 GMT",
+      "dateString": "2019.12.04"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_One",
+      "title": "Graphics",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 12,
+      "commentId": 561686125,
+      "insertTime": "Wed, 04 Dec 2019 15:06:20 GMT",
+      "updateTime": "Wed, 04 Dec 2019 15:06:20 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Wed, 04 Dec 2019 15:06:20 GMT",
+      "dateString": "2019.12.04"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Barts",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 9,
+      "commentId": 560350593,
+      "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
+      "updateTime": "Wed, 04 Dec 2019 15:06:58 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 04 Dec 2019 15:06:58 GMT",
+      "dateString": "2019.12.04"
     }
   ]
 }

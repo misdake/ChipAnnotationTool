@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 02 Dec 2019 15:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2019 15:06:58 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.10.24]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD'>Rome_IOD</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=545759647'>Top level for Rome_IOD by misdake</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_CCD'>Matisse_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_Core'>Zen2_Core</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD'>Matisse_IOD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin'>Zeppelin</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raven_Ridge'>Raven_Ridge</a><br>]]></description>
-            <pubDate>Thu, 24 Oct 2019 14:59:34 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.10.24</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.10.25]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_LCC'>Skylake_LCC</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kabylake_2+2'>Kabylake_2+2</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=546176131'>IO for Matisse_IOD by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Mon, 02 Dec 2019 11:12:24 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.12.02</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2019.12.04]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cayman&amp;commentId=544994205'>Top level for Cayman by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One&amp;commentId=561686125'>Graphics for Xbox_One by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Barts&amp;commentId=560350593'>Top level for Barts by misdake</a><br>]]></description>
+            <pubDate>Wed, 04 Dec 2019 15:06:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2019.12.04</guid>
         </item>
 
     </channel>
