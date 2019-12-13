@@ -1,40 +1,4 @@
 {
-  "2019.10.25": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Skylake_LCC",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 7,
-      "insertTime": "Fri, 25 Oct 2019 02:23:26 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 25 Oct 2019 02:23:26 GMT",
-      "dateString": "2019.10.25"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Kabylake_2+2",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 8,
-      "insertTime": "Fri, 25 Oct 2019 02:25:08 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 25 Oct 2019 02:25:08 GMT",
-      "dateString": "2019.10.25"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Matisse_IOD",
-      "title": "IO",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 546176131,
-      "insertTime": "Fri, 25 Oct 2019 02:38:25 GMT",
-      "updateTime": "Fri, 25 Oct 2019 15:19:05 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 25 Oct 2019 02:38:25 GMT",
-      "dateString": "2019.10.25"
-    }
-  ],
   "2019.10.26": [
     {
       "type": "COMMENT_UPDATE",
@@ -785,6 +749,50 @@
       "logType": "COMMENT_UPDATE",
       "time": "Wed, 04 Dec 2019 15:06:58 GMT",
       "dateString": "2019.12.04"
+    }
+  ],
+  "2019.12.11": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GK104",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 20,
+      "commentId": 564615746,
+      "insertTime": "Wed, 11 Dec 2019 16:10:26 GMT",
+      "updateTime": "Wed, 11 Dec 2019 16:10:26 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Wed, 11 Dec 2019 16:10:26 GMT",
+      "dateString": "2019.12.11"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GK106",
+      "title": "GPC with GK110",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 23,
+      "commentId": 564630791,
+      "insertTime": "Wed, 11 Dec 2019 16:43:26 GMT",
+      "updateTime": "Wed, 11 Dec 2019 16:43:26 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Wed, 11 Dec 2019 16:43:26 GMT",
+      "dateString": "2019.12.11"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GK110",
+      "title": "GPC with GK106",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 2,
+      "commentId": 453743988,
+      "insertTime": "Sat, 12 Jan 2019 12:34:11 GMT",
+      "updateTime": "Wed, 11 Dec 2019 16:44:07 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 11 Dec 2019 16:44:07 GMT",
+      "dateString": "2019.12.11"
     }
   ]
 }

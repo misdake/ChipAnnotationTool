@@ -151,14 +151,30 @@
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 20,
       "insertTime": "Fri, 05 Apr 2019 23:31:01 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "Top level",
+          "username": "misdake",
+          "commentId": 564615746,
+          "insertTime": "Wed, 11 Dec 2019 16:10:26 GMT",
+          "updateTime": "Wed, 11 Dec 2019 16:10:26 GMT"
+        }
+      ]
     },
     {
       "name": "GK106",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 23,
       "insertTime": "Fri, 05 Apr 2019 23:42:37 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "GPC with GK110",
+          "username": "misdake",
+          "commentId": 564630791,
+          "insertTime": "Wed, 11 Dec 2019 16:43:26 GMT",
+          "updateTime": "Wed, 11 Dec 2019 16:43:26 GMT"
+        }
+      ]
     },
     {
       "name": "GK110",
@@ -167,11 +183,11 @@
       "insertTime": "Sun, 06 Jan 2019 15:15:31 GMT",
       "comments": [
         {
-          "title": "",
+          "title": "GPC with GK106",
           "username": "misdake",
           "commentId": 453743988,
           "insertTime": "Sat, 12 Jan 2019 12:34:11 GMT",
-          "updateTime": "Sat, 12 Jan 2019 12:34:11 GMT"
+          "updateTime": "Wed, 11 Dec 2019 16:44:07 GMT"
         },
         {
           "title": "GPC",
@@ -868,5 +884,5 @@
       "comments": []
     }
   ],
-  "time": "Wed, 04 Dec 2019 15:06:58 GMT"
+  "time": "Wed, 11 Dec 2019 16:44:07 GMT"
 }
