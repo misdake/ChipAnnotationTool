@@ -23,8 +23,8 @@ public class Http {
                 List<String> list = Files.readAllLines(new File("login.txt").toPath());
                 if (list.size() > 0) {
                     String username = list.get(0);
-                    String password = list.get(1);
-                    credential = Credentials.basic(username, password);
+                    String token = list.get(1);
+                    credential = Credentials.basic(username, token);
                     System.out.println("request github api with credential");
                 }
             }
@@ -33,7 +33,7 @@ public class Http {
         }
 
         if (credential == null) {
-            System.err.println("need github credential info in 'login.txt' file: `${username}\\n${password}");
+            System.err.println("need github credential info in 'login.txt' file: `${username}\\n${personal access token}");
             System.exit(1);
         }
     }
