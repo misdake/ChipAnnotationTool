@@ -2138,5 +2138,19 @@
     "logType": "COMMENT_UPDATE",
     "time": "Wed, 11 Dec 2019 16:44:07 GMT",
     "dateString": "2019.12.11"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "GK104",
+    "title": "Memory",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 20,
+    "commentId": 565689954,
+    "insertTime": "Sat, 14 Dec 2019 06:51:56 GMT",
+    "updateTime": "Sat, 14 Dec 2019 06:51:56 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 14 Dec 2019 06:51:56 GMT",
+    "dateString": "2019.12.14"
   }
 ]

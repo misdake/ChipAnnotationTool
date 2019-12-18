@@ -1,20 +1,4 @@
 {
-  "2019.10.26": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Matisse_IOD",
-      "title": "IO",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 546176131,
-      "insertTime": "Fri, 25 Oct 2019 02:38:25 GMT",
-      "updateTime": "Sat, 26 Oct 2019 02:29:50 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 26 Oct 2019 02:29:50 GMT",
-      "dateString": "2019.10.26"
-    }
-  ],
   "2019.11.01": [
     {
       "type": "COMMENT_INSERT",
@@ -793,6 +777,22 @@
       "logType": "COMMENT_UPDATE",
       "time": "Wed, 11 Dec 2019 16:44:07 GMT",
       "dateString": "2019.12.11"
+    }
+  ],
+  "2019.12.14": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GK104",
+      "title": "Memory",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 20,
+      "commentId": 565689954,
+      "insertTime": "Sat, 14 Dec 2019 06:51:56 GMT",
+      "updateTime": "Sat, 14 Dec 2019 06:51:56 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 14 Dec 2019 06:51:56 GMT",
+      "dateString": "2019.12.14"
     }
   ]
 }
