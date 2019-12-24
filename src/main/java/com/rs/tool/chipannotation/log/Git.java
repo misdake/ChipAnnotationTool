@@ -3,7 +3,6 @@ package com.rs.tool.chipannotation.log;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.Objects;
 
 public class Git {
@@ -12,10 +11,14 @@ public class Git {
 		uploadToGithub("update log");
 	}
 
-	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
+	public static void update() throws IOException, InterruptedException {
 		Path directory = new File(".").getAbsoluteFile().toPath();
 		System.out.println("------- git pull -------");
 		gitPull(directory);
+	}
+
+	public static void uploadToGithub(String commitMessage) throws IOException, InterruptedException {
+		Path directory = new File(".").getAbsoluteFile().toPath();
 		System.out.println("------- git add -------");
 		gitStage(directory);
 		System.out.println("------- git commit -------");
