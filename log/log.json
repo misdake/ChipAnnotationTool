@@ -2152,5 +2152,19 @@
     "logType": "COMMENT_INSERT",
     "time": "Sat, 14 Dec 2019 06:51:56 GMT",
     "dateString": "2019.12.14"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Raven_Ridge",
+    "title": "some blocks",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 6,
+    "commentId": 569382019,
+    "insertTime": "Sat, 28 Dec 2019 03:49:06 GMT",
+    "updateTime": "Sat, 28 Dec 2019 03:49:06 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 28 Dec 2019 03:49:06 GMT",
+    "dateString": "2019.12.28"
   }
 ]

@@ -1,62 +1,4 @@
 {
-  "2019.11.01": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Matisse_IOD",
-      "title": "IO",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548651920,
-      "insertTime": "Fri, 01 Nov 2019 03:23:10 GMT",
-      "updateTime": "Fri, 01 Nov 2019 05:51:16 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 Nov 2019 03:23:10 GMT",
-      "dateString": "2019.11.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Matisse_IOD",
-      "title": "what is this?",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548676036,
-      "insertTime": "Fri, 01 Nov 2019 05:56:54 GMT",
-      "updateTime": "Fri, 01 Nov 2019 05:56:54 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 Nov 2019 05:56:54 GMT",
-      "dateString": "2019.11.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Rome_IOD",
-      "title": "Compare with Matisse",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 548832292,
-      "insertTime": "Fri, 01 Nov 2019 15:31:07 GMT",
-      "updateTime": "Sat, 02 Nov 2019 03:07:51 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 Nov 2019 15:31:07 GMT",
-      "dateString": "2019.11.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Matisse_IOD",
-      "title": "Compare with Rome",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548832366,
-      "insertTime": "Fri, 01 Nov 2019 15:31:19 GMT",
-      "updateTime": "Sat, 02 Nov 2019 02:48:37 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 Nov 2019 15:31:19 GMT",
-      "dateString": "2019.11.01"
-    }
-  ],
   "2019.11.02": [
     {
       "type": "COMMENT_UPDATE",
@@ -793,6 +735,22 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 14 Dec 2019 06:51:56 GMT",
       "dateString": "2019.12.14"
+    }
+  ],
+  "2019.12.28": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Raven_Ridge",
+      "title": "some blocks",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 6,
+      "commentId": 569382019,
+      "insertTime": "Sat, 28 Dec 2019 03:49:06 GMT",
+      "updateTime": "Sat, 28 Dec 2019 03:49:06 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 28 Dec 2019 03:49:06 GMT",
+      "dateString": "2019.12.28"
     }
   ]
 }

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 14 Dec 2019 06:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2019 03:49:06 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1215,6 +1215,13 @@
             <pubDate>Wed, 11 Dec 2019 16:44:07 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK110&amp;commentId=453743988</link>
             <guid isPermaLink="false">GK110_2_453743988_UPDATE_1576082647000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Memory for GK104 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Dec 2019 06:51:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=565689954</link>
+            <guid isPermaLink="false">GK104_20_565689954_INSERT</guid>
         </item>
 
     </channel>
