@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 28 Dec 2019 03:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2020 05:34:04 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.11.02]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548832366'>Compare with Rome for Matisse_IOD by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=548832292'>Compare with Matisse for Rome_IOD by misdake</a><br>]]></description>
-            <pubDate>Sat, 02 Nov 2019 03:07:51 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.02</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.11.03]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636'>Top level for Polaris11 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382'>Top Level for Polaris10 by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 28 Dec 2019 03:49:06 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2019.12.28</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.01.04]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kaveri'>Kaveri</a><br>]]></description>
+            <pubDate>Sat, 04 Jan 2020 05:34:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.01.04</guid>
         </item>
 
     </channel>

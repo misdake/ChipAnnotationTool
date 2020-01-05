@@ -2166,5 +2166,15 @@
     "logType": "COMMENT_INSERT",
     "time": "Sat, 28 Dec 2019 03:49:06 GMT",
     "dateString": "2019.12.28"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Kaveri",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 10,
+    "insertTime": "Sat, 04 Jan 2020 05:34:04 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 04 Jan 2020 05:34:04 GMT",
+    "dateString": "2020.01.04"
   }
 ]

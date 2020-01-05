@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 28 Dec 2019 03:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2020 05:34:04 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1222,6 +1222,13 @@
             <pubDate>Sat, 14 Dec 2019 06:51:56 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=565689954</link>
             <guid isPermaLink="false">GK104_20_565689954_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: some blocks for Raven_Ridge by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 28 Dec 2019 03:49:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raven_Ridge&amp;commentId=569382019</link>
+            <guid isPermaLink="false">Raven_Ridge_6_569382019_INSERT</guid>
         </item>
 
     </channel>

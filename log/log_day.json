@@ -1,34 +1,4 @@
 {
-  "2019.11.02": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Matisse_IOD",
-      "title": "Compare with Rome",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548832366,
-      "insertTime": "Fri, 01 Nov 2019 15:31:19 GMT",
-      "updateTime": "Sat, 02 Nov 2019 02:48:37 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 Nov 2019 02:48:37 GMT",
-      "dateString": "2019.11.02"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Rome_IOD",
-      "title": "Compare with Matisse",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 548832292,
-      "insertTime": "Fri, 01 Nov 2019 15:31:07 GMT",
-      "updateTime": "Sat, 02 Nov 2019 03:07:51 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 Nov 2019 03:07:51 GMT",
-      "dateString": "2019.11.02"
-    }
-  ],
   "2019.11.03": [
     {
       "type": "COMMENT_INSERT",
@@ -751,6 +721,18 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 28 Dec 2019 03:49:06 GMT",
       "dateString": "2019.12.28"
+    }
+  ],
+  "2020.01.04": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Kaveri",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 10,
+      "insertTime": "Sat, 04 Jan 2020 05:34:04 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 04 Jan 2020 05:34:04 GMT",
+      "dateString": "2020.01.04"
     }
   ]
 }
