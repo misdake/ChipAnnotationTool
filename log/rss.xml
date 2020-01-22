@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 04 Jan 2020 05:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2020 17:49:46 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1229,6 +1229,13 @@
             <pubDate>Sat, 28 Dec 2019 03:49:06 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raven_Ridge&amp;commentId=569382019</link>
             <guid isPermaLink="false">Raven_Ridge_6_569382019_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kaveri]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 04 Jan 2020 05:34:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kaveri</link>
+            <guid isPermaLink="false">Kaveri</guid>
         </item>
 
     </channel>

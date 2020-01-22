@@ -1,78 +1,4 @@
 {
-  "2019.11.03": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Polaris11",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 10,
-      "commentId": 549098636,
-      "insertTime": "Sun, 03 Nov 2019 02:21:09 GMT",
-      "updateTime": "Mon, 04 Nov 2019 02:04:53 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 03 Nov 2019 02:21:09 GMT",
-      "dateString": "2019.11.03"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Polaris10",
-      "title": "Top Level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 9,
-      "commentId": 460143382,
-      "insertTime": "Mon, 04 Feb 2019 06:26:52 GMT",
-      "updateTime": "Sun, 03 Nov 2019 09:31:54 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 03 Nov 2019 09:31:54 GMT",
-      "dateString": "2019.11.03"
-    }
-  ],
-  "2019.11.04": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Polaris11",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 10,
-      "commentId": 549098636,
-      "insertTime": "Sun, 03 Nov 2019 02:21:09 GMT",
-      "updateTime": "Mon, 04 Nov 2019 02:04:53 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 04 Nov 2019 02:04:53 GMT",
-      "dateString": "2019.11.04"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Tahiti",
-      "title": "ROPs",
-      "username": "0x22h",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 26,
-      "commentId": 549238805,
-      "insertTime": "Mon, 04 Nov 2019 06:48:06 GMT",
-      "updateTime": "Mon, 04 Nov 2019 06:58:12 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 04 Nov 2019 06:48:06 GMT",
-      "dateString": "2019.11.04"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Pitcairn",
-      "title": "ROPs?",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 30,
-      "commentId": 549243529,
-      "insertTime": "Mon, 04 Nov 2019 07:15:19 GMT",
-      "updateTime": "Mon, 04 Nov 2019 07:15:19 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 04 Nov 2019 07:15:19 GMT",
-      "dateString": "2019.11.04"
-    }
-  ],
   "2019.11.05": [
     {
       "type": "COMMENT_INSERT",
@@ -733,6 +659,104 @@
       "logType": "IMAGE_CREATE",
       "time": "Sat, 04 Jan 2020 05:34:04 GMT",
       "dateString": "2020.01.04"
+    }
+  ],
+  "2020.01.20": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Navi10",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "insertTime": "Mon, 20 Jan 2020 02:44:16 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 20 Jan 2020 02:44:16 GMT",
+      "dateString": "2020.01.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi10",
+      "title": "WGP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 576108410,
+      "insertTime": "Mon, 20 Jan 2020 05:08:29 GMT",
+      "updateTime": "Mon, 20 Jan 2020 05:47:12 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 20 Jan 2020 05:08:29 GMT",
+      "dateString": "2020.01.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi10",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 576116633,
+      "insertTime": "Mon, 20 Jan 2020 05:46:56 GMT",
+      "updateTime": "Tue, 21 Jan 2020 02:17:56 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 20 Jan 2020 05:46:56 GMT",
+      "dateString": "2020.01.20"
+    }
+  ],
+  "2020.01.21": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi10",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 576116633,
+      "insertTime": "Mon, 20 Jan 2020 05:46:56 GMT",
+      "updateTime": "Tue, 21 Jan 2020 02:17:56 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 21 Jan 2020 02:17:56 GMT",
+      "dateString": "2020.01.21"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Vega20",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "commentId": 510073674,
+      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "updateTime": "Tue, 21 Jan 2020 16:47:23 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 21 Jan 2020 16:47:23 GMT",
+      "dateString": "2020.01.21"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Fiji",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 1,
+      "commentId": 453737453,
+      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
+      "updateTime": "Tue, 21 Jan 2020 17:41:47 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 21 Jan 2020 17:41:47 GMT",
+      "dateString": "2020.01.21"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Fiji",
+      "title": "Inside CU",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 1,
+      "commentId": 453739448,
+      "insertTime": "Sat, 12 Jan 2019 11:17:03 GMT",
+      "updateTime": "Tue, 21 Jan 2020 17:49:46 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 21 Jan 2020 17:49:46 GMT",
+      "dateString": "2020.01.21"
     }
   ]
 }
