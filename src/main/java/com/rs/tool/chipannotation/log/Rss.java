@@ -32,7 +32,7 @@ public class Rss {
     public static void dummy() {}
 
     private static String readResourceString(String path) {
-        return new BufferedReader(new InputStreamReader(Rss.class.getClassLoader().getResourceAsStream(path))).lines().collect(Collectors.joining("\n"));
+        return new BufferedReader(new InputStreamReader(Rss.class.getClassLoader().getResourceAsStream(path))).lines().collect(Collectors.joining("\r\n"));
     }
 
     static {
@@ -46,7 +46,7 @@ public class Rss {
 
         for (Log log : logs) {
             String s = itemForLog(log);
-            b.append(s).append("\n");
+            b.append(s).append("\r\n");
         }
 
         return String.format(rsslogTemplate, Log.formatter.format(last), b.toString());
@@ -99,7 +99,7 @@ public class Rss {
             String day = e.getKey();
             Log[] logs = e.getValue();
             String s = itemForDay(day, logs);
-            b.append(s).append("\n");
+            b.append(s).append("\r\n");
         }
 
         return String.format(rssdayTemplate, Log.formatter.format(last), b.toString());
