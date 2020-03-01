@@ -1,20 +1,4 @@
 {
-  "2019.11.09": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Pitcairn",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 30,
-      "commentId": 552058726,
-      "insertTime": "Sat, 09 Nov 2019 02:51:24 GMT",
-      "updateTime": "Sat, 09 Nov 2019 03:00:38 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 09 Nov 2019 02:51:24 GMT",
-      "dateString": "2019.11.09"
-    }
-  ],
   "2019.11.11": [
     {
       "type": "IMAGE_CREATE",
@@ -653,6 +637,36 @@
       "logType": "COMMENT_INSERT",
       "time": "Wed, 05 Feb 2020 07:12:31 GMT",
       "dateString": "2020.02.05"
+    }
+  ],
+  "2020.02.22": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Zen2_CCD",
+      "title": "Core",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 2,
+      "commentId": 589959403,
+      "insertTime": "Sat, 22 Feb 2020 14:05:58 GMT",
+      "updateTime": "Sat, 22 Feb 2020 14:05:58 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 22 Feb 2020 14:05:58 GMT",
+      "dateString": "2020.02.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Zen2_CCD",
+      "title": "Top Level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 2,
+      "commentId": 589960256,
+      "insertTime": "Sat, 22 Feb 2020 14:16:45 GMT",
+      "updateTime": "Sat, 22 Feb 2020 14:19:12 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 22 Feb 2020 14:16:45 GMT",
+      "dateString": "2020.02.22"
     }
   ]
 }

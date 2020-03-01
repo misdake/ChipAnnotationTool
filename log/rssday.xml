@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 05 Feb 2020 07:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2020 03:51:48 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.11.09]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726'>Top level for Pitcairn by misdake</a><br>]]></description>
-            <pubDate>Sat, 09 Nov 2019 02:51:24 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.09</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.11.11]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD'>Zen2_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One'>Xbox_One</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Wed, 05 Feb 2020 07:12:31 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.02.05</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.02.22]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=589959403'>Core for Zen2_CCD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=589960256'>Top Level for Zen2_CCD by misdake</a><br>]]></description>
+            <pubDate>Sat, 22 Feb 2020 14:16:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.02.22</guid>
         </item>
 
     </channel>

@@ -2336,5 +2336,61 @@
     "logType": "COMMENT_UPDATE",
     "time": "Wed, 05 Feb 2020 07:15:29 GMT",
     "dateString": "2020.02.05"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Zen2_CCD",
+    "title": "Core",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 2,
+    "commentId": 589959403,
+    "insertTime": "Sat, 22 Feb 2020 14:05:58 GMT",
+    "updateTime": "Sat, 22 Feb 2020 14:05:58 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 22 Feb 2020 14:05:58 GMT",
+    "dateString": "2020.02.22"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Zen2_CCD",
+    "title": "Top Level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 2,
+    "commentId": 589960256,
+    "insertTime": "Sat, 22 Feb 2020 14:16:45 GMT",
+    "updateTime": "Sat, 22 Feb 2020 14:19:12 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 22 Feb 2020 14:16:45 GMT",
+    "dateString": "2020.02.22"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Zen2_CCD",
+    "title": "Top Level",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 2,
+    "commentId": 589960256,
+    "insertTime": "Sat, 22 Feb 2020 14:16:45 GMT",
+    "updateTime": "Sat, 22 Feb 2020 14:19:12 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sat, 22 Feb 2020 14:19:12 GMT",
+    "dateString": "2020.02.22"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Zeppelin",
+    "title": "Core",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData2",
+    "githubIssueId": 5,
+    "commentId": 593049935,
+    "insertTime": "Sun, 01 Mar 2020 03:51:48 GMT",
+    "updateTime": "Sun, 01 Mar 2020 03:51:48 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sun, 01 Mar 2020 03:51:48 GMT",
+    "dateString": "2020.03.01"
   }
 ]
