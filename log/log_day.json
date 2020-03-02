@@ -1,26 +1,4 @@
 {
-  "2019.11.11": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen2_CCD",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 2,
-      "insertTime": "Mon, 11 Nov 2019 06:08:09 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 11 Nov 2019 06:08:09 GMT",
-      "dateString": "2019.11.11"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Xbox_One",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 12,
-      "insertTime": "Mon, 11 Nov 2019 07:36:37 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 11 Nov 2019 07:36:37 GMT",
-      "dateString": "2019.11.11"
-    }
-  ],
   "2019.11.17": [
     {
       "type": "IMAGE_CREATE",
@@ -667,6 +645,22 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 22 Feb 2020 14:16:45 GMT",
       "dateString": "2020.02.22"
+    }
+  ],
+  "2020.03.01": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Zeppelin",
+      "title": "Core",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 5,
+      "commentId": 593049935,
+      "insertTime": "Sun, 01 Mar 2020 03:51:48 GMT",
+      "updateTime": "Sun, 01 Mar 2020 03:51:48 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 01 Mar 2020 03:51:48 GMT",
+      "dateString": "2020.03.01"
     }
   ]
 }
