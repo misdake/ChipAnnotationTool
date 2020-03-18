@@ -9,30 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 01 Mar 2020 03:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2020 14:24:05 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.11.17]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G73'>G73</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=K6'>K6</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=NV42'>NV42</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=NV43'>NV43</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R600'>R600</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R600&amp;commentId=554750880'>RBE & MC for R600 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=K6&amp;commentId=554756202'>Cache for K6 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=K6&amp;commentId=554760232'>Top level for K6 by misdake</a><br>]]></description>
-            <pubDate>Sun, 17 Nov 2019 16:02:34 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.17</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2019.11.18]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=G70&amp;commentId=545011850'>Top level for G70 by misdake</a><br>]]></description>
-            <pubDate>Mon, 18 Nov 2019 04:55:32 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.18</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2019.11.21]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=551388511'>Compare with Tahiti for Pitcairn by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tahiti&amp;commentId=551388615'>Compare with Pitcairn for Tahiti by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Pitcairn&amp;commentId=552058726'>Top level for Pitcairn by misdake</a><br>]]></description>
-            <pubDate>Thu, 21 Nov 2019 13:08:21 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.21</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.11.22]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=557549303'>Compare with P11 for Polaris10 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=557549418'>Compare with P10 for Polaris11 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636'>Top level for Polaris11 by misdake</a><br>]]></description>
@@ -151,6 +130,27 @@
             <pubDate>Sun, 01 Mar 2020 03:51:48 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.03.01</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.03.02]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=593466713'>InterConnect for Rome_IOD by misdake</a><br>]]></description>
+            <pubDate>Mon, 02 Mar 2020 15:44:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.03.02</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.03.03]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=593466713'>InterConnect for Rome_IOD by misdake</a><br>]]></description>
+            <pubDate>Tue, 03 Mar 2020 10:25:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.03.03</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.03.16]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X'>Xbox_Series_X</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=599564471'>Top Level for Xbox_Series_X by misdake</a><br>]]></description>
+            <pubDate>Mon, 16 Mar 2020 14:24:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.03.16</guid>
         </item>
 
     </channel>
