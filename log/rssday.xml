@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 30 Mar 2020 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2020 02:09:01 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2019.11.23]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=460143382'>Top Level for Polaris10 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris10&amp;commentId=557549303'>Compare with P11 for Polaris10 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=557549418'>Compare with P10 for Polaris11 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Polaris11&amp;commentId=549098636'>Top level for Polaris11 by misdake</a><br>]]></description>
-            <pubDate>Sat, 23 Nov 2019 03:35:17 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.23</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2019.11.25]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine'>Coppermine</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=P54C'>P54C</a><br>]]></description>
-            <pubDate>Mon, 25 Nov 2019 08:14:38 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2019.11.25</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2019.11.28]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RV770'>RV770</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Mon, 30 Mar 2020 05:34:00 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.03.30</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.04.27]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=548832292'>Compare with Matisse for Rome_IOD by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548651920'>IO for Matisse_IOD by misdake</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_Core'>Skylake_Core</a><br>]]></description>
+            <pubDate>Mon, 27 Apr 2020 13:27:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.04.27</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.04.29]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Barts&amp;commentId=560350593'>Top level for Barts by misdake</a><br>]]></description>
+            <pubDate>Wed, 29 Apr 2020 02:09:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.04.29</guid>
         </item>
 
     </channel>
