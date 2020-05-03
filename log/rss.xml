@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 01 May 2020 13:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2020 13:35:42 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1411,6 +1411,83 @@
             <pubDate>Wed, 29 Apr 2020 02:09:01 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Barts&amp;commentId=560350593</link>
             <guid isPermaLink="false">Barts_9_560350593_UPDATE_1588126141000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zacate]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 10:58:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate</link>
+            <guid isPermaLink="false">Zacate</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SandyBridge_4+2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 11:43:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4+2</link>
+            <guid isPermaLink="false">SandyBridge_4+2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Conroe]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 11:48:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Conroe</link>
+            <guid isPermaLink="false">Conroe</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Floorplan by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 12:16:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542</link>
+            <guid isPermaLink="false">Zacate_14_622364542_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: CPU Core by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 12:16:27 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604</link>
+            <guid isPermaLink="false">Zacate_14_622364604_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPU by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 12:16:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641</link>
+            <guid isPermaLink="false">Zacate_14_622364641_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: GPU by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 12:53:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641</link>
+            <guid isPermaLink="false">Zacate_14_622364641_UPDATE_1588337637000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: IO by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 12:55:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553</link>
+            <guid isPermaLink="false">Zacate_14_622376553_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Floorplan by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 13:12:48 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542</link>
+            <guid isPermaLink="false">Zacate_14_622364542_UPDATE_1588338768000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: IO by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 13:13:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553</link>
+            <guid isPermaLink="false">Zacate_14_622376553_UPDATE_1588338822000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU Core by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 01 May 2020 13:18:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604</link>
+            <guid isPermaLink="false">Zacate_14_622364604_UPDATE_1588339112000</guid>
         </item>
 
     </channel>

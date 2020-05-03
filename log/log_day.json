@@ -1,34 +1,4 @@
 {
-  "2019.12.01": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "RV770",
-      "title": "ROPs\u0026MC",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 8,
-      "commentId": 560042231,
-      "insertTime": "Sun, 01 Dec 2019 02:26:07 GMT",
-      "updateTime": "Sun, 01 Dec 2019 02:26:07 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 01 Dec 2019 02:26:07 GMT",
-      "dateString": "2019.12.01"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Fiji",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453737453,
-      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "updateTime": "Sun, 01 Dec 2019 05:24:27 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 01 Dec 2019 05:24:27 GMT",
-      "dateString": "2019.12.01"
-    }
-  ],
   "2019.12.02": [
     {
       "type": "IMAGE_CREATE",
@@ -589,6 +559,92 @@
       "logType": "COMMENT_INSERT",
       "time": "Fri, 01 May 2020 12:55:04 GMT",
       "dateString": "2020.05.01"
+    }
+  ],
+  "2020.05.02": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zacate",
+      "title": "CPU Core by Locuza",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 14,
+      "commentId": 622364604,
+      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
+      "updateTime": "Sat, 02 May 2020 12:58:26 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 02 May 2020 12:58:26 GMT",
+      "dateString": "2020.05.02"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zacate",
+      "title": "GPU by Locuza",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 14,
+      "commentId": 622364641,
+      "insertTime": "Fri, 01 May 2020 12:16:33 GMT",
+      "updateTime": "Sat, 02 May 2020 13:00:26 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 02 May 2020 13:00:26 GMT",
+      "dateString": "2020.05.02"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zacate",
+      "title": "IO by Locuza",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 14,
+      "commentId": 622376553,
+      "insertTime": "Fri, 01 May 2020 12:55:04 GMT",
+      "updateTime": "Sat, 02 May 2020 13:01:34 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 02 May 2020 13:01:34 GMT",
+      "dateString": "2020.05.02"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "K6",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 2,
+      "commentId": 554760232,
+      "insertTime": "Sun, 17 Nov 2019 16:02:34 GMT",
+      "updateTime": "Sat, 02 May 2020 13:05:02 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 02 May 2020 13:05:02 GMT",
+      "dateString": "2020.05.02"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zeppelin",
+      "title": "Core",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 5,
+      "commentId": 593049935,
+      "insertTime": "Sun, 01 Mar 2020 03:51:48 GMT",
+      "updateTime": "Sat, 02 May 2020 13:06:14 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 02 May 2020 13:06:14 GMT",
+      "dateString": "2020.05.02"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GF100",
+      "title": "Top Level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 9,
+      "commentId": 622954791,
+      "insertTime": "Sat, 02 May 2020 13:35:42 GMT",
+      "updateTime": "Sat, 02 May 2020 13:35:42 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 02 May 2020 13:35:42 GMT",
+      "dateString": "2020.05.02"
     }
   ]
 }
