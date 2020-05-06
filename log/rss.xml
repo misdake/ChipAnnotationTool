@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 02 May 2020 13:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2020 08:32:20 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1488,6 +1488,48 @@
             <pubDate>Fri, 01 May 2020 13:18:32 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604</link>
             <guid isPermaLink="false">Zacate_14_622364604_UPDATE_1588339112000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU Core by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 12:58:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604</link>
+            <guid isPermaLink="false">Zacate_14_622364604_UPDATE_1588424306000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: GPU by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 13:00:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641</link>
+            <guid isPermaLink="false">Zacate_14_622364641_UPDATE_1588424426000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: IO by Locuza for Zacate by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 13:01:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553</link>
+            <guid isPermaLink="false">Zacate_14_622376553_UPDATE_1588424494000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for K6 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 13:05:02 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=K6&amp;commentId=554760232</link>
+            <guid isPermaLink="false">K6_2_554760232_UPDATE_1588424702000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core for Zeppelin by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 13:06:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=593049935</link>
+            <guid isPermaLink="false">Zeppelin_5_593049935_UPDATE_1588424774000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top Level for GF100 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 02 May 2020 13:35:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF100&amp;commentId=622954791</link>
+            <guid isPermaLink="false">GF100_9_622954791_INSERT</guid>
         </item>
 
     </channel>
