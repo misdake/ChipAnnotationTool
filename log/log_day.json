@@ -1,48 +1,4 @@
 {
-  "2019.12.04": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Cayman",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 31,
-      "commentId": 544994205,
-      "insertTime": "Tue, 22 Oct 2019 14:37:06 GMT",
-      "updateTime": "Wed, 04 Dec 2019 14:30:04 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 04 Dec 2019 14:30:04 GMT",
-      "dateString": "2019.12.04"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Xbox_One",
-      "title": "Graphics",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 12,
-      "commentId": 561686125,
-      "insertTime": "Wed, 04 Dec 2019 15:06:20 GMT",
-      "updateTime": "Wed, 04 Dec 2019 15:06:20 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Wed, 04 Dec 2019 15:06:20 GMT",
-      "dateString": "2019.12.04"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Barts",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 9,
-      "commentId": 560350593,
-      "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
-      "updateTime": "Wed, 04 Dec 2019 15:06:58 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 04 Dec 2019 15:06:58 GMT",
-      "dateString": "2019.12.04"
-    }
-  ],
   "2019.12.11": [
     {
       "type": "COMMENT_INSERT",
@@ -677,6 +633,36 @@
       "logType": "COMMENT_UPDATE",
       "time": "Sun, 03 May 2020 08:32:20 GMT",
       "dateString": "2020.05.03"
+    }
+  ],
+  "2020.05.13": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zacate",
+      "title": "CPU Core by Locuza",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 14,
+      "commentId": 622364604,
+      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
+      "updateTime": "Wed, 13 May 2020 03:47:20 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 13 May 2020 03:47:20 GMT",
+      "dateString": "2020.05.13"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zacate",
+      "title": "Floorplan by Locuza",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 14,
+      "commentId": 622364542,
+      "insertTime": "Fri, 01 May 2020 12:16:16 GMT",
+      "updateTime": "Wed, 13 May 2020 03:49:14 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 13 May 2020 03:49:14 GMT",
+      "dateString": "2020.05.13"
     }
   ]
 }
