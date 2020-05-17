@@ -104,6 +104,13 @@
       ]
     },
     {
+      "name": "Llano",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 17,
+      "insertTime": "Sat, 16 May 2020 06:53:31 GMT",
+      "comments": []
+    },
+    {
       "name": "K6",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 2,
@@ -268,6 +275,20 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 15,
       "insertTime": "Fri, 01 May 2020 11:43:14 GMT",
+      "comments": []
+    },
+    {
+      "name": "SandyBridge_Core",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 19,
+      "insertTime": "Sat, 16 May 2020 07:01:46 GMT",
+      "comments": []
+    },
+    {
+      "name": "SandyBridge_IGP",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 18,
+      "insertTime": "Sat, 16 May 2020 06:56:04 GMT",
       "comments": []
     },
     {
@@ -1060,5 +1081,5 @@
       ]
     }
   ],
-  "time": "Thu, 14 May 2020 04:11:57 GMT"
+  "time": "Sat, 16 May 2020 07:01:46 GMT"
 }

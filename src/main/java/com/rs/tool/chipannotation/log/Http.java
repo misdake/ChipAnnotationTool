@@ -46,7 +46,7 @@ public class Http {
         return builder.url(url).build();
     }
 
-    private final static Proxy        proxy  = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("127.0.0.1", 1080));
+    private final static Proxy        proxy  = new Proxy(Proxy.Type.HTTP, new InetSocketAddress("127.0.0.1", 1081));
     private final static OkHttpClient client = new OkHttpClient.Builder()
             .proxy(proxy)
             .build();
