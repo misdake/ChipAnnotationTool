@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 16 May 2020 07:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2020 12:18:55 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1572,6 +1572,27 @@
             <pubDate>Wed, 13 May 2020 03:49:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542</link>
             <guid isPermaLink="false">Zacate_14_622364542_UPDATE_1589341754000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Llano]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 16 May 2020 06:53:31 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano</link>
+            <guid isPermaLink="false">Llano</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SandyBridge_IGP]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 16 May 2020 06:56:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_IGP</link>
+            <guid isPermaLink="false">SandyBridge_IGP</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SandyBridge_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 16 May 2020 07:01:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core</link>
+            <guid isPermaLink="false">SandyBridge_Core</guid>
         </item>
 
     </channel>

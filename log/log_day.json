@@ -1,20 +1,4 @@
 {
-  "2019.12.14": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GK104",
-      "title": "Memory",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 20,
-      "commentId": 565689954,
-      "insertTime": "Sat, 14 Dec 2019 06:51:56 GMT",
-      "updateTime": "Sat, 14 Dec 2019 06:51:56 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 14 Dec 2019 06:51:56 GMT",
-      "dateString": "2019.12.14"
-    }
-  ],
   "2019.12.28": [
     {
       "type": "COMMENT_INSERT",
@@ -651,6 +635,22 @@
       "logType": "IMAGE_CREATE",
       "time": "Sat, 16 May 2020 07:01:46 GMT",
       "dateString": "2020.05.16"
+    }
+  ],
+  "2020.05.23": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Skylake_Core",
+      "title": "By Nemez",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 13,
+      "commentId": 633022524,
+      "insertTime": "Sat, 23 May 2020 10:28:53 GMT",
+      "updateTime": "Sat, 23 May 2020 12:18:55 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 23 May 2020 10:28:53 GMT",
+      "dateString": "2020.05.23"
     }
   ]
 }
