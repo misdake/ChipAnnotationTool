@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 23 May 2020 12:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2020 03:32:11 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1593,6 +1593,34 @@
             <pubDate>Sat, 16 May 2020 07:01:46 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core</link>
             <guid isPermaLink="false">SandyBridge_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: By Nemez for Skylake_Core by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 May 2020 10:28:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_Core&amp;commentId=633022524</link>
+            <guid isPermaLink="false">Skylake_Core_13_633022524_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: By Nemez for Skylake_Core by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 23 May 2020 12:18:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_Core&amp;commentId=633022524</link>
+            <guid isPermaLink="false">Skylake_Core_13_633022524_UPDATE_1590236335000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Barts by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 13 Jun 2020 03:30:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Barts&amp;commentId=560350593</link>
+            <guid isPermaLink="false">Barts_9_560350593_UPDATE_1592019055000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Cayman by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 13 Jun 2020 03:32:11 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Cayman&amp;commentId=544994205</link>
+            <guid isPermaLink="false">Cayman_31_544994205_UPDATE_1592019131000</guid>
         </item>
 
     </channel>
