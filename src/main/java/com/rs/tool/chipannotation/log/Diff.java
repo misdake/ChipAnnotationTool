@@ -147,7 +147,7 @@ public class Diff {
         Files.write(new File("log/log.json").toPath(), Log.gson.toJson(logs).getBytes(StandardCharsets.UTF_8));
         Files.write(new File("log/log_day.json").toPath(), Log.gson.toJson(days).getBytes(StandardCharsets.UTF_8));
 
-        String rss = Rss.rssForLog(stateCurr.time, logPrev);
+        String rss = Rss.rssForLog(stateCurr.time, logs);
         Files.write(new File("log/rss.xml").toPath(), rss.getBytes(StandardCharsets.UTF_8));
 
         String rssday = Rss.rssForDay(stateCurr.time, days);
