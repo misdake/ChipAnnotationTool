@@ -117,21 +117,5 @@ public class State {
         return state;
     }
 
-    public static void main(String[] args) {
-        File logFolder = new File("log");
-        logFolder.mkdirs();
-
-        State state = getState();
-        if (state != null) {
-            File stateFile = new File("log/state_" + state.time.getTime() + ".json");
-            String json = Http.gson.toJson(state);
-            try {
-                Files.write(stateFile.toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-    }
-
 
 }
