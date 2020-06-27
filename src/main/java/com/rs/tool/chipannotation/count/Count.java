@@ -11,7 +11,6 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.nio.file.StandardOpenOption;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -26,7 +25,7 @@ public class Count {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(state);
         try {
-            Files.write(stateFile.toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
+            Files.write(stateFile.toPath(), json.getBytes(StandardCharsets.UTF_8));
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -80,7 +80,7 @@ public class ChipList {
         chips.sort(Comparator.comparing(o -> o.id));
         String s = gson.toJson(chips);
         try {
-            Files.write(new File(filename).toPath(), s.getBytes(), StandardOpenOption.CREATE);
+            Files.write(new File(filename).toPath(), s.getBytes());
             return true;
         } catch (IOException e) {
             e.printStackTrace();

@@ -230,7 +230,7 @@ public class UiController implements Initializable {
             reportInfo("saving content.json");
             String json = gson.toJson(imageContent);
             try {
-                Files.write(new File(dataFolder.getAbsolutePath() + "/" + imageContent.name + "/content.json").toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
+                Files.write(new File(dataFolder.getAbsolutePath() + "/" + imageContent.name + "/content.json").toPath(), json.getBytes(StandardCharsets.UTF_8));
             } catch (IOException e) {
                 e.printStackTrace();
                 reportError("cannot write content.json");
