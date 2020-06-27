@@ -9,7 +9,5 @@ class AnnotationCount {
     public long   id;
     public String title;
     public String username;
-    public String day;
-
-    public int count;
+    public int    count;
 }

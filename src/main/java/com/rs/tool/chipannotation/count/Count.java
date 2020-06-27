@@ -1,6 +1,7 @@
 package com.rs.tool.chipannotation.count;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.rs.tool.chipannotation.ChipList;
 import com.rs.tool.chipannotation.ImageContent;
 import com.rs.tool.chipannotation.log.GithubStructures;
@@ -22,7 +23,8 @@ public class Count {
         ChipCount[] state = getState();
         new File("count").mkdirs();
         File stateFile = new File("count/" + day + ".json");
-        String json = Http.gson.toJson(state);
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String json = gson.toJson(state);
         try {
             Files.write(stateFile.toPath(), json.getBytes(StandardCharsets.UTF_8), StandardOpenOption.CREATE);
         } catch (IOException e) {
@@ -51,7 +53,6 @@ public class Count {
         c.title = title;
         c.username = username;
         c.count = count;
-        c.day = Count.day;
         return c;
     }
 
