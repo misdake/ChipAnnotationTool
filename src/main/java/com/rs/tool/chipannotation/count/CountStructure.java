@@ -10,4 +10,6 @@ class AnnotationCount {
     public String title;
     public String username;
     public int    count;
+    public String fullId;
+    public int    delta;
 }

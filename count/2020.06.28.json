@@ -8,15 +8,15 @@
         "username": "",
         "count": 1,
         "fullId": "Xbox_Series_X_0",
-        "delta": 1
+        "delta": 0
       },
       {
         "id": 599564471,
         "title": "Top Level",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "Xbox_Series_X_599564471",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -29,7 +29,7 @@
         "username": "",
         "count": 1,
         "fullId": "Xbox_One_0",
-        "delta": 1
+        "delta": 0
       },
       {
         "id": 561686125,
@@ -37,7 +37,7 @@
         "username": "misdake",
         "count": 1,
         "fullId": "Xbox_One_561686125",
-        "delta": 1
+        "delta": 0
       }
     ]
   },
@@ -150,7 +150,7 @@
         "username": "",
         "count": 1,
         "fullId": "Llano_0",
-        "delta": 1
+        "delta": 0
       }
     ]
   },
@@ -205,7 +205,7 @@
         "username": "",
         "count": 2,
         "fullId": "Zeppelin_0",
-        "delta": 2
+        "delta": 0
       },
       {
         "id": 593049935,
@@ -431,17 +431,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Skylake_Core_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 633022524,
         "title": "By Nemez",
         "username": "misdake",
-        "count": 0,
+        "count": 3,
         "fullId": "Skylake_Core_633022524",
-        "delta": 0
+        "delta": 3
       }
     ]
   },
@@ -581,9 +581,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 4,
+        "count": 7,
         "fullId": "Fiji_0",
-        "delta": 2
+        "delta": 3
       },
       {
         "id": 453737453,
@@ -591,7 +591,7 @@
         "username": "misdake",
         "count": 3,
         "fullId": "Fiji_453737453",
-        "delta": 1
+        "delta": 0
       },
       {
         "id": 453739448,
@@ -599,7 +599,7 @@
         "username": "misdake",
         "count": 1,
         "fullId": "Fiji_453739448",
-        "delta": 1
+        "delta": 0
       }
     ]
   },
@@ -870,17 +870,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Navi14_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 582272478,
         "title": "Display",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "Navi14_582272478",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1433,17 +1433,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "GT200_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 475917799,
         "title": "Block diagram",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "GT200_475917799",
-        "delta": 0
+        "delta": 1
       }
     ]
   },

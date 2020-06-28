@@ -12,9 +12,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 public class Count {
 
@@ -45,23 +43,52 @@ public class Count {
         CountResult countResult = Http.get("https://api.countapi.xyz/get/chipannotationviewer/" + chip + "_" + commentId, CountResult.class);
         return countResult != null && countResult.value != null ? countResult.value : Integer.valueOf(0);
     }
-    private static AnnotationCount getAnnotationCount(String title, String username, String chip, long commentId) {
+    private static AnnotationCount getAnnotationCount(String title, String username, String chip, long commentId, Map<String, Integer> lastMap) {
         int count = getCount(chip, commentId);
         AnnotationCount c = new AnnotationCount();
         c.id = commentId;
         c.title = title;
         c.username = username;
         c.count = count;
+        c.fullId = chip + "_" + commentId;
+
+        Integer lastCount = lastMap.get(c.fullId);
+        if(lastCount == null) lastCount = 0;
+        c.delta = count - lastCount;
+
         return c;
     }
 
     public static ChipCount[] getState() {
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
+        SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd");
+        String lastDay = format.format(new Date(new Date().getTime() - 1000 * 60 * 60 * 24));
+        System.out.println("lastDay: "+lastDay);
+
+        File lastFile = new File("count/" + lastDay + ".json");
+        Map<String, Integer> lastMap = new HashMap<>();
+        if (lastFile.exists()) {
+            try {
+                String str = new String(Files.readAllBytes(lastFile.toPath()), StandardCharsets.UTF_8);
+                ChipCount[] array = gson.fromJson(str, ChipCount[].class);
+                for (ChipCount chipCount : array) {
+                    for (AnnotationCount annotation : chipCount.annotations) {
+                        annotation.fullId = chipCount.chipName + "_" + annotation.id;
+                        annotation.delta = annotation.count;
+                        lastMap.put(annotation.fullId, annotation.count);
+                    }
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
         List<ChipCount> result = new ArrayList<>();
 
         System.out.println("get image list");
         String json = Http.get("https://misdake.github.io/ChipAnnotationData/list.json");
         if (json == null) return null;
-        Gson gson = new Gson();
         ChipList.Chip[] chipList = gson.fromJson(json, ChipList.Chip[].class);
         for (int i = 0; i < chipList.length; i++) {
             ChipList.Chip chip = chipList[i];
@@ -74,7 +101,7 @@ public class Count {
             result.add(chipCount);
             chipCount.chipName = chip.name;
             List<AnnotationCount> annotationCounts = new ArrayList<>();
-            AnnotationCount c0 = getAnnotationCount("(empty)", "", chip.name, 0);
+            AnnotationCount c0 = getAnnotationCount("(empty)", "", chip.name, 0, lastMap);
             annotationCounts.add(c0);
             System.out.println(" -> " + c0.count);
 
@@ -91,7 +118,7 @@ public class Count {
                 try {
                     GithubStructures.CommentBody commentBody = Http.gson.fromJson(comment.body, GithubStructures.CommentBody.class);
                     if (commentBody != null && commentBody.title != null) {
-                        AnnotationCount c = getAnnotationCount(commentBody.title, comment.user.login, chip.name, comment.id);
+                        AnnotationCount c = getAnnotationCount(commentBody.title, comment.user.login, chip.name, comment.id, lastMap);
                         annotationCounts.add(c);
                         System.out.println("  '" + commentBody.title + "' by " + comment.user.login + " -> " + c.count);
                         valid = true;
