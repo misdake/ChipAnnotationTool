@@ -27,6 +27,10 @@ public class Count {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println();
+        for (AnnotationCount c : changed) {
+            System.out.println("+" + c.delta + ": " + c.title + " " + c.fullId);
+        }
     }
 
     public final static String day;
@@ -35,6 +39,8 @@ public class Count {
         SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd");
         day = format.format(new Date());
     }
+
+    private static List<AnnotationCount> changed = new ArrayList<>();
 
     private static class CountResult {
         public Integer value;
@@ -55,6 +61,7 @@ public class Count {
         Integer lastCount = lastMap.get(c.fullId);
         if(lastCount == null) lastCount = 0;
         c.delta = count - lastCount;
+        if (c.delta > 0) changed.add(c);
 
         return c;
     }
