@@ -6,9 +6,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 4,
+        "count": 5,
         "fullId": "Xbox_Series_X_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 599564471,
@@ -27,9 +27,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 3,
         "fullId": "Xbox_One_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 561686125,
@@ -48,9 +48,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 3,
         "fullId": "PS4_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 549631069,
@@ -69,9 +69,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 1,
+        "count": 2,
         "fullId": "PS4Pro_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 549634954,
@@ -90,9 +90,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "RSX_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -353,9 +353,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Conroe_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -366,9 +366,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "P54C_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -379,9 +379,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Coppermine_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -405,9 +405,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "SandyBridge_Core_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -418,9 +418,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "SandyBridge_IGP_0",
-        "delta": 0
+        "delta": 2
       }
     ]
   },
@@ -431,9 +431,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 1,
+        "count": 2,
         "fullId": "Skylake_Core_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 633022524,
@@ -465,9 +465,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Skylake_LCC_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -581,17 +581,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 13,
+        "count": 15,
         "fullId": "Fiji_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 453737453,
         "title": "Top level",
         "username": "misdake",
-        "count": 5,
+        "count": 6,
         "fullId": "Fiji_453737453",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 453739448,
@@ -610,17 +610,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 1,
+        "count": 3,
         "fullId": "Polaris10_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 460143382,
         "title": "Top Level",
         "username": "misdake",
-        "count": 1,
+        "count": 2,
         "fullId": "Polaris10_460143382",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 557549303,
@@ -639,9 +639,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "Polaris11_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 549098636,
@@ -668,9 +668,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Polaris22_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 464451905,
@@ -689,17 +689,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 3,
         "fullId": "Vega10_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 453918586,
         "title": "area(WIP)",
         "username": "0x22h",
-        "count": 2,
+        "count": 3,
         "fullId": "Vega10_453918586",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -710,17 +710,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 4,
+        "count": 5,
         "fullId": "Vega20_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 510073674,
         "title": "Top level",
         "username": "misdake",
-        "count": 4,
+        "count": 5,
         "fullId": "Vega20_510073674",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -954,17 +954,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Barts_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 560350593,
         "title": "Top level",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "Barts_560350593",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -975,17 +975,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "Cayman_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 544994205,
         "title": "Top level",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "Cayman_544994205",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 545253909,
@@ -1004,9 +1004,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G70_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 545011850,
@@ -1025,9 +1025,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G71_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1038,9 +1038,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G72_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1051,9 +1051,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G73_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1064,9 +1064,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "NV40_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 551393949,
@@ -1085,9 +1085,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "NV42_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1098,9 +1098,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "NV43_0",
-        "delta": 0
+        "delta": 2
       }
     ]
   },
@@ -1111,9 +1111,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 3,
         "fullId": "GF100_0",
-        "delta": 0
+        "delta": 3
       },
       {
         "id": 622954791,
@@ -1132,17 +1132,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 4,
         "fullId": "GF106_0",
-        "delta": 0
+        "delta": 4
       },
       {
         "id": 480515498,
         "title": "ROPs+MC",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "GF106_480515498",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1153,9 +1153,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 3,
         "fullId": "GF108_0",
-        "delta": 0
+        "delta": 3
       }
     ]
   },
@@ -1166,9 +1166,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 3,
         "fullId": "GF114_0",
-        "delta": 0
+        "delta": 3
       }
     ]
   },
@@ -1179,17 +1179,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "GK104_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 564615746,
         "title": "Top level",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "GK104_564615746",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 565689954,
@@ -1208,17 +1208,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "GK106_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 564630791,
         "title": "GPC with GK110",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "GK106_564630791",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1229,25 +1229,25 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "GK110_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 453743988,
         "title": "GPC with GK106",
         "username": "misdake",
-        "count": 0,
+        "count": 1,
         "fullId": "GK110_453743988",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 453746268,
         "title": "GPC",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "GK110_453746268",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1258,9 +1258,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "GM107_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1271,17 +1271,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "GM200_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 477844276,
         "title": "SM",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "GM200_477844276",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1292,9 +1292,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 3,
         "fullId": "GM204_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1305,9 +1305,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "GP102_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1318,17 +1318,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "GP104_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 477878931,
         "title": "Block Diagram",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "GP104_477878931",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1339,9 +1339,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "GP106_0",
-        "delta": 0
+        "delta": 2
       }
     ]
   },
@@ -1352,9 +1352,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G80_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1365,9 +1365,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G84_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1378,9 +1378,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 1,
         "fullId": "G86_0",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1391,17 +1391,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "G92_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 480517985,
         "title": "Block diagram",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "G92_480517985",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1412,17 +1412,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 0,
+        "count": 2,
         "fullId": "G94_0",
-        "delta": 0
+        "delta": 2
       },
       {
         "id": 480517917,
         "title": "Block diagram",
         "username": "0x22h",
-        "count": 0,
+        "count": 1,
         "fullId": "G94_480517917",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
@@ -1433,17 +1433,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 3,
         "fullId": "GT200_0",
-        "delta": 0
+        "delta": 1
       },
       {
         "id": 475917799,
         "title": "Block diagram",
         "username": "0x22h",
-        "count": 2,
+        "count": 3,
         "fullId": "GT200_475917799",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
