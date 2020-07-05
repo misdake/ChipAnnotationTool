@@ -4,3 +4,5 @@
 /run
 config.cfg
 login.txt
+*.jar
+*.bat
