@@ -1,0 +1,1579 @@
+[
+  {
+    "chipName": "Xbox_Series_X",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 5,
+        "fullId": "Xbox_Series_X_0",
+        "delta": 0
+      },
+      {
+        "id": 599564471,
+        "title": "Top Level",
+        "username": "misdake",
+        "count": 3,
+        "fullId": "Xbox_Series_X_599564471",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Xbox_One",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "Xbox_One_0",
+        "delta": 0
+      },
+      {
+        "id": 561686125,
+        "title": "Graphics",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Xbox_One_561686125",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "PS4",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "PS4_0",
+        "delta": 0
+      },
+      {
+        "id": 549631069,
+        "title": "ROPs",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "PS4_549631069",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "PS4Pro",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "PS4Pro_0",
+        "delta": 1
+      },
+      {
+        "id": 549634954,
+        "title": "ROPs",
+        "username": "0x22h",
+        "count": 2,
+        "fullId": "PS4Pro_549634954",
+        "delta": 1
+      }
+    ]
+  },
+  {
+    "chipName": "RSX",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "RSX_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Zacate",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Zacate_0",
+        "delta": 0
+      },
+      {
+        "id": 622364542,
+        "title": "Floorplan by Locuza",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Zacate_622364542",
+        "delta": 0
+      },
+      {
+        "id": 622364604,
+        "title": "CPU Core by Locuza",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Zacate_622364604",
+        "delta": 0
+      },
+      {
+        "id": 622364641,
+        "title": "GPU by Locuza",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "Zacate_622364641",
+        "delta": 0
+      },
+      {
+        "id": 622376553,
+        "title": "IO by Locuza",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Zacate_622376553",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Llano",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Llano_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "K6",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "K6_0",
+        "delta": 1
+      },
+      {
+        "id": 554756202,
+        "title": "Cache",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "K6_554756202",
+        "delta": 0
+      },
+      {
+        "id": 554760232,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "K6_554760232",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Kaveri",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "Kaveri_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Zeppelin",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 4,
+        "fullId": "Zeppelin_0",
+        "delta": 0
+      },
+      {
+        "id": 593049935,
+        "title": "Core",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Zeppelin_593049935",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Raven_Ridge",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 5,
+        "fullId": "Raven_Ridge_0",
+        "delta": 0
+      },
+      {
+        "id": 569382019,
+        "title": "some blocks",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "Raven_Ridge_569382019",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Matisse_IOD",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Matisse_IOD_0",
+        "delta": 0
+      },
+      {
+        "id": 548651920,
+        "title": "IO",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Matisse_IOD_548651920",
+        "delta": 0
+      },
+      {
+        "id": 548676036,
+        "title": "what is this?",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Matisse_IOD_548676036",
+        "delta": 0
+      },
+      {
+        "id": 548832366,
+        "title": "Compare with Rome",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Matisse_IOD_548832366",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Rome_IOD",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "Rome_IOD_0",
+        "delta": 0
+      },
+      {
+        "id": 548832292,
+        "title": "Compare with Matisse",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Rome_IOD_548832292",
+        "delta": 0
+      },
+      {
+        "id": 593466713,
+        "title": "InterConnect",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Rome_IOD_593466713",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Zen2_CCD",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 20,
+        "fullId": "Zen2_CCD_0",
+        "delta": 2
+      },
+      {
+        "id": 589959403,
+        "title": "Core",
+        "username": "misdake",
+        "count": 7,
+        "fullId": "Zen2_CCD_589959403",
+        "delta": 0
+      },
+      {
+        "id": 589960256,
+        "title": "Top Level",
+        "username": "misdake",
+        "count": 3,
+        "fullId": "Zen2_CCD_589960256",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Zen2_Core",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "Zen2_Core_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Conroe",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Conroe_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "P54C",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "P54C_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Coppermine",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Coppermine_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "SandyBridge_4+2",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "SandyBridge_4+2_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "SandyBridge_Core",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "SandyBridge_Core_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "SandyBridge_IGP",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "SandyBridge_IGP_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Skylake_Core",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "Skylake_Core_0",
+        "delta": 0
+      },
+      {
+        "id": 633022524,
+        "title": "By Nemez",
+        "username": "misdake",
+        "count": 4,
+        "fullId": "Skylake_Core_633022524",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Kabylake_2+2",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "Kabylake_2+2_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Skylake_LCC",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Skylake_LCC_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Pitcairn",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "Pitcairn_0",
+        "delta": 0
+      },
+      {
+        "id": 549243529,
+        "title": "ROPs?",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Pitcairn_549243529",
+        "delta": 0
+      },
+      {
+        "id": 551388511,
+        "title": "Compare with Tahiti",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Pitcairn_551388511",
+        "delta": 0
+      },
+      {
+        "id": 552058726,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Pitcairn_552058726",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Tahiti",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Tahiti_0",
+        "delta": 1
+      },
+      {
+        "id": 549238805,
+        "title": "ROPs",
+        "username": "0x22h",
+        "count": 0,
+        "fullId": "Tahiti_549238805",
+        "delta": 0
+      },
+      {
+        "id": 551388615,
+        "title": "Compare with Pitcairn",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Tahiti_551388615",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Hawaii",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "Hawaii_0",
+        "delta": 0
+      },
+      {
+        "id": 453745612,
+        "title": "area",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Hawaii_453745612",
+        "delta": 0
+      },
+      {
+        "id": 495222037,
+        "title": "wip",
+        "username": "0x22h",
+        "count": 0,
+        "fullId": "Hawaii_495222037",
+        "delta": 0
+      },
+      {
+        "id": 549668778,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Hawaii_549668778",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Fiji",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 16,
+        "fullId": "Fiji_0",
+        "delta": 0
+      },
+      {
+        "id": 453737453,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 6,
+        "fullId": "Fiji_453737453",
+        "delta": 0
+      },
+      {
+        "id": 453739448,
+        "title": "Inside CU",
+        "username": "misdake",
+        "count": 4,
+        "fullId": "Fiji_453739448",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Polaris10",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "Polaris10_0",
+        "delta": 0
+      },
+      {
+        "id": 460143382,
+        "title": "Top Level",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Polaris10_460143382",
+        "delta": 0
+      },
+      {
+        "id": 557549303,
+        "title": "Compare with P11",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Polaris10_557549303",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Polaris11",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "Polaris11_0",
+        "delta": 0
+      },
+      {
+        "id": 549098636,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Polaris11_549098636",
+        "delta": 0
+      },
+      {
+        "id": 557549418,
+        "title": "Compare with P10",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Polaris11_557549418",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Polaris22",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Polaris22_0",
+        "delta": 0
+      },
+      {
+        "id": 464451905,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Polaris22_464451905",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Vega10",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "Vega10_0",
+        "delta": 0
+      },
+      {
+        "id": 453918586,
+        "title": "area(WIP)",
+        "username": "0x22h",
+        "count": 3,
+        "fullId": "Vega10_453918586",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Vega20",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 5,
+        "fullId": "Vega20_0",
+        "delta": 0
+      },
+      {
+        "id": 510073674,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 5,
+        "fullId": "Vega20_510073674",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "R420",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "R420_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "R430",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "R430_0",
+        "delta": 0
+      },
+      {
+        "id": 545259396,
+        "title": "label",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "R430_545259396",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "R520",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "R520_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "R580",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "R580_0",
+        "delta": 1
+      },
+      {
+        "id": 545257045,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "R580_545257045",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "RV350",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "RV350_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "RV570",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "RV570_0",
+        "delta": 0
+      },
+      {
+        "id": 544981315,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "RV570_544981315",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Navi10",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "Navi10_0",
+        "delta": 0
+      },
+      {
+        "id": 576108410,
+        "title": "WGP",
+        "username": "misdake",
+        "count": 4,
+        "fullId": "Navi10_576108410",
+        "delta": 0
+      },
+      {
+        "id": 576116633,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Navi10_576116633",
+        "delta": 0
+      },
+      {
+        "id": 582270516,
+        "title": "Display",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "Navi10_582270516",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Navi14",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "Navi14_0",
+        "delta": 0
+      },
+      {
+        "id": 582272478,
+        "title": "Display",
+        "username": "misdake",
+        "count": 2,
+        "fullId": "Navi14_582272478",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "R600",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "R600_0",
+        "delta": 1
+      },
+      {
+        "id": 554750880,
+        "title": "RBE \u0026 MC",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "R600_554750880",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "RV670",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "RV670_0",
+        "delta": 0
+      },
+      {
+        "id": 544975361,
+        "title": "mem",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "RV670_544975361",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "RV770",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "RV770_0",
+        "delta": 0
+      },
+      {
+        "id": 560042231,
+        "title": "ROPs\u0026MC",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "RV770_560042231",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Barts",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Barts_0",
+        "delta": 0
+      },
+      {
+        "id": 560350593,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "Barts_560350593",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "Cayman",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "Cayman_0",
+        "delta": 0
+      },
+      {
+        "id": 544994205,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "Cayman_544994205",
+        "delta": 0
+      },
+      {
+        "id": 545253909,
+        "title": "SIMD",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "Cayman_545253909",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G70",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G70_0",
+        "delta": 0
+      },
+      {
+        "id": 545011850,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "G70_545011850",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G71",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "G71_0",
+        "delta": 1
+      }
+    ]
+  },
+  {
+    "chipName": "G72",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G72_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G73",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G73_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "NV40",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "NV40_0",
+        "delta": 0
+      },
+      {
+        "id": 551393949,
+        "title": "SLI",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "NV40_551393949",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "NV42",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "NV42_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "NV43",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "NV43_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GF100",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GF100_0",
+        "delta": 0
+      },
+      {
+        "id": 622954791,
+        "title": "Top Level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "GF100_622954791",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GF106",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 4,
+        "fullId": "GF106_0",
+        "delta": 0
+      },
+      {
+        "id": 480515498,
+        "title": "ROPs+MC",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "GF106_480515498",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GF108",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GF108_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GF114",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GF114_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GK104",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "GK104_0",
+        "delta": 0
+      },
+      {
+        "id": 564615746,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "GK104_564615746",
+        "delta": 0
+      },
+      {
+        "id": 565689954,
+        "title": "Memory",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "GK104_565689954",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GK106",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "GK106_0",
+        "delta": 0
+      },
+      {
+        "id": 564630791,
+        "title": "GPC with GK110",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "GK106_564630791",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GK110",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "GK110_0",
+        "delta": 0
+      },
+      {
+        "id": 453743988,
+        "title": "GPC with GK106",
+        "username": "misdake",
+        "count": 1,
+        "fullId": "GK110_453743988",
+        "delta": 0
+      },
+      {
+        "id": 453746268,
+        "title": "GPC",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "GK110_453746268",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GM107",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "GM107_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GM200",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "GM200_0",
+        "delta": 0
+      },
+      {
+        "id": 477844276,
+        "title": "SM",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "GM200_477844276",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GM204",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GM204_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GP102",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "GP102_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GP104",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GP104_0",
+        "delta": 1
+      },
+      {
+        "id": 477878931,
+        "title": "Block Diagram",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "GP104_477878931",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GP106",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GP106_0",
+        "delta": 1
+      }
+    ]
+  },
+  {
+    "chipName": "G80",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G80_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G84",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G84_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G86",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "G86_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G92",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "G92_0",
+        "delta": 1
+      },
+      {
+        "id": 480517985,
+        "title": "Block diagram",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "G92_480517985",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "G94",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "G94_0",
+        "delta": 0
+      },
+      {
+        "id": 480517917,
+        "title": "Block diagram",
+        "username": "0x22h",
+        "count": 1,
+        "fullId": "G94_480517917",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GT200",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "GT200_0",
+        "delta": 0
+      },
+      {
+        "id": 475917799,
+        "title": "Block diagram",
+        "username": "0x22h",
+        "count": 3,
+        "fullId": "GT200_475917799",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "GT218",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "GT218_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "TU102",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 0,
+        "fullId": "TU102_0",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "TU104",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 1,
+        "fullId": "TU104_0",
+        "delta": 1
+      }
+    ]
+  },
+  {
+    "chipName": "TU106",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 2,
+        "fullId": "TU106_0",
+        "delta": 2
+      },
+      {
+        "id": 470010587,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU106_470010587",
+        "delta": 0
+      },
+      {
+        "id": 470013866,
+        "title": "GPC",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU106_470013866",
+        "delta": 0
+      },
+      {
+        "id": 470015092,
+        "title": "Backend",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU106_470015092",
+        "delta": 0
+      },
+      {
+        "id": 470099401,
+        "title": "TPC area",
+        "username": "0x22h",
+        "count": 0,
+        "fullId": "TU106_470099401",
+        "delta": 0
+      }
+    ]
+  },
+  {
+    "chipName": "TU116",
+    "annotations": [
+      {
+        "id": 0,
+        "title": "(empty)",
+        "username": "",
+        "count": 3,
+        "fullId": "TU116_0",
+        "delta": 1
+      },
+      {
+        "id": 470004164,
+        "title": "Top level",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU116_470004164",
+        "delta": 0
+      },
+      {
+        "id": 470006848,
+        "title": "GPC",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU116_470006848",
+        "delta": 0
+      },
+      {
+        "id": 470008804,
+        "title": "Backend",
+        "username": "misdake",
+        "count": 0,
+        "fullId": "TU116_470008804",
+        "delta": 0
+      },
+      {
+        "id": 470099814,
+        "title": "TPC area",
+        "username": "0x22h",
+        "count": 2,
+        "fullId": "TU116_470099814",
+        "delta": 0
+      }
+    ]
+  }
+]
