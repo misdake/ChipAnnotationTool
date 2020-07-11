@@ -140,6 +140,13 @@
       "comments": []
     },
     {
+      "name": "Renoir",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 20,
+      "insertTime": "Fri, 10 Jul 2020 09:49:44 GMT",
+      "comments": []
+    },
+    {
       "name": "Zeppelin",
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 5,
@@ -254,6 +261,13 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 16,
       "insertTime": "Fri, 01 May 2020 11:48:46 GMT",
+      "comments": []
+    },
+    {
+      "name": "IvyBridge_2+2",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 21,
+      "insertTime": "Fri, 10 Jul 2020 09:52:08 GMT",
       "comments": []
     },
     {
@@ -1089,5 +1103,5 @@
       ]
     }
   ],
-  "time": "Sat, 13 Jun 2020 03:32:11 GMT"
+  "time": "Fri, 10 Jul 2020 09:52:08 GMT"
 }

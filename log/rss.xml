@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 13 Jun 2020 03:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2020 09:52:08 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1621,6 +1621,20 @@
             <pubDate>Sat, 13 Jun 2020 03:32:11 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Cayman&amp;commentId=544994205</link>
             <guid isPermaLink="false">Cayman_31_544994205_UPDATE_1592019131000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Renoir]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 10 Jul 2020 09:49:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Renoir</link>
+            <guid isPermaLink="false">Renoir</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: IvyBridge_2+2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 10 Jul 2020 09:52:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2</link>
+            <guid isPermaLink="false">IvyBridge_2+2</guid>
         </item>
 
     </channel>

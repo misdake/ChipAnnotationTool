@@ -1,16 +1,4 @@
 {
-  "2020.01.04": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Kaveri",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 10,
-      "insertTime": "Sat, 04 Jan 2020 05:34:04 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 04 Jan 2020 05:34:04 GMT",
-      "dateString": "2020.01.04"
-    }
-  ],
   "2020.01.20": [
     {
       "type": "IMAGE_CREATE",
@@ -665,6 +653,28 @@
       "logType": "COMMENT_UPDATE",
       "time": "Sat, 13 Jun 2020 03:32:11 GMT",
       "dateString": "2020.06.13"
+    }
+  ],
+  "2020.07.10": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Renoir",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 20,
+      "insertTime": "Fri, 10 Jul 2020 09:49:44 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 10 Jul 2020 09:49:44 GMT",
+      "dateString": "2020.07.10"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "IvyBridge_2+2",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 21,
+      "insertTime": "Fri, 10 Jul 2020 09:52:08 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 10 Jul 2020 09:52:08 GMT",
+      "dateString": "2020.07.10"
     }
   ]
 }
