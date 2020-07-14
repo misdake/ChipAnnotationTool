@@ -218,7 +218,7 @@
         "username": "",
         "count": 8,
         "fullId": "Zeppelin_0",
-        "delta": 1
+        "delta": 0
       },
       {
         "id": 593049935,
@@ -324,9 +324,9 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 30,
+        "count": 31,
         "fullId": "Zen2_CCD_0",
-        "delta": 3
+        "delta": 1
       },
       {
         "id": 589959403,
@@ -457,17 +457,17 @@
         "id": 0,
         "title": "(empty)",
         "username": "",
-        "count": 2,
+        "count": 5,
         "fullId": "Skylake_Core_0",
-        "delta": 0
+        "delta": 3
       },
       {
         "id": 633022524,
         "title": "By Nemez",
         "username": "misdake",
-        "count": 4,
+        "count": 5,
         "fullId": "Skylake_Core_633022524",
-        "delta": 0
+        "delta": 1
       }
     ]
   },
