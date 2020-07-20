@@ -108,7 +108,15 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 17,
       "insertTime": "Sat, 16 May 2020 06:53:31 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "By Locuza",
+          "username": "misdake",
+          "commentId": 660580640,
+          "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
+          "updateTime": "Sun, 19 Jul 2020 03:39:26 GMT"
+        }
+      ]
     },
     {
       "name": "K6",
@@ -1103,5 +1111,5 @@
       ]
     }
   ],
-  "time": "Fri, 10 Jul 2020 09:52:08 GMT"
+  "time": "Sun, 19 Jul 2020 03:39:26 GMT"
 }
