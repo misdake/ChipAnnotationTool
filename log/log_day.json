@@ -1,62 +1,4 @@
 {
-  "2020.01.21": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi10",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 11,
-      "commentId": 576116633,
-      "insertTime": "Mon, 20 Jan 2020 05:46:56 GMT",
-      "updateTime": "Tue, 21 Jan 2020 02:17:56 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 21 Jan 2020 02:17:56 GMT",
-      "dateString": "2020.01.21"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Vega20",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 46,
-      "commentId": 510073674,
-      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
-      "updateTime": "Tue, 21 Jan 2020 16:47:23 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 21 Jan 2020 16:47:23 GMT",
-      "dateString": "2020.01.21"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Fiji",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453737453,
-      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "updateTime": "Tue, 21 Jan 2020 17:41:47 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 21 Jan 2020 17:41:47 GMT",
-      "dateString": "2020.01.21"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Fiji",
-      "title": "Inside CU",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453739448,
-      "insertTime": "Sat, 12 Jan 2019 11:17:03 GMT",
-      "updateTime": "Tue, 21 Jan 2020 17:49:46 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 21 Jan 2020 17:49:46 GMT",
-      "dateString": "2020.01.21"
-    }
-  ],
   "2020.02.02": [
     {
       "type": "IMAGE_CREATE",
@@ -651,6 +593,18 @@
       "logType": "COMMENT_INSERT",
       "time": "Sun, 19 Jul 2020 03:37:13 GMT",
       "dateString": "2020.07.19"
+    }
+  ],
+  "2020.07.20": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Skylake_XCC",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 1,
+      "insertTime": "Mon, 20 Jul 2020 13:09:53 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 20 Jul 2020 13:09:53 GMT",
+      "dateString": "2020.07.20"
     }
   ]
 }

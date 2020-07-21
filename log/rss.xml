@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 19 Jul 2020 03:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2020 13:48:32 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1649,6 +1649,20 @@
             <pubDate>Sun, 19 Jul 2020 03:39:26 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640</link>
             <guid isPermaLink="false">Llano_17_660580640_UPDATE_1595129966000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Skylake_XCC]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 20 Jul 2020 13:09:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_XCC</link>
+            <guid isPermaLink="false">Skylake_XCC</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Knights_Landing]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 21 Jul 2020 13:48:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Landing</link>
+            <guid isPermaLink="false">Knights_Landing</guid>
         </item>
 
     </channel>
