@@ -1,16 +1,4 @@
 {
-  "2020.02.02": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Navi14",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 12,
-      "insertTime": "Sun, 02 Feb 2020 15:06:11 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 02 Feb 2020 15:06:11 GMT",
-      "dateString": "2020.02.02"
-    }
-  ],
   "2020.02.05": [
     {
       "type": "COMMENT_INSERT",
@@ -605,6 +593,18 @@
       "logType": "IMAGE_CREATE",
       "time": "Mon, 20 Jul 2020 13:09:53 GMT",
       "dateString": "2020.07.20"
+    }
+  ],
+  "2020.07.21": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Knights_Landing",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 2,
+      "insertTime": "Tue, 21 Jul 2020 13:48:32 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 21 Jul 2020 13:48:32 GMT",
+      "dateString": "2020.07.21"
     }
   ]
 }
