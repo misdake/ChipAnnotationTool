@@ -108,7 +108,15 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 17,
       "insertTime": "Sat, 16 May 2020 06:53:31 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "By Locuza",
+          "username": "misdake",
+          "commentId": 660580640,
+          "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
+          "updateTime": "Sun, 19 Jul 2020 03:39:26 GMT"
+        }
+      ]
     },
     {
       "name": "K6",
@@ -271,6 +279,13 @@
       "comments": []
     },
     {
+      "name": "Knights_Landing",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 2,
+      "insertTime": "Tue, 21 Jul 2020 13:48:32 GMT",
+      "comments": []
+    },
+    {
       "name": "P54C",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 7,
@@ -332,6 +347,13 @@
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 7,
       "insertTime": "Fri, 25 Oct 2019 02:23:26 GMT",
+      "comments": []
+    },
+    {
+      "name": "Skylake_XCC",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 1,
+      "insertTime": "Mon, 20 Jul 2020 13:09:53 GMT",
       "comments": []
     },
     {
@@ -1103,5 +1125,5 @@
       ]
     }
   ],
-  "time": "Fri, 10 Jul 2020 09:52:08 GMT"
+  "time": "Tue, 21 Jul 2020 13:48:32 GMT"
 }
