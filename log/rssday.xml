@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 21 Jul 2020 13:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2020 20:05:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.02.05]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=582270516'>Display for Navi10 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=582272478'>Display for Navi14 by misdake</a><br>]]></description>
-            <pubDate>Wed, 05 Feb 2020 07:12:31 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.02.05</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.02.22]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=589959403'>Core for Zen2_CCD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=589960256'>Top Level for Zen2_CCD by misdake</a><br>]]></description>
-            <pubDate>Sat, 22 Feb 2020 14:16:45 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.02.22</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.03.01]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=593049935'>Core for Zeppelin by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Tue, 21 Jul 2020 13:48:32 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.07.21</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.07.28]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640'>By Locuza for Llano by misdake</a><br>]]></description>
+            <pubDate>Tue, 28 Jul 2020 15:39:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.07.28</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.08.08]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2&amp;commentId=670822204'>Layout for IvyBridge_2+2 by cole8888</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603'>Top Level for Conroe by cole8888</a><br>]]></description>
+            <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.08.08</guid>
         </item>
 
     </channel>

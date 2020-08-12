@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 21 Jul 2020 13:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2020 20:05:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1663,6 +1663,27 @@
             <pubDate>Tue, 21 Jul 2020 13:48:32 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Landing</link>
             <guid isPermaLink="false">Knights_Landing</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: By Locuza for Llano by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 28 Jul 2020 15:39:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640</link>
+            <guid isPermaLink="false">Llano_17_660580640_UPDATE_1595950789000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Layout for IvyBridge_2+2 by cole8888]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 08 Aug 2020 04:28:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2&amp;commentId=670822204</link>
+            <guid isPermaLink="false">IvyBridge_2+2_21_670822204_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top Level for Conroe by cole8888]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603</link>
+            <guid isPermaLink="false">Conroe_16_670968603_INSERT</guid>
         </item>
 
     </channel>

@@ -2974,5 +2974,47 @@
     "logType": "IMAGE_CREATE",
     "time": "Tue, 21 Jul 2020 13:48:32 GMT",
     "dateString": "2020.07.21"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Llano",
+    "title": "By Locuza",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 17,
+    "commentId": 660580640,
+    "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
+    "updateTime": "Tue, 28 Jul 2020 15:39:49 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Tue, 28 Jul 2020 15:39:49 GMT",
+    "dateString": "2020.07.28"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "IvyBridge_2+2",
+    "title": "Layout",
+    "username": "cole8888",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 21,
+    "commentId": 670822204,
+    "insertTime": "Sat, 08 Aug 2020 04:28:55 GMT",
+    "updateTime": "Sat, 08 Aug 2020 04:28:55 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 08 Aug 2020 04:28:55 GMT",
+    "dateString": "2020.08.08"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Conroe",
+    "title": "Top Level",
+    "username": "cole8888",
+    "githubRepo": "misdake/ChipAnnotationData3",
+    "githubIssueId": 16,
+    "commentId": 670968603,
+    "insertTime": "Sat, 08 Aug 2020 20:05:15 GMT",
+    "updateTime": "Sat, 08 Aug 2020 20:05:15 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 08 Aug 2020 20:05:15 GMT",
+    "dateString": "2020.08.08"
   }
 ]
