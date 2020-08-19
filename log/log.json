@@ -3016,5 +3016,15 @@
     "logType": "COMMENT_INSERT",
     "time": "Sat, 08 Aug 2020 20:05:15 GMT",
     "dateString": "2020.08.08"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Dali",
+    "githubRepo": "misdake/ChipAnnotationData4",
+    "githubIssueId": 3,
+    "insertTime": "Wed, 12 Aug 2020 18:54:57 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 12 Aug 2020 18:54:57 GMT",
+    "dateString": "2020.08.12"
   }
 ]

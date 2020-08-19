@@ -185,6 +185,13 @@
       ]
     },
     {
+      "name": "Dali",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 3,
+      "insertTime": "Wed, 12 Aug 2020 18:54:57 GMT",
+      "comments": []
+    },
+    {
       "name": "Matisse_IOD",
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 4,
@@ -1141,5 +1148,5 @@
       ]
     }
   ],
-  "time": "Sat, 08 Aug 2020 20:05:15 GMT"
+  "time": "Wed, 12 Aug 2020 18:54:57 GMT"
 }

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 08 Aug 2020 20:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2020 18:54:57 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1684,6 +1684,13 @@
             <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603</link>
             <guid isPermaLink="false">Conroe_16_670968603_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Dali]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 12 Aug 2020 18:54:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Dali</link>
+            <guid isPermaLink="false">Dali</guid>
         </item>
 
     </channel>
