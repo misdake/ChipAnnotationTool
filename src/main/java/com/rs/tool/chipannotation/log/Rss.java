@@ -1,6 +1,7 @@
 package com.rs.tool.chipannotation.log;
 
 import java.io.*;
+import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.util.Date;
@@ -61,31 +62,37 @@ public class Rss {
 
         String dateString = Log.formatter.format(pubDate);
 
-        switch (log.logType) {
-            case IMAGE_CREATE: {
-                Log.ImageCreate imageCreate = (Log.ImageCreate) log;
-                title = "New Image: " + imageCreate.name;
-                description = "";
-                link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + imageCreate.name;
-                guid = imageCreate.name;
-                break;
+        try {
+
+            switch (log.logType) {
+                case IMAGE_CREATE: {
+                    Log.ImageCreate imageCreate = (Log.ImageCreate) log;
+                    title = "New Image: " + imageCreate.name;
+                    description = "";
+                    link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(imageCreate.name, StandardCharsets.UTF_8.name());
+                    guid = imageCreate.name;
+                    break;
+                }
+                case COMMENT_INSERT: {
+                    Log.CommentInsert commentInsert = (Log.CommentInsert) log;
+                    title = "New Comment: " + commentInsert.title + " for " + commentInsert.imageName + " by " + commentInsert.username;
+                    description = "";
+                    link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(commentInsert.imageName, StandardCharsets.UTF_8.name()) + "&amp;commentId=" + commentInsert.commentId;
+                    guid = commentInsert.imageName + "_" + commentInsert.githubIssueId + "_" + commentInsert.commentId + "_INSERT";
+                    break;
+                }
+                case COMMENT_UPDATE: {
+                    Log.CommentUpdate commentUpdate = (Log.CommentUpdate) log;
+                    title = "Update Comment: " + commentUpdate.title + " for " + commentUpdate.imageName + " by " + commentUpdate.username;
+                    description = "";
+                    link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(commentUpdate.imageName, StandardCharsets.UTF_8.name()) + "&amp;commentId=" + commentUpdate.commentId;
+                    guid = commentUpdate.imageName + "_" + commentUpdate.githubIssueId + "_" + commentUpdate.commentId + "_UPDATE_" + pubDate.getTime();
+                    break;
+                }
             }
-            case COMMENT_INSERT: {
-                Log.CommentInsert commentInsert = (Log.CommentInsert) log;
-                title = "New Comment: " + commentInsert.title + " for " + commentInsert.imageName + " by " + commentInsert.username;
-                description = "";
-                link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + commentInsert.imageName + "&amp;commentId=" + commentInsert.commentId;
-                guid = commentInsert.imageName + "_" + commentInsert.githubIssueId + "_" + commentInsert.commentId + "_INSERT";
-                break;
-            }
-            case COMMENT_UPDATE: {
-                Log.CommentUpdate commentUpdate = (Log.CommentUpdate) log;
-                title = "Update Comment: " + commentUpdate.title + " for " + commentUpdate.imageName + " by " + commentUpdate.username;
-                description = "";
-                link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + commentUpdate.imageName + "&amp;commentId=" + commentUpdate.commentId;
-                guid = commentUpdate.imageName + "_" + commentUpdate.githubIssueId + "_" + commentUpdate.commentId + "_UPDATE_" + pubDate.getTime();
-                break;
-            }
+
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
         }
 
         return String.format(itemTemplate, title, description, dateString, link, guid);
@@ -108,32 +115,38 @@ public class Rss {
     public static String itemForDay(String day, Log[] logs) {
         StringBuilder b = new StringBuilder();
 
-        for (Log log : logs) {
-            switch (log.logType) {
-                case IMAGE_CREATE: {
-                    Log.ImageCreate imageCreate = (Log.ImageCreate) log;
-                    String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + imageCreate.name;
-                    String line = String.format("New Image: <a href='%s'>%s</a>", link, imageCreate.name);
-                    b.append(line).append("<br>");
-                    break;
-                }
-                case COMMENT_INSERT: {
-                    Log.CommentInsert commentInsert = (Log.CommentInsert) log;
-                    String title = commentInsert.title + " for " + commentInsert.imageName + " by " + commentInsert.username;
-                    String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + commentInsert.imageName + "&amp;commentId=" + commentInsert.commentId;
-                    String line = String.format("New Comment: <a href='%s'>%s</a>", link, title);
-                    b.append(line).append("<br>");
-                    break;
-                }
-                case COMMENT_UPDATE: {
-                    Log.CommentUpdate commentUpdate = (Log.CommentUpdate) log;
-                    String title = commentUpdate.title + " for " + commentUpdate.imageName + " by " + commentUpdate.username;
-                    String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + commentUpdate.imageName + "&amp;commentId=" + commentUpdate.commentId;
-                    String line = String.format("Update Comment: <a href='%s'>%s</a>", link, title);
-                    b.append(line).append("<br>");
-                    break;
+        try {
+
+            for (Log log : logs) {
+                switch (log.logType) {
+                    case IMAGE_CREATE: {
+                        Log.ImageCreate imageCreate = (Log.ImageCreate) log;
+                        String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(imageCreate.name, StandardCharsets.UTF_8.name());
+                        String line = String.format("New Image: <a href='%s'>%s</a>", link, imageCreate.name);
+                        b.append(line).append("<br>");
+                        break;
+                    }
+                    case COMMENT_INSERT: {
+                        Log.CommentInsert commentInsert = (Log.CommentInsert) log;
+                        String title = commentInsert.title + " for " + commentInsert.imageName + " by " + commentInsert.username;
+                        String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(commentInsert.imageName, StandardCharsets.UTF_8.name()) + "&amp;commentId=" + commentInsert.commentId;
+                        String line = String.format("New Comment: <a href='%s'>%s</a>", link, title);
+                        b.append(line).append("<br>");
+                        break;
+                    }
+                    case COMMENT_UPDATE: {
+                        Log.CommentUpdate commentUpdate = (Log.CommentUpdate) log;
+                        String title = commentUpdate.title + " for " + commentUpdate.imageName + " by " + commentUpdate.username;
+                        String link = "https://misdake.github.io/ChipAnnotationViewer/?map=" + URLEncoder.encode(commentUpdate.imageName, StandardCharsets.UTF_8.name()) + "&amp;commentId=" + commentUpdate.commentId;
+                        String line = String.format("Update Comment: <a href='%s'>%s</a>", link, title);
+                        b.append(line).append("<br>");
+                        break;
+                    }
                 }
             }
+
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
         }
 
         String title = "Update for " + day;

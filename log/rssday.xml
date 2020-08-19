@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 12 Aug 2020 18:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2020 00:48:53 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -56,7 +56,7 @@
         </item>
         <item>
             <title><![CDATA[Update for 2020.05.01]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate'>Zacate</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4+2'>SandyBridge_4+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe'>Conroe</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542'>Floorplan by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641'>GPU by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553'>IO by Locuza for Zacate by misdake</a><br>]]></description>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate'>Zacate</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4%2B2'>SandyBridge_4+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe'>Conroe</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542'>Floorplan by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641'>GPU by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553'>IO by Locuza for Zacate by misdake</a><br>]]></description>
             <pubDate>Fri, 01 May 2020 12:55:04 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.05.01</guid>
@@ -105,7 +105,7 @@
         </item>
         <item>
             <title><![CDATA[Update for 2020.07.10]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Renoir'>Renoir</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2'>IvyBridge_2+2</a><br>]]></description>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Renoir'>Renoir</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2'>IvyBridge_2+2</a><br>]]></description>
             <pubDate>Fri, 10 Jul 2020 09:52:08 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.07.10</guid>
@@ -140,7 +140,7 @@
         </item>
         <item>
             <title><![CDATA[Update for 2020.08.08]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2&amp;commentId=670822204'>Layout for IvyBridge_2+2 by cole8888</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603'>Top Level for Conroe by cole8888</a><br>]]></description>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2&amp;commentId=670822204'>Layout for IvyBridge_2+2 by cole8888</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603'>Top Level for Conroe by cole8888</a><br>]]></description>
             <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.08.08</guid>
