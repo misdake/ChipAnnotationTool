@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 19 Aug 2020 00:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2020 08:41:55 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1691,6 +1691,48 @@
             <pubDate>Wed, 12 Aug 2020 18:54:57 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Dali</link>
             <guid isPermaLink="false">Dali</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Test]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 02:41:50 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test</link>
+            <guid isPermaLink="false">Test</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xbox_One_X]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 02:44:59 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X</link>
+            <guid isPermaLink="false">Xbox_One_X</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Graphics for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 07:58:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678610733</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678610733_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Graphics for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:08:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678610733</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678610733_UPDATE_1598083703000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Same blocks? for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:15:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678612075</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678612075_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Graphics for Xbox_One by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:41:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One&amp;commentId=561686125</link>
+            <guid isPermaLink="false">Xbox_One_12_561686125_UPDATE_1598085715000</guid>
         </item>
 
     </channel>

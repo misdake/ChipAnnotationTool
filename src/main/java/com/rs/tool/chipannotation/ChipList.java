@@ -6,7 +6,6 @@ import com.google.gson.GsonBuilder;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -33,7 +32,7 @@ public class ChipList {
 
         private void checkId() {
             if (id == null) {
-                id = type + " " + vendor + " " + family + " " + name;
+                id = vendor + " " + type + " " + family + " " + name;
             }
         }
 

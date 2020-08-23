@@ -1,20 +1,4 @@
 {
-  "2020.03.02": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Rome_IOD",
-      "title": "InterConnect",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 593466713,
-      "insertTime": "Mon, 02 Mar 2020 15:44:10 GMT",
-      "updateTime": "Tue, 03 Mar 2020 10:25:36 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 02 Mar 2020 15:44:10 GMT",
-      "dateString": "2020.03.02"
-    }
-  ],
   "2020.03.03": [
     {
       "type": "COMMENT_UPDATE",
@@ -587,6 +571,70 @@
       "logType": "IMAGE_CREATE",
       "time": "Wed, 12 Aug 2020 18:54:57 GMT",
       "dateString": "2020.08.12"
+    }
+  ],
+  "2020.08.22": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Test",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "insertTime": "Sat, 22 Aug 2020 02:41:50 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 22 Aug 2020 02:41:50 GMT",
+      "dateString": "2020.08.22"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Xbox_One_X",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 4,
+      "insertTime": "Sat, 22 Aug 2020 02:44:59 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 22 Aug 2020 02:44:59 GMT",
+      "dateString": "2020.08.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_One_X",
+      "title": "Graphics",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 4,
+      "commentId": 678610733,
+      "insertTime": "Sat, 22 Aug 2020 07:58:36 GMT",
+      "updateTime": "Sat, 22 Aug 2020 08:08:23 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 22 Aug 2020 07:58:36 GMT",
+      "dateString": "2020.08.22"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_One_X",
+      "title": "Same blocks?",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 4,
+      "commentId": 678612075,
+      "insertTime": "Sat, 22 Aug 2020 08:15:08 GMT",
+      "updateTime": "Sat, 22 Aug 2020 08:15:08 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 22 Aug 2020 08:15:08 GMT",
+      "dateString": "2020.08.22"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_One",
+      "title": "Graphics",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 12,
+      "commentId": 561686125,
+      "insertTime": "Wed, 04 Dec 2019 15:06:20 GMT",
+      "updateTime": "Sat, 22 Aug 2020 08:41:55 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 22 Aug 2020 08:41:55 GMT",
+      "dateString": "2020.08.22"
     }
   ]
 }
