@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 21 Jul 2020 13:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2020 08:41:55 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -730,7 +730,7 @@
             <title><![CDATA[New Image: Kabylake_2+2]]></title>
             <description><![CDATA[]]></description>
             <pubDate>Fri, 25 Oct 2019 02:25:08 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabylake_2+2</link>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabylake_2%2B2</link>
             <guid isPermaLink="false">Kabylake_2+2</guid>
         </item>
         <item>
@@ -1423,7 +1423,7 @@
             <title><![CDATA[New Image: SandyBridge_4+2]]></title>
             <description><![CDATA[]]></description>
             <pubDate>Fri, 01 May 2020 11:43:14 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4+2</link>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4%2B2</link>
             <guid isPermaLink="false">SandyBridge_4+2</guid>
         </item>
         <item>
@@ -1633,7 +1633,7 @@
             <title><![CDATA[New Image: IvyBridge_2+2]]></title>
             <description><![CDATA[]]></description>
             <pubDate>Fri, 10 Jul 2020 09:52:08 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2+2</link>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2</link>
             <guid isPermaLink="false">IvyBridge_2+2</guid>
         </item>
         <item>
@@ -1663,6 +1663,76 @@
             <pubDate>Tue, 21 Jul 2020 13:48:32 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Landing</link>
             <guid isPermaLink="false">Knights_Landing</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: By Locuza for Llano by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 28 Jul 2020 15:39:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640</link>
+            <guid isPermaLink="false">Llano_17_660580640_UPDATE_1595950789000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Layout for IvyBridge_2+2 by cole8888]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 08 Aug 2020 04:28:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2&amp;commentId=670822204</link>
+            <guid isPermaLink="false">IvyBridge_2+2_21_670822204_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top Level for Conroe by cole8888]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603</link>
+            <guid isPermaLink="false">Conroe_16_670968603_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Dali]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 12 Aug 2020 18:54:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Dali</link>
+            <guid isPermaLink="false">Dali</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Test]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 02:41:50 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test</link>
+            <guid isPermaLink="false">Test</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xbox_One_X]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 02:44:59 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X</link>
+            <guid isPermaLink="false">Xbox_One_X</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Graphics for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 07:58:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678610733</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678610733_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Graphics for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:08:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678610733</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678610733_UPDATE_1598083703000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Same blocks? for Xbox_One_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:15:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678612075</link>
+            <guid isPermaLink="false">Xbox_One_X_4_678612075_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Graphics for Xbox_One by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 22 Aug 2020 08:41:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One&amp;commentId=561686125</link>
+            <guid isPermaLink="false">Xbox_One_12_561686125_UPDATE_1598085715000</guid>
         </item>
 
     </channel>
