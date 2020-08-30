@@ -1,20 +1,4 @@
 {
-  "2020.03.03": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Rome_IOD",
-      "title": "InterConnect",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 593466713,
-      "insertTime": "Mon, 02 Mar 2020 15:44:10 GMT",
-      "updateTime": "Tue, 03 Mar 2020 10:25:36 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 03 Mar 2020 10:25:36 GMT",
-      "dateString": "2020.03.03"
-    }
-  ],
   "2020.03.16": [
     {
       "type": "IMAGE_CREATE",
@@ -635,6 +619,18 @@
       "logType": "COMMENT_UPDATE",
       "time": "Sat, 22 Aug 2020 08:41:55 GMT",
       "dateString": "2020.08.22"
+    }
+  ],
+  "2020.08.28": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Trinity",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 49,
+      "insertTime": "Fri, 28 Aug 2020 06:10:20 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Aug 2020 06:10:20 GMT",
+      "dateString": "2020.08.28"
     }
   ]
 }

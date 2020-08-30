@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 22 Aug 2020 08:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2020 06:10:20 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1733,6 +1733,13 @@
             <pubDate>Sat, 22 Aug 2020 08:41:55 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One&amp;commentId=561686125</link>
             <guid isPermaLink="false">Xbox_One_12_561686125_UPDATE_1598085715000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Trinity]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 28 Aug 2020 06:10:20 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Trinity</link>
+            <guid isPermaLink="false">Trinity</guid>
         </item>
 
     </channel>

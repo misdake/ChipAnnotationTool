@@ -1,13 +1,6 @@
 {
   "images": [
     {
-      "name": "Test",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 48,
-      "insertTime": "Sat, 22 Aug 2020 02:41:50 GMT",
-      "comments": []
-    },
-    {
       "name": "Zacate",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 14,
@@ -79,6 +72,13 @@
           "updateTime": "Sat, 02 May 2020 13:05:02 GMT"
         }
       ]
+    },
+    {
+      "name": "Trinity",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 49,
+      "insertTime": "Fri, 28 Aug 2020 06:10:20 GMT",
+      "comments": []
     },
     {
       "name": "Kaveri",
@@ -792,6 +792,13 @@
       "comments": []
     },
     {
+      "name": "Test",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "insertTime": "Sat, 22 Aug 2020 02:41:50 GMT",
+      "comments": []
+    },
+    {
       "name": "G70",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 34,
@@ -1177,5 +1184,5 @@
       ]
     }
   ],
-  "time": "Sat, 22 Aug 2020 08:41:55 GMT"
+  "time": "Fri, 28 Aug 2020 06:10:20 GMT"
 }
