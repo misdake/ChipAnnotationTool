@@ -9,30 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 28 Aug 2020 06:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2020 14:30:25 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.03.16]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X'>Xbox_Series_X</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=599564471'>Top Level for Xbox_Series_X by misdake</a><br>]]></description>
-            <pubDate>Mon, 16 Mar 2020 14:24:05 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.03.16</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.03.30]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=576116633'>Top level for Navi10 by misdake</a><br>]]></description>
-            <pubDate>Mon, 30 Mar 2020 05:34:00 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.03.30</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.04.27]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rome_IOD&amp;commentId=548832292'>Compare with Matisse for Rome_IOD by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Matisse_IOD&amp;commentId=548651920'>IO for Matisse_IOD by misdake</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_Core'>Skylake_Core</a><br>]]></description>
-            <pubDate>Mon, 27 Apr 2020 13:27:58 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.04.27</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.04.29]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Barts&amp;commentId=560350593'>Top level for Barts by misdake</a><br>]]></description>
@@ -151,6 +130,27 @@
             <pubDate>Fri, 28 Aug 2020 06:10:20 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.08.28</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.07]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
+            <pubDate>Mon, 07 Sep 2020 05:38:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.07</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.09]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
+            <pubDate>Wed, 09 Sep 2020 02:44:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.09</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.13]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428'>Shader Engine for Xbox_Series_X by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>]]></description>
+            <pubDate>Sun, 13 Sep 2020 14:30:25 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.13</guid>
         </item>
 
     </channel>

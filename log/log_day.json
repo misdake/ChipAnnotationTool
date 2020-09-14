@@ -1,86 +1,4 @@
 {
-  "2020.03.16": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Xbox_Series_X",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "insertTime": "Mon, 16 Mar 2020 13:58:51 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 16 Mar 2020 13:58:51 GMT",
-      "dateString": "2020.03.16"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Xbox_Series_X",
-      "title": "Top Level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "commentId": 599564471,
-      "insertTime": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "updateTime": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "dateString": "2020.03.16"
-    }
-  ],
-  "2020.03.30": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi10",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 11,
-      "commentId": 576116633,
-      "insertTime": "Mon, 20 Jan 2020 05:46:56 GMT",
-      "updateTime": "Mon, 30 Mar 2020 05:34:00 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 30 Mar 2020 05:34:00 GMT",
-      "dateString": "2020.03.30"
-    }
-  ],
-  "2020.04.27": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Rome_IOD",
-      "title": "Compare with Matisse",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 548832292,
-      "insertTime": "Fri, 01 Nov 2019 15:31:07 GMT",
-      "updateTime": "Mon, 27 Apr 2020 07:19:20 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 27 Apr 2020 07:19:20 GMT",
-      "dateString": "2020.04.27"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Matisse_IOD",
-      "title": "IO",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548651920,
-      "insertTime": "Fri, 01 Nov 2019 03:23:10 GMT",
-      "updateTime": "Mon, 27 Apr 2020 07:32:47 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 27 Apr 2020 07:32:47 GMT",
-      "dateString": "2020.04.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Skylake_Core",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 13,
-      "insertTime": "Mon, 27 Apr 2020 13:27:58 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 27 Apr 2020 13:27:58 GMT",
-      "dateString": "2020.04.27"
-    }
-  ],
   "2020.04.29": [
     {
       "type": "COMMENT_UPDATE",
@@ -631,6 +549,110 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 28 Aug 2020 06:10:20 GMT",
       "dateString": "2020.08.28"
+    }
+  ],
+  "2020.09.07": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi14",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 12,
+      "commentId": 688005711,
+      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "dateString": "2020.09.07"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi10",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 688005923,
+      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "dateString": "2020.09.07"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_Series_X",
+      "title": "Top level WIP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 688047853,
+      "insertTime": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "updateTime": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "dateString": "2020.09.07"
+    }
+  ],
+  "2020.09.09": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Top level WIP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 688047853,
+      "insertTime": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "updateTime": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "dateString": "2020.09.09"
+    }
+  ],
+  "2020.09.13": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_Series_X",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 691678428,
+      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:28:35 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "dateString": "2020.09.13"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi10",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 688005923,
+      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "dateString": "2020.09.13"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi14",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 12,
+      "commentId": 688005711,
+      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "dateString": "2020.09.13"
     }
   ]
 }
