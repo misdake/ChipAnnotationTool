@@ -1,20 +1,4 @@
 {
-  "2020.04.29": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Barts",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 9,
-      "commentId": 560350593,
-      "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
-      "updateTime": "Wed, 29 Apr 2020 02:09:01 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 29 Apr 2020 02:09:01 GMT",
-      "dateString": "2020.04.29"
-    }
-  ],
   "2020.05.01": [
     {
       "type": "IMAGE_CREATE",
@@ -653,6 +637,22 @@
       "logType": "COMMENT_UPDATE",
       "time": "Sun, 13 Sep 2020 14:30:25 GMT",
       "dateString": "2020.09.13"
+    }
+  ],
+  "2020.09.14": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 691678428,
+      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "updateTime": "Mon, 14 Sep 2020 01:09:08 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Mon, 14 Sep 2020 01:09:08 GMT",
+      "dateString": "2020.09.14"
     }
   ]
 }

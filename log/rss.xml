@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 13 Sep 2020 14:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2020 01:09:08 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1796,6 +1796,13 @@
             <pubDate>Sun, 13 Sep 2020 14:30:25 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711</link>
             <guid isPermaLink="false">Navi14_12_688005711_UPDATE_1600007425000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Shader Engine for Xbox_Series_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 14 Sep 2020 01:09:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428</link>
+            <guid isPermaLink="false">Xbox_Series_X_47_691678428_UPDATE_1600045748000</guid>
         </item>
 
     </channel>
