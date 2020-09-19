@@ -9,30 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 14 Sep 2020 01:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2020 15:23:45 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.05.01]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate'>Zacate</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_4%2B2'>SandyBridge_4+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe'>Conroe</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542'>Floorplan by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641'>GPU by Locuza for Zacate by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553'>IO by Locuza for Zacate by misdake</a><br>]]></description>
-            <pubDate>Fri, 01 May 2020 12:55:04 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.05.01</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.05.02]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641'>GPU by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553'>IO by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=K6&amp;commentId=554760232'>Top level for K6 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=593049935'>Core for Zeppelin by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF100&amp;commentId=622954791'>Top Level for GF100 by misdake</a><br>]]></description>
-            <pubDate>Sat, 02 May 2020 13:35:42 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.05.02</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.05.03]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364641'>GPU by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542'>Floorplan by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622376553'>IO by Locuza for Zacate by misdake</a><br>]]></description>
-            <pubDate>Sun, 03 May 2020 08:32:20 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.05.03</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.05.13]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364604'>CPU Core by Locuza for Zacate by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zacate&amp;commentId=622364542'>Floorplan by Locuza for Zacate by misdake</a><br>]]></description>
@@ -151,6 +130,27 @@
             <pubDate>Mon, 14 Sep 2020 01:09:08 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.09.14</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.16]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428'>Shader Engine for Xbox_Series_X by misdake</a><br>]]></description>
+            <pubDate>Wed, 16 Sep 2020 16:12:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.16</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.17]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
+            <pubDate>Thu, 17 Sep 2020 07:20:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.17</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.18]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=694954189'>Navi21 Guess for Test by misdake</a><br>]]></description>
+            <pubDate>Fri, 18 Sep 2020 16:07:12 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.18</guid>
         </item>
 
     </channel>

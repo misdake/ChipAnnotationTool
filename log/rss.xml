@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 14 Sep 2020 01:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2020 15:23:45 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1803,6 +1803,55 @@
             <pubDate>Mon, 14 Sep 2020 01:09:08 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428</link>
             <guid isPermaLink="false">Xbox_Series_X_47_691678428_UPDATE_1600045748000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Shader Engine for Navi10 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 16 Sep 2020 16:09:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923</link>
+            <guid isPermaLink="false">Navi10_11_688005923_UPDATE_1600272585000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Shader Engine for Navi14 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 16 Sep 2020 16:11:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711</link>
+            <guid isPermaLink="false">Navi14_12_688005711_UPDATE_1600272705000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Shader Engine for Xbox_Series_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 16 Sep 2020 16:12:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428</link>
+            <guid isPermaLink="false">Xbox_Series_X_47_691678428_UPDATE_1600272764000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level WIP for Xbox_Series_X by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Sep 2020 07:20:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853</link>
+            <guid isPermaLink="false">Xbox_Series_X_47_688047853_UPDATE_1600327224000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Navi21 Guess for Test by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 18 Sep 2020 16:07:12 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=694954189</link>
+            <guid isPermaLink="false">Test_48_694954189_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Navi21 Guess for Test by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 18 Sep 2020 16:16:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=694954189</link>
+            <guid isPermaLink="false">Test_48_694954189_UPDATE_1600445783000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Navi21 Guess2 for Test by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 19 Sep 2020 15:23:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695258535</link>
+            <guid isPermaLink="false">Test_48_695258535_INSERT</guid>
         </item>
 
     </channel>
