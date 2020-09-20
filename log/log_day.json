@@ -1,34 +1,4 @@
 {
-  "2020.05.13": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364604,
-      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
-      "updateTime": "Wed, 13 May 2020 03:47:20 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 13 May 2020 03:47:20 GMT",
-      "dateString": "2020.05.13"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "Floorplan by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364542,
-      "insertTime": "Fri, 01 May 2020 12:16:16 GMT",
-      "updateTime": "Wed, 13 May 2020 03:49:14 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 13 May 2020 03:49:14 GMT",
-      "dateString": "2020.05.13"
-    }
-  ],
   "2020.05.16": [
     {
       "type": "IMAGE_CREATE",
@@ -497,6 +467,22 @@
       "logType": "COMMENT_INSERT",
       "time": "Fri, 18 Sep 2020 16:07:12 GMT",
       "dateString": "2020.09.18"
+    }
+  ],
+  "2020.09.19": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "Navi21 Guess2",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695258535,
+      "insertTime": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "updateTime": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "dateString": "2020.09.19"
     }
   ]
 }
