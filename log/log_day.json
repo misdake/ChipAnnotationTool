@@ -1,36 +1,4 @@
 {
-  "2020.05.16": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Llano",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 17,
-      "insertTime": "Sat, 16 May 2020 06:53:31 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 06:53:31 GMT",
-      "dateString": "2020.05.16"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_IGP",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 18,
-      "insertTime": "Sat, 16 May 2020 06:56:04 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 06:56:04 GMT",
-      "dateString": "2020.05.16"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_Core",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 19,
-      "insertTime": "Sat, 16 May 2020 07:01:46 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 07:01:46 GMT",
-      "dateString": "2020.05.16"
-    }
-  ],
   "2020.05.23": [
     {
       "type": "COMMENT_INSERT",
@@ -483,6 +451,36 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 19 Sep 2020 15:23:45 GMT",
       "dateString": "2020.09.19"
+    }
+  ],
+  "2020.09.20": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "Instructions",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695762901,
+      "insertTime": "Sun, 20 Sep 2020 08:58:26 GMT",
+      "updateTime": "Sun, 20 Sep 2020 09:37:57 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 20 Sep 2020 08:58:26 GMT",
+      "dateString": "2020.09.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "untitled",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695765960,
+      "insertTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "updateTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "dateString": "2020.09.20"
     }
   ]
 }

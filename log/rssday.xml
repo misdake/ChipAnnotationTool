@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 19 Sep 2020 15:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2020 09:37:57 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.05.16]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano'>Llano</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_IGP'>SandyBridge_IGP</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core'>SandyBridge_Core</a><br>]]></description>
-            <pubDate>Sat, 16 May 2020 07:01:46 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.05.16</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.05.23]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_Core&amp;commentId=633022524'>By Nemez for Skylake_Core by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 19 Sep 2020 15:23:45 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.09.19</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2020.09.20]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901'>Instructions for Test by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695765960'>untitled for Test by misdake</a><br>]]></description>
+            <pubDate>Sun, 20 Sep 2020 09:33:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2020.09.20</guid>
         </item>
 
     </channel>
