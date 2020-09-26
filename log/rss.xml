@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 20 Sep 2020 09:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 16:14:14 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1873,6 +1873,13 @@
             <pubDate>Sun, 20 Sep 2020 09:37:57 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901</link>
             <guid isPermaLink="false">Test_48_695762901_UPDATE_1600594677000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Text Syntax for Test by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 22 Sep 2020 16:14:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901</link>
+            <guid isPermaLink="false">Test_48_695762901_UPDATE_1600791254000</guid>
         </item>
 
     </channel>
