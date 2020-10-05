@@ -1,412 +1,4 @@
 {
-  "2020.03.16": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Xbox_Series_X",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "insertTime": "Mon, 16 Mar 2020 13:58:51 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 16 Mar 2020 13:58:51 GMT",
-      "dateString": "2020.03.16"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Xbox_Series_X",
-      "title": "Top Level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "commentId": 599564471,
-      "insertTime": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "updateTime": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 16 Mar 2020 14:24:05 GMT",
-      "dateString": "2020.03.16"
-    }
-  ],
-  "2020.03.30": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi10",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 11,
-      "commentId": 576116633,
-      "insertTime": "Mon, 20 Jan 2020 05:46:56 GMT",
-      "updateTime": "Mon, 30 Mar 2020 05:34:00 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 30 Mar 2020 05:34:00 GMT",
-      "dateString": "2020.03.30"
-    }
-  ],
-  "2020.04.27": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Rome_IOD",
-      "title": "Compare with Matisse",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 1,
-      "commentId": 548832292,
-      "insertTime": "Fri, 01 Nov 2019 15:31:07 GMT",
-      "updateTime": "Mon, 27 Apr 2020 07:19:20 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 27 Apr 2020 07:19:20 GMT",
-      "dateString": "2020.04.27"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Matisse_IOD",
-      "title": "IO",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 4,
-      "commentId": 548651920,
-      "insertTime": "Fri, 01 Nov 2019 03:23:10 GMT",
-      "updateTime": "Mon, 27 Apr 2020 07:32:47 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 27 Apr 2020 07:32:47 GMT",
-      "dateString": "2020.04.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Skylake_Core",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 13,
-      "insertTime": "Mon, 27 Apr 2020 13:27:58 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 27 Apr 2020 13:27:58 GMT",
-      "dateString": "2020.04.27"
-    }
-  ],
-  "2020.04.29": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Barts",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 9,
-      "commentId": 560350593,
-      "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
-      "updateTime": "Wed, 29 Apr 2020 02:09:01 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 29 Apr 2020 02:09:01 GMT",
-      "dateString": "2020.04.29"
-    }
-  ],
-  "2020.05.01": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zacate",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "insertTime": "Fri, 01 May 2020 10:58:09 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 01 May 2020 10:58:09 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_4+2",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 15,
-      "insertTime": "Fri, 01 May 2020 11:43:14 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 01 May 2020 11:43:14 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Conroe",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 16,
-      "insertTime": "Fri, 01 May 2020 11:48:46 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 01 May 2020 11:48:46 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zacate",
-      "title": "Floorplan by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364542,
-      "insertTime": "Fri, 01 May 2020 12:16:16 GMT",
-      "updateTime": "Fri, 01 May 2020 13:12:48 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 May 2020 12:16:16 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zacate",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364604,
-      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
-      "updateTime": "Fri, 01 May 2020 13:18:32 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 May 2020 12:16:27 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zacate",
-      "title": "GPU by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364641,
-      "insertTime": "Fri, 01 May 2020 12:16:33 GMT",
-      "updateTime": "Fri, 01 May 2020 12:53:57 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 May 2020 12:16:33 GMT",
-      "dateString": "2020.05.01"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zacate",
-      "title": "IO by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622376553,
-      "insertTime": "Fri, 01 May 2020 12:55:04 GMT",
-      "updateTime": "Fri, 01 May 2020 13:13:42 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 01 May 2020 12:55:04 GMT",
-      "dateString": "2020.05.01"
-    }
-  ],
-  "2020.05.02": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364604,
-      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
-      "updateTime": "Sat, 02 May 2020 12:58:26 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 May 2020 12:58:26 GMT",
-      "dateString": "2020.05.02"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "GPU by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364641,
-      "insertTime": "Fri, 01 May 2020 12:16:33 GMT",
-      "updateTime": "Sat, 02 May 2020 13:00:26 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 May 2020 13:00:26 GMT",
-      "dateString": "2020.05.02"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "IO by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622376553,
-      "insertTime": "Fri, 01 May 2020 12:55:04 GMT",
-      "updateTime": "Sat, 02 May 2020 13:01:34 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 May 2020 13:01:34 GMT",
-      "dateString": "2020.05.02"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "K6",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 2,
-      "commentId": 554760232,
-      "insertTime": "Sun, 17 Nov 2019 16:02:34 GMT",
-      "updateTime": "Sat, 02 May 2020 13:05:02 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 May 2020 13:05:02 GMT",
-      "dateString": "2020.05.02"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zeppelin",
-      "title": "Core",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 5,
-      "commentId": 593049935,
-      "insertTime": "Sun, 01 Mar 2020 03:51:48 GMT",
-      "updateTime": "Sat, 02 May 2020 13:06:14 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 02 May 2020 13:06:14 GMT",
-      "dateString": "2020.05.02"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GF100",
-      "title": "Top Level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 9,
-      "commentId": 622954791,
-      "insertTime": "Sat, 02 May 2020 13:35:42 GMT",
-      "updateTime": "Sat, 02 May 2020 13:35:42 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 02 May 2020 13:35:42 GMT",
-      "dateString": "2020.05.02"
-    }
-  ],
-  "2020.05.03": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364604,
-      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
-      "updateTime": "Sun, 03 May 2020 08:31:40 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 03 May 2020 08:31:40 GMT",
-      "dateString": "2020.05.03"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "GPU by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364641,
-      "insertTime": "Fri, 01 May 2020 12:16:33 GMT",
-      "updateTime": "Sun, 03 May 2020 08:31:50 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 03 May 2020 08:31:50 GMT",
-      "dateString": "2020.05.03"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "Floorplan by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364542,
-      "insertTime": "Fri, 01 May 2020 12:16:16 GMT",
-      "updateTime": "Sun, 03 May 2020 08:32:09 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 03 May 2020 08:32:09 GMT",
-      "dateString": "2020.05.03"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "IO by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622376553,
-      "insertTime": "Fri, 01 May 2020 12:55:04 GMT",
-      "updateTime": "Sun, 03 May 2020 08:32:20 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 03 May 2020 08:32:20 GMT",
-      "dateString": "2020.05.03"
-    }
-  ],
-  "2020.05.13": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364604,
-      "insertTime": "Fri, 01 May 2020 12:16:27 GMT",
-      "updateTime": "Wed, 13 May 2020 03:47:20 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 13 May 2020 03:47:20 GMT",
-      "dateString": "2020.05.13"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zacate",
-      "title": "Floorplan by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 14,
-      "commentId": 622364542,
-      "insertTime": "Fri, 01 May 2020 12:16:16 GMT",
-      "updateTime": "Wed, 13 May 2020 03:49:14 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 13 May 2020 03:49:14 GMT",
-      "dateString": "2020.05.13"
-    }
-  ],
-  "2020.05.16": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Llano",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 17,
-      "insertTime": "Sat, 16 May 2020 06:53:31 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 06:53:31 GMT",
-      "dateString": "2020.05.16"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_IGP",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 18,
-      "insertTime": "Sat, 16 May 2020 06:56:04 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 06:56:04 GMT",
-      "dateString": "2020.05.16"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_Core",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 19,
-      "insertTime": "Sat, 16 May 2020 07:01:46 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 16 May 2020 07:01:46 GMT",
-      "dateString": "2020.05.16"
-    }
-  ],
-  "2020.05.23": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Skylake_Core",
-      "title": "By Nemez",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 13,
-      "commentId": 633022524,
-      "insertTime": "Sat, 23 May 2020 10:28:53 GMT",
-      "updateTime": "Sat, 23 May 2020 12:18:55 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 23 May 2020 10:28:53 GMT",
-      "dateString": "2020.05.23"
-    }
-  ],
   "2020.06.13": [
     {
       "type": "COMMENT_UPDATE",
@@ -631,6 +223,264 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 28 Aug 2020 06:10:20 GMT",
       "dateString": "2020.08.28"
+    }
+  ],
+  "2020.09.07": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi14",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 12,
+      "commentId": 688005711,
+      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "dateString": "2020.09.07"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Navi10",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 688005923,
+      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "dateString": "2020.09.07"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_Series_X",
+      "title": "Top level WIP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 688047853,
+      "insertTime": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "updateTime": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "dateString": "2020.09.07"
+    }
+  ],
+  "2020.09.09": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Top level WIP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 688047853,
+      "insertTime": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "updateTime": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 09 Sep 2020 02:44:37 GMT",
+      "dateString": "2020.09.09"
+    }
+  ],
+  "2020.09.13": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Xbox_Series_X",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 691678428,
+      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:28:35 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "dateString": "2020.09.13"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi10",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 688005923,
+      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 13 Sep 2020 14:30:11 GMT",
+      "dateString": "2020.09.13"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi14",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 12,
+      "commentId": 688005711,
+      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "updateTime": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 13 Sep 2020 14:30:25 GMT",
+      "dateString": "2020.09.13"
+    }
+  ],
+  "2020.09.14": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 691678428,
+      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "updateTime": "Mon, 14 Sep 2020 01:09:08 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Mon, 14 Sep 2020 01:09:08 GMT",
+      "dateString": "2020.09.14"
+    }
+  ],
+  "2020.09.16": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi10",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 11,
+      "commentId": 688005923,
+      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
+      "updateTime": "Wed, 16 Sep 2020 16:09:45 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 16 Sep 2020 16:09:45 GMT",
+      "dateString": "2020.09.16"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi14",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 12,
+      "commentId": 688005711,
+      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
+      "updateTime": "Wed, 16 Sep 2020 16:11:45 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 16 Sep 2020 16:11:45 GMT",
+      "dateString": "2020.09.16"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Shader Engine",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 691678428,
+      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
+      "updateTime": "Wed, 16 Sep 2020 16:12:44 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 16 Sep 2020 16:12:44 GMT",
+      "dateString": "2020.09.16"
+    }
+  ],
+  "2020.09.17": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Xbox_Series_X",
+      "title": "Top level WIP",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 47,
+      "commentId": 688047853,
+      "insertTime": "Mon, 07 Sep 2020 05:38:38 GMT",
+      "updateTime": "Thu, 17 Sep 2020 07:20:24 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Thu, 17 Sep 2020 07:20:24 GMT",
+      "dateString": "2020.09.17"
+    }
+  ],
+  "2020.09.18": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "Navi21 Guess",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 694954189,
+      "insertTime": "Fri, 18 Sep 2020 16:07:12 GMT",
+      "updateTime": "Fri, 18 Sep 2020 16:16:23 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Fri, 18 Sep 2020 16:07:12 GMT",
+      "dateString": "2020.09.18"
+    }
+  ],
+  "2020.09.19": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "Navi21 Guess2",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695258535,
+      "insertTime": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "updateTime": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 19 Sep 2020 15:23:45 GMT",
+      "dateString": "2020.09.19"
+    }
+  ],
+  "2020.09.20": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "Instructions",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695762901,
+      "insertTime": "Sun, 20 Sep 2020 08:58:26 GMT",
+      "updateTime": "Sun, 20 Sep 2020 09:37:57 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 20 Sep 2020 08:58:26 GMT",
+      "dateString": "2020.09.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Test",
+      "title": "untitled",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695765960,
+      "insertTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "updateTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "dateString": "2020.09.20"
+    }
+  ],
+  "2020.09.22": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Test",
+      "title": "Text Syntax",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695762901,
+      "insertTime": "Sun, 20 Sep 2020 08:58:26 GMT",
+      "updateTime": "Tue, 22 Sep 2020 16:14:14 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 22 Sep 2020 16:14:14 GMT",
+      "dateString": "2020.09.22"
     }
   ]
 }
