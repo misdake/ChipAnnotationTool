@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 22 Sep 2020 16:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2020 01:16:07 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1880,6 +1880,13 @@
             <pubDate>Tue, 22 Sep 2020 16:14:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901</link>
             <guid isPermaLink="false">Test_48_695762901_UPDATE_1600791254000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Vega20 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 16 Oct 2020 01:16:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674</link>
+            <guid isPermaLink="false">Vega20_46_510073674_UPDATE_1602810967000</guid>
         </item>
 
     </channel>

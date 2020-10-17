@@ -1,34 +1,4 @@
 {
-  "2020.06.13": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Barts",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 9,
-      "commentId": 560350593,
-      "insertTime": "Mon, 02 Dec 2019 11:12:24 GMT",
-      "updateTime": "Sat, 13 Jun 2020 03:30:55 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 13 Jun 2020 03:30:55 GMT",
-      "dateString": "2020.06.13"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Cayman",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 31,
-      "commentId": 544994205,
-      "insertTime": "Tue, 22 Oct 2019 14:37:06 GMT",
-      "updateTime": "Sat, 13 Jun 2020 03:32:11 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 13 Jun 2020 03:32:11 GMT",
-      "dateString": "2020.06.13"
-    }
-  ],
   "2020.07.10": [
     {
       "type": "IMAGE_CREATE",
@@ -481,6 +451,22 @@
       "logType": "COMMENT_UPDATE",
       "time": "Tue, 22 Sep 2020 16:14:14 GMT",
       "dateString": "2020.09.22"
+    }
+  ],
+  "2020.10.16": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Vega20",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 46,
+      "commentId": 510073674,
+      "insertTime": "Wed, 10 Jul 2019 14:00:38 GMT",
+      "updateTime": "Fri, 16 Oct 2020 01:16:07 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 16 Oct 2020 01:16:07 GMT",
+      "dateString": "2020.10.16"
     }
   ]
 }
