@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 16 Oct 2020 01:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2020 05:09:47 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1887,6 +1887,13 @@
             <pubDate>Fri, 16 Oct 2020 01:16:07 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674</link>
             <guid isPermaLink="false">Vega20_46_510073674_UPDATE_1602810967000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen3_CCD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 13 Nov 2020 05:09:47 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD</link>
+            <guid isPermaLink="false">Zen3_CCD</guid>
         </item>
 
     </channel>

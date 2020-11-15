@@ -212,6 +212,13 @@
       "comments": []
     },
     {
+      "name": "Zen3_CCD",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 1,
+      "insertTime": "Fri, 13 Nov 2020 05:09:47 GMT",
+      "comments": []
+    },
+    {
       "name": "Pitcairn",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 30,
@@ -1241,5 +1248,5 @@
       ]
     }
   ],
-  "time": "Fri, 16 Oct 2020 01:16:07 GMT"
+  "time": "Fri, 13 Nov 2020 05:09:47 GMT"
 }
