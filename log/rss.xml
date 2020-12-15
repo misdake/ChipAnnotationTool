@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 13 Nov 2020 05:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 08:28:33 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1894,6 +1894,27 @@
             <pubDate>Fri, 13 Nov 2020 05:09:47 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD</link>
             <guid isPermaLink="false">Zen3_CCD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GA102]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 14 Dec 2020 01:31:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA102</link>
+            <guid isPermaLink="false">GA102</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: SM_TPC for GA102 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 14 Dec 2020 08:21:22 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA102&amp;commentId=744266489</link>
+            <guid isPermaLink="false">GA102_2_744266489_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: SM_TPC for GA102 by 0x22h]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 14 Dec 2020 08:28:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA102&amp;commentId=744266489</link>
+            <guid isPermaLink="false">GA102_2_744266489_UPDATE_1607934513000</guid>
         </item>
 
     </channel>

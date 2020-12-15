@@ -1,20 +1,4 @@
 {
-  "2020.07.19": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Llano",
-      "title": "By Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 17,
-      "commentId": 660580640,
-      "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
-      "updateTime": "Sun, 19 Jul 2020 03:39:26 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 19 Jul 2020 03:37:13 GMT",
-      "dateString": "2020.07.19"
-    }
-  ],
   "2020.07.20": [
     {
       "type": "IMAGE_CREATE",
@@ -457,6 +441,32 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 13 Nov 2020 05:09:47 GMT",
       "dateString": "2020.11.13"
+    }
+  ],
+  "2020.12.14": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA102",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 2,
+      "insertTime": "Mon, 14 Dec 2020 01:31:04 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 14 Dec 2020 01:31:04 GMT",
+      "dateString": "2020.12.14"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA102",
+      "title": "SM_TPC",
+      "username": "0x22h",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 2,
+      "commentId": 744266489,
+      "insertTime": "Mon, 14 Dec 2020 08:21:22 GMT",
+      "updateTime": "Mon, 14 Dec 2020 08:28:33 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 14 Dec 2020 08:21:22 GMT",
+      "dateString": "2020.12.14"
     }
   ]
 }
