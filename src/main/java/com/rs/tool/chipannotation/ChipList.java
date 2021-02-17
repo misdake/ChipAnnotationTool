@@ -18,6 +18,7 @@ public class ChipList {
         public final String type;
         public final String family;
         public final String name;
+        public final String listname;
         public final String url;
 
         private transient String id;
@@ -27,6 +28,7 @@ public class ChipList {
             this.type = type;
             this.family = family;
             this.name = name;
+            this.listname = name;
             this.url = url;
         }
 

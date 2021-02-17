@@ -1,28 +1,4 @@
 {
-  "2020.07.20": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Skylake_XCC",
-      "githubRepo": "misdake/ChipAnnotationData4",
-      "githubIssueId": 1,
-      "insertTime": "Mon, 20 Jul 2020 13:09:53 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 20 Jul 2020 13:09:53 GMT",
-      "dateString": "2020.07.20"
-    }
-  ],
-  "2020.07.21": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Knights_Landing",
-      "githubRepo": "misdake/ChipAnnotationData4",
-      "githubIssueId": 2,
-      "insertTime": "Tue, 21 Jul 2020 13:48:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 21 Jul 2020 13:48:32 GMT",
-      "dateString": "2020.07.21"
-    }
-  ],
   "2020.07.28": [
     {
       "type": "COMMENT_UPDATE",
@@ -467,6 +443,40 @@
       "logType": "COMMENT_INSERT",
       "time": "Mon, 14 Dec 2020 08:21:22 GMT",
       "dateString": "2020.12.14"
+    }
+  ],
+  "2021.01.26": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TU104_2",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 3,
+      "insertTime": "Tue, 26 Jan 2021 00:44:56 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 26 Jan 2021 00:44:56 GMT",
+      "dateString": "2021.01.26"
+    }
+  ],
+  "2021.01.27": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TU106_2",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 4,
+      "insertTime": "Wed, 27 Jan 2021 04:44:10 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 27 Jan 2021 04:44:10 GMT",
+      "dateString": "2021.01.27"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TU116_2",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 5,
+      "insertTime": "Wed, 27 Jan 2021 04:51:18 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 27 Jan 2021 04:51:18 GMT",
+      "dateString": "2021.01.27"
     }
   ]
 }

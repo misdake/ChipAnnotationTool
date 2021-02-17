@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 14 Dec 2020 08:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 09:56:40 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1915,6 +1915,34 @@
             <pubDate>Mon, 14 Dec 2020 08:28:33 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA102&amp;commentId=744266489</link>
             <guid isPermaLink="false">GA102_2_744266489_UPDATE_1607934513000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU104_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 26 Jan 2021 00:44:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2</link>
+            <guid isPermaLink="false">TU104_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU106_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 27 Jan 2021 04:44:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2</link>
+            <guid isPermaLink="false">TU106_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TU116_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 27 Jan 2021 04:51:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2</link>
+            <guid isPermaLink="false">TU116_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PS5]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 17 Feb 2021 09:56:40 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PS5</link>
+            <guid isPermaLink="false">PS5</guid>
         </item>
 
     </channel>

@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 14 Dec 2020 08:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 09:56:40 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.07.20]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_XCC'>Skylake_XCC</a><br>]]></description>
-            <pubDate>Mon, 20 Jul 2020 13:09:53 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.07.20</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.07.21]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Landing'>Knights_Landing</a><br>]]></description>
-            <pubDate>Tue, 21 Jul 2020 13:48:32 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.07.21</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.07.28]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640'>By Locuza for Llano by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Mon, 14 Dec 2020 08:21:22 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2020.12.14</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.01.26]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2'>TU104_2</a><br>]]></description>
+            <pubDate>Tue, 26 Jan 2021 00:44:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.01.26</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.01.27]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2'>TU106_2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2'>TU116_2</a><br>]]></description>
+            <pubDate>Wed, 27 Jan 2021 04:51:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.01.27</guid>
         </item>
 
     </channel>
