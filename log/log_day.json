@@ -1,20 +1,4 @@
 {
-  "2020.07.28": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Llano",
-      "title": "By Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 17,
-      "commentId": 660580640,
-      "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
-      "updateTime": "Tue, 28 Jul 2020 15:39:49 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 28 Jul 2020 15:39:49 GMT",
-      "dateString": "2020.07.28"
-    }
-  ],
   "2020.08.08": [
     {
       "type": "COMMENT_INSERT",
@@ -477,6 +461,18 @@
       "logType": "IMAGE_CREATE",
       "time": "Wed, 27 Jan 2021 04:51:18 GMT",
       "dateString": "2021.01.27"
+    }
+  ],
+  "2021.02.17": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "PS5",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 6,
+      "insertTime": "Wed, 17 Feb 2021 09:56:40 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 17 Feb 2021 09:56:40 GMT",
+      "dateString": "2021.02.17"
     }
   ]
 }

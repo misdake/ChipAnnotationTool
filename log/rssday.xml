@@ -13,13 +13,6 @@
         <ttl>60</ttl>
 
         <item>
-            <title><![CDATA[Update for 2020.07.28]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640'>By Locuza for Llano by misdake</a><br>]]></description>
-            <pubDate>Tue, 28 Jul 2020 15:39:49 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.07.28</guid>
-        </item>
-        <item>
             <title><![CDATA[Update for 2020.08.08]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2&amp;commentId=670822204'>Layout for IvyBridge_2+2 by cole8888</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603'>Top Level for Conroe by cole8888</a><br>]]></description>
             <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
@@ -151,6 +144,13 @@
             <pubDate>Wed, 27 Jan 2021 04:51:18 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2021.01.27</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.02.17]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=PS5'>PS5</a><br>]]></description>
+            <pubDate>Wed, 17 Feb 2021 09:56:40 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.02.17</guid>
         </item>
 
     </channel>
