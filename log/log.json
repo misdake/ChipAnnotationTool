@@ -3494,5 +3494,25 @@
     "logType": "IMAGE_CREATE",
     "time": "Wed, 17 Feb 2021 09:56:40 GMT",
     "dateString": "2021.02.17"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Rocketlake_8C",
+    "githubRepo": "misdake/ChipAnnotationData6",
+    "githubIssueId": 1,
+    "insertTime": "Wed, 26 May 2021 13:06:10 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 26 May 2021 13:06:10 GMT",
+    "dateString": "2021.05.26"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Rocketlake_Core",
+    "githubRepo": "misdake/ChipAnnotationData6",
+    "githubIssueId": 2,
+    "insertTime": "Wed, 26 May 2021 13:30:05 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 26 May 2021 13:30:05 GMT",
+    "dateString": "2021.05.26"
   }
 ]

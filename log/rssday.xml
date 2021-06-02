@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 17 Feb 2021 09:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 13:30:05 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.08.08]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_2%2B2&amp;commentId=670822204'>Layout for IvyBridge_2+2 by cole8888</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Conroe&amp;commentId=670968603'>Top Level for Conroe by cole8888</a><br>]]></description>
-            <pubDate>Sat, 08 Aug 2020 20:05:15 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.08.08</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.08.12]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Dali'>Dali</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Wed, 17 Feb 2021 09:56:40 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2021.02.17</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.05.26]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_8C'>Rocketlake_8C</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_Core'>Rocketlake_Core</a><br>]]></description>
+            <pubDate>Wed, 26 May 2021 13:30:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.05.26</guid>
         </item>
 
     </channel>

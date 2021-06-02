@@ -1,6 +1,20 @@
 {
   "images": [
     {
+      "name": "Rocketlake_8C",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 1,
+      "insertTime": "Wed, 26 May 2021 13:06:10 GMT",
+      "comments": []
+    },
+    {
+      "name": "Rocketlake_Core",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 2,
+      "insertTime": "Wed, 26 May 2021 13:30:05 GMT",
+      "comments": []
+    },
+    {
       "name": "Zacate",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 14,
@@ -1291,5 +1305,5 @@
       "comments": []
     }
   ],
-  "time": "Wed, 17 Feb 2021 09:56:40 GMT"
+  "time": "Wed, 26 May 2021 13:30:05 GMT"
 }

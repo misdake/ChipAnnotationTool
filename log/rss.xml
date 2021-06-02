@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 17 Feb 2021 09:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 13:30:05 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1943,6 +1943,20 @@
             <pubDate>Wed, 17 Feb 2021 09:56:40 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=PS5</link>
             <guid isPermaLink="false">PS5</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Rocketlake_8C]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 26 May 2021 13:06:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_8C</link>
+            <guid isPermaLink="false">Rocketlake_8C</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Rocketlake_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 26 May 2021 13:30:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_Core</link>
+            <guid isPermaLink="false">Rocketlake_Core</guid>
         </item>
 
     </channel>

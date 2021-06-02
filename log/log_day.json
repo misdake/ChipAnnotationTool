@@ -1,34 +1,4 @@
 {
-  "2020.08.08": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "IvyBridge_2+2",
-      "title": "Layout",
-      "username": "cole8888",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 21,
-      "commentId": 670822204,
-      "insertTime": "Sat, 08 Aug 2020 04:28:55 GMT",
-      "updateTime": "Sat, 08 Aug 2020 04:28:55 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 08 Aug 2020 04:28:55 GMT",
-      "dateString": "2020.08.08"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Conroe",
-      "title": "Top Level",
-      "username": "cole8888",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 16,
-      "commentId": 670968603,
-      "insertTime": "Sat, 08 Aug 2020 20:05:15 GMT",
-      "updateTime": "Sat, 08 Aug 2020 20:05:15 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 08 Aug 2020 20:05:15 GMT",
-      "dateString": "2020.08.08"
-    }
-  ],
   "2020.08.12": [
     {
       "type": "IMAGE_CREATE",
@@ -473,6 +443,28 @@
       "logType": "IMAGE_CREATE",
       "time": "Wed, 17 Feb 2021 09:56:40 GMT",
       "dateString": "2021.02.17"
+    }
+  ],
+  "2021.05.26": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Rocketlake_8C",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 1,
+      "insertTime": "Wed, 26 May 2021 13:06:10 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 26 May 2021 13:06:10 GMT",
+      "dateString": "2021.05.26"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Rocketlake_Core",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 2,
+      "insertTime": "Wed, 26 May 2021 13:30:05 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 26 May 2021 13:30:05 GMT",
+      "dateString": "2021.05.26"
     }
   ]
 }
