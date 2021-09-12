@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 26 May 2021 13:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 09:13:14 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.08.12]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Dali'>Dali</a><br>]]></description>
-            <pubDate>Wed, 12 Aug 2020 18:54:57 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.08.12</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.08.22]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test'>Test</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X'>Xbox_One_X</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678610733'>Graphics for Xbox_One_X by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One_X&amp;commentId=678612075'>Same blocks? for Xbox_One_X by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_One&amp;commentId=561686125'>Graphics for Xbox_One by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Wed, 26 May 2021 13:30:05 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2021.05.26</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.07.27]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP106&amp;commentId=887540264'>Compare with GP104 for GP106 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP104&amp;commentId=887540804'>Compare with GP106 for GP104 by misdake</a><br>]]></description>
+            <pubDate>Tue, 27 Jul 2021 14:03:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.07.27</guid>
         </item>
 
     </channel>

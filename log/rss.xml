@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 26 May 2021 13:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 09:13:14 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1957,6 +1957,27 @@
             <pubDate>Wed, 26 May 2021 13:30:05 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_Core</link>
             <guid isPermaLink="false">Rocketlake_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with GP104 for GP106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 27 Jul 2021 14:03:13 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP106&amp;commentId=887540264</link>
+            <guid isPermaLink="false">GP106_6_887540264_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with GP106 for GP104 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 27 Jul 2021 14:03:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP104&amp;commentId=887540804</link>
+            <guid isPermaLink="false">GP104_5_887540804_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Compare with GP104 for GP106 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 27 Jul 2021 14:04:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP106&amp;commentId=887540264</link>
+            <guid isPermaLink="false">GP106_6_887540264_UPDATE_1627394654000</guid>
         </item>
 
     </channel>

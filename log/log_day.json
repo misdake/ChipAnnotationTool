@@ -1,16 +1,4 @@
 {
-  "2020.08.12": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Dali",
-      "githubRepo": "misdake/ChipAnnotationData4",
-      "githubIssueId": 3,
-      "insertTime": "Wed, 12 Aug 2020 18:54:57 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 12 Aug 2020 18:54:57 GMT",
-      "dateString": "2020.08.12"
-    }
-  ],
   "2020.08.22": [
     {
       "type": "IMAGE_CREATE",
@@ -465,6 +453,36 @@
       "logType": "IMAGE_CREATE",
       "time": "Wed, 26 May 2021 13:30:05 GMT",
       "dateString": "2021.05.26"
+    }
+  ],
+  "2021.07.27": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GP106",
+      "title": "Compare with GP104",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 6,
+      "commentId": 887540264,
+      "insertTime": "Tue, 27 Jul 2021 14:03:13 GMT",
+      "updateTime": "Tue, 27 Jul 2021 14:04:14 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 27 Jul 2021 14:03:13 GMT",
+      "dateString": "2021.07.27"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GP104",
+      "title": "Compare with GP106",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 5,
+      "commentId": 887540804,
+      "insertTime": "Tue, 27 Jul 2021 14:03:53 GMT",
+      "updateTime": "Tue, 27 Jul 2021 14:03:53 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 27 Jul 2021 14:03:53 GMT",
+      "dateString": "2021.07.27"
     }
   ]
 }
