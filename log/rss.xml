@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 12 Sep 2021 09:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:30:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -1978,6 +1978,69 @@
             <pubDate>Tue, 27 Jul 2021 14:04:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP106&amp;commentId=887540264</link>
             <guid isPermaLink="false">GP106_6_887540264_UPDATE_1627394654000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi22_IR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:19:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi22_IR</link>
+            <guid isPermaLink="false">Navi22_IR</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Cezanne_IR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:28:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Cezanne_IR</link>
+            <guid isPermaLink="false">Cezanne_IR</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Voodoo3_2000]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:32:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Voodoo3_2000</link>
+            <guid isPermaLink="false">Voodoo3_2000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi14_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:41:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi14_2</link>
+            <guid isPermaLink="false">Navi14_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xenos_80nm]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:47:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_80nm</link>
+            <guid isPermaLink="false">Xenos_80nm</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xenos_90nm]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 12 Dec 2021 10:48:52 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_90nm</link>
+            <guid isPermaLink="false">Xenos_90nm</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for TU104_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 13 Dec 2021 15:01:21 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992566114</link>
+            <guid isPermaLink="false">TU104_2_3_992566114_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for TU104_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 13 Dec 2021 15:28:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992566114</link>
+            <guid isPermaLink="false">TU104_2_3_992566114_UPDATE_1639409316000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC & TPC for TU104_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 13 Dec 2021 15:30:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992594806</link>
+            <guid isPermaLink="false">TU104_2_3_992594806_INSERT</guid>
         </item>
 
     </channel>
