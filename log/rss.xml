@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 13 Dec 2021 15:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:19:36 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2041,6 +2041,41 @@
             <pubDate>Mon, 13 Dec 2021 15:30:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992594806</link>
             <guid isPermaLink="false">TU104_2_3_992594806_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for TU106_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 14 Dec 2021 05:42:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2&amp;commentId=993178026</link>
+            <guid isPermaLink="false">TU106_2_4_993178026_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for TU106_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 14 Dec 2021 05:47:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2&amp;commentId=993178026</link>
+            <guid isPermaLink="false">TU106_2_4_993178026_UPDATE_1639460864000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Top level for TU116_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 14 Dec 2021 08:16:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993266390</link>
+            <guid isPermaLink="false">TU116_2_5_993266390_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TPC Detail for TU116_2 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 14 Dec 2021 12:45:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993503877</link>
+            <guid isPermaLink="false">TU116_2_5_993503877_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: I/O for Xenos_90nm by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 14 Dec 2021 13:19:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_90nm&amp;commentId=993531783</link>
+            <guid isPermaLink="false">Xenos_90nm_9_993531783_INSERT</guid>
         </item>
 
     </channel>

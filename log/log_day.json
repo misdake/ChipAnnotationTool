@@ -1,16 +1,4 @@
 {
-  "2020.08.28": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Trinity",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 49,
-      "insertTime": "Fri, 28 Aug 2020 06:10:20 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 28 Aug 2020 06:10:20 GMT",
-      "dateString": "2020.08.28"
-    }
-  ],
   "2020.09.07": [
     {
       "type": "COMMENT_INSERT",
@@ -481,6 +469,36 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 12 Dec 2021 10:48:52 GMT",
       "dateString": "2021.12.12"
+    }
+  ],
+  "2021.12.13": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "TU104_2",
+      "title": "Top level",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 3,
+      "commentId": 992566114,
+      "insertTime": "Mon, 13 Dec 2021 15:01:21 GMT",
+      "updateTime": "Mon, 13 Dec 2021 15:28:36 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 13 Dec 2021 15:01:21 GMT",
+      "dateString": "2021.12.13"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "TU104_2",
+      "title": "GPC \u0026 TPC",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 3,
+      "commentId": 992594806,
+      "insertTime": "Mon, 13 Dec 2021 15:30:15 GMT",
+      "updateTime": "Mon, 13 Dec 2021 15:30:15 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 13 Dec 2021 15:30:15 GMT",
+      "dateString": "2021.12.13"
     }
   ]
 }

@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 13 Dec 2021 15:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:19:36 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.08.28]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Trinity'>Trinity</a><br>]]></description>
-            <pubDate>Fri, 28 Aug 2020 06:10:20 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.08.28</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.09.07]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 12 Dec 2021 10:48:52 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2021.12.12</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.12.13]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992566114'>Top level for TU104_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992594806'>GPC & TPC for TU104_2 by misdake</a><br>]]></description>
+            <pubDate>Mon, 13 Dec 2021 15:30:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.12.13</guid>
         </item>
 
     </channel>
