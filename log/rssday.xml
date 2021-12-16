@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 14 Dec 2021 13:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:52:01 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.09.07]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
-            <pubDate>Mon, 07 Sep 2020 05:38:38 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.09.07</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.09.09]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=688047853'>Top level WIP for Xbox_Series_X by misdake</a><br>]]></description>
-            <pubDate>Wed, 09 Sep 2020 02:44:37 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.09.09</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.09.13]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xbox_Series_X&amp;commentId=691678428'>Shader Engine for Xbox_Series_X by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi10&amp;commentId=688005923'>Shader Engine for Navi10 by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14&amp;commentId=688005711'>Shader Engine for Navi14 by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Mon, 13 Dec 2021 15:30:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2021.12.13</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.12.14]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2&amp;commentId=993178026'>Top level for TU106_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993266390'>Top level for TU116_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993503877'>TPC Detail for TU116_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_90nm&amp;commentId=993531783'>I/O for Xenos_90nm by misdake</a><br>]]></description>
+            <pubDate>Tue, 14 Dec 2021 13:19:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.12.14</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2021.12.15]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU102&amp;commentId=994315358'>Top level for TU102 by misdake</a><br>]]></description>
+            <pubDate>Wed, 15 Dec 2021 05:52:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2021.12.15</guid>
         </item>
 
     </channel>
