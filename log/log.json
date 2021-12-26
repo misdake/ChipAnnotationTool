@@ -3742,5 +3742,15 @@
     "logType": "COMMENT_INSERT",
     "time": "Wed, 15 Dec 2021 05:52:01 GMT",
     "dateString": "2021.12.15"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "GP100",
+    "githubRepo": "misdake/ChipAnnotationData6",
+    "githubIssueId": 10,
+    "insertTime": "Fri, 24 Dec 2021 13:54:51 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 24 Dec 2021 13:54:51 GMT",
+    "dateString": "2021.12.24"
   }
 ]

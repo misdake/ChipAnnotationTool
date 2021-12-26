@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 15 Dec 2021 05:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 13:54:51 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2083,6 +2083,13 @@
             <pubDate>Wed, 15 Dec 2021 05:52:01 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=TU102&amp;commentId=994315358</link>
             <guid isPermaLink="false">TU102_15_994315358_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GP100]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 24 Dec 2021 13:54:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP100</link>
+            <guid isPermaLink="false">GP100</guid>
         </item>
 
     </channel>
