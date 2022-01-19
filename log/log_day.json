@@ -1,20 +1,4 @@
 {
-  "2020.09.14": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Xbox_Series_X",
-      "title": "Shader Engine",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "commentId": 691678428,
-      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
-      "updateTime": "Mon, 14 Sep 2020 01:09:08 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 14 Sep 2020 01:09:08 GMT",
-      "dateString": "2020.09.14"
-    }
-  ],
   "2020.09.16": [
     {
       "type": "COMMENT_UPDATE",
@@ -481,6 +465,22 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 24 Dec 2021 13:54:51 GMT",
       "dateString": "2021.12.24"
+    }
+  ],
+  "2022.01.14": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "SandyBridge_Core",
+      "title": "Core Structures",
+      "username": "clamchowder",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 19,
+      "commentId": 1012815863,
+      "insertTime": "Fri, 14 Jan 2022 06:43:30 GMT",
+      "updateTime": "Fri, 14 Jan 2022 17:20:43 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Fri, 14 Jan 2022 06:43:30 GMT",
+      "dateString": "2022.01.14"
     }
   ]
 }

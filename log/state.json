@@ -720,7 +720,15 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 19,
       "insertTime": "Sat, 16 May 2020 07:01:46 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "Core Structures",
+          "username": "clamchowder",
+          "commentId": 1012815863,
+          "insertTime": "Fri, 14 Jan 2022 06:43:30 GMT",
+          "updateTime": "Fri, 14 Jan 2022 17:20:43 GMT"
+        }
+      ]
     },
     {
       "name": "SandyBridge_IGP",
@@ -1423,5 +1431,5 @@
       ]
     }
   ],
-  "time": "Fri, 24 Dec 2021 13:54:51 GMT"
+  "time": "Fri, 14 Jan 2022 17:20:43 GMT"
 }

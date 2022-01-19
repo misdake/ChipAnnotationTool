@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 24 Dec 2021 13:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:20:43 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2090,6 +2090,20 @@
             <pubDate>Fri, 24 Dec 2021 13:54:51 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GP100</link>
             <guid isPermaLink="false">GP100</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Structures for SandyBridge_Core by clamchowder]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 14 Jan 2022 06:43:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core&amp;commentId=1012815863</link>
+            <guid isPermaLink="false">SandyBridge_Core_19_1012815863_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Structures for SandyBridge_Core by clamchowder]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 14 Jan 2022 17:20:43 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core&amp;commentId=1012815863</link>
+            <guid isPermaLink="false">SandyBridge_Core_19_1012815863_UPDATE_1642180843000</guid>
         </item>
 
     </channel>
