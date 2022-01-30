@@ -1429,7 +1429,77 @@
           "updateTime": "Tue, 14 Dec 2021 12:45:30 GMT"
         }
       ]
+    },
+    {
+      "name": "R300",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 15,
+      "insertTime": "Fri, 28 Jan 2022 15:03:52 GMT",
+      "comments": []
+    },
+    {
+      "name": "ADL-S_8+8",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 12,
+      "insertTime": "Fri, 28 Jan 2022 14:55:49 GMT",
+      "comments": []
+    },
+    {
+      "name": "Saltwell",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 13,
+      "insertTime": "Fri, 28 Jan 2022 15:00:24 GMT",
+      "comments": []
+    },
+    {
+      "name": "Knights_Ferry",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 11,
+      "insertTime": "Fri, 28 Jan 2022 14:53:14 GMT",
+      "comments": []
+    },
+    {
+      "name": "TegraX1",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 14,
+      "insertTime": "Fri, 28 Jan 2022 15:02:08 GMT",
+      "comments": []
+    },
+    {
+      "name": "Agena",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 16,
+      "insertTime": "Fri, 28 Jan 2022 15:12:40 GMT",
+      "comments": []
+    },
+    {
+      "name": "A8",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 19,
+      "insertTime": "Fri, 28 Jan 2022 15:31:57 GMT",
+      "comments": []
+    },
+    {
+      "name": "A8X",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 20,
+      "insertTime": "Fri, 28 Jan 2022 15:34:05 GMT",
+      "comments": []
+    },
+    {
+      "name": "Haswell_4+2",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 18,
+      "insertTime": "Fri, 28 Jan 2022 15:28:40 GMT",
+      "comments": []
+    },
+    {
+      "name": "Clarkdale",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 17,
+      "insertTime": "Fri, 28 Jan 2022 15:21:00 GMT",
+      "comments": []
     }
   ],
-  "time": "Fri, 14 Jan 2022 17:20:43 GMT"
+  "time": "Fri, 28 Jan 2022 15:34:05 GMT"
 }

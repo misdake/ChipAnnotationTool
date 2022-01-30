@@ -1,48 +1,4 @@
 {
-  "2020.09.16": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi10",
-      "title": "Shader Engine",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 11,
-      "commentId": 688005923,
-      "insertTime": "Mon, 07 Sep 2020 03:28:33 GMT",
-      "updateTime": "Wed, 16 Sep 2020 16:09:45 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 16 Sep 2020 16:09:45 GMT",
-      "dateString": "2020.09.16"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi14",
-      "title": "Shader Engine",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 12,
-      "commentId": 688005711,
-      "insertTime": "Mon, 07 Sep 2020 03:27:53 GMT",
-      "updateTime": "Wed, 16 Sep 2020 16:11:45 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 16 Sep 2020 16:11:45 GMT",
-      "dateString": "2020.09.16"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Xbox_Series_X",
-      "title": "Shader Engine",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 47,
-      "commentId": 691678428,
-      "insertTime": "Sun, 13 Sep 2020 14:27:44 GMT",
-      "updateTime": "Wed, 16 Sep 2020 16:12:44 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 16 Sep 2020 16:12:44 GMT",
-      "dateString": "2020.09.16"
-    }
-  ],
   "2020.09.17": [
     {
       "type": "COMMENT_UPDATE",
@@ -481,6 +437,108 @@
       "logType": "COMMENT_INSERT",
       "time": "Fri, 14 Jan 2022 06:43:30 GMT",
       "dateString": "2022.01.14"
+    }
+  ],
+  "2022.01.28": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Knights_Ferry",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 11,
+      "insertTime": "Fri, 28 Jan 2022 14:53:14 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 14:53:14 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "ADL-S_8+8",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 12,
+      "insertTime": "Fri, 28 Jan 2022 14:55:49 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 14:55:49 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Saltwell",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 13,
+      "insertTime": "Fri, 28 Jan 2022 15:00:24 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:00:24 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TegraX1",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 14,
+      "insertTime": "Fri, 28 Jan 2022 15:02:08 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:02:08 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "R300",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 15,
+      "insertTime": "Fri, 28 Jan 2022 15:03:52 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:03:52 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Agena",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 16,
+      "insertTime": "Fri, 28 Jan 2022 15:12:40 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:12:40 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Clarkdale",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 17,
+      "insertTime": "Fri, 28 Jan 2022 15:21:00 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:21:00 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Haswell_4+2",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 18,
+      "insertTime": "Fri, 28 Jan 2022 15:28:40 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:28:40 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "A8",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 19,
+      "insertTime": "Fri, 28 Jan 2022 15:31:57 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:31:57 GMT",
+      "dateString": "2022.01.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "A8X",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 20,
+      "insertTime": "Fri, 28 Jan 2022 15:34:05 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Fri, 28 Jan 2022 15:34:05 GMT",
+      "dateString": "2022.01.28"
     }
   ]
 }
