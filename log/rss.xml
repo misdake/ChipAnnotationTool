@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 28 Jan 2022 15:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 03:40:30 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2174,6 +2174,13 @@
             <pubDate>Fri, 28 Jan 2022 15:34:05 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=A8X</link>
             <guid isPermaLink="false">A8X</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: ADL-P_6+8]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 01 Feb 2022 03:40:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=ADL-P_6%2B8</link>
+            <guid isPermaLink="false">ADL-P_6+8</guid>
         </item>
 
     </channel>
