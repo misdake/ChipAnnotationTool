@@ -226,17 +226,17 @@
       "comments": []
     },
     {
-      "name": "Cezanne_IR",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 5,
-      "insertTime": "Sun, 12 Dec 2021 10:28:54 GMT",
-      "comments": []
-    },
-    {
       "name": "Zen3_CCD",
       "githubRepo": "misdake/ChipAnnotationData5",
       "githubIssueId": 1,
       "insertTime": "Fri, 13 Nov 2020 05:09:47 GMT",
+      "comments": []
+    },
+    {
+      "name": "Cezanne_IR",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 5,
+      "insertTime": "Sun, 12 Dec 2021 10:28:54 GMT",
       "comments": []
     },
     {
@@ -672,6 +672,20 @@
       ]
     },
     {
+      "name": "Kunpeng920_core",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 23,
+      "insertTime": "Fri, 11 Feb 2022 14:52:27 GMT",
+      "comments": []
+    },
+    {
+      "name": "Kunpeng920_io",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 24,
+      "insertTime": "Fri, 11 Feb 2022 14:55:26 GMT",
+      "comments": []
+    },
+    {
       "name": "ADL-P_6+8",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 21,
@@ -844,6 +858,28 @@
       "comments": []
     },
     {
+      "name": "Xenos_80nm",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 8,
+      "insertTime": "Sun, 12 Dec 2021 10:47:36 GMT",
+      "comments": []
+    },
+    {
+      "name": "Xenos_90nm",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 9,
+      "insertTime": "Sun, 12 Dec 2021 10:48:52 GMT",
+      "comments": [
+        {
+          "title": "I/O",
+          "username": "misdake",
+          "commentId": 993531783,
+          "insertTime": "Tue, 14 Dec 2021 13:19:36 GMT",
+          "updateTime": "Tue, 14 Dec 2021 13:19:36 GMT"
+        }
+      ]
+    },
+    {
       "name": "Xbox_One",
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 12,
@@ -877,28 +913,6 @@
           "commentId": 678612075,
           "insertTime": "Sat, 22 Aug 2020 08:15:08 GMT",
           "updateTime": "Sat, 22 Aug 2020 08:15:08 GMT"
-        }
-      ]
-    },
-    {
-      "name": "Xenos_80nm",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 8,
-      "insertTime": "Sun, 12 Dec 2021 10:47:36 GMT",
-      "comments": []
-    },
-    {
-      "name": "Xenos_90nm",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 9,
-      "insertTime": "Sun, 12 Dec 2021 10:48:52 GMT",
-      "comments": [
-        {
-          "title": "I/O",
-          "username": "misdake",
-          "commentId": 993531783,
-          "insertTime": "Tue, 14 Dec 2021 13:19:36 GMT",
-          "updateTime": "Tue, 14 Dec 2021 13:19:36 GMT"
         }
       ]
     },
@@ -1147,7 +1161,7 @@
       "name": "GP100",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 10,
-      "insertTime": "Fri, 24 Dec 2021 13:54:51 GMT",
+      "insertTime": "Tue, 08 Feb 2022 00:19:10 GMT",
       "comments": []
     },
     {
@@ -1428,6 +1442,13 @@
       "comments": []
     },
     {
+      "name": "RSX",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 37,
+      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
+      "comments": []
+    },
+    {
       "name": "PS4",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 24,
@@ -1462,13 +1483,6 @@
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 3,
       "insertTime": "Sun, 12 Sep 2021 09:13:14 GMT",
-      "comments": []
-    },
-    {
-      "name": "RSX",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 37,
-      "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
       "comments": []
     },
     {
@@ -1508,5 +1522,5 @@
       ]
     }
   ],
-  "time": "Tue, 01 Feb 2022 03:40:30 GMT"
+  "time": "Fri, 11 Feb 2022 14:55:26 GMT"
 }

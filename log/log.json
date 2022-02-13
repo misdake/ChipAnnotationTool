@@ -3890,5 +3890,25 @@
     "logType": "IMAGE_CREATE",
     "time": "Tue, 01 Feb 2022 03:40:30 GMT",
     "dateString": "2022.02.01"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Kunpeng920_core",
+    "githubRepo": "misdake/ChipAnnotationData6",
+    "githubIssueId": 23,
+    "insertTime": "Fri, 11 Feb 2022 14:52:27 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 11 Feb 2022 14:52:27 GMT",
+    "dateString": "2022.02.11"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Kunpeng920_io",
+    "githubRepo": "misdake/ChipAnnotationData6",
+    "githubIssueId": 24,
+    "insertTime": "Fri, 11 Feb 2022 14:55:26 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 11 Feb 2022 14:55:26 GMT",
+    "dateString": "2022.02.11"
   }
 ]

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 01 Feb 2022 03:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 14:55:26 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2181,6 +2181,20 @@
             <pubDate>Tue, 01 Feb 2022 03:40:30 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=ADL-P_6%2B8</link>
             <guid isPermaLink="false">ADL-P_6+8</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kunpeng920_core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 11 Feb 2022 14:52:27 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kunpeng920_core</link>
+            <guid isPermaLink="false">Kunpeng920_core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kunpeng920_io]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 11 Feb 2022 14:55:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kunpeng920_io</link>
+            <guid isPermaLink="false">Kunpeng920_io</guid>
         </item>
 
     </channel>
