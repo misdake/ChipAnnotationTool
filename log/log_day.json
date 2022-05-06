@@ -1,20 +1,4 @@
 {
-  "2020.09.19": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Test",
-      "title": "Navi21 Guess2",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 48,
-      "commentId": 695258535,
-      "insertTime": "Sat, 19 Sep 2020 15:23:45 GMT",
-      "updateTime": "Sat, 19 Sep 2020 15:23:45 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 19 Sep 2020 15:23:45 GMT",
-      "dateString": "2020.09.19"
-    }
-  ],
   "2020.09.20": [
     {
       "type": "COMMENT_INSERT",
@@ -541,6 +525,22 @@
       "logType": "IMAGE_CREATE",
       "time": "Fri, 11 Feb 2022 14:55:26 GMT",
       "dateString": "2022.02.11"
+    }
+  ],
+  "2022.05.04": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Test",
+      "title": "Navi31 guess",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 48,
+      "commentId": 695765960,
+      "insertTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+      "updateTime": "Wed, 04 May 2022 04:39:01 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 04 May 2022 04:39:01 GMT",
+      "dateString": "2022.05.04"
     }
   ]
 }

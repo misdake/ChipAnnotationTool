@@ -3910,5 +3910,19 @@
     "logType": "IMAGE_CREATE",
     "time": "Fri, 11 Feb 2022 14:55:26 GMT",
     "dateString": "2022.02.11"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "Test",
+    "title": "Navi31 guess",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 48,
+    "commentId": 695765960,
+    "insertTime": "Sun, 20 Sep 2020 09:33:33 GMT",
+    "updateTime": "Wed, 04 May 2022 04:39:01 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Wed, 04 May 2022 04:39:01 GMT",
+    "dateString": "2022.05.04"
   }
 ]
