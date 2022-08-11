@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 04 May 2022 04:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:38:11 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2020.09.20]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901'>Instructions for Test by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695765960'>untitled for Test by misdake</a><br>]]></description>
-            <pubDate>Sun, 20 Sep 2020 09:33:33 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.09.20</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2020.09.22]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695762901'>Text Syntax for Test by misdake</a><br>]]></description>
-            <pubDate>Tue, 22 Sep 2020 16:14:14 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2020.09.22</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2020.10.16]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Vega20&amp;commentId=510073674'>Top level for Vega20 by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Wed, 04 May 2022 04:39:01 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2022.05.04</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2022.05.06]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Test&amp;commentId=695765960'>Navi31 guess for Test by misdake</a><br>]]></description>
+            <pubDate>Fri, 06 May 2022 15:47:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2022.05.06</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2022.08.10]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Trinity&amp;commentId=1210803638'>By Locuza for Trinity by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=660580640'>By Locuza for Llano by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Trinity&amp;commentId=1210873291'>CPU Core by Locuza for Trinity by misdake</a><br>]]></description>
+            <pubDate>Wed, 10 Aug 2022 15:29:29 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2022.08.10</guid>
         </item>
 
     </channel>
