@@ -4008,5 +4008,19 @@
     "logType": "COMMENT_UPDATE",
     "time": "Wed, 10 Aug 2022 15:38:11 GMT",
     "dateString": "2022.08.10"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "Zen3_CCD",
+    "title": "Core",
+    "username": "misdake",
+    "githubRepo": "misdake/ChipAnnotationData5",
+    "githubIssueId": 1,
+    "commentId": 1231715996,
+    "insertTime": "Tue, 30 Aug 2022 14:04:08 GMT",
+    "updateTime": "Tue, 30 Aug 2022 14:04:08 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Tue, 30 Aug 2022 14:04:08 GMT",
+    "dateString": "2022.08.30"
   }
 ]
