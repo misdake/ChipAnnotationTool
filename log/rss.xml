@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 30 Aug 2022 14:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 02:55:51 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2251,6 +2251,20 @@
             <pubDate>Tue, 30 Aug 2022 14:04:08 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=1231715996</link>
             <guid isPermaLink="false">Zen3_CCD_1_1231715996_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: ADL-S_6+0]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 04 Oct 2022 02:54:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=ADL-S_6%2B0</link>
+            <guid isPermaLink="false">ADL-S_6+0</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Golden_Cove_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 04 Oct 2022 02:55:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Golden_Cove_Core</link>
+            <guid isPermaLink="false">Golden_Cove_Core</guid>
         </item>
 
     </channel>

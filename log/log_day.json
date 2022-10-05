@@ -1,16 +1,4 @@
 {
-  "2020.11.13": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen3_CCD",
-      "githubRepo": "misdake/ChipAnnotationData5",
-      "githubIssueId": 1,
-      "insertTime": "Fri, 13 Nov 2020 05:09:47 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Fri, 13 Nov 2020 05:09:47 GMT",
-      "dateString": "2020.11.13"
-    }
-  ],
   "2020.12.14": [
     {
       "type": "IMAGE_CREATE",
@@ -555,6 +543,28 @@
       "logType": "COMMENT_INSERT",
       "time": "Tue, 30 Aug 2022 14:04:08 GMT",
       "dateString": "2022.08.30"
+    }
+  ],
+  "2022.10.04": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "ADL-S_6+0",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 1,
+      "insertTime": "Tue, 04 Oct 2022 02:54:18 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 04 Oct 2022 02:54:18 GMT",
+      "dateString": "2022.10.04"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Golden_Cove_Core",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 2,
+      "insertTime": "Tue, 04 Oct 2022 02:55:51 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 04 Oct 2022 02:55:51 GMT",
+      "dateString": "2022.10.04"
     }
   ]
 }

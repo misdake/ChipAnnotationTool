@@ -716,10 +716,24 @@
       "comments": []
     },
     {
+      "name": "ADL-S_6+0",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 1,
+      "insertTime": "Tue, 04 Oct 2022 02:54:18 GMT",
+      "comments": []
+    },
+    {
       "name": "ADL-S_8+8",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 12,
       "insertTime": "Fri, 28 Jan 2022 14:55:49 GMT",
+      "comments": []
+    },
+    {
+      "name": "Golden_Cove_Core",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 2,
+      "insertTime": "Tue, 04 Oct 2022 02:55:51 GMT",
       "comments": []
     },
     {
@@ -1545,5 +1559,5 @@
       ]
     }
   ],
-  "time": "Tue, 30 Aug 2022 14:04:08 GMT"
+  "time": "Tue, 04 Oct 2022 02:55:51 GMT"
 }

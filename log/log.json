@@ -4022,5 +4022,25 @@
     "logType": "COMMENT_INSERT",
     "time": "Tue, 30 Aug 2022 14:04:08 GMT",
     "dateString": "2022.08.30"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "ADL-S_6+0",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 1,
+    "insertTime": "Tue, 04 Oct 2022 02:54:18 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 04 Oct 2022 02:54:18 GMT",
+    "dateString": "2022.10.04"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Golden_Cove_Core",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 2,
+    "insertTime": "Tue, 04 Oct 2022 02:55:51 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 04 Oct 2022 02:55:51 GMT",
+    "dateString": "2022.10.04"
   }
 ]
