@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 04 Oct 2022 02:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 13:53:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2265,6 +2265,34 @@
             <pubDate>Tue, 04 Oct 2022 02:55:51 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Golden_Cove_Core</link>
             <guid isPermaLink="false">Golden_Cove_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: RPL-S_8+16]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 27 Oct 2022 13:45:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=RPL-S_8%2B16</link>
+            <guid isPermaLink="false">RPL-S_8+16</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Raptor_Cove_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 27 Oct 2022 13:49:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raptor_Cove_Core</link>
+            <guid isPermaLink="false">Raptor_Cove_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Gracemont_Cluster]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 27 Oct 2022 13:51:47 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Cluster</link>
+            <guid isPermaLink="false">Gracemont_Cluster</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Gracemont_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 27 Oct 2022 13:53:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Core</link>
+            <guid isPermaLink="false">Gracemont_Core</guid>
         </item>
 
     </channel>

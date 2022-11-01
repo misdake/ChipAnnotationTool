@@ -4042,5 +4042,45 @@
     "logType": "IMAGE_CREATE",
     "time": "Tue, 04 Oct 2022 02:55:51 GMT",
     "dateString": "2022.10.04"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "RPL-S_8+16",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 3,
+    "insertTime": "Thu, 27 Oct 2022 13:45:57 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 27 Oct 2022 13:45:57 GMT",
+    "dateString": "2022.10.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Raptor_Cove_Core",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 4,
+    "insertTime": "Thu, 27 Oct 2022 13:49:54 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 27 Oct 2022 13:49:54 GMT",
+    "dateString": "2022.10.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Gracemont_Cluster",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 5,
+    "insertTime": "Thu, 27 Oct 2022 13:51:47 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 27 Oct 2022 13:51:47 GMT",
+    "dateString": "2022.10.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Gracemont_Core",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 6,
+    "insertTime": "Thu, 27 Oct 2022 13:53:15 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 27 Oct 2022 13:53:15 GMT",
+    "dateString": "2022.10.27"
   }
 ]
