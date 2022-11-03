@@ -4082,5 +4082,15 @@
     "logType": "IMAGE_CREATE",
     "time": "Thu, 27 Oct 2022 13:53:15 GMT",
     "dateString": "2022.10.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "CannonLake_2C_GT2",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 7,
+    "insertTime": "Tue, 01 Nov 2022 13:20:26 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 01 Nov 2022 13:20:26 GMT",
+    "dateString": "2022.11.01"
   }
 ]

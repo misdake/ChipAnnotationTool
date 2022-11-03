@@ -744,6 +744,13 @@
       "comments": []
     },
     {
+      "name": "CannonLake_2C_GT2",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 7,
+      "insertTime": "Tue, 01 Nov 2022 13:20:26 GMT",
+      "comments": []
+    },
+    {
       "name": "Conroe",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 16,
@@ -1587,5 +1594,5 @@
       ]
     }
   ],
-  "time": "Thu, 27 Oct 2022 13:53:15 GMT"
+  "time": "Tue, 01 Nov 2022 13:20:26 GMT"
 }

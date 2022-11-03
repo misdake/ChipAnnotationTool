@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 27 Oct 2022 13:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 13:20:26 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2293,6 +2293,13 @@
             <pubDate>Thu, 27 Oct 2022 13:53:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Core</link>
             <guid isPermaLink="false">Gracemont_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: CannonLake_2C_GT2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 01 Nov 2022 13:20:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=CannonLake_2C_GT2</link>
+            <guid isPermaLink="false">CannonLake_2C_GT2</guid>
         </item>
 
     </channel>
