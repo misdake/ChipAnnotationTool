@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 01 Nov 2022 13:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 03:26:14 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2300,6 +2300,27 @@
             <pubDate>Tue, 01 Nov 2022 13:20:26 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=CannonLake_2C_GT2</link>
             <guid isPermaLink="false">CannonLake_2C_GT2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Raphael_IOD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Jun 2023 03:23:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raphael_IOD</link>
+            <guid isPermaLink="false">Raphael_IOD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen4_CCD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Jun 2023 03:24:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_CCD</link>
+            <guid isPermaLink="false">Zen4_CCD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen4_Core]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Jun 2023 03:26:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core</link>
+            <guid isPermaLink="false">Zen4_Core</guid>
         </item>
 
     </channel>

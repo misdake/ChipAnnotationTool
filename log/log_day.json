@@ -1,26 +1,4 @@
 {
-  "2021.01.27": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "TU106_2",
-      "githubRepo": "misdake/ChipAnnotationData5",
-      "githubIssueId": 4,
-      "insertTime": "Wed, 27 Jan 2021 04:44:10 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 27 Jan 2021 04:44:10 GMT",
-      "dateString": "2021.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "TU116_2",
-      "githubRepo": "misdake/ChipAnnotationData5",
-      "githubIssueId": 5,
-      "insertTime": "Wed, 27 Jan 2021 04:51:18 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 27 Jan 2021 04:51:18 GMT",
-      "dateString": "2021.01.27"
-    }
-  ],
   "2021.02.17": [
     {
       "type": "IMAGE_CREATE",
@@ -581,6 +559,38 @@
       "logType": "IMAGE_CREATE",
       "time": "Tue, 01 Nov 2022 13:20:26 GMT",
       "dateString": "2022.11.01"
+    }
+  ],
+  "2023.06.04": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Raphael_IOD",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 8,
+      "insertTime": "Sun, 04 Jun 2023 03:23:37 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 04 Jun 2023 03:23:37 GMT",
+      "dateString": "2023.06.04"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zen4_CCD",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 9,
+      "insertTime": "Sun, 04 Jun 2023 03:24:39 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 04 Jun 2023 03:24:39 GMT",
+      "dateString": "2023.06.04"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zen4_Core",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 10,
+      "insertTime": "Sun, 04 Jun 2023 03:26:14 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 04 Jun 2023 03:26:14 GMT",
+      "dateString": "2023.06.04"
     }
   ]
 }
