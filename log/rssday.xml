@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 04 Jun 2023 03:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 05:37:51 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2021.02.17]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=PS5'>PS5</a><br>]]></description>
-            <pubDate>Wed, 17 Feb 2021 09:56:40 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2021.02.17</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2021.05.26]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_8C'>Rocketlake_8C</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rocketlake_Core'>Rocketlake_Core</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 04 Jun 2023 03:26:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2023.06.04</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2023.06.17]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=BayTrail'>BayTrail</a><br>]]></description>
+            <pubDate>Sat, 17 Jun 2023 05:37:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2023.06.17</guid>
         </item>
 
     </channel>

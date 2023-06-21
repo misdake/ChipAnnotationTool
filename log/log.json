@@ -4122,5 +4122,15 @@
     "logType": "IMAGE_CREATE",
     "time": "Sun, 04 Jun 2023 03:26:14 GMT",
     "dateString": "2023.06.04"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "BayTrail",
+    "githubRepo": "misdake/ChipAnnotationData7",
+    "githubIssueId": 11,
+    "insertTime": "Sat, 17 Jun 2023 05:37:51 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 17 Jun 2023 05:37:51 GMT",
+    "dateString": "2023.06.17"
   }
 ]

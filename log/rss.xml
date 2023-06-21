@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 04 Jun 2023 03:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 05:37:51 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2321,6 +2321,13 @@
             <pubDate>Sun, 04 Jun 2023 03:26:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core</link>
             <guid isPermaLink="false">Zen4_Core</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: BayTrail]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 17 Jun 2023 05:37:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=BayTrail</link>
+            <guid isPermaLink="false">BayTrail</guid>
         </item>
 
     </channel>
