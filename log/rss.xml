@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 17 Jun 2023 05:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 13:53:25 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2328,6 +2328,27 @@
             <pubDate>Sat, 17 Jun 2023 05:37:51 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=BayTrail</link>
             <guid isPermaLink="false">BayTrail</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Bulldozer_Module]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 29 Jul 2023 06:54:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module</link>
+            <guid isPermaLink="false">Bulldozer_Module</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: AD102]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 03 Sep 2023 13:47:50 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=AD102</link>
+            <guid isPermaLink="false">AD102</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Phoenix]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 03 Sep 2023 13:53:25 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Phoenix</link>
+            <guid isPermaLink="false">Phoenix</guid>
         </item>
 
     </channel>

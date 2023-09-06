@@ -1,56 +1,4 @@
 {
-  "2021.05.26": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Rocketlake_8C",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 1,
-      "insertTime": "Wed, 26 May 2021 13:06:10 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 26 May 2021 13:06:10 GMT",
-      "dateString": "2021.05.26"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Rocketlake_Core",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 2,
-      "insertTime": "Wed, 26 May 2021 13:30:05 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 26 May 2021 13:30:05 GMT",
-      "dateString": "2021.05.26"
-    }
-  ],
-  "2021.07.27": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GP106",
-      "title": "Compare with GP104",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 6,
-      "commentId": 887540264,
-      "insertTime": "Tue, 27 Jul 2021 14:03:13 GMT",
-      "updateTime": "Tue, 27 Jul 2021 14:04:14 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Tue, 27 Jul 2021 14:03:13 GMT",
-      "dateString": "2021.07.27"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GP104",
-      "title": "Compare with GP106",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 5,
-      "commentId": 887540804,
-      "insertTime": "Tue, 27 Jul 2021 14:03:53 GMT",
-      "updateTime": "Tue, 27 Jul 2021 14:03:53 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Tue, 27 Jul 2021 14:03:53 GMT",
-      "dateString": "2021.07.27"
-    }
-  ],
   "2021.12.12": [
     {
       "type": "IMAGE_CREATE",
@@ -591,6 +539,40 @@
       "logType": "IMAGE_CREATE",
       "time": "Sat, 17 Jun 2023 05:37:51 GMT",
       "dateString": "2023.06.17"
+    }
+  ],
+  "2023.07.29": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Bulldozer_Module",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 23,
+      "insertTime": "Sat, 29 Jul 2023 06:54:15 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 29 Jul 2023 06:54:15 GMT",
+      "dateString": "2023.07.29"
+    }
+  ],
+  "2023.09.03": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "AD102",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 13,
+      "insertTime": "Sun, 03 Sep 2023 13:47:50 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 03 Sep 2023 13:47:50 GMT",
+      "dateString": "2023.09.03"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Phoenix",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 14,
+      "insertTime": "Sun, 03 Sep 2023 13:53:25 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 03 Sep 2023 13:53:25 GMT",
+      "dateString": "2023.09.03"
     }
   ]
 }
