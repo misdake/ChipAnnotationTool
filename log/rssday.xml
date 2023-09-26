@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 03 Sep 2023 13:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:16:37 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2021.12.12]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi22_IR'>Navi22_IR</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cezanne_IR'>Cezanne_IR</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Voodoo3_2000'>Voodoo3_2000</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi14_2'>Navi14_2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_80nm'>Xenos_80nm</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_90nm'>Xenos_90nm</a><br>]]></description>
-            <pubDate>Sun, 12 Dec 2021 10:48:52 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2021.12.12</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2021.12.13]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992566114'>Top level for TU104_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992594806'>GPC & TPC for TU104_2 by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 03 Sep 2023 13:53:25 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2023.09.03</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2023.09.11]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Phoenix2'>Phoenix2</a><br>]]></description>
+            <pubDate>Mon, 11 Sep 2023 09:16:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2023.09.11</guid>
         </item>
 
     </channel>

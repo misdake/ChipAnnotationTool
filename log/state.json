@@ -298,6 +298,13 @@
       "comments": []
     },
     {
+      "name": "Phoenix2",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 15,
+      "insertTime": "Mon, 11 Sep 2023 09:16:37 GMT",
+      "comments": []
+    },
+    {
       "name": "A8",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 19,
@@ -1643,5 +1650,5 @@
       ]
     }
   ],
-  "time": "Sun, 03 Sep 2023 13:53:25 GMT"
+  "time": "Mon, 11 Sep 2023 09:16:37 GMT"
 }

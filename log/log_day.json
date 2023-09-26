@@ -1,66 +1,4 @@
 {
-  "2021.12.12": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Navi22_IR",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 4,
-      "insertTime": "Sun, 12 Dec 2021 10:19:05 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:19:05 GMT",
-      "dateString": "2021.12.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Cezanne_IR",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 5,
-      "insertTime": "Sun, 12 Dec 2021 10:28:54 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:28:54 GMT",
-      "dateString": "2021.12.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Voodoo3_2000",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 6,
-      "insertTime": "Sun, 12 Dec 2021 10:32:44 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:32:44 GMT",
-      "dateString": "2021.12.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Navi14_2",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 7,
-      "insertTime": "Sun, 12 Dec 2021 10:41:18 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:41:18 GMT",
-      "dateString": "2021.12.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Xenos_80nm",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 8,
-      "insertTime": "Sun, 12 Dec 2021 10:47:36 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:47:36 GMT",
-      "dateString": "2021.12.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Xenos_90nm",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 9,
-      "insertTime": "Sun, 12 Dec 2021 10:48:52 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 12 Dec 2021 10:48:52 GMT",
-      "dateString": "2021.12.12"
-    }
-  ],
   "2021.12.13": [
     {
       "type": "COMMENT_INSERT",
@@ -573,6 +511,18 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 03 Sep 2023 13:53:25 GMT",
       "dateString": "2023.09.03"
+    }
+  ],
+  "2023.09.11": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Phoenix2",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 15,
+      "insertTime": "Mon, 11 Sep 2023 09:16:37 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 11 Sep 2023 09:16:37 GMT",
+      "dateString": "2023.09.11"
     }
   ]
 }
