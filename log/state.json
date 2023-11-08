@@ -263,6 +263,13 @@
       ]
     },
     {
+      "name": "Cezanne",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 6,
+      "insertTime": "Mon, 06 Nov 2023 12:39:39 GMT",
+      "comments": []
+    },
+    {
       "name": "Cezanne_IR",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 5,
@@ -305,17 +312,101 @@
       "comments": []
     },
     {
-      "name": "A8",
-      "githubRepo": "misdake/ChipAnnotationData6",
+      "name": "A10",
+      "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 19,
-      "insertTime": "Fri, 28 Jan 2022 15:31:57 GMT",
+      "insertTime": "Tue, 07 Nov 2023 15:12:03 GMT",
+      "comments": []
+    },
+    {
+      "name": "A11",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 20,
+      "insertTime": "Tue, 07 Nov 2023 15:13:12 GMT",
+      "comments": []
+    },
+    {
+      "name": "A12",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 21,
+      "insertTime": "Tue, 07 Nov 2023 15:13:39 GMT",
+      "comments": []
+    },
+    {
+      "name": "A14",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 23,
+      "insertTime": "Tue, 07 Nov 2023 15:14:14 GMT",
+      "comments": []
+    },
+    {
+      "name": "A15",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 24,
+      "insertTime": "Tue, 07 Nov 2023 15:21:28 GMT",
+      "comments": []
+    },
+    {
+      "name": "A4",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 10,
+      "insertTime": "Tue, 07 Nov 2023 15:05:07 GMT",
+      "comments": []
+    },
+    {
+      "name": "A5",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 11,
+      "insertTime": "Tue, 07 Nov 2023 15:27:36 GMT",
+      "comments": []
+    },
+    {
+      "name": "A5X",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 12,
+      "insertTime": "Tue, 07 Nov 2023 15:05:57 GMT",
+      "comments": []
+    },
+    {
+      "name": "A6",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 13,
+      "insertTime": "Tue, 07 Nov 2023 15:06:45 GMT",
+      "comments": []
+    },
+    {
+      "name": "A7",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 14,
+      "insertTime": "Tue, 07 Nov 2023 15:07:28 GMT",
+      "comments": []
+    },
+    {
+      "name": "A8",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 15,
+      "insertTime": "Tue, 07 Nov 2023 15:09:25 GMT",
       "comments": []
     },
     {
       "name": "A8X",
-      "githubRepo": "misdake/ChipAnnotationData6",
-      "githubIssueId": 20,
-      "insertTime": "Fri, 28 Jan 2022 15:34:05 GMT",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 16,
+      "insertTime": "Tue, 07 Nov 2023 15:09:56 GMT",
+      "comments": []
+    },
+    {
+      "name": "A9_TSMC",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 17,
+      "insertTime": "Tue, 07 Nov 2023 15:10:42 GMT",
+      "comments": []
+    },
+    {
+      "name": "A9X",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 18,
+      "insertTime": "Tue, 07 Nov 2023 15:11:08 GMT",
       "comments": []
     },
     {
@@ -793,6 +884,13 @@
       "comments": []
     },
     {
+      "name": "Broadwell_2+2",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 3,
+      "insertTime": "Mon, 06 Nov 2023 12:29:50 GMT",
+      "comments": []
+    },
+    {
       "name": "CannonLake_2C_GT2",
       "githubRepo": "misdake/ChipAnnotationData7",
       "githubIssueId": 7,
@@ -835,6 +933,13 @@
           "updateTime": "Sat, 08 Aug 2020 04:28:55 GMT"
         }
       ]
+    },
+    {
+      "name": "IvyBridge_E",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 2,
+      "insertTime": "Mon, 06 Nov 2023 12:26:53 GMT",
+      "comments": []
     },
     {
       "name": "P54C",
@@ -915,6 +1020,13 @@
       ]
     },
     {
+      "name": "SandyBridge_EP",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 1,
+      "insertTime": "Mon, 06 Nov 2023 12:25:34 GMT",
+      "comments": []
+    },
+    {
       "name": "SandyBridge_IGP",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 18,
@@ -976,6 +1088,13 @@
       "githubRepo": "misdake/ChipAnnotationData4",
       "githubIssueId": 2,
       "insertTime": "Tue, 21 Jul 2020 13:48:32 GMT",
+      "comments": []
+    },
+    {
+      "name": "3C5000L",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 5,
+      "insertTime": "Mon, 06 Nov 2023 12:37:18 GMT",
       "comments": []
     },
     {
@@ -1570,6 +1689,27 @@
       "comments": []
     },
     {
+      "name": "Snapdragon820",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 8,
+      "insertTime": "Mon, 06 Nov 2023 12:45:10 GMT",
+      "comments": []
+    },
+    {
+      "name": "Snapdragon888",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 9,
+      "insertTime": "Mon, 06 Nov 2023 12:45:58 GMT",
+      "comments": []
+    },
+    {
+      "name": "Exynos8890",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 7,
+      "insertTime": "Mon, 06 Nov 2023 12:41:41 GMT",
+      "comments": []
+    },
+    {
       "name": "RSX",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 37,
@@ -1614,6 +1754,13 @@
       "comments": []
     },
     {
+      "name": "SW1621",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 4,
+      "insertTime": "Mon, 06 Nov 2023 12:32:54 GMT",
+      "comments": []
+    },
+    {
       "name": "Test",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 48,
@@ -1650,5 +1797,5 @@
       ]
     }
   ],
-  "time": "Mon, 11 Sep 2023 09:16:37 GMT"
+  "time": "Tue, 07 Nov 2023 15:27:36 GMT"
 }

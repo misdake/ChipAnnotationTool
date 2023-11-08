@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 11 Sep 2023 09:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:27:36 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2021.12.13]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992566114'>Top level for TU104_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU104_2&amp;commentId=992594806'>GPC & TPC for TU104_2 by misdake</a><br>]]></description>
-            <pubDate>Mon, 13 Dec 2021 15:30:15 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2021.12.13</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2021.12.14]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU106_2&amp;commentId=993178026'>Top level for TU106_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993266390'>Top level for TU116_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU116_2&amp;commentId=993503877'>TPC Detail for TU116_2 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_90nm&amp;commentId=993531783'>I/O for Xenos_90nm by misdake</a><br>]]></description>
-            <pubDate>Tue, 14 Dec 2021 13:19:36 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2021.12.14</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2021.12.15]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU102&amp;commentId=994315358'>Top level for TU102 by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Mon, 11 Sep 2023 09:16:37 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2023.09.11</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2023.11.06]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_EP'>SandyBridge_EP</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_E'>IvyBridge_E</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Broadwell_2%2B2'>Broadwell_2+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SW1621'>SW1621</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=3C5000L'>3C5000L</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cezanne'>Cezanne</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Exynos8890'>Exynos8890</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon820'>Snapdragon820</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon888'>Snapdragon888</a><br>]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:45:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2023.11.06</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2023.11.07]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A4'>A4</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A5X'>A5X</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A6'>A6</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A7'>A7</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A9_TSMC'>A9_TSMC</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A9X'>A9X</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A10'>A10</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A11'>A11</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A12'>A12</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A14'>A14</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A15'>A15</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A5'>A5</a><br>]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:27:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2023.11.07</guid>
         </item>
 
     </channel>

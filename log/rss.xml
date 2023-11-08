@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 11 Sep 2023 09:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:27:36 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2356,6 +2356,153 @@
             <pubDate>Mon, 11 Sep 2023 09:16:37 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Phoenix2</link>
             <guid isPermaLink="false">Phoenix2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SandyBridge_EP]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:25:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_EP</link>
+            <guid isPermaLink="false">SandyBridge_EP</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: IvyBridge_E]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:26:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_E</link>
+            <guid isPermaLink="false">IvyBridge_E</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Broadwell_2+2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:29:50 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Broadwell_2%2B2</link>
+            <guid isPermaLink="false">Broadwell_2+2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SW1621]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:32:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SW1621</link>
+            <guid isPermaLink="false">SW1621</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: 3C5000L]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:37:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=3C5000L</link>
+            <guid isPermaLink="false">3C5000L</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Cezanne]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:39:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Cezanne</link>
+            <guid isPermaLink="false">Cezanne</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Exynos8890]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:41:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Exynos8890</link>
+            <guid isPermaLink="false">Exynos8890</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Snapdragon820]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:45:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon820</link>
+            <guid isPermaLink="false">Snapdragon820</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Snapdragon888]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 06 Nov 2023 12:45:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon888</link>
+            <guid isPermaLink="false">Snapdragon888</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A4]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:05:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A4</link>
+            <guid isPermaLink="false">A4</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A5X]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:05:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A5X</link>
+            <guid isPermaLink="false">A5X</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A6]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:06:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A6</link>
+            <guid isPermaLink="false">A6</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A7]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:07:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A7</link>
+            <guid isPermaLink="false">A7</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A9_TSMC]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:10:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A9_TSMC</link>
+            <guid isPermaLink="false">A9_TSMC</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A9X]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:11:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A9X</link>
+            <guid isPermaLink="false">A9X</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A10]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:12:03 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A10</link>
+            <guid isPermaLink="false">A10</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A11]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:13:12 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A11</link>
+            <guid isPermaLink="false">A11</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A12]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:13:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A12</link>
+            <guid isPermaLink="false">A12</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A14]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:14:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A14</link>
+            <guid isPermaLink="false">A14</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A15]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:21:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A15</link>
+            <guid isPermaLink="false">A15</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A5]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 07 Nov 2023 15:27:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A5</link>
+            <guid isPermaLink="false">A5</guid>
         </item>
 
     </channel>
