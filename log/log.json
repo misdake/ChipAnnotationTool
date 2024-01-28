@@ -4382,5 +4382,75 @@
     "logType": "IMAGE_CREATE",
     "time": "Tue, 07 Nov 2023 15:27:36 GMT",
     "dateString": "2023.11.07"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "OmniPath",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 25,
+    "insertTime": "Sat, 27 Jan 2024 06:29:46 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 06:29:46 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "VanGogh",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 26,
+    "insertTime": "Sat, 27 Jan 2024 06:32:07 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 06:32:07 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "MeteorLake_CPU_2+8",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 29,
+    "insertTime": "Sat, 27 Jan 2024 12:43:49 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 12:43:49 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "MeteorLake_GPU",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 28,
+    "insertTime": "Sat, 27 Jan 2024 12:44:36 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 12:44:36 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "MeteorLake_IO",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 30,
+    "insertTime": "Sat, 27 Jan 2024 12:45:19 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 12:45:19 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "MeteorLake_SOC",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 27,
+    "insertTime": "Sat, 27 Jan 2024 12:45:52 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 12:45:52 GMT",
+    "dateString": "2024.01.27"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Navi23",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 31,
+    "insertTime": "Sat, 27 Jan 2024 13:33:34 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 27 Jan 2024 13:33:34 GMT",
+    "dateString": "2024.01.27"
   }
 ]

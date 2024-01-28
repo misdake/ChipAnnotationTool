@@ -88,7 +88,10 @@ public class UiController implements Initializable {
 
     public void onOpenImageEvent(ActionEvent actionEvent) {
         String imageFolder = AppConfig.instance().getImageFolder();
-
+        File imageFolderFile = new File(imageFolder);
+        if (!imageFolderFile.exists()) {
+            imageFolder = null;
+        }
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Open Image File");
         fileChooser.setInitialDirectory(new File(imageFolder != null ? imageFolder : System.getProperty("user.home")));

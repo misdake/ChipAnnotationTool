@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 07 Nov 2023 15:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 13:33:34 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2021.12.15]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TU102&amp;commentId=994315358'>Top level for TU102 by misdake</a><br>]]></description>
-            <pubDate>Wed, 15 Dec 2021 05:52:01 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2021.12.15</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2021.12.24]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GP100'>GP100</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Tue, 07 Nov 2023 15:27:36 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2023.11.07</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.01.27]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=OmniPath'>OmniPath</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=VanGogh'>VanGogh</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_CPU_2%2B8'>MeteorLake_CPU_2+8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU'>MeteorLake_GPU</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO'>MeteorLake_IO</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_SOC'>MeteorLake_SOC</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi23'>Navi23</a><br>]]></description>
+            <pubDate>Sat, 27 Jan 2024 13:33:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.01.27</guid>
         </item>
 
     </channel>

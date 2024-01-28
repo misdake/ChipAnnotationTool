@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 07 Nov 2023 15:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 13:33:34 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2503,6 +2503,55 @@
             <pubDate>Tue, 07 Nov 2023 15:27:36 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=A5</link>
             <guid isPermaLink="false">A5</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: OmniPath]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 06:29:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=OmniPath</link>
+            <guid isPermaLink="false">OmniPath</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: VanGogh]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 06:32:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=VanGogh</link>
+            <guid isPermaLink="false">VanGogh</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_CPU_2+8]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 12:43:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_CPU_2%2B8</link>
+            <guid isPermaLink="false">MeteorLake_CPU_2+8</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_GPU]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 12:44:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU</link>
+            <guid isPermaLink="false">MeteorLake_GPU</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_IO]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 12:45:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO</link>
+            <guid isPermaLink="false">MeteorLake_IO</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_SOC]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 12:45:52 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_SOC</link>
+            <guid isPermaLink="false">MeteorLake_SOC</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi23]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 27 Jan 2024 13:33:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi23</link>
+            <guid isPermaLink="false">Navi23</guid>
         </item>
 
     </channel>
