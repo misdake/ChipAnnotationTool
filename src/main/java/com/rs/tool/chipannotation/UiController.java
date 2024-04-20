@@ -95,7 +95,7 @@ public class UiController implements Initializable {
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Open Image File");
         fileChooser.setInitialDirectory(new File(imageFolder != null ? imageFolder : System.getProperty("user.home")));
-        fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("Image File", "*.png", "*.jpg"));
+        fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("Image File", "*.png", "*.jpg", "*.tif"));
         File imageFile = fileChooser.showOpenDialog(((Node) actionEvent.getTarget()).getScene().getWindow());
         if (imageFile != null) {
             this.imageFile = imageFile;

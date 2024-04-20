@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 27 Jan 2024 13:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 14:57:30 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2552,6 +2552,20 @@
             <pubDate>Sat, 27 Jan 2024 13:33:34 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi23</link>
             <guid isPermaLink="false">Navi23</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Raphael_IOD_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 14 Apr 2024 14:53:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Raphael_IOD_2</link>
+            <guid isPermaLink="false">Raphael_IOD_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: AD102_2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 14 Apr 2024 14:57:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=AD102_2</link>
+            <guid isPermaLink="false">AD102_2</guid>
         </item>
 
     </channel>
