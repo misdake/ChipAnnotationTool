@@ -963,6 +963,13 @@
       "comments": []
     },
     {
+      "name": "IvyBridgeEX",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 6,
+      "insertTime": "Sun, 26 May 2024 14:11:34 GMT",
+      "comments": []
+    },
+    {
       "name": "MeteorLake_CPU_2+8",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 29,
@@ -1271,6 +1278,13 @@
       ]
     },
     {
+      "name": "GA106",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 5,
+      "insertTime": "Sun, 26 May 2024 14:05:28 GMT",
+      "comments": []
+    },
+    {
       "name": "G70",
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 34,
@@ -1370,7 +1384,15 @@
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 10,
       "insertTime": "Fri, 08 Nov 2019 07:40:42 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "ROPs+MC",
+          "username": "misdake",
+          "commentId": 2132253089,
+          "insertTime": "Sun, 26 May 2024 15:05:53 GMT",
+          "updateTime": "Sun, 26 May 2024 15:05:53 GMT"
+        }
+      ]
     },
     {
       "name": "GF114",
@@ -1860,5 +1882,5 @@
       ]
     }
   ],
-  "time": "Sun, 14 Apr 2024 14:57:30 GMT"
+  "time": "Sun, 26 May 2024 15:05:53 GMT"
 }

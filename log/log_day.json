@@ -1,20 +1,4 @@
 {
-  "2022.01.14": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "SandyBridge_Core",
-      "title": "Core Structures",
-      "username": "clamchowder",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 19,
-      "commentId": 1012815863,
-      "insertTime": "Fri, 14 Jan 2022 06:43:30 GMT",
-      "updateTime": "Fri, 14 Jan 2022 17:20:43 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 14 Jan 2022 06:43:30 GMT",
-      "dateString": "2022.01.14"
-    }
-  ],
   "2022.01.28": [
     {
       "type": "IMAGE_CREATE",
@@ -715,6 +699,42 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 14 Apr 2024 14:57:30 GMT",
       "dateString": "2024.04.14"
+    }
+  ],
+  "2024.05.26": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA106",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 5,
+      "insertTime": "Sun, 26 May 2024 14:05:28 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 26 May 2024 14:05:28 GMT",
+      "dateString": "2024.05.26"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "IvyBridgeEX",
+      "githubRepo": "misdake/ChipAnnotationData4",
+      "githubIssueId": 6,
+      "insertTime": "Sun, 26 May 2024 14:11:34 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 26 May 2024 14:11:34 GMT",
+      "dateString": "2024.05.26"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GF108",
+      "title": "ROPs+MC",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 10,
+      "commentId": 2132253089,
+      "insertTime": "Sun, 26 May 2024 15:05:53 GMT",
+      "updateTime": "Sun, 26 May 2024 15:05:53 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 26 May 2024 15:05:53 GMT",
+      "dateString": "2024.05.26"
     }
   ]
 }

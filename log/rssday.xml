@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 14 Apr 2024 14:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 15:05:53 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2022.01.14]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_Core&amp;commentId=1012815863'>Core Structures for SandyBridge_Core by clamchowder</a><br>]]></description>
-            <pubDate>Fri, 14 Jan 2022 06:43:30 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.01.14</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2022.01.28]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Ferry'>Knights_Ferry</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=ADL-S_8%2B8'>ADL-S_8+8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Saltwell'>Saltwell</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TegraX1'>TegraX1</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R300'>R300</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Agena'>Agena</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Clarkdale'>Clarkdale</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Haswell_4%2B2'>Haswell_4+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A8'>A8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A8X'>A8X</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 14 Apr 2024 14:57:30 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2024.04.14</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.05.26]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA106'>GA106</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridgeEX'>IvyBridgeEX</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GF108&amp;commentId=2132253089'>ROPs+MC for GF108 by misdake</a><br>]]></description>
+            <pubDate>Sun, 26 May 2024 15:05:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.05.26</guid>
         </item>
 
     </channel>

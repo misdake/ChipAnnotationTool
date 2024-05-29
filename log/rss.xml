@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 14 Apr 2024 14:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 15:05:53 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2566,6 +2566,27 @@
             <pubDate>Sun, 14 Apr 2024 14:57:30 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=AD102_2</link>
             <guid isPermaLink="false">AD102_2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GA106]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 26 May 2024 14:05:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA106</link>
+            <guid isPermaLink="false">GA106</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: IvyBridgeEX]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 26 May 2024 14:11:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridgeEX</link>
+            <guid isPermaLink="false">IvyBridgeEX</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: ROPs+MC for GF108 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 26 May 2024 15:05:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF108&amp;commentId=2132253089</link>
+            <guid isPermaLink="false">GF108_10_2132253089_INSERT</guid>
         </item>
 
     </channel>
