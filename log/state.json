@@ -724,6 +724,13 @@
       ]
     },
     {
+      "name": "Navi12",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 34,
+      "insertTime": "Fri, 12 Jul 2024 15:01:17 GMT",
+      "comments": []
+    },
+    {
       "name": "Navi14",
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 12,
@@ -849,6 +856,13 @@
       ]
     },
     {
+      "name": "Arise1020",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 37,
+      "insertTime": "Fri, 12 Jul 2024 15:11:46 GMT",
+      "comments": []
+    },
+    {
       "name": "Kunpeng920_core",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 23,
@@ -909,6 +923,13 @@
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 3,
       "insertTime": "Mon, 06 Nov 2023 12:29:50 GMT",
+      "comments": []
+    },
+    {
+      "name": "Broadwell_4+4e",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 35,
+      "insertTime": "Fri, 12 Jul 2024 15:06:56 GMT",
       "comments": []
     },
     {
@@ -1101,6 +1122,13 @@
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 25,
       "insertTime": "Sat, 27 Jan 2024 06:29:46 GMT",
+      "comments": []
+    },
+    {
+      "name": "Skylake_4+4e",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 36,
+      "insertTime": "Fri, 12 Jul 2024 15:09:01 GMT",
       "comments": []
     },
     {
@@ -1882,5 +1910,5 @@
       ]
     }
   ],
-  "time": "Sun, 26 May 2024 15:05:53 GMT"
+  "time": "Fri, 12 Jul 2024 15:11:46 GMT"
 }

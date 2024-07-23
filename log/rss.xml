@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 26 May 2024 15:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 15:11:46 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2587,6 +2587,34 @@
             <pubDate>Sun, 26 May 2024 15:05:53 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GF108&amp;commentId=2132253089</link>
             <guid isPermaLink="false">GF108_10_2132253089_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi12]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 12 Jul 2024 15:01:17 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi12</link>
+            <guid isPermaLink="false">Navi12</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Broadwell_4+4e]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 12 Jul 2024 15:06:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Broadwell_4%2B4e</link>
+            <guid isPermaLink="false">Broadwell_4+4e</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Skylake_4+4e]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 12 Jul 2024 15:09:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_4%2B4e</link>
+            <guid isPermaLink="false">Skylake_4+4e</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Arise1020]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 12 Jul 2024 15:11:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Arise1020</link>
+            <guid isPermaLink="false">Arise1020</guid>
         </item>
 
     </channel>

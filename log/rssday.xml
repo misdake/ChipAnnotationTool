@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 26 May 2024 15:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 15:11:46 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2022.01.28]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Knights_Ferry'>Knights_Ferry</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=ADL-S_8%2B8'>ADL-S_8+8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Saltwell'>Saltwell</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TegraX1'>TegraX1</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=R300'>R300</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Agena'>Agena</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Clarkdale'>Clarkdale</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Haswell_4%2B2'>Haswell_4+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A8'>A8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A8X'>A8X</a><br>]]></description>
-            <pubDate>Fri, 28 Jan 2022 15:34:05 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.01.28</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2022.02.01]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=ADL-P_6%2B8'>ADL-P_6+8</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sun, 26 May 2024 15:05:53 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2024.05.26</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.07.12]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi12'>Navi12</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Broadwell_4%2B4e'>Broadwell_4+4e</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Skylake_4%2B4e'>Skylake_4+4e</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Arise1020'>Arise1020</a><br>]]></description>
+            <pubDate>Fri, 12 Jul 2024 15:11:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.07.12</guid>
         </item>
 
     </channel>

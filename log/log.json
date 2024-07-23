@@ -4506,5 +4506,45 @@
     "logType": "COMMENT_INSERT",
     "time": "Sun, 26 May 2024 15:05:53 GMT",
     "dateString": "2024.05.26"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Navi12",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 34,
+    "insertTime": "Fri, 12 Jul 2024 15:01:17 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 12 Jul 2024 15:01:17 GMT",
+    "dateString": "2024.07.12"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Broadwell_4+4e",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 35,
+    "insertTime": "Fri, 12 Jul 2024 15:06:56 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 12 Jul 2024 15:06:56 GMT",
+    "dateString": "2024.07.12"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Skylake_4+4e",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 36,
+    "insertTime": "Fri, 12 Jul 2024 15:09:01 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 12 Jul 2024 15:09:01 GMT",
+    "dateString": "2024.07.12"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Arise1020",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 37,
+    "insertTime": "Fri, 12 Jul 2024 15:11:46 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Fri, 12 Jul 2024 15:11:46 GMT",
+    "dateString": "2024.07.12"
   }
 ]
