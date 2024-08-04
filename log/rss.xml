@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 12 Jul 2024 15:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 14:15:22 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2615,6 +2615,62 @@
             <pubDate>Fri, 12 Jul 2024 15:11:46 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Arise1020</link>
             <guid isPermaLink="false">Arise1020</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Arch for Zen2_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 28 Jul 2024 05:44:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=2254352175</link>
+            <guid isPermaLink="false">Zen2_CCD_2_2254352175_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Arch for Zen3_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 28 Jul 2024 05:45:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=2254352230</link>
+            <guid isPermaLink="false">Zen3_CCD_1_2254352230_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Arch for Zen4_Core by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 28 Jul 2024 06:33:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core&amp;commentId=2254362633</link>
+            <guid isPermaLink="false">Zen4_Core_10_2254362633_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: StrixPoint]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 28 Jul 2024 13:51:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=StrixPoint</link>
+            <guid isPermaLink="false">StrixPoint</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen2_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 30 Jul 2024 04:57:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=2254352175</link>
+            <guid isPermaLink="false">Zen2_CCD_2_2254352175_UPDATE_1722315462000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Arch for Zeppelin by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 30 Jul 2024 05:36:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=2257503792</link>
+            <guid isPermaLink="false">Zeppelin_5_2257503792_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen3_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 02 Aug 2024 16:08:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=2254352230</link>
+            <guid isPermaLink="false">Zen3_CCD_1_2254352230_UPDATE_1722614931000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen4_Core by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Aug 2024 14:15:22 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core&amp;commentId=2254362633</link>
+            <guid isPermaLink="false">Zen4_Core_10_2254362633_UPDATE_1722780922000</guid>
         </item>
 
     </channel>
