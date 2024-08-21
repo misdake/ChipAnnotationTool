@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 04 Aug 2024 14:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 14:21:14 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2671,6 +2671,27 @@
             <pubDate>Sun, 04 Aug 2024 14:15:22 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core&amp;commentId=2254362633</link>
             <guid isPermaLink="false">Zen4_Core_10_2254362633_UPDATE_1722780922000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen5_CCD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 15 Aug 2024 14:13:43 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_CCD</link>
+            <guid isPermaLink="false">Zen5_CCD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: SapphireRapids]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 15 Aug 2024 14:16:23 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=SapphireRapids</link>
+            <guid isPermaLink="false">SapphireRapids</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_BaseDie]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 15 Aug 2024 14:21:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_BaseDie</link>
+            <guid isPermaLink="false">MeteorLake_BaseDie</guid>
         </item>
 
     </channel>

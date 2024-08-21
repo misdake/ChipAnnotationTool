@@ -4654,5 +4654,35 @@
     "logType": "COMMENT_UPDATE",
     "time": "Sun, 04 Aug 2024 14:15:22 GMT",
     "dateString": "2024.08.04"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Zen5_CCD",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 39,
+    "insertTime": "Thu, 15 Aug 2024 14:13:43 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 15 Aug 2024 14:13:43 GMT",
+    "dateString": "2024.08.15"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "SapphireRapids",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 40,
+    "insertTime": "Thu, 15 Aug 2024 14:16:23 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 15 Aug 2024 14:16:23 GMT",
+    "dateString": "2024.08.15"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "MeteorLake_BaseDie",
+    "githubRepo": "misdake/ChipAnnotationData8",
+    "githubIssueId": 41,
+    "insertTime": "Thu, 15 Aug 2024 14:21:14 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Thu, 15 Aug 2024 14:21:14 GMT",
+    "dateString": "2024.08.15"
   }
 ]

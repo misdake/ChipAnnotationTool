@@ -355,6 +355,13 @@
       "comments": []
     },
     {
+      "name": "Zen5_CCD",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 39,
+      "insertTime": "Thu, 15 Aug 2024 14:13:43 GMT",
+      "comments": []
+    },
+    {
       "name": "StrixPoint",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 38,
@@ -1027,6 +1034,13 @@
       "comments": []
     },
     {
+      "name": "MeteorLake_BaseDie",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 41,
+      "insertTime": "Thu, 15 Aug 2024 14:21:14 GMT",
+      "comments": []
+    },
+    {
       "name": "MeteorLake_CPU_2+8",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 29,
@@ -1144,6 +1158,13 @@
       "githubRepo": "misdake/ChipAnnotationData3",
       "githubIssueId": 18,
       "insertTime": "Sat, 16 May 2020 06:56:04 GMT",
+      "comments": []
+    },
+    {
+      "name": "SapphireRapids",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 40,
+      "insertTime": "Thu, 15 Aug 2024 14:16:23 GMT",
       "comments": []
     },
     {
@@ -1946,5 +1967,5 @@
       ]
     }
   ],
-  "time": "Sun, 04 Aug 2024 14:15:22 GMT"
+  "time": "Thu, 15 Aug 2024 14:21:14 GMT"
 }

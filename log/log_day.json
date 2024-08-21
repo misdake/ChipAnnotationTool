@@ -1,64 +1,4 @@
 {
-  "2022.05.06": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Test",
-      "title": "Navi31 guess",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 48,
-      "commentId": 695765960,
-      "insertTime": "Sun, 20 Sep 2020 09:33:33 GMT",
-      "updateTime": "Fri, 06 May 2022 15:47:10 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 06 May 2022 15:47:10 GMT",
-      "dateString": "2022.05.06"
-    }
-  ],
-  "2022.08.10": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Trinity",
-      "title": "By Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 49,
-      "commentId": 1210803638,
-      "insertTime": "Wed, 10 Aug 2022 15:03:21 GMT",
-      "updateTime": "Wed, 10 Aug 2022 15:05:05 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Wed, 10 Aug 2022 15:03:21 GMT",
-      "dateString": "2022.08.10"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Llano",
-      "title": "By Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 17,
-      "commentId": 660580640,
-      "insertTime": "Sun, 19 Jul 2020 03:37:13 GMT",
-      "updateTime": "Wed, 10 Aug 2022 15:04:54 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Wed, 10 Aug 2022 15:04:54 GMT",
-      "dateString": "2022.08.10"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Trinity",
-      "title": "CPU Core by Locuza",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 49,
-      "commentId": 1210873291,
-      "insertTime": "Wed, 10 Aug 2022 15:29:29 GMT",
-      "updateTime": "Wed, 10 Aug 2022 15:38:11 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Wed, 10 Aug 2022 15:29:29 GMT",
-      "dateString": "2022.08.10"
-    }
-  ],
   "2022.08.30": [
     {
       "type": "COMMENT_INSERT",
@@ -725,6 +665,54 @@
       "logType": "COMMENT_UPDATE",
       "time": "Fri, 02 Aug 2024 16:08:51 GMT",
       "dateString": "2024.08.02"
+    }
+  ],
+  "2024.08.04": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zen4_Core",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 10,
+      "commentId": 2254362633,
+      "insertTime": "Sun, 28 Jul 2024 06:33:09 GMT",
+      "updateTime": "Sun, 04 Aug 2024 14:15:22 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 04 Aug 2024 14:15:22 GMT",
+      "dateString": "2024.08.04"
+    }
+  ],
+  "2024.08.15": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Zen5_CCD",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 39,
+      "insertTime": "Thu, 15 Aug 2024 14:13:43 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 15 Aug 2024 14:13:43 GMT",
+      "dateString": "2024.08.15"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "SapphireRapids",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 40,
+      "insertTime": "Thu, 15 Aug 2024 14:16:23 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 15 Aug 2024 14:16:23 GMT",
+      "dateString": "2024.08.15"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "MeteorLake_BaseDie",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 41,
+      "insertTime": "Thu, 15 Aug 2024 14:21:14 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 15 Aug 2024 14:21:14 GMT",
+      "dateString": "2024.08.15"
     }
   ]
 }
