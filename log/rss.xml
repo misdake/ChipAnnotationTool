@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 15 Aug 2024 14:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 14:51:44 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2692,6 +2692,62 @@
             <pubDate>Thu, 15 Aug 2024 14:21:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_BaseDie</link>
             <guid isPermaLink="false">MeteorLake_BaseDie</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GV100]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Sep 2024 14:43:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100</link>
+            <guid isPermaLink="false">GV100</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MagnyCours_6C]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Sep 2024 14:44:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MagnyCours_6C</link>
+            <guid isPermaLink="false">MagnyCours_6C</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Interlagos_4M]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Sep 2024 14:45:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Interlagos_4M</link>
+            <guid isPermaLink="false">Interlagos_4M</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC Blocks for GV100 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Sep 2024 16:18:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2351048950</link>
+            <guid isPermaLink="false">GV100_42_2351048950_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: GPC Blocks for GV100 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 14 Sep 2024 16:25:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2351048950</link>
+            <guid isPermaLink="false">GV100_42_2351048950_UPDATE_1726331126000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Tukwila]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 16 Sep 2024 14:42:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila</link>
+            <guid isPermaLink="false">Tukwila</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Haswell_4+3e]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 16 Sep 2024 14:45:31 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Haswell_4%2B3e</link>
+            <guid isPermaLink="false">Haswell_4+3e</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: M2]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 16 Sep 2024 14:51:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=M2</link>
+            <guid isPermaLink="false">M2</guid>
         </item>
 
     </channel>

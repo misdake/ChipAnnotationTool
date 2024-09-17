@@ -51,10 +51,24 @@
       "comments": []
     },
     {
+      "name": "Interlagos_4M",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 44,
+      "insertTime": "Sat, 14 Sep 2024 14:45:55 GMT",
+      "comments": []
+    },
+    {
       "name": "Agena",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 16,
       "insertTime": "Fri, 28 Jan 2022 15:12:40 GMT",
+      "comments": []
+    },
+    {
+      "name": "MagnyCours_6C",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 43,
+      "insertTime": "Sat, 14 Sep 2024 14:44:34 GMT",
       "comments": []
     },
     {
@@ -464,6 +478,13 @@
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 18,
       "insertTime": "Tue, 07 Nov 2023 15:11:08 GMT",
+      "comments": []
+    },
+    {
+      "name": "M2",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 47,
+      "insertTime": "Mon, 16 Sep 2024 14:51:44 GMT",
       "comments": []
     },
     {
@@ -1002,6 +1023,20 @@
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 18,
       "insertTime": "Fri, 28 Jan 2022 15:28:40 GMT",
+      "comments": []
+    },
+    {
+      "name": "Haswell_4+3e",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 46,
+      "insertTime": "Mon, 16 Sep 2024 14:45:31 GMT",
+      "comments": []
+    },
+    {
+      "name": "Tukwila",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 45,
+      "insertTime": "Mon, 16 Sep 2024 14:42:44 GMT",
       "comments": []
     },
     {
@@ -1852,6 +1887,21 @@
       ]
     },
     {
+      "name": "GV100",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 42,
+      "insertTime": "Sat, 14 Sep 2024 14:43:19 GMT",
+      "comments": [
+        {
+          "title": "GPC Blocks",
+          "username": "misdake",
+          "commentId": 2351048950,
+          "insertTime": "Sat, 14 Sep 2024 16:18:04 GMT",
+          "updateTime": "Sat, 14 Sep 2024 16:25:26 GMT"
+        }
+      ]
+    },
+    {
       "name": "TegraX1",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 14,
@@ -1967,5 +2017,5 @@
       ]
     }
   ],
-  "time": "Thu, 15 Aug 2024 14:21:14 GMT"
+  "time": "Mon, 16 Sep 2024 14:51:44 GMT"
 }

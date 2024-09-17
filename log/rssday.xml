@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 15 Aug 2024 14:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 14:51:44 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2022.08.30]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=1231715996'>Core for Zen3_CCD by misdake</a><br>]]></description>
-            <pubDate>Tue, 30 Aug 2022 14:04:08 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.08.30</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2022.10.04]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=ADL-S_6%2B0'>ADL-S_6+0</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Golden_Cove_Core'>Golden_Cove_Core</a><br>]]></description>
-            <pubDate>Tue, 04 Oct 2022 02:55:51 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.10.04</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2022.10.27]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RPL-S_8%2B16'>RPL-S_8+16</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raptor_Cove_Core'>Raptor_Cove_Core</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Cluster'>Gracemont_Cluster</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Core'>Gracemont_Core</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Thu, 15 Aug 2024 14:21:14 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2024.08.15</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.09.14]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GV100'>GV100</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MagnyCours_6C'>MagnyCours_6C</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Interlagos_4M'>Interlagos_4M</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2351048950'>GPC Blocks for GV100 by misdake</a><br>]]></description>
+            <pubDate>Sat, 14 Sep 2024 16:18:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.09.14</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.09.16]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila'>Tukwila</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Haswell_4%2B3e'>Haswell_4+3e</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=M2'>M2</a><br>]]></description>
+            <pubDate>Mon, 16 Sep 2024 14:51:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.09.16</guid>
         </item>
 
     </channel>
