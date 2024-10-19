@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 16 Sep 2024 14:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 13:27:40 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2022.10.27]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=RPL-S_8%2B16'>RPL-S_8+16</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raptor_Cove_Core'>Raptor_Cove_Core</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Cluster'>Gracemont_Cluster</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Gracemont_Core'>Gracemont_Core</a><br>]]></description>
-            <pubDate>Thu, 27 Oct 2022 13:53:15 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.10.27</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2022.11.01]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=CannonLake_2C_GT2'>CannonLake_2C_GT2</a><br>]]></description>
-            <pubDate>Tue, 01 Nov 2022 13:20:26 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2022.11.01</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2023.06.04]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raphael_IOD'>Raphael_IOD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_CCD'>Zen4_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core'>Zen4_Core</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Mon, 16 Sep 2024 14:51:44 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2024.09.16</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.10.07]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes'>Zen5_HiRes</a><br>]]></description>
+            <pubDate>Mon, 07 Oct 2024 12:37:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.10.07</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.10.17]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_IO'>LunarLake_IO</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Compute'>LunarLake_Compute</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Base'>LunarLake_Base</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_Vejle'>Xenos_Vejle</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro'>A18_Pro</a><br>]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:27:40 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.10.17</guid>
         </item>
 
     </channel>

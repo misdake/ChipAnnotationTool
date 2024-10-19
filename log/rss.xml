@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 16 Sep 2024 14:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 13:27:40 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2748,6 +2748,48 @@
             <pubDate>Mon, 16 Sep 2024 14:51:44 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=M2</link>
             <guid isPermaLink="false">M2</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Zen5_HiRes]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 07 Oct 2024 12:37:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes</link>
+            <guid isPermaLink="false">Zen5_HiRes</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: LunarLake_IO]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:17:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_IO</link>
+            <guid isPermaLink="false">LunarLake_IO</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: LunarLake_Compute]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:20:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Compute</link>
+            <guid isPermaLink="false">LunarLake_Compute</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: LunarLake_Base]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:21:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Base</link>
+            <guid isPermaLink="false">LunarLake_Base</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Xenos_Vejle]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:25:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_Vejle</link>
+            <guid isPermaLink="false">Xenos_Vejle</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: A18_Pro]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 17 Oct 2024 13:27:40 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro</link>
+            <guid isPermaLink="false">A18_Pro</guid>
         </item>
 
     </channel>
