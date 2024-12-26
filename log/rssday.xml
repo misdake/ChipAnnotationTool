@@ -9,65 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 17 Oct 2024 13:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 16:28:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2023.06.04]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raphael_IOD'>Raphael_IOD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_CCD'>Zen4_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core'>Zen4_Core</a><br>]]></description>
-            <pubDate>Sun, 04 Jun 2023 03:26:14 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.06.04</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.06.17]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=BayTrail'>BayTrail</a><br>]]></description>
-            <pubDate>Sat, 17 Jun 2023 05:37:51 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.06.17</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.07.29]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module'>Bulldozer_Module</a><br>]]></description>
-            <pubDate>Sat, 29 Jul 2023 06:54:15 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.07.29</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.09.03]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD102'>AD102</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Phoenix'>Phoenix</a><br>]]></description>
-            <pubDate>Sun, 03 Sep 2023 13:53:25 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.09.03</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.09.11]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Phoenix2'>Phoenix2</a><br>]]></description>
-            <pubDate>Mon, 11 Sep 2023 09:16:37 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.09.11</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.11.06]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SandyBridge_EP'>SandyBridge_EP</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IvyBridge_E'>IvyBridge_E</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Broadwell_2%2B2'>Broadwell_2+2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=SW1621'>SW1621</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=3C5000L'>3C5000L</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Cezanne'>Cezanne</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Exynos8890'>Exynos8890</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon820'>Snapdragon820</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Snapdragon888'>Snapdragon888</a><br>]]></description>
-            <pubDate>Mon, 06 Nov 2023 12:45:58 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.11.06</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2023.11.07]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A4'>A4</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A5X'>A5X</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A6'>A6</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A7'>A7</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A9_TSMC'>A9_TSMC</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A9X'>A9X</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A10'>A10</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A11'>A11</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A12'>A12</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A14'>A14</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A15'>A15</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A5'>A5</a><br>]]></description>
-            <pubDate>Tue, 07 Nov 2023 15:27:36 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2023.11.07</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2024.01.27]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=OmniPath'>OmniPath</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=VanGogh'>VanGogh</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_CPU_2%2B8'>MeteorLake_CPU_2+8</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU'>MeteorLake_GPU</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO'>MeteorLake_IO</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_SOC'>MeteorLake_SOC</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi23'>Navi23</a><br>]]></description>
-            <pubDate>Sat, 27 Jan 2024 13:33:34 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.01.27</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.04.14]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Raphael_IOD_2'>Raphael_IOD_2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD102_2'>AD102_2</a><br>]]></description>
@@ -151,6 +95,62 @@
             <pubDate>Thu, 17 Oct 2024 13:27:40 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2024.10.17</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.10.20]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IceLake_4c'>IceLake_4c</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TigerLake_8c'>TigerLake_8c</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO_UP4'>MeteorLake_IO_UP4</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU_UP4'>MeteorLake_GPU_UP4</a><br>]]></description>
+            <pubDate>Sun, 20 Oct 2024 08:43:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.10.20</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.11.18]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295'>BlockLevel for Coppermine by IvanBGR</a><br>]]></description>
+            <pubDate>Mon, 18 Nov 2024 20:07:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.11.18</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.11.29]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module&amp;commentId=2507287748'>BlockLevel for Bulldozer_Module by IvanBGR</a><br>]]></description>
+            <pubDate>Fri, 29 Nov 2024 08:10:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.11.29</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.12.03]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=P54C&amp;commentId=2514311633'>BlockLevel for P54C by IvanBGR</a><br>]]></description>
+            <pubDate>Tue, 03 Dec 2024 11:37:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.12.03</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.12.17]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=2547926706'>CPU Core for Llano by IvanBGR</a><br>]]></description>
+            <pubDate>Tue, 17 Dec 2024 09:28:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.12.17</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.12.19]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297'>TopLevel for Tukwila by IvanBGR</a><br>]]></description>
+            <pubDate>Thu, 19 Dec 2024 17:26:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.12.19</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.12.20]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297'>TopLevel for Tukwila by IvanBGR</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908'>CPU Core for Tukwila by IvanBGR</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module&amp;commentId=2507287748'>BlockLevel for Bulldozer_Module by IvanBGR</a><br>]]></description>
+            <pubDate>Fri, 20 Dec 2024 11:29:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.12.20</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2024.12.24]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=P54C&amp;commentId=2514311633'>BlockLevel for P54C by IvanBGR</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295'>BlockLevel for Coppermine by IvanBGR</a><br>]]></description>
+            <pubDate>Tue, 24 Dec 2024 16:28:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2024.12.24</guid>
         </item>
 
     </channel>

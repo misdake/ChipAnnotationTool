@@ -1,380 +1,4 @@
 {
-  "2023.06.04": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Raphael_IOD",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 8,
-      "insertTime": "Sun, 04 Jun 2023 03:23:37 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 04 Jun 2023 03:23:37 GMT",
-      "dateString": "2023.06.04"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen4_CCD",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 9,
-      "insertTime": "Sun, 04 Jun 2023 03:24:39 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 04 Jun 2023 03:24:39 GMT",
-      "dateString": "2023.06.04"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen4_Core",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 10,
-      "insertTime": "Sun, 04 Jun 2023 03:26:14 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 04 Jun 2023 03:26:14 GMT",
-      "dateString": "2023.06.04"
-    }
-  ],
-  "2023.06.17": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "BayTrail",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 11,
-      "insertTime": "Sat, 17 Jun 2023 05:37:51 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 17 Jun 2023 05:37:51 GMT",
-      "dateString": "2023.06.17"
-    }
-  ],
-  "2023.07.29": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Bulldozer_Module",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 23,
-      "insertTime": "Sat, 29 Jul 2023 06:54:15 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 29 Jul 2023 06:54:15 GMT",
-      "dateString": "2023.07.29"
-    }
-  ],
-  "2023.09.03": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "AD102",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 13,
-      "insertTime": "Sun, 03 Sep 2023 13:47:50 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 03 Sep 2023 13:47:50 GMT",
-      "dateString": "2023.09.03"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Phoenix",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 14,
-      "insertTime": "Sun, 03 Sep 2023 13:53:25 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 03 Sep 2023 13:53:25 GMT",
-      "dateString": "2023.09.03"
-    }
-  ],
-  "2023.09.11": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Phoenix2",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 15,
-      "insertTime": "Mon, 11 Sep 2023 09:16:37 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 11 Sep 2023 09:16:37 GMT",
-      "dateString": "2023.09.11"
-    }
-  ],
-  "2023.11.06": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SandyBridge_EP",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 1,
-      "insertTime": "Mon, 06 Nov 2023 12:25:34 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:25:34 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "IvyBridge_E",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 2,
-      "insertTime": "Mon, 06 Nov 2023 12:26:53 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:26:53 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Broadwell_2+2",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 3,
-      "insertTime": "Mon, 06 Nov 2023 12:29:50 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:29:50 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "SW1621",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 4,
-      "insertTime": "Mon, 06 Nov 2023 12:32:54 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:32:54 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "3C5000L",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 5,
-      "insertTime": "Mon, 06 Nov 2023 12:37:18 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:37:18 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Cezanne",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 6,
-      "insertTime": "Mon, 06 Nov 2023 12:39:39 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:39:39 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Exynos8890",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 7,
-      "insertTime": "Mon, 06 Nov 2023 12:41:41 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:41:41 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Snapdragon820",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 8,
-      "insertTime": "Mon, 06 Nov 2023 12:45:10 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:45:10 GMT",
-      "dateString": "2023.11.06"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Snapdragon888",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 9,
-      "insertTime": "Mon, 06 Nov 2023 12:45:58 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 06 Nov 2023 12:45:58 GMT",
-      "dateString": "2023.11.06"
-    }
-  ],
-  "2023.11.07": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A4",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 10,
-      "insertTime": "Tue, 07 Nov 2023 15:05:07 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:05:07 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A5X",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 12,
-      "insertTime": "Tue, 07 Nov 2023 15:05:57 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:05:57 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A6",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 13,
-      "insertTime": "Tue, 07 Nov 2023 15:06:45 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:06:45 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A7",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 14,
-      "insertTime": "Tue, 07 Nov 2023 15:07:28 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:07:28 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A9_TSMC",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 17,
-      "insertTime": "Tue, 07 Nov 2023 15:10:42 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:10:42 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A9X",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 18,
-      "insertTime": "Tue, 07 Nov 2023 15:11:08 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:11:08 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A10",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 19,
-      "insertTime": "Tue, 07 Nov 2023 15:12:03 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:12:03 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A11",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 20,
-      "insertTime": "Tue, 07 Nov 2023 15:13:12 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:13:12 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A12",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 21,
-      "insertTime": "Tue, 07 Nov 2023 15:13:39 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:13:39 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A14",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 23,
-      "insertTime": "Tue, 07 Nov 2023 15:14:14 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:14:14 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A15",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 24,
-      "insertTime": "Tue, 07 Nov 2023 15:21:28 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:21:28 GMT",
-      "dateString": "2023.11.07"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "A5",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 11,
-      "insertTime": "Tue, 07 Nov 2023 15:27:36 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 07 Nov 2023 15:27:36 GMT",
-      "dateString": "2023.11.07"
-    }
-  ],
-  "2024.01.27": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "OmniPath",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 25,
-      "insertTime": "Sat, 27 Jan 2024 06:29:46 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 06:29:46 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "VanGogh",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 26,
-      "insertTime": "Sat, 27 Jan 2024 06:32:07 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 06:32:07 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "MeteorLake_CPU_2+8",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 29,
-      "insertTime": "Sat, 27 Jan 2024 12:43:49 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 12:43:49 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "MeteorLake_GPU",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 28,
-      "insertTime": "Sat, 27 Jan 2024 12:44:36 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 12:44:36 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "MeteorLake_IO",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 30,
-      "insertTime": "Sat, 27 Jan 2024 12:45:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 12:45:19 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "MeteorLake_SOC",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 27,
-      "insertTime": "Sat, 27 Jan 2024 12:45:52 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 12:45:52 GMT",
-      "dateString": "2024.01.27"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Navi23",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 31,
-      "insertTime": "Sat, 27 Jan 2024 13:33:34 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 27 Jan 2024 13:33:34 GMT",
-      "dateString": "2024.01.27"
-    }
-  ],
   "2024.04.14": [
     {
       "type": "IMAGE_CREATE",
@@ -763,6 +387,202 @@
       "logType": "IMAGE_CREATE",
       "time": "Thu, 17 Oct 2024 13:27:40 GMT",
       "dateString": "2024.10.17"
+    }
+  ],
+  "2024.10.20": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "IceLake_4c",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 7,
+      "insertTime": "Sun, 20 Oct 2024 08:40:31 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 20 Oct 2024 08:40:31 GMT",
+      "dateString": "2024.10.20"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "TigerLake_8c",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 8,
+      "insertTime": "Sun, 20 Oct 2024 08:41:32 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 20 Oct 2024 08:41:32 GMT",
+      "dateString": "2024.10.20"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "MeteorLake_IO_UP4",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 9,
+      "insertTime": "Sun, 20 Oct 2024 08:43:03 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 20 Oct 2024 08:43:03 GMT",
+      "dateString": "2024.10.20"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "MeteorLake_GPU_UP4",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 10,
+      "insertTime": "Sun, 20 Oct 2024 08:43:33 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 20 Oct 2024 08:43:33 GMT",
+      "dateString": "2024.10.20"
+    }
+  ],
+  "2024.11.18": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Tue, 24 Dec 2024 16:28:15 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "dateString": "2024.11.18"
+    }
+  ],
+  "2024.11.29": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Bulldozer_Module",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 23,
+      "commentId": 2507287748,
+      "insertTime": "Fri, 29 Nov 2024 08:10:49 GMT",
+      "updateTime": "Fri, 20 Dec 2024 11:29:09 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Fri, 29 Nov 2024 08:10:49 GMT",
+      "dateString": "2024.11.29"
+    }
+  ],
+  "2024.12.03": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "P54C",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 7,
+      "commentId": 2514311633,
+      "insertTime": "Tue, 03 Dec 2024 11:37:41 GMT",
+      "updateTime": "Tue, 24 Dec 2024 15:58:16 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 03 Dec 2024 11:37:41 GMT",
+      "dateString": "2024.12.03"
+    }
+  ],
+  "2024.12.17": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Llano",
+      "title": "CPU Core",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 17,
+      "commentId": 2547926706,
+      "insertTime": "Tue, 17 Dec 2024 09:28:33 GMT",
+      "updateTime": "Tue, 17 Dec 2024 13:45:58 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 17 Dec 2024 09:28:33 GMT",
+      "dateString": "2024.12.17"
+    }
+  ],
+  "2024.12.19": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Tukwila",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 45,
+      "commentId": 2555266297,
+      "insertTime": "Thu, 19 Dec 2024 17:26:44 GMT",
+      "updateTime": "Fri, 20 Dec 2024 08:10:14 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 19 Dec 2024 17:26:44 GMT",
+      "dateString": "2024.12.19"
+    }
+  ],
+  "2024.12.20": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Tukwila",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 45,
+      "commentId": 2555266297,
+      "insertTime": "Thu, 19 Dec 2024 17:26:44 GMT",
+      "updateTime": "Fri, 20 Dec 2024 08:10:14 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 20 Dec 2024 08:10:14 GMT",
+      "dateString": "2024.12.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Tukwila",
+      "title": "CPU Core",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 45,
+      "commentId": 2556574908,
+      "insertTime": "Fri, 20 Dec 2024 09:08:14 GMT",
+      "updateTime": "Fri, 20 Dec 2024 12:47:17 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Fri, 20 Dec 2024 09:08:14 GMT",
+      "dateString": "2024.12.20"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Bulldozer_Module",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 23,
+      "commentId": 2507287748,
+      "insertTime": "Fri, 29 Nov 2024 08:10:49 GMT",
+      "updateTime": "Fri, 20 Dec 2024 11:29:09 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 20 Dec 2024 11:29:09 GMT",
+      "dateString": "2024.12.20"
+    }
+  ],
+  "2024.12.24": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "P54C",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 7,
+      "commentId": 2514311633,
+      "insertTime": "Tue, 03 Dec 2024 11:37:41 GMT",
+      "updateTime": "Tue, 24 Dec 2024 15:58:16 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 24 Dec 2024 15:58:16 GMT",
+      "dateString": "2024.12.24"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Tue, 24 Dec 2024 16:28:15 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 24 Dec 2024 16:28:15 GMT",
+      "dateString": "2024.12.24"
     }
   ]
 }

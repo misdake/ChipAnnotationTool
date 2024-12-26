@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 17 Oct 2024 13:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 16:28:15 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2790,6 +2790,118 @@
             <pubDate>Thu, 17 Oct 2024 13:27:40 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro</link>
             <guid isPermaLink="false">A18_Pro</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: IceLake_4c]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 20 Oct 2024 08:40:31 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=IceLake_4c</link>
+            <guid isPermaLink="false">IceLake_4c</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: TigerLake_8c]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 20 Oct 2024 08:41:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=TigerLake_8c</link>
+            <guid isPermaLink="false">TigerLake_8c</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_IO_UP4]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 20 Oct 2024 08:43:03 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO_UP4</link>
+            <guid isPermaLink="false">MeteorLake_IO_UP4</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: MeteorLake_GPU_UP4]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 20 Oct 2024 08:43:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU_UP4</link>
+            <guid isPermaLink="false">MeteorLake_GPU_UP4</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 18 Nov 2024 20:07:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for Bulldozer_Module by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 Nov 2024 08:10:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module&amp;commentId=2507287748</link>
+            <guid isPermaLink="false">Bulldozer_Module_23_2507287748_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for P54C by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 03 Dec 2024 11:37:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=P54C&amp;commentId=2514311633</link>
+            <guid isPermaLink="false">P54C_7_2514311633_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: CPU Core for Llano by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 17 Dec 2024 09:28:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=2547926706</link>
+            <guid isPermaLink="false">Llano_17_2547926706_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU Core for Llano by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 17 Dec 2024 13:45:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=2547926706</link>
+            <guid isPermaLink="false">Llano_17_2547926706_UPDATE_1734443158000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TopLevel for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 19 Dec 2024 17:26:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297</link>
+            <guid isPermaLink="false">Tukwila_45_2555266297_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TopLevel for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 20 Dec 2024 08:10:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297</link>
+            <guid isPermaLink="false">Tukwila_45_2555266297_UPDATE_1734682214000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: CPU Core for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 20 Dec 2024 09:08:14 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908</link>
+            <guid isPermaLink="false">Tukwila_45_2556574908_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Bulldozer_Module by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 20 Dec 2024 11:29:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module&amp;commentId=2507287748</link>
+            <guid isPermaLink="false">Bulldozer_Module_23_2507287748_UPDATE_1734694149000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU Core for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 20 Dec 2024 12:47:17 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908</link>
+            <guid isPermaLink="false">Tukwila_45_2556574908_UPDATE_1734698837000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for P54C by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 24 Dec 2024 15:58:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=P54C&amp;commentId=2514311633</link>
+            <guid isPermaLink="false">P54C_7_2514311633_UPDATE_1735055896000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 24 Dec 2024 16:28:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1735057695000</guid>
         </item>
 
     </channel>
