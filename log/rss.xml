@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 24 Dec 2024 16:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 13:56:29 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2902,6 +2902,27 @@
             <pubDate>Tue, 24 Dec 2024 16:28:15 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
             <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1735057695000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 30 Dec 2024 11:19:53 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1735557593000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Pascal_to_Blackwell]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 25 Jan 2025 13:54:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Pascal_to_Blackwell</link>
+            <guid isPermaLink="false">Pascal_to_Blackwell</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GB202]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 25 Jan 2025 13:56:29 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB202</link>
+            <guid isPermaLink="false">GB202</guid>
         </item>
 
     </channel>
