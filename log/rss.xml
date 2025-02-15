@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 25 Jan 2025 13:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 20:07:28 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2923,6 +2923,20 @@
             <pubDate>Sat, 25 Jan 2025 13:56:29 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB202</link>
             <guid isPermaLink="false">GB202</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TopLevel for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 06 Feb 2025 20:01:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297</link>
+            <guid isPermaLink="false">Tukwila_45_2555266297_UPDATE_1738872086000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU Core for Tukwila by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 06 Feb 2025 20:07:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908</link>
+            <guid isPermaLink="false">Tukwila_45_2556574908_UPDATE_1738872448000</guid>
         </item>
 
     </channel>
