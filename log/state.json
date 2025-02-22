@@ -398,6 +398,27 @@
       "comments": []
     },
     {
+      "name": "StrixHalo",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 15,
+      "insertTime": "Tue, 18 Feb 2025 14:43:41 GMT",
+      "comments": []
+    },
+    {
+      "name": "StrixHalo_CCD",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 13,
+      "insertTime": "Tue, 18 Feb 2025 14:42:00 GMT",
+      "comments": []
+    },
+    {
+      "name": "StrixHalo_IOD",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 14,
+      "insertTime": "Tue, 18 Feb 2025 14:43:05 GMT",
+      "comments": []
+    },
+    {
       "name": "StrixPoint",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 38,
@@ -2147,5 +2168,5 @@
       ]
     }
   ],
-  "time": "Thu, 06 Feb 2025 20:07:28 GMT"
+  "time": "Tue, 18 Feb 2025 14:43:41 GMT"
 }

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 06 Feb 2025 20:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 14:43:41 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2937,6 +2937,27 @@
             <pubDate>Thu, 06 Feb 2025 20:07:28 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908</link>
             <guid isPermaLink="false">Tukwila_45_2556574908_UPDATE_1738872448000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: StrixHalo_CCD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 18 Feb 2025 14:42:00 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_CCD</link>
+            <guid isPermaLink="false">StrixHalo_CCD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: StrixHalo_IOD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 18 Feb 2025 14:43:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_IOD</link>
+            <guid isPermaLink="false">StrixHalo_IOD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: StrixHalo]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 18 Feb 2025 14:43:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo</link>
+            <guid isPermaLink="false">StrixHalo</guid>
         </item>
 
     </channel>

@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 06 Feb 2025 20:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 14:43:41 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2024.07.28]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=2254352175'>Core Arch for Zen2_CCD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=2254352230'>Core Arch for Zen3_CCD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core&amp;commentId=2254362633'>Core Arch for Zen4_Core by misdake</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixPoint'>StrixPoint</a><br>]]></description>
-            <pubDate>Sun, 28 Jul 2024 13:51:55 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.07.28</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.07.30]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=2254352175'>Core Arch for Zen2_CCD by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=2257503792'>Core Arch for Zeppelin by misdake</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Thu, 06 Feb 2025 20:07:28 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.02.06</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.02.18]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_CCD'>StrixHalo_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_IOD'>StrixHalo_IOD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo'>StrixHalo</a><br>]]></description>
+            <pubDate>Tue, 18 Feb 2025 14:43:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.02.18</guid>
         </item>
 
     </channel>

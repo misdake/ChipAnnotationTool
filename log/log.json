@@ -5102,5 +5102,35 @@
     "logType": "COMMENT_UPDATE",
     "time": "Thu, 06 Feb 2025 20:07:28 GMT",
     "dateString": "2025.02.06"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "StrixHalo_CCD",
+    "githubRepo": "misdake/ChipAnnotationData9",
+    "githubIssueId": 13,
+    "insertTime": "Tue, 18 Feb 2025 14:42:00 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 18 Feb 2025 14:42:00 GMT",
+    "dateString": "2025.02.18"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "StrixHalo_IOD",
+    "githubRepo": "misdake/ChipAnnotationData9",
+    "githubIssueId": 14,
+    "insertTime": "Tue, 18 Feb 2025 14:43:05 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 18 Feb 2025 14:43:05 GMT",
+    "dateString": "2025.02.18"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "StrixHalo",
+    "githubRepo": "misdake/ChipAnnotationData9",
+    "githubIssueId": 15,
+    "insertTime": "Tue, 18 Feb 2025 14:43:41 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Tue, 18 Feb 2025 14:43:41 GMT",
+    "dateString": "2025.02.18"
   }
 ]

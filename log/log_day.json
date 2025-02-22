@@ -1,58 +1,4 @@
 {
-  "2024.07.28": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zen2_CCD",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 2,
-      "commentId": 2254352175,
-      "insertTime": "Sun, 28 Jul 2024 05:44:54 GMT",
-      "updateTime": "Tue, 30 Jul 2024 04:57:42 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 28 Jul 2024 05:44:54 GMT",
-      "dateString": "2024.07.28"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zen3_CCD",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData5",
-      "githubIssueId": 1,
-      "commentId": 2254352230,
-      "insertTime": "Sun, 28 Jul 2024 05:45:14 GMT",
-      "updateTime": "Fri, 02 Aug 2024 16:08:51 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 28 Jul 2024 05:45:14 GMT",
-      "dateString": "2024.07.28"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zen4_Core",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 10,
-      "commentId": 2254362633,
-      "insertTime": "Sun, 28 Jul 2024 06:33:09 GMT",
-      "updateTime": "Sun, 04 Aug 2024 14:15:22 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 28 Jul 2024 06:33:09 GMT",
-      "dateString": "2024.07.28"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "StrixPoint",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 38,
-      "insertTime": "Sun, 28 Jul 2024 13:51:55 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 28 Jul 2024 13:51:55 GMT",
-      "dateString": "2024.07.28"
-    }
-  ],
   "2024.07.30": [
     {
       "type": "COMMENT_UPDATE",
@@ -551,6 +497,38 @@
       "logType": "COMMENT_UPDATE",
       "time": "Thu, 06 Feb 2025 20:07:28 GMT",
       "dateString": "2025.02.06"
+    }
+  ],
+  "2025.02.18": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "StrixHalo_CCD",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 13,
+      "insertTime": "Tue, 18 Feb 2025 14:42:00 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 18 Feb 2025 14:42:00 GMT",
+      "dateString": "2025.02.18"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "StrixHalo_IOD",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 14,
+      "insertTime": "Tue, 18 Feb 2025 14:43:05 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 18 Feb 2025 14:43:05 GMT",
+      "dateString": "2025.02.18"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "StrixHalo",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 15,
+      "insertTime": "Tue, 18 Feb 2025 14:43:41 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Tue, 18 Feb 2025 14:43:41 GMT",
+      "dateString": "2025.02.18"
     }
   ]
 }
