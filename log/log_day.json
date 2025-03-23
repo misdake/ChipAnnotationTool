@@ -1,66 +1,4 @@
 {
-  "2024.07.30": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zen2_CCD",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 2,
-      "commentId": 2254352175,
-      "insertTime": "Sun, 28 Jul 2024 05:44:54 GMT",
-      "updateTime": "Tue, 30 Jul 2024 04:57:42 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 30 Jul 2024 04:57:42 GMT",
-      "dateString": "2024.07.30"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Zeppelin",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData2",
-      "githubIssueId": 5,
-      "commentId": 2257503792,
-      "insertTime": "Tue, 30 Jul 2024 05:36:58 GMT",
-      "updateTime": "Tue, 30 Jul 2024 05:36:58 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Tue, 30 Jul 2024 05:36:58 GMT",
-      "dateString": "2024.07.30"
-    }
-  ],
-  "2024.08.02": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zen3_CCD",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData5",
-      "githubIssueId": 1,
-      "commentId": 2254352230,
-      "insertTime": "Sun, 28 Jul 2024 05:45:14 GMT",
-      "updateTime": "Fri, 02 Aug 2024 16:08:51 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 02 Aug 2024 16:08:51 GMT",
-      "dateString": "2024.08.02"
-    }
-  ],
-  "2024.08.04": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Zen4_Core",
-      "title": "Core Arch",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData7",
-      "githubIssueId": 10,
-      "commentId": 2254362633,
-      "insertTime": "Sun, 28 Jul 2024 06:33:09 GMT",
-      "updateTime": "Sun, 04 Aug 2024 14:15:22 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 04 Aug 2024 14:15:22 GMT",
-      "dateString": "2024.08.04"
-    }
-  ],
   "2024.08.15": [
     {
       "type": "IMAGE_CREATE",
@@ -529,6 +467,96 @@
       "logType": "IMAGE_CREATE",
       "time": "Tue, 18 Feb 2025 14:43:41 GMT",
       "dateString": "2025.02.18"
+    }
+  ],
+  "2025.03.07": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Fri, 07 Mar 2025 11:02:15 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 07 Mar 2025 11:02:15 GMT",
+      "dateString": "2025.03.07"
+    }
+  ],
+  "2025.03.20": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "A18_Pro",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 6,
+      "commentId": 2740486672,
+      "insertTime": "Thu, 20 Mar 2025 13:37:19 GMT",
+      "updateTime": "Fri, 21 Mar 2025 09:21:06 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 20 Mar 2025 13:37:19 GMT",
+      "dateString": "2025.03.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "A18_Pro",
+      "title": "GPU Core",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 6,
+      "commentId": 2741237848,
+      "insertTime": "Thu, 20 Mar 2025 17:48:40 GMT",
+      "updateTime": "Fri, 21 Mar 2025 10:38:36 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 20 Mar 2025 17:48:40 GMT",
+      "dateString": "2025.03.20"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "A18_Pro",
+      "title": "CPU P-Core",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 6,
+      "commentId": 2741272886,
+      "insertTime": "Thu, 20 Mar 2025 18:03:42 GMT",
+      "updateTime": "Thu, 20 Mar 2025 18:33:10 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 20 Mar 2025 18:03:42 GMT",
+      "dateString": "2025.03.20"
+    }
+  ],
+  "2025.03.21": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "A18_Pro",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 6,
+      "commentId": 2740486672,
+      "insertTime": "Thu, 20 Mar 2025 13:37:19 GMT",
+      "updateTime": "Fri, 21 Mar 2025 09:21:06 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 21 Mar 2025 09:21:06 GMT",
+      "dateString": "2025.03.21"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "A18_Pro",
+      "title": "GPU Core",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 6,
+      "commentId": 2741237848,
+      "insertTime": "Thu, 20 Mar 2025 17:48:40 GMT",
+      "updateTime": "Fri, 21 Mar 2025 10:38:36 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Fri, 21 Mar 2025 10:38:36 GMT",
+      "dateString": "2025.03.21"
     }
   ]
 }

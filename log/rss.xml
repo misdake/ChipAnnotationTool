@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Tue, 18 Feb 2025 14:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 10:38:36 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -2958,6 +2958,55 @@
             <pubDate>Tue, 18 Feb 2025 14:43:41 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo</link>
             <guid isPermaLink="false">StrixHalo</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 07 Mar 2025 11:02:15 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1741345335000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 20 Mar 2025 13:37:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2740486672</link>
+            <guid isPermaLink="false">A18_Pro_6_2740486672_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPU Core for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 20 Mar 2025 17:48:40 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2741237848</link>
+            <guid isPermaLink="false">A18_Pro_6_2741237848_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: CPU P-Core for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 20 Mar 2025 18:03:42 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2741272886</link>
+            <guid isPermaLink="false">A18_Pro_6_2741272886_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: CPU P-Core for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 20 Mar 2025 18:33:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2741272886</link>
+            <guid isPermaLink="false">A18_Pro_6_2741272886_UPDATE_1742495590000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 21 Mar 2025 09:21:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2740486672</link>
+            <guid isPermaLink="false">A18_Pro_6_2740486672_UPDATE_1742548866000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: GPU Core for A18_Pro by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 21 Mar 2025 10:38:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2741237848</link>
+            <guid isPermaLink="false">A18_Pro_6_2741237848_UPDATE_1742553516000</guid>
         </item>
 
     </channel>
