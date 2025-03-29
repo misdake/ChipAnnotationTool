@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 21 Mar 2025 10:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 08:38:10 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3007,6 +3007,27 @@
             <pubDate>Fri, 21 Mar 2025 10:38:36 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro&amp;commentId=2741237848</link>
             <guid isPermaLink="false">A18_Pro_6_2741237848_UPDATE_1742553516000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for GV100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 28 Mar 2025 12:14:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2761191833</link>
+            <guid isPermaLink="false">GV100_42_2761191833_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for GV100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 28 Mar 2025 13:42:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2761191833</link>
+            <guid isPermaLink="false">GV100_42_2761191833_UPDATE_1743169361000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi21]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 29 Mar 2025 08:38:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21</link>
+            <guid isPermaLink="false">Navi21</guid>
         </item>
 
     </channel>
