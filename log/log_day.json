@@ -1,50 +1,4 @@
 {
-  "2024.09.14": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GV100",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 42,
-      "insertTime": "Sat, 14 Sep 2024 14:43:19 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 14 Sep 2024 14:43:19 GMT",
-      "dateString": "2024.09.14"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "MagnyCours_6C",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 43,
-      "insertTime": "Sat, 14 Sep 2024 14:44:34 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 14 Sep 2024 14:44:34 GMT",
-      "dateString": "2024.09.14"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Interlagos_4M",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 44,
-      "insertTime": "Sat, 14 Sep 2024 14:45:55 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 14 Sep 2024 14:45:55 GMT",
-      "dateString": "2024.09.14"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GV100",
-      "title": "GPC Blocks",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 42,
-      "commentId": 2351048950,
-      "insertTime": "Sat, 14 Sep 2024 16:18:04 GMT",
-      "updateTime": "Sat, 14 Sep 2024 16:25:26 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 14 Sep 2024 16:18:04 GMT",
-      "dateString": "2024.09.14"
-    }
-  ],
   "2024.09.16": [
     {
       "type": "IMAGE_CREATE",
@@ -541,6 +495,18 @@
       "logType": "COMMENT_INSERT",
       "time": "Fri, 28 Mar 2025 12:14:46 GMT",
       "dateString": "2025.03.28"
+    }
+  ],
+  "2025.03.29": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Navi21",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 16,
+      "insertTime": "Sat, 29 Mar 2025 08:38:10 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 29 Mar 2025 08:38:10 GMT",
+      "dateString": "2025.03.29"
     }
   ]
 }
