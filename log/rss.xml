@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 29 Mar 2025 08:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 21:49:21 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3028,6 +3028,20 @@
             <pubDate>Sat, 29 Mar 2025 08:38:10 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21</link>
             <guid isPermaLink="false">Navi21</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for Navi21 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 31 Mar 2025 12:42:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464</link>
+            <guid isPermaLink="false">Navi21_16_2766109464_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Navi21 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 31 Mar 2025 21:49:21 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464</link>
+            <guid isPermaLink="false">Navi21_16_2766109464_UPDATE_1743457761000</guid>
         </item>
 
     </channel>

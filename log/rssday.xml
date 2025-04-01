@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 29 Mar 2025 08:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 21:49:21 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2024.09.16]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila'>Tukwila</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Haswell_4%2B3e'>Haswell_4+3e</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=M2'>M2</a><br>]]></description>
-            <pubDate>Mon, 16 Sep 2024 14:51:44 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.09.16</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.10.07]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes'>Zen5_HiRes</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 29 Mar 2025 08:38:10 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.03.29</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.03.31]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464'>BlockLevel for Navi21 by IvanBGR</a><br>]]></description>
+            <pubDate>Mon, 31 Mar 2025 12:42:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.03.31</guid>
         </item>
 
     </channel>
