@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 31 Mar 2025 21:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 01:37:48 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3042,6 +3042,20 @@
             <pubDate>Mon, 31 Mar 2025 21:49:21 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464</link>
             <guid isPermaLink="false">Navi21_16_2766109464_UPDATE_1743457761000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Rembrandt]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 19 Apr 2025 01:34:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Rembrandt</link>
+            <guid isPermaLink="false">Rembrandt</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Lakefield]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 19 Apr 2025 01:37:48 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Lakefield</link>
+            <guid isPermaLink="false">Lakefield</guid>
         </item>
 
     </channel>

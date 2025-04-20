@@ -1,16 +1,4 @@
 {
-  "2024.10.07": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Zen5_HiRes",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 1,
-      "insertTime": "Mon, 07 Oct 2024 12:37:26 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Mon, 07 Oct 2024 12:37:26 GMT",
-      "dateString": "2024.10.07"
-    }
-  ],
   "2024.10.17": [
     {
       "type": "IMAGE_CREATE",
@@ -491,6 +479,28 @@
       "logType": "COMMENT_INSERT",
       "time": "Mon, 31 Mar 2025 12:42:09 GMT",
       "dateString": "2025.03.31"
+    }
+  ],
+  "2025.04.19": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Rembrandt",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 17,
+      "insertTime": "Sat, 19 Apr 2025 01:34:37 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 19 Apr 2025 01:34:37 GMT",
+      "dateString": "2025.04.19"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Lakefield",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 18,
+      "insertTime": "Sat, 19 Apr 2025 01:37:48 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 19 Apr 2025 01:37:48 GMT",
+      "dateString": "2025.04.19"
     }
   ]
 }

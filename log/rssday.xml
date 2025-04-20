@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 31 Mar 2025 21:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 01:37:48 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2024.10.07]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes'>Zen5_HiRes</a><br>]]></description>
-            <pubDate>Mon, 07 Oct 2024 12:37:26 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.10.07</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.10.17]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_IO'>LunarLake_IO</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Compute'>LunarLake_Compute</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Base'>LunarLake_Base</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_Vejle'>Xenos_Vejle</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro'>A18_Pro</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Mon, 31 Mar 2025 12:42:09 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.03.31</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.04.19]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Rembrandt'>Rembrandt</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Lakefield'>Lakefield</a><br>]]></description>
+            <pubDate>Sat, 19 Apr 2025 01:37:48 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.04.19</guid>
         </item>
 
     </channel>
