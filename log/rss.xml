@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 19 Apr 2025 01:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 09:33:18 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3056,6 +3056,20 @@
             <pubDate>Sat, 19 Apr 2025 01:37:48 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Lakefield</link>
             <guid isPermaLink="false">Lakefield</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: SMX for GK104 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 26 Apr 2025 12:39:25 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=2832125080</link>
+            <guid isPermaLink="false">GK104_20_2832125080_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: SMX for GK104 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 27 Apr 2025 09:33:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=2832125080</link>
+            <guid isPermaLink="false">GK104_20_2832125080_UPDATE_1745746398000</guid>
         </item>
 
     </channel>

@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 19 Apr 2025 01:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 09:33:18 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2024.10.17]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_IO'>LunarLake_IO</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Compute'>LunarLake_Compute</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_Base'>LunarLake_Base</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Xenos_Vejle'>Xenos_Vejle</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=A18_Pro'>A18_Pro</a><br>]]></description>
-            <pubDate>Thu, 17 Oct 2024 13:27:40 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.10.17</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2024.10.20]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=IceLake_4c'>IceLake_4c</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=TigerLake_8c'>TigerLake_8c</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_IO_UP4'>MeteorLake_IO_UP4</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=MeteorLake_GPU_UP4'>MeteorLake_GPU_UP4</a><br>]]></description>
-            <pubDate>Sun, 20 Oct 2024 08:43:33 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.10.20</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.11.18]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295'>BlockLevel for Coppermine by IvanBGR</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Sat, 19 Apr 2025 01:37:48 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.04.19</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.04.26]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=2832125080'>SMX for GK104 by IvanBGR</a><br>]]></description>
+            <pubDate>Sat, 26 Apr 2025 12:39:25 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.04.26</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.04.27]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=2832125080'>SMX for GK104 by IvanBGR</a><br>]]></description>
+            <pubDate>Sun, 27 Apr 2025 09:33:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.04.27</guid>
         </item>
 
     </channel>

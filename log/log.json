@@ -5316,5 +5316,33 @@
     "logType": "IMAGE_CREATE",
     "time": "Sat, 19 Apr 2025 01:37:48 GMT",
     "dateString": "2025.04.19"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "GK104",
+    "title": "SMX",
+    "username": "IvanBGR",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 20,
+    "commentId": 2832125080,
+    "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
+    "updateTime": "Sun, 27 Apr 2025 09:33:18 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Sat, 26 Apr 2025 12:39:25 GMT",
+    "dateString": "2025.04.26"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "GK104",
+    "title": "SMX",
+    "username": "IvanBGR",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 20,
+    "commentId": 2832125080,
+    "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
+    "updateTime": "Sun, 27 Apr 2025 09:33:18 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Sun, 27 Apr 2025 09:33:18 GMT",
+    "dateString": "2025.04.27"
   }
 ]
