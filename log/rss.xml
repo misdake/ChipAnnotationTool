@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 27 Apr 2025 09:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 14:54:16 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3070,6 +3070,41 @@
             <pubDate>Sun, 27 Apr 2025 09:33:18 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GK104&amp;commentId=2832125080</link>
             <guid isPermaLink="false">GK104_20_2832125080_UPDATE_1745746398000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Navi21 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 01 May 2025 22:28:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464</link>
+            <guid isPermaLink="false">Navi21_16_2766109464_UPDATE_1746138487000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: WGP for Navi21 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 03 May 2025 16:51:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2848709549</link>
+            <guid isPermaLink="false">Navi21_16_2848709549_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: WGP for Navi21 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 May 2025 09:40:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2848709549</link>
+            <guid isPermaLink="false">Navi21_16_2848709549_UPDATE_1746351637000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kongming]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 10 May 2025 14:52:57 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kongming</link>
+            <guid isPermaLink="false">Kongming</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GA107]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 10 May 2025 14:54:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA107</link>
+            <guid isPermaLink="false">GA107</guid>
         </item>
 
     </channel>

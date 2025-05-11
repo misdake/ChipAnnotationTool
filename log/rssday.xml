@@ -9,37 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 27 Apr 2025 09:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 14:54:16 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2024.11.18]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295'>BlockLevel for Coppermine by IvanBGR</a><br>]]></description>
-            <pubDate>Mon, 18 Nov 2024 20:07:57 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.11.18</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2024.11.29]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Bulldozer_Module&amp;commentId=2507287748'>BlockLevel for Bulldozer_Module by IvanBGR</a><br>]]></description>
-            <pubDate>Fri, 29 Nov 2024 08:10:49 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.11.29</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2024.12.03]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=P54C&amp;commentId=2514311633'>BlockLevel for P54C by IvanBGR</a><br>]]></description>
-            <pubDate>Tue, 03 Dec 2024 11:37:41 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.12.03</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2024.12.17]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Llano&amp;commentId=2547926706'>CPU Core for Llano by IvanBGR</a><br>]]></description>
-            <pubDate>Tue, 17 Dec 2024 09:28:33 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2024.12.17</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2024.12.19]]></title>
             <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297'>TopLevel for Tukwila by IvanBGR</a><br>]]></description>
@@ -151,6 +123,34 @@
             <pubDate>Sun, 27 Apr 2025 09:33:18 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.04.27</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.05.01]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2766109464'>BlockLevel for Navi21 by IvanBGR</a><br>]]></description>
+            <pubDate>Thu, 01 May 2025 22:28:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.05.01</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.05.03]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2848709549'>WGP for Navi21 by IvanBGR</a><br>]]></description>
+            <pubDate>Sat, 03 May 2025 16:51:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.05.03</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.05.04]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Navi21&amp;commentId=2848709549'>WGP for Navi21 by IvanBGR</a><br>]]></description>
+            <pubDate>Sun, 04 May 2025 09:40:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.05.04</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.05.10]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kongming'>Kongming</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA107'>GA107</a><br>]]></description>
+            <pubDate>Sat, 10 May 2025 14:54:16 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.05.10</guid>
         </item>
 
     </channel>
