@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 10 May 2025 14:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 13:10:28 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3105,6 +3105,27 @@
             <pubDate>Sat, 10 May 2025 14:54:16 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA107</link>
             <guid isPermaLink="false">GA107</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 17 May 2025 08:07:49 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1747469269000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: ArrowLake_HiRes]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 17 May 2025 13:07:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=ArrowLake_HiRes</link>
+            <guid isPermaLink="false">ArrowLake_HiRes</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: LunarLake_HiRes]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 17 May 2025 13:10:28 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_HiRes</link>
+            <guid isPermaLink="false">LunarLake_HiRes</guid>
         </item>
 
     </channel>

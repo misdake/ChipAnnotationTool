@@ -1,20 +1,4 @@
 {
-  "2024.12.19": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Tukwila",
-      "title": "TopLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 45,
-      "commentId": 2555266297,
-      "insertTime": "Thu, 19 Dec 2024 17:26:44 GMT",
-      "updateTime": "Fri, 20 Dec 2024 08:10:14 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Thu, 19 Dec 2024 17:26:44 GMT",
-      "dateString": "2024.12.19"
-    }
-  ],
   "2024.12.20": [
     {
       "type": "COMMENT_UPDATE",
@@ -445,6 +429,42 @@
       "logType": "IMAGE_CREATE",
       "time": "Sat, 10 May 2025 14:54:16 GMT",
       "dateString": "2025.05.10"
+    }
+  ],
+  "2025.05.17": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Sat, 17 May 2025 08:07:49 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 17 May 2025 08:07:49 GMT",
+      "dateString": "2025.05.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "ArrowLake_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 3,
+      "insertTime": "Sat, 17 May 2025 13:07:58 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 17 May 2025 13:07:58 GMT",
+      "dateString": "2025.05.17"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "LunarLake_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 4,
+      "insertTime": "Sat, 17 May 2025 13:10:28 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 17 May 2025 13:10:28 GMT",
+      "dateString": "2025.05.17"
     }
   ]
 }

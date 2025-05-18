@@ -1077,6 +1077,13 @@
       "comments": []
     },
     {
+      "name": "ArrowLake_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 3,
+      "insertTime": "Sat, 17 May 2025 13:07:58 GMT",
+      "comments": []
+    },
+    {
       "name": "BayTrail",
       "githubRepo": "misdake/ChipAnnotationData7",
       "githubIssueId": 11,
@@ -1220,6 +1227,13 @@
       "comments": []
     },
     {
+      "name": "LunarLake_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 4,
+      "insertTime": "Sat, 17 May 2025 13:10:28 GMT",
+      "comments": []
+    },
+    {
       "name": "LunarLake_IO",
       "githubRepo": "misdake/ChipAnnotationData9",
       "githubIssueId": 2,
@@ -1301,7 +1315,7 @@
           "username": "IvanBGR",
           "commentId": 2484013295,
           "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
-          "updateTime": "Fri, 07 Mar 2025 11:02:15 GMT"
+          "updateTime": "Sat, 17 May 2025 08:07:49 GMT"
         }
       ]
     },
@@ -2254,5 +2268,5 @@
       ]
     }
   ],
-  "time": "Sat, 10 May 2025 14:54:16 GMT"
+  "time": "Sat, 17 May 2025 13:10:28 GMT"
 }
