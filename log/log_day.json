@@ -1,48 +1,4 @@
 {
-  "2024.12.20": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Tukwila",
-      "title": "TopLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 45,
-      "commentId": 2555266297,
-      "insertTime": "Thu, 19 Dec 2024 17:26:44 GMT",
-      "updateTime": "Fri, 20 Dec 2024 08:10:14 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 20 Dec 2024 08:10:14 GMT",
-      "dateString": "2024.12.20"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Tukwila",
-      "title": "CPU Core",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 45,
-      "commentId": 2556574908,
-      "insertTime": "Fri, 20 Dec 2024 09:08:14 GMT",
-      "updateTime": "Fri, 20 Dec 2024 12:47:17 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 20 Dec 2024 09:08:14 GMT",
-      "dateString": "2024.12.20"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Bulldozer_Module",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 23,
-      "commentId": 2507287748,
-      "insertTime": "Fri, 29 Nov 2024 08:10:49 GMT",
-      "updateTime": "Fri, 20 Dec 2024 11:29:09 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 20 Dec 2024 11:29:09 GMT",
-      "dateString": "2024.12.20"
-    }
-  ],
   "2024.12.24": [
     {
       "type": "COMMENT_UPDATE",
@@ -465,6 +421,28 @@
       "logType": "IMAGE_CREATE",
       "time": "Sat, 17 May 2025 13:10:28 GMT",
       "dateString": "2025.05.17"
+    }
+  ],
+  "2025.05.18": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "AD103",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 5,
+      "insertTime": "Sun, 18 May 2025 12:13:05 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 18 May 2025 12:13:05 GMT",
+      "dateString": "2025.05.18"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GB203",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 6,
+      "insertTime": "Sun, 18 May 2025 12:14:33 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 18 May 2025 12:14:33 GMT",
+      "dateString": "2025.05.18"
     }
   ]
 }

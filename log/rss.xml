@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 17 May 2025 13:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 12:14:33 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3126,6 +3126,20 @@
             <pubDate>Sat, 17 May 2025 13:10:28 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_HiRes</link>
             <guid isPermaLink="false">LunarLake_HiRes</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: AD103]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 18 May 2025 12:13:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=AD103</link>
+            <guid isPermaLink="false">AD103</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GB203]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 18 May 2025 12:14:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB203</link>
+            <guid isPermaLink="false">GB203</guid>
         </item>
 
     </channel>
