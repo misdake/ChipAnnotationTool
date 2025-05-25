@@ -1469,6 +1469,20 @@
       "comments": []
     },
     {
+      "name": "DG1",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 8,
+      "insertTime": "Sat, 24 May 2025 00:56:32 GMT",
+      "comments": []
+    },
+    {
+      "name": "DG2-128",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 7,
+      "insertTime": "Sat, 24 May 2025 00:55:08 GMT",
+      "comments": []
+    },
+    {
       "name": "Knights_Ferry",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 11,
@@ -2282,5 +2296,5 @@
       ]
     }
   ],
-  "time": "Sun, 18 May 2025 12:14:33 GMT"
+  "time": "Sat, 24 May 2025 00:56:32 GMT"
 }

@@ -5460,5 +5460,25 @@
     "logType": "IMAGE_CREATE",
     "time": "Sun, 18 May 2025 12:14:33 GMT",
     "dateString": "2025.05.18"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "DG2-128",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 7,
+    "insertTime": "Sat, 24 May 2025 00:55:08 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 24 May 2025 00:55:08 GMT",
+    "dateString": "2025.05.24"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "DG1",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 8,
+    "insertTime": "Sat, 24 May 2025 00:56:32 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sat, 24 May 2025 00:56:32 GMT",
+    "dateString": "2025.05.24"
   }
 ]

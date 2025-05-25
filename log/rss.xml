@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 18 May 2025 12:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 00:56:32 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3140,6 +3140,20 @@
             <pubDate>Sun, 18 May 2025 12:14:33 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB203</link>
             <guid isPermaLink="false">GB203</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: DG2-128]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 24 May 2025 00:55:08 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=DG2-128</link>
+            <guid isPermaLink="false">DG2-128</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: DG1]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 24 May 2025 00:56:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=DG1</link>
+            <guid isPermaLink="false">DG1</guid>
         </item>
 
     </channel>

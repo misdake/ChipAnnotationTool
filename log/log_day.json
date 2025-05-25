@@ -1,34 +1,4 @@
 {
-  "2024.12.24": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "P54C",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 7,
-      "commentId": 2514311633,
-      "insertTime": "Tue, 03 Dec 2024 11:37:41 GMT",
-      "updateTime": "Tue, 24 Dec 2024 15:58:16 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 24 Dec 2024 15:58:16 GMT",
-      "dateString": "2024.12.24"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Coppermine",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 6,
-      "commentId": 2484013295,
-      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
-      "updateTime": "Tue, 24 Dec 2024 16:28:15 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 24 Dec 2024 16:28:15 GMT",
-      "dateString": "2024.12.24"
-    }
-  ],
   "2024.12.30": [
     {
       "type": "COMMENT_UPDATE",
@@ -443,6 +413,28 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 18 May 2025 12:14:33 GMT",
       "dateString": "2025.05.18"
+    }
+  ],
+  "2025.05.24": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "DG2-128",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 7,
+      "insertTime": "Sat, 24 May 2025 00:55:08 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 24 May 2025 00:55:08 GMT",
+      "dateString": "2025.05.24"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "DG1",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 8,
+      "insertTime": "Sat, 24 May 2025 00:56:32 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 24 May 2025 00:56:32 GMT",
+      "dateString": "2025.05.24"
     }
   ]
 }
