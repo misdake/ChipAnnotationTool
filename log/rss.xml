@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 31 May 2025 15:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 16:28:37 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3161,6 +3161,55 @@
             <pubDate>Sat, 31 May 2025 15:57:54 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2761191833</link>
             <guid isPermaLink="false">GV100_42_2761191833_UPDATE_1748707074000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Kabini]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 10:50:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabini</link>
+            <guid isPermaLink="false">Kabini</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Tonga]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 10:52:56 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tonga</link>
+            <guid isPermaLink="false">Tonga</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: UVD VCE  for Kabini by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 13:18:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabini&amp;commentId=3065383978</link>
+            <guid isPermaLink="false">Kabini_9_3065383978_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: UVD VCE  for Kabini by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 13:19:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Kabini&amp;commentId=3065383978</link>
+            <guid isPermaLink="false">Kabini_9_3065383978_UPDATE_1752326376000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Top level for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 14:29:09 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453</link>
+            <guid isPermaLink="false">Fiji_1_453737453_UPDATE_1752330549000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with Fiji for Tonga by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 16:28:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Tonga&amp;commentId=3065834592</link>
+            <guid isPermaLink="false">Tonga_10_3065834592_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Compare with Tonga for Fiji by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 12 Jul 2025 16:28:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=3065834685</link>
+            <guid isPermaLink="false">Fiji_1_3065834685_INSERT</guid>
         </item>
 
     </channel>
