@@ -5584,5 +5584,25 @@
     "logType": "COMMENT_INSERT",
     "time": "Sat, 12 Jul 2025 16:28:37 GMT",
     "dateString": "2025.07.12"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "XboxSeriesX_2",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 11,
+    "insertTime": "Sun, 13 Jul 2025 14:58:38 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sun, 13 Jul 2025 14:58:38 GMT",
+    "dateString": "2025.07.13"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "XboxSeriesS",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 12,
+    "insertTime": "Sun, 13 Jul 2025 14:59:47 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Sun, 13 Jul 2025 14:59:47 GMT",
+    "dateString": "2025.07.13"
   }
 ]

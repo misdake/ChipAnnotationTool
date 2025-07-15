@@ -1,34 +1,4 @@
 {
-  "2025.02.06": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Tukwila",
-      "title": "TopLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 45,
-      "commentId": 2555266297,
-      "insertTime": "Thu, 19 Dec 2024 17:26:44 GMT",
-      "updateTime": "Thu, 06 Feb 2025 20:01:26 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Thu, 06 Feb 2025 20:01:26 GMT",
-      "dateString": "2025.02.06"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Tukwila",
-      "title": "CPU Core",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 45,
-      "commentId": 2556574908,
-      "insertTime": "Fri, 20 Dec 2024 09:08:14 GMT",
-      "updateTime": "Thu, 06 Feb 2025 20:07:28 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Thu, 06 Feb 2025 20:07:28 GMT",
-      "dateString": "2025.02.06"
-    }
-  ],
   "2025.02.18": [
     {
       "type": "IMAGE_CREATE",
@@ -491,6 +461,28 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 12 Jul 2025 16:28:37 GMT",
       "dateString": "2025.07.12"
+    }
+  ],
+  "2025.07.13": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "XboxSeriesX_2",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 11,
+      "insertTime": "Sun, 13 Jul 2025 14:58:38 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 13 Jul 2025 14:58:38 GMT",
+      "dateString": "2025.07.13"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "XboxSeriesS",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 12,
+      "insertTime": "Sun, 13 Jul 2025 14:59:47 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sun, 13 Jul 2025 14:59:47 GMT",
+      "dateString": "2025.07.13"
     }
   ]
 }

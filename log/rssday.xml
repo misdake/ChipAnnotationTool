@@ -9,16 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 12 Jul 2025 16:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 14:59:47 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2025.02.06]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2555266297'>TopLevel for Tukwila by IvanBGR</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tukwila&amp;commentId=2556574908'>CPU Core for Tukwila by IvanBGR</a><br>]]></description>
-            <pubDate>Thu, 06 Feb 2025 20:07:28 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.02.06</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2025.02.18]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_CCD'>StrixHalo_CCD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo_IOD'>StrixHalo_IOD</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=StrixHalo'>StrixHalo</a><br>]]></description>
@@ -151,6 +144,13 @@
             <pubDate>Sat, 12 Jul 2025 16:28:37 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2025.07.12</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2025.07.13]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=XboxSeriesX_2'>XboxSeriesX_2</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=XboxSeriesS'>XboxSeriesS</a><br>]]></description>
+            <pubDate>Sun, 13 Jul 2025 14:59:47 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2025.07.13</guid>
         </item>
 
     </channel>

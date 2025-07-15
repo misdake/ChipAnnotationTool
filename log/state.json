@@ -1636,6 +1636,20 @@
       ]
     },
     {
+      "name": "XboxSeriesS",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 12,
+      "insertTime": "Sun, 13 Jul 2025 14:59:47 GMT",
+      "comments": []
+    },
+    {
+      "name": "XboxSeriesX_2",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 11,
+      "insertTime": "Sun, 13 Jul 2025 14:58:38 GMT",
+      "comments": []
+    },
+    {
       "name": "Pascal_to_Blackwell",
       "githubRepo": "misdake/ChipAnnotationData9",
       "githubIssueId": 11,
@@ -2333,5 +2347,5 @@
       ]
     }
   ],
-  "time": "Sat, 12 Jul 2025 16:28:37 GMT"
+  "time": "Sun, 13 Jul 2025 14:59:47 GMT"
 }
