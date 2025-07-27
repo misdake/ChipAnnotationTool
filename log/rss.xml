@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 13 Jul 2025 14:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 14:35:26 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3224,6 +3224,13 @@
             <pubDate>Sun, 13 Jul 2025 14:59:47 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=XboxSeriesS</link>
             <guid isPermaLink="false">XboxSeriesS</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Turin_IOD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 23 Jul 2025 14:35:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Turin_IOD</link>
+            <guid isPermaLink="false">Turin_IOD</guid>
         </item>
 
     </channel>

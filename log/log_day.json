@@ -1,36 +1,4 @@
 {
-  "2025.02.18": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "StrixHalo_CCD",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 13,
-      "insertTime": "Tue, 18 Feb 2025 14:42:00 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 18 Feb 2025 14:42:00 GMT",
-      "dateString": "2025.02.18"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "StrixHalo_IOD",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 14,
-      "insertTime": "Tue, 18 Feb 2025 14:43:05 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 18 Feb 2025 14:43:05 GMT",
-      "dateString": "2025.02.18"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "StrixHalo",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 15,
-      "insertTime": "Tue, 18 Feb 2025 14:43:41 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 18 Feb 2025 14:43:41 GMT",
-      "dateString": "2025.02.18"
-    }
-  ],
   "2025.03.07": [
     {
       "type": "COMMENT_UPDATE",
@@ -483,6 +451,18 @@
       "logType": "IMAGE_CREATE",
       "time": "Sun, 13 Jul 2025 14:59:47 GMT",
       "dateString": "2025.07.13"
+    }
+  ],
+  "2025.07.23": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Turin_IOD",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 13,
+      "insertTime": "Wed, 23 Jul 2025 14:35:26 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Wed, 23 Jul 2025 14:35:26 GMT",
+      "dateString": "2025.07.23"
     }
   ]
 }
