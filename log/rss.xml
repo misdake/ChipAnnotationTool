@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 23 Jul 2025 14:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 17:08:37 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3231,6 +3231,27 @@
             <pubDate>Wed, 23 Jul 2025 14:35:26 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Turin_IOD</link>
             <guid isPermaLink="false">Turin_IOD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Polaris23]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 20 Aug 2025 17:02:33 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Polaris23</link>
+            <guid isPermaLink="false">Polaris23</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: AD107]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 20 Aug 2025 17:05:03 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=AD107</link>
+            <guid isPermaLink="false">AD107</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Genoa_IOD]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 20 Aug 2025 17:08:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Genoa_IOD</link>
+            <guid isPermaLink="false">Genoa_IOD</guid>
         </item>
 
     </channel>

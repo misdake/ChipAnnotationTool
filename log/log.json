@@ -5614,5 +5614,35 @@
     "logType": "IMAGE_CREATE",
     "time": "Wed, 23 Jul 2025 14:35:26 GMT",
     "dateString": "2025.07.23"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Polaris23",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 14,
+    "insertTime": "Wed, 20 Aug 2025 17:02:33 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 20 Aug 2025 17:02:33 GMT",
+    "dateString": "2025.08.20"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "AD107",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 15,
+    "insertTime": "Wed, 20 Aug 2025 17:05:03 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 20 Aug 2025 17:05:03 GMT",
+    "dateString": "2025.08.20"
+  },
+  {
+    "type": "IMAGE_CREATE",
+    "name": "Genoa_IOD",
+    "githubRepo": "misdake/ChipAnnotationData10",
+    "githubIssueId": 16,
+    "insertTime": "Wed, 20 Aug 2025 17:08:37 GMT",
+    "logType": "IMAGE_CREATE",
+    "time": "Wed, 20 Aug 2025 17:08:37 GMT",
+    "dateString": "2025.08.20"
   }
 ]

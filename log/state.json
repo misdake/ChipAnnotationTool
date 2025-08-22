@@ -356,6 +356,13 @@
       "comments": []
     },
     {
+      "name": "Genoa_IOD",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 16,
+      "insertTime": "Wed, 20 Aug 2025 17:08:37 GMT",
+      "comments": []
+    },
+    {
       "name": "Raphael_IOD",
       "githubRepo": "misdake/ChipAnnotationData7",
       "githubIssueId": 8,
@@ -770,6 +777,13 @@
           "updateTime": "Fri, 18 Oct 2019 04:04:39 GMT"
         }
       ]
+    },
+    {
+      "name": "Polaris23",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 14,
+      "insertTime": "Wed, 20 Aug 2025 17:02:33 GMT",
+      "comments": []
     },
     {
       "name": "Vega10",
@@ -1685,6 +1699,13 @@
       "comments": []
     },
     {
+      "name": "AD107",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 15,
+      "insertTime": "Wed, 20 Aug 2025 17:05:03 GMT",
+      "comments": []
+    },
+    {
       "name": "GA102",
       "githubRepo": "misdake/ChipAnnotationData5",
       "githubIssueId": 2,
@@ -2354,5 +2375,5 @@
       ]
     }
   ],
-  "time": "Wed, 23 Jul 2025 14:35:26 GMT"
+  "time": "Wed, 20 Aug 2025 17:08:37 GMT"
 }
