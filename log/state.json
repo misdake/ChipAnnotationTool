@@ -306,6 +306,13 @@
       "comments": []
     },
     {
+      "name": "Mendocino",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 20,
+      "insertTime": "Tue, 09 Sep 2025 13:28:10 GMT",
+      "comments": []
+    },
+    {
       "name": "VanGogh",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 26,
@@ -2260,10 +2267,31 @@
       ]
     },
     {
+      "name": "NVSwitch",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 18,
+      "insertTime": "Tue, 09 Sep 2025 13:20:05 GMT",
+      "comments": []
+    },
+    {
+      "name": "Orin",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 19,
+      "insertTime": "Tue, 09 Sep 2025 13:21:36 GMT",
+      "comments": []
+    },
+    {
       "name": "TegraX1",
       "githubRepo": "misdake/ChipAnnotationData6",
       "githubIssueId": 14,
       "insertTime": "Fri, 28 Jan 2022 15:02:08 GMT",
+      "comments": []
+    },
+    {
+      "name": "Thor",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 17,
+      "insertTime": "Tue, 09 Sep 2025 13:18:17 GMT",
       "comments": []
     },
     {
@@ -2375,5 +2403,5 @@
       ]
     }
   ],
-  "time": "Wed, 20 Aug 2025 17:08:37 GMT"
+  "time": "Tue, 09 Sep 2025 13:28:10 GMT"
 }

@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 20 Aug 2025 17:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 13:28:10 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3252,6 +3252,34 @@
             <pubDate>Wed, 20 Aug 2025 17:08:37 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Genoa_IOD</link>
             <guid isPermaLink="false">Genoa_IOD</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Thor]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 09 Sep 2025 13:18:17 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Thor</link>
+            <guid isPermaLink="false">Thor</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: NVSwitch]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 09 Sep 2025 13:20:05 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=NVSwitch</link>
+            <guid isPermaLink="false">NVSwitch</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Orin]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 09 Sep 2025 13:21:36 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Orin</link>
+            <guid isPermaLink="false">Orin</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Mendocino]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 09 Sep 2025 13:28:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Mendocino</link>
+            <guid isPermaLink="false">Mendocino</guid>
         </item>
 
     </channel>
