@@ -985,7 +985,7 @@
           "username": "IvanBGR",
           "commentId": 2848709549,
           "insertTime": "Sat, 03 May 2025 16:51:41 GMT",
-          "updateTime": "Sun, 04 May 2025 09:40:37 GMT"
+          "updateTime": "Sat, 10 Jan 2026 11:07:51 GMT"
         }
       ]
     },
@@ -1710,7 +1710,15 @@
       "githubRepo": "misdake/ChipAnnotationData10",
       "githubIssueId": 15,
       "insertTime": "Wed, 20 Aug 2025 17:05:03 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "TPC",
+          "username": "IvanBGR",
+          "commentId": 3508283375,
+          "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
+          "updateTime": "Mon, 10 Nov 2025 16:39:42 GMT"
+        }
+      ]
     },
     {
       "name": "GA102",
@@ -1775,7 +1783,15 @@
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 35,
       "insertTime": "Fri, 26 Apr 2019 00:56:19 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "TopLevel",
+          "username": "IvanBGR",
+          "commentId": 3538677469,
+          "insertTime": "Sun, 16 Nov 2025 12:04:34 GMT",
+          "updateTime": "Sun, 16 Nov 2025 16:14:50 GMT"
+        }
+      ]
     },
     {
       "name": "G72",
@@ -1897,7 +1913,7 @@
           "username": "IvanBGR",
           "commentId": 2832125080,
           "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
-          "updateTime": "Sun, 27 Apr 2025 09:33:18 GMT"
+          "updateTime": "Tue, 11 Nov 2025 08:24:27 GMT"
         }
       ]
     },
@@ -2262,7 +2278,7 @@
           "username": "IvanBGR",
           "commentId": 2761191833,
           "insertTime": "Fri, 28 Mar 2025 12:14:46 GMT",
-          "updateTime": "Sat, 31 May 2025 15:57:54 GMT"
+          "updateTime": "Wed, 19 Nov 2025 17:47:09 GMT"
         }
       ]
     },
@@ -2292,7 +2308,15 @@
       "githubRepo": "misdake/ChipAnnotationData10",
       "githubIssueId": 17,
       "insertTime": "Tue, 09 Sep 2025 13:18:17 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "BlockLevel",
+          "username": "IvanBGR",
+          "commentId": 3965006028,
+          "insertTime": "Thu, 26 Feb 2026 08:37:50 GMT",
+          "updateTime": "Thu, 26 Feb 2026 08:37:50 GMT"
+        }
+      ]
     },
     {
       "name": "Snapdragon820",
@@ -2403,5 +2427,5 @@
       ]
     }
   ],
-  "time": "Tue, 09 Sep 2025 13:28:10 GMT"
+  "time": "Thu, 26 Feb 2026 08:37:50 GMT"
 }

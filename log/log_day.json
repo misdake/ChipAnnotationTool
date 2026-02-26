@@ -1,116 +1,4 @@
 {
-  "2025.03.21": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "A18_Pro",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 6,
-      "commentId": 2740486672,
-      "insertTime": "Thu, 20 Mar 2025 13:37:19 GMT",
-      "updateTime": "Fri, 21 Mar 2025 09:21:06 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 21 Mar 2025 09:21:06 GMT",
-      "dateString": "2025.03.21"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "A18_Pro",
-      "title": "GPU Core",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 6,
-      "commentId": 2741237848,
-      "insertTime": "Thu, 20 Mar 2025 17:48:40 GMT",
-      "updateTime": "Fri, 21 Mar 2025 10:38:36 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Fri, 21 Mar 2025 10:38:36 GMT",
-      "dateString": "2025.03.21"
-    }
-  ],
-  "2025.03.28": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GV100",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 42,
-      "commentId": 2761191833,
-      "insertTime": "Fri, 28 Mar 2025 12:14:46 GMT",
-      "updateTime": "Fri, 28 Mar 2025 13:42:41 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Fri, 28 Mar 2025 12:14:46 GMT",
-      "dateString": "2025.03.28"
-    }
-  ],
-  "2025.03.29": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Navi21",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 16,
-      "insertTime": "Sat, 29 Mar 2025 08:38:10 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 29 Mar 2025 08:38:10 GMT",
-      "dateString": "2025.03.29"
-    }
-  ],
-  "2025.03.31": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Navi21",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 16,
-      "commentId": 2766109464,
-      "insertTime": "Mon, 31 Mar 2025 12:42:09 GMT",
-      "updateTime": "Mon, 31 Mar 2025 21:49:21 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Mon, 31 Mar 2025 12:42:09 GMT",
-      "dateString": "2025.03.31"
-    }
-  ],
-  "2025.04.19": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Rembrandt",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 17,
-      "insertTime": "Sat, 19 Apr 2025 01:34:37 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 19 Apr 2025 01:34:37 GMT",
-      "dateString": "2025.04.19"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Lakefield",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 18,
-      "insertTime": "Sat, 19 Apr 2025 01:37:48 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 19 Apr 2025 01:37:48 GMT",
-      "dateString": "2025.04.19"
-    }
-  ],
-  "2025.04.26": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "GK104",
-      "title": "SMX",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 20,
-      "commentId": 2832125080,
-      "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
-      "updateTime": "Sun, 27 Apr 2025 09:33:18 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 26 Apr 2025 12:39:25 GMT",
-      "dateString": "2025.04.26"
-    }
-  ],
   "2025.04.27": [
     {
       "type": "COMMENT_UPDATE",
@@ -477,6 +365,102 @@
       "logType": "IMAGE_CREATE",
       "time": "Tue, 09 Sep 2025 13:28:10 GMT",
       "dateString": "2025.09.09"
+    }
+  ],
+  "2025.11.09": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "AD107",
+      "title": "TPC",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 15,
+      "commentId": 3508283375,
+      "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
+      "updateTime": "Mon, 10 Nov 2025 16:39:42 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 09 Nov 2025 13:02:57 GMT",
+      "dateString": "2025.11.09"
+    }
+  ],
+  "2025.11.10": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "AD107",
+      "title": "TPC",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 15,
+      "commentId": 3508283375,
+      "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
+      "updateTime": "Mon, 10 Nov 2025 16:39:42 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Mon, 10 Nov 2025 16:39:42 GMT",
+      "dateString": "2025.11.10"
+    }
+  ],
+  "2025.11.11": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GK104",
+      "title": "SMX",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 20,
+      "commentId": 2832125080,
+      "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
+      "updateTime": "Tue, 11 Nov 2025 08:24:27 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Tue, 11 Nov 2025 08:24:27 GMT",
+      "dateString": "2025.11.11"
+    }
+  ],
+  "2025.11.16": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "G71",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 35,
+      "commentId": 3538677469,
+      "insertTime": "Sun, 16 Nov 2025 12:04:34 GMT",
+      "updateTime": "Sun, 16 Nov 2025 16:14:50 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 16 Nov 2025 12:04:34 GMT",
+      "dateString": "2025.11.16"
+    }
+  ],
+  "2025.11.19": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GV100",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData8",
+      "githubIssueId": 42,
+      "commentId": 2761191833,
+      "insertTime": "Fri, 28 Mar 2025 12:14:46 GMT",
+      "updateTime": "Wed, 19 Nov 2025 17:47:09 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 19 Nov 2025 17:47:09 GMT",
+      "dateString": "2025.11.19"
+    }
+  ],
+  "2026.01.10": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Navi21",
+      "title": "WGP",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 16,
+      "commentId": 2848709549,
+      "insertTime": "Sat, 03 May 2025 16:51:41 GMT",
+      "updateTime": "Sat, 10 Jan 2026 11:07:51 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 10 Jan 2026 11:07:51 GMT",
+      "dateString": "2026.01.10"
     }
   ]
 }
