@@ -186,7 +186,7 @@ public class UiController implements Initializable {
             imageContent.source = textSourceUrl.getText();
             imageContent.createTime = new Date();
 
-            if (imageContent.name.length() == 0) {
+            if (imageContent.name.isEmpty()) {
                 reportError("name cannot be empty");
                 return;
             }
@@ -195,9 +195,9 @@ public class UiController implements Initializable {
                 reportError("githubRepo should be 'username/reponame'");
                 return;
             }
-            String username = imageContent.githubRepo.substring(0, split);
-            String reponame = imageContent.githubRepo.substring(split + 1);
-            String githubPagesRoot = String.format("https://%s.github.io/%s/%s", username, reponame, imageContent.name);
+//            String username = imageContent.githubRepo.substring(0, split);
+//            String reponame = imageContent.githubRepo.substring(split + 1);
+            String githubPagesRoot = String.format("https://chip.rgbuv.xyz/chip/%s", imageContent.name);
 
             int accu = 0;
             for (ImageContent.Level level : imageContent.levels) {

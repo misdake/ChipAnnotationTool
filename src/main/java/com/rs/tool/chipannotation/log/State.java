@@ -49,7 +49,7 @@ public class State {
         Date last = null;
 
         System.out.println("get image list");
-        String json = Http.get("https://misdake.github.io/ChipAnnotationList/list.json");
+        String json = Http.get("https://chip.rgbuv.xyz/list.json");
         if (json == null) return null;
         Gson gson = new Gson();
         ChipList.Chip[] chipList = gson.fromJson(json, ChipList.Chip[].class);
