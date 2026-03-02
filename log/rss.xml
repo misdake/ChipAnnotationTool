@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 26 Feb 2026 08:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 03:48:10 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3336,6 +3336,55 @@
             <pubDate>Thu, 26 Feb 2026 08:37:50 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Thor&amp;commentId=3965006028</link>
             <guid isPermaLink="false">Thor_17_3965006028_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for GM107 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 01 Mar 2026 10:25:18 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM107&amp;commentId=3979700140</link>
+            <guid isPermaLink="false">GM107_11_3979700140_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GB10_SoC_a]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:38:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB10_SoC_a</link>
+            <guid isPermaLink="false">GB10_SoC_a</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GB10_SoC_b]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:41:06 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB10_SoC_b</link>
+            <guid isPermaLink="false">GB10_SoC_b</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GB10_GPU]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:42:04 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB10_GPU</link>
+            <guid isPermaLink="false">GB10_GPU</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PantherLakeH_GPU]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:44:55 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PantherLakeH_GPU</link>
+            <guid isPermaLink="false">PantherLakeH_GPU</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PantherLakeH_IO]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:45:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PantherLakeH_IO</link>
+            <guid isPermaLink="false">PantherLakeH_IO</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: PantherLakeH_CPU]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 02 Mar 2026 03:48:10 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=PantherLakeH_CPU</link>
+            <guid isPermaLink="false">PantherLakeH_CPU</guid>
         </item>
 
     </channel>

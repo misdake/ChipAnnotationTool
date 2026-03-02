@@ -1385,6 +1385,27 @@
       ]
     },
     {
+      "name": "PantherLakeH_CPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 57,
+      "insertTime": "Mon, 02 Mar 2026 03:48:10 GMT",
+      "comments": []
+    },
+    {
+      "name": "PantherLakeH_GPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 55,
+      "insertTime": "Mon, 02 Mar 2026 03:44:55 GMT",
+      "comments": []
+    },
+    {
+      "name": "PantherLakeH_IO",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 56,
+      "insertTime": "Mon, 02 Mar 2026 03:45:54 GMT",
+      "comments": []
+    },
+    {
       "name": "Gracemont_Cluster",
       "githubRepo": "misdake/ChipAnnotationData7",
       "githubIssueId": 5,
@@ -1959,7 +1980,15 @@
       "githubRepo": "misdake/ChipAnnotationData2",
       "githubIssueId": 11,
       "insertTime": "Fri, 08 Nov 2019 07:43:23 GMT",
-      "comments": []
+      "comments": [
+        {
+          "title": "BlockLevel",
+          "username": "IvanBGR",
+          "commentId": 3979700140,
+          "insertTime": "Sun, 01 Mar 2026 10:25:18 GMT",
+          "updateTime": "Sun, 01 Mar 2026 10:25:18 GMT"
+        }
+      ]
     },
     {
       "name": "GM200",
@@ -2290,6 +2319,27 @@
       "comments": []
     },
     {
+      "name": "GB10_GPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 54,
+      "insertTime": "Mon, 02 Mar 2026 03:42:04 GMT",
+      "comments": []
+    },
+    {
+      "name": "GB10_SoC_a",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 52,
+      "insertTime": "Mon, 02 Mar 2026 03:38:58 GMT",
+      "comments": []
+    },
+    {
+      "name": "GB10_SoC_b",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 53,
+      "insertTime": "Mon, 02 Mar 2026 03:41:06 GMT",
+      "comments": []
+    },
+    {
       "name": "Orin",
       "githubRepo": "misdake/ChipAnnotationData10",
       "githubIssueId": 19,
@@ -2427,5 +2477,5 @@
       ]
     }
   ],
-  "time": "Thu, 26 Feb 2026 08:37:50 GMT"
+  "time": "Mon, 02 Mar 2026 03:48:10 GMT"
 }

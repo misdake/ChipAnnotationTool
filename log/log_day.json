@@ -1,20 +1,4 @@
 {
-  "2025.05.01": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi21",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 16,
-      "commentId": 2766109464,
-      "insertTime": "Mon, 31 Mar 2025 12:42:09 GMT",
-      "updateTime": "Thu, 01 May 2025 22:28:07 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Thu, 01 May 2025 22:28:07 GMT",
-      "dateString": "2025.05.01"
-    }
-  ],
   "2025.05.03": [
     {
       "type": "COMMENT_INSERT",
@@ -461,6 +445,22 @@
       "logType": "COMMENT_INSERT",
       "time": "Thu, 26 Feb 2026 08:37:50 GMT",
       "dateString": "2026.02.26"
+    }
+  ],
+  "2026.03.01": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GM107",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 11,
+      "commentId": 3979700140,
+      "insertTime": "Sun, 01 Mar 2026 10:25:18 GMT",
+      "updateTime": "Sun, 01 Mar 2026 10:25:18 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sun, 01 Mar 2026 10:25:18 GMT",
+      "dateString": "2026.03.01"
     }
   ]
 }
