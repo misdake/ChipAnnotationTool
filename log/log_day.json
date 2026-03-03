@@ -1,20 +1,4 @@
 {
-  "2025.05.03": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Navi21",
-      "title": "WGP",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 16,
-      "commentId": 2848709549,
-      "insertTime": "Sat, 03 May 2025 16:51:41 GMT",
-      "updateTime": "Sun, 04 May 2025 09:40:37 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 03 May 2025 16:51:41 GMT",
-      "dateString": "2025.05.03"
-    }
-  ],
   "2025.05.04": [
     {
       "type": "COMMENT_UPDATE",
@@ -461,6 +445,68 @@
       "logType": "COMMENT_INSERT",
       "time": "Sun, 01 Mar 2026 10:25:18 GMT",
       "dateString": "2026.03.01"
+    }
+  ],
+  "2026.03.02": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GB10_SoC_a",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 52,
+      "insertTime": "Mon, 02 Mar 2026 03:38:58 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:38:58 GMT",
+      "dateString": "2026.03.02"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GB10_SoC_b",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 53,
+      "insertTime": "Mon, 02 Mar 2026 03:41:06 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:41:06 GMT",
+      "dateString": "2026.03.02"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GB10_GPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 54,
+      "insertTime": "Mon, 02 Mar 2026 03:42:04 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:42:04 GMT",
+      "dateString": "2026.03.02"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "PantherLakeH_GPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 55,
+      "insertTime": "Mon, 02 Mar 2026 03:44:55 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:44:55 GMT",
+      "dateString": "2026.03.02"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "PantherLakeH_IO",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 56,
+      "insertTime": "Mon, 02 Mar 2026 03:45:54 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:45:54 GMT",
+      "dateString": "2026.03.02"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "PantherLakeH_CPU",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 57,
+      "insertTime": "Mon, 02 Mar 2026 03:48:10 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 02 Mar 2026 03:48:10 GMT",
+      "dateString": "2026.03.02"
     }
   ]
 }
