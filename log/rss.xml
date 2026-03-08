@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Mon, 02 Mar 2026 03:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 14:38:30 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3385,6 +3385,20 @@
             <pubDate>Mon, 02 Mar 2026 03:48:10 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=PantherLakeH_CPU</link>
             <guid isPermaLink="false">PantherLakeH_CPU</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 07 Mar 2026 07:59:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1772870398000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: BlockLevel for GB10_GPU by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 07 Mar 2026 14:38:30 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GB10_GPU&amp;commentId=4016628251</link>
+            <guid isPermaLink="false">GB10_GPU_54_4016628251_INSERT</guid>
         </item>
 
     </channel>

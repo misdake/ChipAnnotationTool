@@ -1,20 +1,4 @@
 {
-  "2025.05.04": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Navi21",
-      "title": "WGP",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData9",
-      "githubIssueId": 16,
-      "commentId": 2848709549,
-      "insertTime": "Sat, 03 May 2025 16:51:41 GMT",
-      "updateTime": "Sun, 04 May 2025 09:40:37 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sun, 04 May 2025 09:40:37 GMT",
-      "dateString": "2025.05.04"
-    }
-  ],
   "2025.05.10": [
     {
       "type": "IMAGE_CREATE",
@@ -507,6 +491,36 @@
       "logType": "IMAGE_CREATE",
       "time": "Mon, 02 Mar 2026 03:48:10 GMT",
       "dateString": "2026.03.02"
+    }
+  ],
+  "2026.03.07": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Sat, 07 Mar 2026 07:59:58 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 07 Mar 2026 07:59:58 GMT",
+      "dateString": "2026.03.07"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GB10_GPU",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 54,
+      "commentId": 4016628251,
+      "insertTime": "Sat, 07 Mar 2026 14:38:30 GMT",
+      "updateTime": "Sat, 07 Mar 2026 14:38:30 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 07 Mar 2026 14:38:30 GMT",
+      "dateString": "2026.03.07"
     }
   ]
 }
