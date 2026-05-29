@@ -1,62 +1,4 @@
 {
-  "2025.05.10": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Kongming",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 1,
-      "insertTime": "Sat, 10 May 2025 14:52:57 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 10 May 2025 14:52:57 GMT",
-      "dateString": "2025.05.10"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "GA107",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 2,
-      "insertTime": "Sat, 10 May 2025 14:54:16 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 10 May 2025 14:54:16 GMT",
-      "dateString": "2025.05.10"
-    }
-  ],
-  "2025.05.17": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Coppermine",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData3",
-      "githubIssueId": 6,
-      "commentId": 2484013295,
-      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
-      "updateTime": "Sat, 17 May 2025 08:07:49 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 17 May 2025 08:07:49 GMT",
-      "dateString": "2025.05.17"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "ArrowLake_HiRes",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 3,
-      "insertTime": "Sat, 17 May 2025 13:07:58 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 17 May 2025 13:07:58 GMT",
-      "dateString": "2025.05.17"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "LunarLake_HiRes",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 4,
-      "insertTime": "Sat, 17 May 2025 13:10:28 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 17 May 2025 13:10:28 GMT",
-      "dateString": "2025.05.17"
-    }
-  ],
   "2025.05.18": [
     {
       "type": "IMAGE_CREATE",
@@ -521,6 +463,112 @@
       "logType": "COMMENT_INSERT",
       "time": "Sat, 07 Mar 2026 14:38:30 GMT",
       "dateString": "2026.03.07"
+    }
+  ],
+  "2026.05.27": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "AD107",
+      "title": "TPC",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData10",
+      "githubIssueId": 15,
+      "commentId": 3508283375,
+      "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
+      "updateTime": "Wed, 27 May 2026 16:10:24 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Wed, 27 May 2026 16:10:24 GMT",
+      "dateString": "2026.05.27"
+    }
+  ],
+  "2026.05.28": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "insertTime": "Thu, 28 May 2026 02:45:20 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 02:45:20 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100_CoWoS",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 59,
+      "insertTime": "Thu, 28 May 2026 02:47:10 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 02:47:10 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100_HBM2e",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 60,
+      "insertTime": "Thu, 28 May 2026 02:49:07 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 02:49:07 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100_HBM2e_Base",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 61,
+      "insertTime": "Thu, 28 May 2026 02:50:12 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 02:50:12 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100_Package",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 62,
+      "insertTime": "Thu, 28 May 2026 03:03:17 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 03:03:17 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA100_HBM2e_Base2",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 63,
+      "insertTime": "Thu, 28 May 2026 03:04:23 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Thu, 28 May 2026 03:04:23 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "GPC/TPC",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4561122853,
+      "insertTime": "Thu, 28 May 2026 05:38:11 GMT",
+      "updateTime": "Thu, 28 May 2026 05:38:11 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 28 May 2026 05:38:11 GMT",
+      "dateString": "2026.05.28"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "Overview",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4561274391,
+      "insertTime": "Thu, 28 May 2026 06:10:52 GMT",
+      "updateTime": "Thu, 28 May 2026 06:12:21 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Thu, 28 May 2026 06:10:52 GMT",
+      "dateString": "2026.05.28"
     }
   ]
 }

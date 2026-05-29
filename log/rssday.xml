@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sat, 07 Mar 2026 14:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 06:12:21 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2025.05.10]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kongming'>Kongming</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA107'>GA107</a><br>]]></description>
-            <pubDate>Sat, 10 May 2025 14:54:16 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.05.10</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2025.05.17]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295'>BlockLevel for Coppermine by IvanBGR</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=ArrowLake_HiRes'>ArrowLake_HiRes</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=LunarLake_HiRes'>LunarLake_HiRes</a><br>]]></description>
-            <pubDate>Sat, 17 May 2025 13:10:28 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.05.17</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2025.05.18]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD103'>AD103</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GB203'>GB203</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Sat, 07 Mar 2026 14:38:30 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2026.03.07</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.05.27]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD107&amp;commentId=3508283375'>TPC for AD107 by IvanBGR</a><br>]]></description>
+            <pubDate>Wed, 27 May 2026 16:10:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.05.27</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.05.28]]></title>
+            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100'>GA100</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100_CoWoS'>GA100_CoWoS</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100_HBM2e'>GA100_HBM2e</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100_HBM2e_Base'>GA100_HBM2e_Base</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100_Package'>GA100_Package</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100_HBM2e_Base2'>GA100_HBM2e_Base2</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561122853'>GPC/TPC for GA100 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561274391'>Overview for GA100 by misdake</a><br>]]></description>
+            <pubDate>Thu, 28 May 2026 06:10:52 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.05.28</guid>
         </item>
 
     </channel>
