@@ -6014,5 +6014,33 @@
     "logType": "COMMENT_UPDATE",
     "time": "Thu, 28 May 2026 06:12:21 GMT",
     "dateString": "2026.05.28"
+  },
+  {
+    "type": "COMMENT_INSERT",
+    "imageName": "GA100",
+    "title": "TopLevel",
+    "username": "IvanBGR",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 58,
+    "commentId": 4579971370,
+    "insertTime": "Fri, 29 May 2026 21:20:01 GMT",
+    "updateTime": "Fri, 29 May 2026 21:36:19 GMT",
+    "logType": "COMMENT_INSERT",
+    "time": "Fri, 29 May 2026 21:20:01 GMT",
+    "dateString": "2026.05.29"
+  },
+  {
+    "type": "COMMENT_UPDATE",
+    "imageName": "GA100",
+    "title": "TopLevel",
+    "username": "IvanBGR",
+    "githubRepo": "misdake/ChipAnnotationData",
+    "githubIssueId": 58,
+    "commentId": 4579971370,
+    "insertTime": "Fri, 29 May 2026 21:20:01 GMT",
+    "updateTime": "Fri, 29 May 2026 21:36:19 GMT",
+    "logType": "COMMENT_UPDATE",
+    "time": "Fri, 29 May 2026 21:36:19 GMT",
+    "dateString": "2026.05.29"
   }
 ]

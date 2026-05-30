@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 28 May 2026 06:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 21:36:19 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3469,6 +3469,20 @@
             <pubDate>Thu, 28 May 2026 06:12:21 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561274391</link>
             <guid isPermaLink="false">GA100_58_4561274391_UPDATE_1779948741000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TopLevel for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 May 2026 21:20:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4579971370</link>
+            <guid isPermaLink="false">GA100_58_4579971370_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TopLevel for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 29 May 2026 21:36:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4579971370</link>
+            <guid isPermaLink="false">GA100_58_4579971370_UPDATE_1780090579000</guid>
         </item>
 
     </channel>
