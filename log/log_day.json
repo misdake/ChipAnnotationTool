@@ -1,42 +1,4 @@
 {
-  "2025.05.24": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "DG2-128",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 7,
-      "insertTime": "Sat, 24 May 2025 00:55:08 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 24 May 2025 00:55:08 GMT",
-      "dateString": "2025.05.24"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "DG1",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 8,
-      "insertTime": "Sat, 24 May 2025 00:56:32 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 24 May 2025 00:56:32 GMT",
-      "dateString": "2025.05.24"
-    }
-  ],
-  "2025.05.31": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "GV100",
-      "title": "BlockLevel",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 42,
-      "commentId": 2761191833,
-      "insertTime": "Fri, 28 Mar 2025 12:14:46 GMT",
-      "updateTime": "Sat, 31 May 2025 15:57:54 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 31 May 2025 15:57:54 GMT",
-      "dateString": "2025.05.31"
-    }
-  ],
   "2025.07.12": [
     {
       "type": "IMAGE_CREATE",
@@ -563,6 +525,94 @@
       "logType": "COMMENT_INSERT",
       "time": "Fri, 29 May 2026 21:20:01 GMT",
       "dateString": "2026.05.29"
+    }
+  ],
+  "2026.05.30": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "GPC",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4582469574,
+      "insertTime": "Sat, 30 May 2026 09:54:00 GMT",
+      "updateTime": "Sat, 30 May 2026 09:54:00 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 30 May 2026 09:54:00 GMT",
+      "dateString": "2026.05.30"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "TPC",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4582509162,
+      "insertTime": "Sat, 30 May 2026 10:13:07 GMT",
+      "updateTime": "Sat, 30 May 2026 10:16:50 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 30 May 2026 10:13:07 GMT",
+      "dateString": "2026.05.30"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "TPC Shared Block",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4582549801,
+      "insertTime": "Sat, 30 May 2026 10:34:26 GMT",
+      "updateTime": "Sat, 30 May 2026 10:34:26 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 30 May 2026 10:34:26 GMT",
+      "dateString": "2026.05.30"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GA100",
+      "title": "RBE",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4582586699,
+      "insertTime": "Sat, 30 May 2026 10:53:37 GMT",
+      "updateTime": "Sat, 30 May 2026 10:53:37 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 30 May 2026 10:53:37 GMT",
+      "dateString": "2026.05.30"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GA100",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4579971370,
+      "insertTime": "Fri, 29 May 2026 21:20:01 GMT",
+      "updateTime": "Sat, 30 May 2026 13:36:32 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 30 May 2026 13:36:32 GMT",
+      "dateString": "2026.05.30"
+    }
+  ],
+  "2026.05.31": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GA100",
+      "title": "Overview",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 58,
+      "commentId": 4561274391,
+      "insertTime": "Thu, 28 May 2026 06:10:52 GMT",
+      "updateTime": "Sun, 31 May 2026 07:15:41 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sun, 31 May 2026 07:15:41 GMT",
+      "dateString": "2026.05.31"
     }
   ]
 }

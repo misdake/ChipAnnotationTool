@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 29 May 2026 21:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 07:15:41 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2025.05.24]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=DG2-128'>DG2-128</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=DG1'>DG1</a><br>]]></description>
-            <pubDate>Sat, 24 May 2025 00:56:32 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.05.24</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2025.05.31]]></title>
-            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GV100&amp;commentId=2761191833'>BlockLevel for GV100 by IvanBGR</a><br>]]></description>
-            <pubDate>Sat, 31 May 2025 15:57:54 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.05.31</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2025.07.12]]></title>
             <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kabini'>Kabini</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tonga'>Tonga</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Kabini&amp;commentId=3065383978'>UVD VCE  for Kabini by misdake</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=453737453'>Top level for Fiji by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Tonga&amp;commentId=3065834592'>Compare with Fiji for Tonga by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Fiji&amp;commentId=3065834685'>Compare with Tonga for Fiji by misdake</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Fri, 29 May 2026 21:20:01 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2026.05.29</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.05.30]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582469574'>GPC for GA100 by IvanBGR</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582509162'>TPC for GA100 by IvanBGR</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582549801'>TPC Shared Block for GA100 by misdake</a><br>New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582586699'>RBE for GA100 by IvanBGR</a><br>Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4579971370'>TopLevel for GA100 by IvanBGR</a><br>]]></description>
+            <pubDate>Sat, 30 May 2026 13:36:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.05.30</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.05.31]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561274391'>Overview for GA100 by misdake</a><br>]]></description>
+            <pubDate>Sun, 31 May 2026 07:15:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.05.31</guid>
         </item>
 
     </channel>

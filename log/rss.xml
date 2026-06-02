@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Fri, 29 May 2026 21:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 07:15:41 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3483,6 +3483,55 @@
             <pubDate>Fri, 29 May 2026 21:36:19 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4579971370</link>
             <guid isPermaLink="false">GA100_58_4579971370_UPDATE_1780090579000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: GPC for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 09:54:00 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582469574</link>
+            <guid isPermaLink="false">GA100_58_4582469574_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TPC for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 10:13:07 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582509162</link>
+            <guid isPermaLink="false">GA100_58_4582509162_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TPC for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 10:16:50 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582509162</link>
+            <guid isPermaLink="false">GA100_58_4582509162_UPDATE_1780136210000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: TPC Shared Block for GA100 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 10:34:26 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582549801</link>
+            <guid isPermaLink="false">GA100_58_4582549801_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: RBE for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 10:53:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4582586699</link>
+            <guid isPermaLink="false">GA100_58_4582586699_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: TopLevel for GA100 by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 30 May 2026 13:36:32 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4579971370</link>
+            <guid isPermaLink="false">GA100_58_4579971370_UPDATE_1780148192000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Overview for GA100 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 31 May 2026 07:15:41 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561274391</link>
+            <guid isPermaLink="false">GA100_58_4561274391_UPDATE_1780211741000</guid>
         </item>
 
     </channel>
