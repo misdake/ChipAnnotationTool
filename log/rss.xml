@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Sun, 31 May 2026 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 07:23:01 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3532,6 +3532,13 @@
             <pubDate>Sun, 31 May 2026 07:15:41 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA100&amp;commentId=4561274391</link>
             <guid isPermaLink="false">GA100_58_4561274391_UPDATE_1780211741000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: BlockLevel for Coppermine by IvanBGR]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 04 Jun 2026 07:23:01 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
+            <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1780557781000</guid>
         </item>
 
     </channel>

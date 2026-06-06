@@ -575,10 +575,24 @@
       "comments": []
     },
     {
+      "name": "A8_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 19,
+      "insertTime": "Fri, 28 Jan 2022 15:31:57 GMT",
+      "comments": []
+    },
+    {
       "name": "A8X",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 16,
       "insertTime": "Tue, 07 Nov 2023 15:09:56 GMT",
+      "comments": []
+    },
+    {
+      "name": "A8X_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData6",
+      "githubIssueId": 20,
+      "insertTime": "Fri, 28 Jan 2022 15:34:05 GMT",
       "comments": []
     },
     {
@@ -1380,7 +1394,7 @@
           "username": "IvanBGR",
           "commentId": 2484013295,
           "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
-          "updateTime": "Sat, 07 Mar 2026 07:59:58 GMT"
+          "updateTime": "Thu, 04 Jun 2026 07:23:01 GMT"
         }
       ]
     },
@@ -2577,5 +2591,5 @@
       ]
     }
   ],
-  "time": "Sun, 31 May 2026 07:15:41 GMT"
+  "time": "Thu, 04 Jun 2026 07:23:01 GMT"
 }

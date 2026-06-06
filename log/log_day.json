@@ -1,82 +1,4 @@
 {
-  "2025.07.12": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Kabini",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 9,
-      "insertTime": "Sat, 12 Jul 2025 10:50:51 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 12 Jul 2025 10:50:51 GMT",
-      "dateString": "2025.07.12"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Tonga",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 10,
-      "insertTime": "Sat, 12 Jul 2025 10:52:56 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sat, 12 Jul 2025 10:52:56 GMT",
-      "dateString": "2025.07.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Kabini",
-      "title": "UVD VCE ",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 9,
-      "commentId": 3065383978,
-      "insertTime": "Sat, 12 Jul 2025 13:18:32 GMT",
-      "updateTime": "Sat, 12 Jul 2025 13:19:36 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jul 2025 13:18:32 GMT",
-      "dateString": "2025.07.12"
-    },
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "Fiji",
-      "title": "Top level",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 453737453,
-      "insertTime": "Sat, 12 Jan 2019 10:42:33 GMT",
-      "updateTime": "Sat, 12 Jul 2025 14:29:09 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Sat, 12 Jul 2025 14:29:09 GMT",
-      "dateString": "2025.07.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Tonga",
-      "title": "Compare with Fiji",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 10,
-      "commentId": 3065834592,
-      "insertTime": "Sat, 12 Jul 2025 16:28:33 GMT",
-      "updateTime": "Sat, 12 Jul 2025 16:28:33 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jul 2025 16:28:33 GMT",
-      "dateString": "2025.07.12"
-    },
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "Fiji",
-      "title": "Compare with Tonga",
-      "username": "misdake",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 1,
-      "commentId": 3065834685,
-      "insertTime": "Sat, 12 Jul 2025 16:28:37 GMT",
-      "updateTime": "Sat, 12 Jul 2025 16:28:37 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sat, 12 Jul 2025 16:28:37 GMT",
-      "dateString": "2025.07.12"
-    }
-  ],
   "2025.07.13": [
     {
       "type": "IMAGE_CREATE",
@@ -613,6 +535,22 @@
       "logType": "COMMENT_UPDATE",
       "time": "Sun, 31 May 2026 07:15:41 GMT",
       "dateString": "2026.05.31"
+    }
+  ],
+  "2026.06.04": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Coppermine",
+      "title": "BlockLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData3",
+      "githubIssueId": 6,
+      "commentId": 2484013295,
+      "insertTime": "Mon, 18 Nov 2024 20:07:57 GMT",
+      "updateTime": "Thu, 04 Jun 2026 07:23:01 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Thu, 04 Jun 2026 07:23:01 GMT",
+      "dateString": "2026.06.04"
     }
   ]
 }
