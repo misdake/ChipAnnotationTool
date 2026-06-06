@@ -13,6 +13,9 @@ public class ImageContent {
     public String githubRepo;
     public int githubIssueId;
     public String source;
+    public String imageAuthorName;
+    public String imageAuthorUrl;
+    public String specUrl;
     public Date createTime;
 
     public int width;

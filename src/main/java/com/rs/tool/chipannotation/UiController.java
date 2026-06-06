@@ -10,17 +10,15 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.control.TextField;
+import javafx.scene.control.TextInputDialog;
 import javafx.scene.paint.Paint;
 import javafx.stage.FileChooser;
 
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.nio.file.StandardOpenOption;
 import java.util.Date;
 import java.util.ResourceBundle;
 import java.util.concurrent.ExecutorService;
@@ -44,6 +42,9 @@ public class UiController implements Initializable {
     public TextField textSourceUrl;
     public TextField textGithubRepo;
     public TextField textGithubIssueId;
+    public TextField textImageAuthorName;
+    public TextField textImageAuthorUrl;
+    public TextField textSpecUrl;
     public TextField textPhysicalWidth;
     public TextField textPhysicalHeight;
 
@@ -88,8 +89,8 @@ public class UiController implements Initializable {
 
     public void onOpenImageEvent(ActionEvent actionEvent) {
         String imageFolder = AppConfig.instance().getImageFolder();
-        File imageFolderFile = new File(imageFolder);
-        if (!imageFolderFile.exists()) {
+        File imageFolderFile = imageFolder == null ? null : new File(imageFolder);
+        if (imageFolderFile == null || !imageFolderFile.exists()) {
             imageFolder = null;
         }
         FileChooser fileChooser = new FileChooser();
@@ -119,6 +120,9 @@ public class UiController implements Initializable {
             setProgress(0, 1);
             textSourceUrl.setText("");
             textGithubIssueId.setText("");
+            textImageAuthorName.setText("");
+            textImageAuthorUrl.setText("");
+            textSpecUrl.setText("");
             textPhysicalWidth.setText("");
             textPhysicalHeight.setText("");
         }
@@ -184,6 +188,9 @@ public class UiController implements Initializable {
             imageContent.githubRepo = textGithubRepo.getText();
             imageContent.githubIssueId = issueId[0];
             imageContent.source = textSourceUrl.getText();
+            imageContent.imageAuthorName = textImageAuthorName.getText().trim();
+            imageContent.imageAuthorUrl = textImageAuthorUrl.getText().trim();
+            imageContent.specUrl = textSpecUrl.getText().trim();
             imageContent.createTime = new Date();
 
             if (imageContent.name.isEmpty()) {
@@ -253,6 +260,48 @@ public class UiController implements Initializable {
 
             reportInfo("all done");
         });
+    }
+
+    public void onCalculateDieSizeEvent(ActionEvent actionEvent) {
+        if (this.imageFile == null) {
+            reportError("Image File is not selected");
+            return;
+        }
+
+        ImageContent imageContent = Cut.readImage(this.imageFile);
+        if (imageContent == null || imageContent.width <= 0 || imageContent.height <= 0) {
+            reportError("cannot read image file");
+            return;
+        }
+
+        TextInputDialog dialog = new TextInputDialog();
+        dialog.setTitle("Calculate Physical Size");
+        dialog.setHeaderText("Image size: " + imageContent.width + " x " + imageContent.height + " px");
+        dialog.setContentText("Die size (mm^2):");
+        dialog.showAndWait().ifPresent(value -> {
+            double dieSize;
+            try {
+                dieSize = Double.parseDouble(value.trim());
+            } catch (NumberFormatException e) {
+                reportError("please enter correct die size");
+                return;
+            }
+            if (dieSize <= 0) {
+                reportError("die size should be greater than 0");
+                return;
+            }
+
+            double ratio = 1.0 * imageContent.width / imageContent.height;
+            double width = Math.sqrt(dieSize * ratio);
+            double height = Math.sqrt(dieSize / ratio);
+            textPhysicalWidth.setText(formatDimension(width));
+            textPhysicalHeight.setText(formatDimension(height));
+            reportInfo("physical size calculated");
+        });
+    }
+
+    private static String formatDimension(double value) {
+        return Double.toString(Math.round(value * 10000.0) / 10000.0);
     }
 
     private static final ExecutorService es = Executors.newCachedThreadPool();
