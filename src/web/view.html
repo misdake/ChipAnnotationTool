@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chip Editor</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>Chip Editor</h1>
+        <p id="summary">正在读取数据...</p>
+      </div>
+      <div class="header-actions">
+        <button id="reload-button" class="secondary">从磁盘重新读取</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="filters">
+        <label>
+          搜索
+          <input id="search-filter" type="search" placeholder="名称、厂商、family、仓库...">
+        </label>
+        <label>
+          仓库
+          <select id="repo-filter"><option value="">全部仓库</option></select>
+        </label>
+        <label>
+          状态
+          <select id="status-filter">
+            <option value="">全部状态</option>
+            <option value="issues">有问题</option>
+            <option value="ok">一致</option>
+            <option value="missing">缺少一侧</option>
+            <option value="mismatch">字段不一致</option>
+          </select>
+        </label>
+        <label>
+          Die Size
+          <select id="die-size-filter">
+            <option value="">全部</option>
+            <option value="filled">已填写</option>
+            <option value="missing">未填写</option>
+          </select>
+        </label>
+        <label>
+          资料信息
+          <select id="metadata-filter">
+            <option value="">全部</option>
+            <option value="filled">已完整填写</option>
+            <option value="missing">未完整填写</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>状态</th>
+              <th>仓库 / 目录</th>
+              <th>list 名称</th>
+              <th>content 名称</th>
+              <th>Vendor</th>
+              <th>Type</th>
+              <th>Family</th>
+              <th>Die Size</th>
+              <th>资料信息</th>
+            </tr>
+          </thead>
+          <tbody id="chip-rows"></tbody>
+        </table>
+        <div id="empty-state" class="empty hidden">没有符合筛选条件的芯片。</div>
+      </section>
+    </main>
+
+    <dialog id="editor">
+      <form id="editor-form">
+        <div class="dialog-header">
+          <div>
+            <h2 id="editor-title">编辑芯片</h2>
+            <p id="editor-subtitle"></p>
+          </div>
+        </div>
+
+        <div class="editor-columns">
+          <section class="editor-section">
+            <div class="section-title">
+              <h3>list.json 项目</h3>
+              <span id="list-existence"></span>
+            </div>
+            <div id="list-fields" class="field-grid"></div>
+          </section>
+
+          <div class="identity-actions" aria-label="同步身份字段">
+            <button type="button" id="copy-content-to-list" class="secondary identity-arrow" title="使用 content 的身份字段覆盖 list" aria-label="使用 content 的身份字段覆盖 list">←</button>
+            <span>身份字段</span>
+            <button type="button" id="copy-list-to-content" class="secondary identity-arrow" title="使用 list 的身份字段覆盖 content" aria-label="使用 list 的身份字段覆盖 content">→</button>
+          </div>
+
+          <section class="editor-section">
+            <div class="section-title">
+              <h3>content.json</h3>
+              <span id="content-existence"></span>
+            </div>
+            <div id="content-fields" class="field-grid"></div>
+          </section>
+        </div>
+
+        <div id="editor-issues" class="editor-issues"></div>
+        <div class="dialog-footer">
+          <span id="save-message"></span>
+          <button type="button" id="calculate-die-size" class="secondary hidden">按 Die Size 计算</button>
+          <button type="button" class="secondary" data-close>取消</button>
+          <button type="submit" id="save-button">保存 list 和 content</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="close-confirm" class="confirm-dialog">
+      <div class="confirm-content">
+        <h2>有未保存的修改</h2>
+        <p>芯片信息已经修改。关闭前要保存这些修改吗？</p>
+        <div class="confirm-actions">
+          <button type="button" id="confirm-keep-editing" class="secondary">继续编辑</button>
+          <button type="button" id="confirm-discard" class="danger-button">放弃修改</button>
+          <button type="button" id="confirm-save">保存并关闭</button>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog id="die-size-dialog" class="confirm-dialog">
+      <form id="die-size-form" class="confirm-content">
+        <h2>按 Die Size 计算尺寸</h2>
+        <p id="die-size-ratio"></p>
+        <label class="die-size-input">
+          Die Size（mm²）
+          <input id="die-size-value" type="number" min="0.000001" step="any" required>
+        </label>
+        <p id="die-size-preview" class="die-size-preview"></p>
+        <div class="confirm-actions">
+          <button type="button" id="die-size-cancel" class="secondary">取消</button>
+          <button type="submit">应用计算结果</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

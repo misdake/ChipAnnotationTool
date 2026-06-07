@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Add Chip</title>
+    <link rel="stylesheet" href="/tool.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>Add Chip</h1>
+          <p>Upload a chip image, edit metadata, and generate tiles plus content.json/list.json.</p>
+        </div>
+        <div id="mode-badge" class="mode-badge debug">DEBUG WRITE</div>
+      </header>
+
+      <section class="panel">
+        <h2>Input</h2>
+        <div class="grid one">
+          <label>
+            Image file
+            <input id="image-file" type="file" accept="image/*">
+          </label>
+        </div>
+        <div class="row-actions">
+          <button id="upload-button" type="button">Upload Image</button>
+          <button id="cleanup-temp-button" class="secondary-button" type="button">Clean Temp Files</button>
+          <span id="image-summary" class="muted"></span>
+        </div>
+        <div class="progress-line">
+          <progress id="upload-progress" max="1" value="0"></progress>
+          <span id="upload-status">No image uploaded</span>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Chip Metadata</h2>
+        <div class="grid three">
+          <label>Vendor <input id="vendor" type="text"></label>
+          <label>Type <input id="type" type="text"></label>
+          <label>Family <input id="family" type="text"></label>
+          <label>Name <input id="name" type="text"><span id="name-warning" class="field-warning hidden"></span></label>
+          <label>List Name <input id="listname" type="text"></label>
+          <label>GitHub Repo <input id="githubRepo" type="text" value="misdake/ChipAnnotationData"></label>
+          <label>GitHub Issue ID <input id="githubIssueId" type="number" step="1" value="0"></label>
+        </div>
+        <div class="grid one">
+          <label>Source URL <input id="source" type="url"></label>
+          <label>
+            Image Author Name
+            <input id="imageAuthorName" type="text" list="author-options">
+            <datalist id="author-options"></datalist>
+          </label>
+          <label>Image Author URL <input id="imageAuthorUrl" type="url"></label>
+          <label>Spec URL <input id="specUrl" type="url"></label>
+        </div>
+        <div class="grid physical">
+          <label>Width (mm) <input id="widthMillimeter" type="number" step="any" value="0"></label>
+          <label>Height (mm) <input id="heightMillimeter" type="number" step="any" value="0"></label>
+          <label>Die size (mm2) <input id="die-size" type="number" step="any" min="0"></label>
+          <button id="calculate-die-size" type="button">Calculate</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Write Mode</h2>
+        <div class="write-mode">
+          <label class="radio-card debug">
+            <input type="radio" name="writeMode" value="debug" checked>
+            <span>Debug</span>
+            <small>Write only under .tmp/output/{jobId}; target repositories remain unchanged.</small>
+          </label>
+          <label class="radio-card release">
+            <input type="radio" name="writeMode" value="release">
+            <span>Release</span>
+            <small>Write tiles/content into ../ChipAnnotationDataCdn and rebuild Tool2/list.json.</small>
+          </label>
+        </div>
+        <label id="release-confirm-row" class="confirm-row hidden">
+          <input id="release-confirm" type="checkbox">
+          I understand release mode writes tiles/content to ../ChipAnnotationDataCdn and rebuilds Tool2/list.json.
+        </label>
+      </section>
+
+      <section class="panel">
+        <h2>Run</h2>
+        <div class="row-actions">
+          <button id="start-button" type="button">Start Cutting</button>
+          <button id="stop-button" class="danger-button" type="button" disabled>Stop</button>
+          <span id="run-status" class="muted">Waiting</span>
+        </div>
+        <div class="progress-line">
+          <progress id="run-progress" max="1" value="0"></progress>
+          <span id="run-progress-text">0%</span>
+        </div>
+        <pre id="result" class="result"></pre>
+      </section>
+    </main>
+    <script src="/add.js" type="module"></script>
+  </body>
+</html>
