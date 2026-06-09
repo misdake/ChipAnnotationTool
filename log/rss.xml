@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 04 Jun 2026 07:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 17:47:46 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3539,6 +3539,76 @@
             <pubDate>Thu, 04 Jun 2026 07:23:01 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=Coppermine&amp;commentId=2484013295</link>
             <guid isPermaLink="false">Coppermine_6_2484013295_UPDATE_1780557781000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zeppelin by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 05:37:58 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zeppelin&amp;commentId=2257503792</link>
+            <guid isPermaLink="false">Zeppelin_5_2257503792_UPDATE_1780724278000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Core Arch for Zen5_HiRes by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 06:01:24 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes&amp;commentId=4637608217</link>
+            <guid isPermaLink="false">Zen5_HiRes_1_4637608217_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen2_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 07:37:34 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen2_CCD&amp;commentId=2254352175</link>
+            <guid isPermaLink="false">Zen2_CCD_2_2254352175_UPDATE_1780731454000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen5_HiRes by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 07:37:35 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen5_HiRes&amp;commentId=4637608217</link>
+            <guid isPermaLink="false">Zen5_HiRes_1_4637608217_UPDATE_1780731455000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen3_CCD by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 07:37:39 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen3_CCD&amp;commentId=2254352230</link>
+            <guid isPermaLink="false">Zen3_CCD_1_2254352230_UPDATE_1780731459000</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update Comment: Core Arch for Zen4_Core by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 07:37:44 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Zen4_Core&amp;commentId=2254362633</link>
+            <guid isPermaLink="false">Zen4_Core_10_2254362633_UPDATE_1780731464000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: M1]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 06 Jun 2026 17:03:02 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=M1</link>
+            <guid isPermaLink="false">M1</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: DG2-512]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 08 Jun 2026 17:36:38 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=DG2-512</link>
+            <guid isPermaLink="false">DG2-512</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GA102_HiRes]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 08 Jun 2026 17:42:37 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA102_HiRes</link>
+            <guid isPermaLink="false">GA102_HiRes</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: EmeraldRapids]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 08 Jun 2026 17:47:46 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=EmeraldRapids</link>
+            <guid isPermaLink="false">EmeraldRapids</guid>
         </item>
 
     </channel>

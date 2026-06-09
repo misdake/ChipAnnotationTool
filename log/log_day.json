@@ -1,38 +1,4 @@
 {
-  "2025.07.13": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "XboxSeriesX_2",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 11,
-      "insertTime": "Sun, 13 Jul 2025 14:58:38 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 13 Jul 2025 14:58:38 GMT",
-      "dateString": "2025.07.13"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "XboxSeriesS",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 12,
-      "insertTime": "Sun, 13 Jul 2025 14:59:47 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Sun, 13 Jul 2025 14:59:47 GMT",
-      "dateString": "2025.07.13"
-    }
-  ],
-  "2025.07.23": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Turin_IOD",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 13,
-      "insertTime": "Wed, 23 Jul 2025 14:35:26 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Wed, 23 Jul 2025 14:35:26 GMT",
-      "dateString": "2025.07.23"
-    }
-  ],
   "2025.08.20": [
     {
       "type": "IMAGE_CREATE",
@@ -551,6 +517,120 @@
       "logType": "COMMENT_UPDATE",
       "time": "Thu, 04 Jun 2026 07:23:01 GMT",
       "dateString": "2026.06.04"
+    }
+  ],
+  "2026.06.06": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zeppelin",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 5,
+      "commentId": 2257503792,
+      "insertTime": "Tue, 30 Jul 2024 05:36:58 GMT",
+      "updateTime": "Sat, 06 Jun 2026 05:37:58 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 06 Jun 2026 05:37:58 GMT",
+      "dateString": "2026.06.06"
+    },
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "Zen5_HiRes",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData9",
+      "githubIssueId": 1,
+      "commentId": 4637608217,
+      "insertTime": "Sat, 06 Jun 2026 06:01:24 GMT",
+      "updateTime": "Sat, 06 Jun 2026 07:37:35 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Sat, 06 Jun 2026 06:01:24 GMT",
+      "dateString": "2026.06.06"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zen2_CCD",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData2",
+      "githubIssueId": 2,
+      "commentId": 2254352175,
+      "insertTime": "Sun, 28 Jul 2024 05:44:54 GMT",
+      "updateTime": "Sat, 06 Jun 2026 07:37:34 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 06 Jun 2026 07:37:34 GMT",
+      "dateString": "2026.06.06"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zen3_CCD",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData5",
+      "githubIssueId": 1,
+      "commentId": 2254352230,
+      "insertTime": "Sun, 28 Jul 2024 05:45:14 GMT",
+      "updateTime": "Sat, 06 Jun 2026 07:37:39 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 06 Jun 2026 07:37:39 GMT",
+      "dateString": "2026.06.06"
+    },
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "Zen4_Core",
+      "title": "Core Arch",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData7",
+      "githubIssueId": 10,
+      "commentId": 2254362633,
+      "insertTime": "Sun, 28 Jul 2024 06:33:09 GMT",
+      "updateTime": "Sat, 06 Jun 2026 07:37:44 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Sat, 06 Jun 2026 07:37:44 GMT",
+      "dateString": "2026.06.06"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "M1",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 64,
+      "insertTime": "Sat, 06 Jun 2026 17:03:02 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 06 Jun 2026 17:03:02 GMT",
+      "dateString": "2026.06.06"
+    }
+  ],
+  "2026.06.08": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "DG2-512",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 65,
+      "insertTime": "Mon, 08 Jun 2026 17:36:38 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 08 Jun 2026 17:36:38 GMT",
+      "dateString": "2026.06.08"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA102_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 66,
+      "insertTime": "Mon, 08 Jun 2026 17:42:37 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 08 Jun 2026 17:42:37 GMT",
+      "dateString": "2026.06.08"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "EmeraldRapids",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 67,
+      "insertTime": "Mon, 08 Jun 2026 17:47:46 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Mon, 08 Jun 2026 17:47:46 GMT",
+      "dateString": "2026.06.08"
     }
   ]
 }
