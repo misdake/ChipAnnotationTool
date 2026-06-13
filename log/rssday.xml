@@ -9,23 +9,9 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Wed, 10 Jun 2026 12:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 18:25:45 GMT</lastBuildDate>
         <ttl>60</ttl>
 
-        <item>
-            <title><![CDATA[Update for 2025.09.09]]></title>
-            <description><![CDATA[New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Thor'>Thor</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=NVSwitch'>NVSwitch</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Orin'>Orin</a><br>New Image: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=Mendocino'>Mendocino</a><br>]]></description>
-            <pubDate>Tue, 09 Sep 2025 13:28:10 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.09.09</guid>
-        </item>
-        <item>
-            <title><![CDATA[Update for 2025.11.09]]></title>
-            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD107&amp;commentId=3508283375'>TPC for AD107 by IvanBGR</a><br>]]></description>
-            <pubDate>Sun, 09 Nov 2025 13:02:57 GMT</pubDate>
-            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
-            <guid isPermaLink="false">log_2025.11.09</guid>
-        </item>
         <item>
             <title><![CDATA[Update for 2025.11.10]]></title>
             <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=AD107&amp;commentId=3508283375'>TPC for AD107 by IvanBGR</a><br>]]></description>
@@ -151,6 +137,20 @@
             <pubDate>Tue, 09 Jun 2026 14:59:49 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/</link>
             <guid isPermaLink="false">log_2026.06.09</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.06.10]]></title>
+            <description><![CDATA[New Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GH100&amp;commentId=4669962062'>TopLevel for GH100 by IvanBGR</a><br>]]></description>
+            <pubDate>Wed, 10 Jun 2026 12:03:51 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.06.10</guid>
+        </item>
+        <item>
+            <title><![CDATA[Update for 2026.06.11]]></title>
+            <description><![CDATA[Update Comment: <a href='https://misdake.github.io/ChipAnnotationViewer/?map=GH100&amp;commentId=4669962062'>TopLevel for GH100 by IvanBGR</a><br>]]></description>
+            <pubDate>Thu, 11 Jun 2026 18:25:45 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/</link>
+            <guid isPermaLink="false">log_2026.06.11</guid>
         </item>
 
     </channel>

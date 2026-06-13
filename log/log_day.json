@@ -1,62 +1,4 @@
 {
-  "2025.09.09": [
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Thor",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 17,
-      "insertTime": "Tue, 09 Sep 2025 13:18:17 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 09 Sep 2025 13:18:17 GMT",
-      "dateString": "2025.09.09"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "NVSwitch",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 18,
-      "insertTime": "Tue, 09 Sep 2025 13:20:05 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 09 Sep 2025 13:20:05 GMT",
-      "dateString": "2025.09.09"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Orin",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 19,
-      "insertTime": "Tue, 09 Sep 2025 13:21:36 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 09 Sep 2025 13:21:36 GMT",
-      "dateString": "2025.09.09"
-    },
-    {
-      "type": "IMAGE_CREATE",
-      "name": "Mendocino",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 20,
-      "insertTime": "Tue, 09 Sep 2025 13:28:10 GMT",
-      "logType": "IMAGE_CREATE",
-      "time": "Tue, 09 Sep 2025 13:28:10 GMT",
-      "dateString": "2025.09.09"
-    }
-  ],
-  "2025.11.09": [
-    {
-      "type": "COMMENT_INSERT",
-      "imageName": "AD107",
-      "title": "TPC",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 15,
-      "commentId": 3508283375,
-      "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
-      "updateTime": "Mon, 10 Nov 2025 16:39:42 GMT",
-      "logType": "COMMENT_INSERT",
-      "time": "Sun, 09 Nov 2025 13:02:57 GMT",
-      "dateString": "2025.11.09"
-    }
-  ],
   "2025.11.10": [
     {
       "type": "COMMENT_UPDATE",
@@ -611,6 +553,38 @@
       "logType": "IMAGE_CREATE",
       "time": "Tue, 09 Jun 2026 14:59:49 GMT",
       "dateString": "2026.06.09"
+    }
+  ],
+  "2026.06.10": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GH100",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 68,
+      "commentId": 4669962062,
+      "insertTime": "Wed, 10 Jun 2026 12:03:51 GMT",
+      "updateTime": "Wed, 10 Jun 2026 12:50:18 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Wed, 10 Jun 2026 12:03:51 GMT",
+      "dateString": "2026.06.10"
+    }
+  ],
+  "2026.06.11": [
+    {
+      "type": "COMMENT_UPDATE",
+      "imageName": "GH100",
+      "title": "TopLevel",
+      "username": "IvanBGR",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 68,
+      "commentId": 4669962062,
+      "insertTime": "Wed, 10 Jun 2026 12:03:51 GMT",
+      "updateTime": "Thu, 11 Jun 2026 18:25:45 GMT",
+      "logType": "COMMENT_UPDATE",
+      "time": "Thu, 11 Jun 2026 18:25:45 GMT",
+      "dateString": "2026.06.11"
     }
   ]
 }
