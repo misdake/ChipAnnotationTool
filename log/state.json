@@ -961,6 +961,13 @@
       ]
     },
     {
+      "name": "Navi10_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 72,
+      "insertTime": "Sat, 20 Jun 2026 00:16:35 GMT",
+      "comments": []
+    },
+    {
       "name": "Navi12",
       "githubRepo": "misdake/ChipAnnotationData8",
       "githubIssueId": 34,
@@ -1193,9 +1200,9 @@
     },
     {
       "name": "Broadwell_2+2",
-      "githubRepo": "misdake/ChipAnnotationData8",
-      "githubIssueId": 3,
-      "insertTime": "Mon, 06 Nov 2023 12:29:50 GMT",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 70,
+      "insertTime": "Sat, 20 Jun 2026 00:13:39 GMT",
       "comments": []
     },
     {
@@ -1899,6 +1906,13 @@
       "comments": []
     },
     {
+      "name": "GA104",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 69,
+      "insertTime": "Sat, 20 Jun 2026 00:08:54 GMT",
+      "comments": []
+    },
+    {
       "name": "GA106",
       "githubRepo": "misdake/ChipAnnotationData4",
       "githubIssueId": 5,
@@ -2167,6 +2181,21 @@
       "githubRepo": "misdake/ChipAnnotationData",
       "githubIssueId": 41,
       "insertTime": "Sun, 07 Jul 2019 10:08:51 GMT",
+      "comments": [
+        {
+          "title": "Overview",
+          "username": "misdake",
+          "commentId": 4715708257,
+          "insertTime": "Tue, 16 Jun 2026 06:41:19 GMT",
+          "updateTime": "Tue, 16 Jun 2026 06:41:19 GMT"
+        }
+      ]
+    },
+    {
+      "name": "GM206",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 71,
+      "insertTime": "Sat, 20 Jun 2026 00:14:54 GMT",
       "comments": []
     },
     {
@@ -2642,5 +2671,5 @@
       ]
     }
   ],
-  "time": "Thu, 11 Jun 2026 18:25:45 GMT"
+  "time": "Sat, 20 Jun 2026 00:16:35 GMT"
 }

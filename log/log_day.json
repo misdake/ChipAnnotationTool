@@ -1,20 +1,4 @@
 {
-  "2025.11.10": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "AD107",
-      "title": "TPC",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData10",
-      "githubIssueId": 15,
-      "commentId": 3508283375,
-      "insertTime": "Sun, 09 Nov 2025 13:02:57 GMT",
-      "updateTime": "Mon, 10 Nov 2025 16:39:42 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Mon, 10 Nov 2025 16:39:42 GMT",
-      "dateString": "2025.11.10"
-    }
-  ],
   "2025.11.11": [
     {
       "type": "COMMENT_UPDATE",
@@ -585,6 +569,22 @@
       "logType": "COMMENT_UPDATE",
       "time": "Thu, 11 Jun 2026 18:25:45 GMT",
       "dateString": "2026.06.11"
+    }
+  ],
+  "2026.06.16": [
+    {
+      "type": "COMMENT_INSERT",
+      "imageName": "GM204",
+      "title": "Overview",
+      "username": "misdake",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 41,
+      "commentId": 4715708257,
+      "insertTime": "Tue, 16 Jun 2026 06:41:19 GMT",
+      "updateTime": "Tue, 16 Jun 2026 06:41:19 GMT",
+      "logType": "COMMENT_INSERT",
+      "time": "Tue, 16 Jun 2026 06:41:19 GMT",
+      "dateString": "2026.06.16"
     }
   ]
 }

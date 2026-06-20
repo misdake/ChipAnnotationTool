@@ -9,7 +9,7 @@
         <generator>ChipAnnotationTool</generator>
         <webMaster>misdake@gmail.com (misdake)</webMaster>
 
-        <lastBuildDate>Thu, 11 Jun 2026 18:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 00:16:35 GMT</lastBuildDate>
         <ttl>60</ttl>
 
         <item>
@@ -3637,6 +3637,34 @@
             <pubDate>Thu, 11 Jun 2026 18:25:45 GMT</pubDate>
             <link>https://misdake.github.io/ChipAnnotationViewer/?map=GH100&amp;commentId=4669962062</link>
             <guid isPermaLink="false">GH100_68_4669962062_UPDATE_1781202345000</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Comment: Overview for GM204 by misdake]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 16 Jun 2026 06:41:19 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM204&amp;commentId=4715708257</link>
+            <guid isPermaLink="false">GM204_41_4715708257_INSERT</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GA104]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 20 Jun 2026 00:08:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GA104</link>
+            <guid isPermaLink="false">GA104</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: GM206]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 20 Jun 2026 00:14:54 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=GM206</link>
+            <guid isPermaLink="false">GM206</guid>
+        </item>
+        <item>
+            <title><![CDATA[New Image: Navi10_HiRes]]></title>
+            <description><![CDATA[]]></description>
+            <pubDate>Sat, 20 Jun 2026 00:16:35 GMT</pubDate>
+            <link>https://misdake.github.io/ChipAnnotationViewer/?map=Navi10_HiRes</link>
+            <guid isPermaLink="false">Navi10_HiRes</guid>
         </item>
 
     </channel>
