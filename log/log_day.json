@@ -1,20 +1,4 @@
 {
-  "2025.11.11": [
-    {
-      "type": "COMMENT_UPDATE",
-      "imageName": "GK104",
-      "title": "SMX",
-      "username": "IvanBGR",
-      "githubRepo": "misdake/ChipAnnotationData",
-      "githubIssueId": 20,
-      "commentId": 2832125080,
-      "insertTime": "Sat, 26 Apr 2025 12:39:25 GMT",
-      "updateTime": "Tue, 11 Nov 2025 08:24:27 GMT",
-      "logType": "COMMENT_UPDATE",
-      "time": "Tue, 11 Nov 2025 08:24:27 GMT",
-      "dateString": "2025.11.11"
-    }
-  ],
   "2025.11.16": [
     {
       "type": "COMMENT_INSERT",
@@ -585,6 +569,38 @@
       "logType": "COMMENT_INSERT",
       "time": "Tue, 16 Jun 2026 06:41:19 GMT",
       "dateString": "2026.06.16"
+    }
+  ],
+  "2026.06.20": [
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GA104",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 69,
+      "insertTime": "Sat, 20 Jun 2026 00:08:54 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 20 Jun 2026 00:08:54 GMT",
+      "dateString": "2026.06.20"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "GM206",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 71,
+      "insertTime": "Sat, 20 Jun 2026 00:14:54 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 20 Jun 2026 00:14:54 GMT",
+      "dateString": "2026.06.20"
+    },
+    {
+      "type": "IMAGE_CREATE",
+      "name": "Navi10_HiRes",
+      "githubRepo": "misdake/ChipAnnotationData",
+      "githubIssueId": 72,
+      "insertTime": "Sat, 20 Jun 2026 00:16:35 GMT",
+      "logType": "IMAGE_CREATE",
+      "time": "Sat, 20 Jun 2026 00:16:35 GMT",
+      "dateString": "2026.06.20"
     }
   ]
 }
